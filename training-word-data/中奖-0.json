@@ -1,0 +1,35 @@
+{
+    "simplified": "中奖",
+    "traditional": "中獎",
+    "pinyin": "zhòng jiǎng",
+    "definitions": [
+        {
+            "partsOfSpeech": "Verb",
+            "meaning": "to win a prize (in a lottery etc)",
+            "sentences": [
+                {
+                    "simplifiedText": "我中奖了！",
+                    "traditionalText": "我中獎了！",
+                    "pinyin": "Wǒ zhòngjiǎngle!",
+                    "translation": "I won a prize!",
+                    "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/f3bae4b30605384be268b70217b232ac.mp3",
+                    "voiceName": "zh-CN-YunfengNeural",
+                    "tags": [
+                        "EASY_TO_USE"
+                    ]
+                },
+                {
+                    "simplifiedText": "我不能相信，我真的买了一张彩票并中奖了！",
+                    "traditionalText": "我不能相信，我真的買了一張彩票並中獎了！",
+                    "pinyin": "Wǒ bùnéng xiāngxìn, wǒ zhēnde mǎile yīzhāng cǎipiào bìng zhòngjiǎngle!",
+                    "translation": "I can't believe it, I actually bought a lottery ticket and won a prize!",
+                    "audioPath": "zh-CN-XiaomengNeural",
+                    "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/4016e6c45dccfea5339cd49c7aed9227.mp3",
+                    "tags": [
+                        "INVOLVED"
+                    ]
+                }
+            ]
+        }
+    ]
+}

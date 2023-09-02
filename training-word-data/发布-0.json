@@ -1,0 +1,63 @@
+{
+    "simplified": "发布",
+    "traditional": "發佈",
+    "pinyin": "fā bù",
+    "definitions": [
+        {
+            "partsOfSpeech": "verb",
+            "meaning": "to release",
+            "sentences": [
+                {
+                    "simplifiedText": "他们发布了新的产品。",
+                    "traditionalText": "他們發布了新的產品。",
+                    "pinyin": "Tāmen fābùle xīn de chǎnpǐn.",
+                    "translation": "They released a new product.",
+                    "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b65fc0d737d5d07b34a6fbbdb1cd0800.mp3",
+                    "voiceName": "zh-CN-YunxiNeural",
+                    "tags": [
+                        "EASY_TO_USE"
+                    ]
+                },
+                {
+                    "simplifiedText": "根据公司的声明，他们明天将在全球范围内发布全新的软件。",
+                    "traditionalText": "根據公司的聲明，他們明天將在全球範圍內發布全新的軟件。",
+                    "pinyin": "Gēnjù gōngsī de shēngmíng, tāmen míngtiān jiāng zài quánqiú fànwéi nèi fābù quánxīn de ruǎnjiàn.",
+                    "translation": "According to the company's statement, they will release the brand new software worldwide tomorrow.",
+                    "audioPath": "zh-CN-YunyeNeural",
+                    "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/1c03fe7e5d05bd8a4ef19f344c0d3ae7.mp3",
+                    "tags": [
+                        "INVOLVED"
+                    ]
+                }
+            ]
+        },
+        {
+            "partsOfSpeech": "Verb",
+            "meaning": "to announce",
+            "sentences": [
+                {
+                    "simplifiedText": "教育部宣布校园恢复开放。",
+                    "traditionalText": "教育部宣布校園恢復開放。",
+                    "pinyin": "Jiàoyùbù xuānbù xiàoyuán huīfù kāifàng.",
+                    "translation": "The Ministry of Education announces the reopening of campuses.",
+                    "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/77c2b564ba91a0a5ebaf4ee836d36b3b.mp3",
+                    "voiceName": "zh-CN-XiaozhenNeural",
+                    "tags": [
+                        "EASY_TO_USE"
+                    ]
+                },
+                {
+                    "simplifiedText": "由于疫情得到了控制，教育部宣布全国所有学校将从下周开始恢复开放。",
+                    "traditionalText": "由於疫情得到了控制，教育部宣布全國所有學校將從下周開始恢復開放。",
+                    "pinyin": "Yóuyú yìqíng dédàole kòngzhì, jiàoyùbù xuānbù quánguó suǒyǒu xuéxiào jiāng cóng xià zhōu kāishǐ huīfù kāifàng.",
+                    "translation": "With the epidemic under control, the Ministry of Education has announced that all schools across the country will resume opening from next week.",
+                    "audioPath": "zh-CN-XiaochenNeural",
+                    "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/02b04fb32ce963d9c0b3d22207e98394.mp3",
+                    "tags": [
+                        "INVOLVED"
+                    ]
+                }
+            ]
+        }
+    ]
+}

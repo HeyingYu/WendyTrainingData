@@ -1,0 +1,119 @@
+{
+    "simplified": "打击",
+    "traditional": "打擊",
+    "pinyin": "dǎ jī",
+    "definitions": [
+        {
+            "partsOfSpeech": "动词",
+            "meaning": "to hit",
+            "sentences": [
+                {
+                    "simplifiedText": "丹尼尔打击了那只足球。",
+                    "traditionalText": "丹尼爾打擊了那只足球。",
+                    "pinyin": "Dānní'ěr dǎjīle nà zhǐ zúqiú.",
+                    "translation": "Daniel hit the soccer ball.",
+                    "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/f9b53f73ffef73ea35ce9fdfaad4830c.mp3",
+                    "voiceName": "zh-CN-XiaoyanNeural",
+                    "tags": [
+                        "EASY_TO_USE"
+                    ]
+                },
+                {
+                    "simplifiedText": "在篮球比赛中，丹尼尔的打击能力使他的队伍领先。",
+                    "traditionalText": "在籃球比賽中，丹尼爾的打擊能力使他的隊伍領先。",
+                    "pinyin": "Zài lánqiú bǐsài zhōng, Dānní'ěr de dǎjī nénglì shǐ tā de duìwǔ lǐngxiān.",
+                    "translation": "In the basketball game, Daniel's ability to hit made his team take the lead.",
+                    "audioPath": "zh-CN-YunyangNeural",
+                    "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a62c840860523358d26d47a2a55f45cf.mp3",
+                    "tags": [
+                        "INVOLVED"
+                    ]
+                }
+            ]
+        },
+        {
+            "partsOfSpeech": "verb",
+            "meaning": "to attack",
+            "sentences": [
+                {
+                    "simplifiedText": "我们必须打击敌人。",
+                    "traditionalText": "我們必須打擊敵人。",
+                    "pinyin": "Wǒmen bìxū dǎjí dírén.",
+                    "translation": "We must attack the enemy.",
+                    "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/4751d1d421717f9a1103df583e456aa6.mp3",
+                    "voiceName": "zh-CN-YunyeNeural",
+                    "tags": [
+                        "EASY_TO_USE"
+                    ]
+                },
+                {
+                    "simplifiedText": "为了保护国家的安全，我们必须打击敌人的所有可能的威胁。",
+                    "traditionalText": "為了保護國家的安全，我們必須打擊敵人的所有可能的威脅。",
+                    "pinyin": "Wèile bǎohù guójiā de ānquán, wǒmen bìxū dǎjí dírén de suǒyǒu kěnéng de wēixié.",
+                    "translation": "In order to protect the safety of the country, we must attack all possible threats from the enemy.",
+                    "audioPath": "zh-CN-YunyangNeural",
+                    "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9bbeaf53c64097fb4381cceb1313c413.mp3",
+                    "tags": [
+                        "INVOLVED"
+                    ]
+                }
+            ]
+        },
+        {
+            "partsOfSpeech": "noun, verb",
+            "meaning": "blow",
+            "sentences": [
+                {
+                    "simplifiedText": "他的话给我很大的打击。",
+                    "traditionalText": "他的話給我很大的打擊。",
+                    "pinyin": "tā de huà gěi wǒ hěn dà de dǎjī.",
+                    "translation": "His words gave me a big blow.",
+                    "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e3ed426ba0e29bbdb82a4af08f149aef.mp3",
+                    "voiceName": "zh-CN-YunfengNeural",
+                    "tags": [
+                        "EASY_TO_USE"
+                    ]
+                },
+                {
+                    "simplifiedText": "这个项目失败了，对我们团队是一次重大的打击。",
+                    "traditionalText": "這個項目失敗了，對我們團隊是一次重大的打擊。",
+                    "pinyin": "zhè gè xiàng mù shī bài le, duì wǒ men tuán duì shì yī cì zhòng dà de dǎ jī.",
+                    "translation": "The failure of this project is a major blow to our team.",
+                    "audioPath": "zh-CN-XiaoxiaoNeural",
+                    "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/c799515668eb0af18bc1509847ae6095.mp3",
+                    "tags": [
+                        "INVOLVED"
+                    ]
+                }
+            ]
+        },
+        {
+            "partsOfSpeech": "noun",
+            "meaning": "percussion (music)",
+            "sentences": [
+                {
+                    "simplifiedText": "我喜欢打击乐器.",
+                    "traditionalText": "我喜歡打擊樂器.",
+                    "pinyin": "wǒ xǐ huān dǎ jī yuè qì.",
+                    "translation": "I like percussion instruments.",
+                    "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/18aba44e37ad80f9bb173b42db7052ea.mp3",
+                    "voiceName": "zh-CN-XiaochenNeural",
+                    "tags": [
+                        "EASY_TO_USE"
+                    ]
+                },
+                {
+                    "simplifiedText": "全套打击乐器可以创造出混合的音频文件，给音乐增加无比的丰富性.",
+                    "traditionalText": "全套打擊樂器可以創造出混合的音頻文件，給音樂增加無比的豐富性.",
+                    "pinyin": "quán tào dǎ jī yuè qì kě yǐ chuàng zào chū hùn hé de yīn pián wén jiàn, gěi yīn yuè zēng jiā wú bǐ de fēng fù xìng.",
+                    "translation": "A full set of percussion instruments can create mixed audio files, adding unparalleled richness to the music.",
+                    "audioPath": "zh-CN-XiaomoNeural",
+                    "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e64e67ed5db43ad46e7d237e7fe45a4b.mp3",
+                    "tags": [
+                        "INVOLVED"
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "simplified": "临时",
+    "traditional": "臨時",
+    "pinyin": "lín shí",
+    "definitions": [
+        {
+            "partsOfSpeech": "adverb",
+            "meaning": "as the time draws near",
+            "sentences": [
+                {
+                    "simplifiedText": "比赛临时，他感到紧张。",
+                    "traditionalText": "比賽臨時，他感到緊張。",
+                    "pinyin": "Bǐsài línshí, tā gǎndào jǐnzhāng.",
+                    "translation": "As the match is imminent, he feels nervous.",
+                    "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/be3023917264d97b40c7ca308fe9ee00.mp3",
+                    "voiceName": "zh-CN-YunyangNeural",
+                    "tags": [
+                        "EASY_TO_USE"
+                    ]
+                },
+                {
+                    "simplifiedText": "由于项目临时变动，公司需要重新计划策略。",
+                    "traditionalText": "由於項目臨時變動，公司需要重新規劃策略。",
+                    "pinyin": "Yóuyú xiàngmù línshí biàndòng, gōngsī xūyào chóngxīn guìhuà cèlüè.",
+                    "translation": "Due to the temporary change in the project, the company needs to replan strategies.",
+                    "audioPath": "zh-CN-XiaohanNeural",
+                    "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e359ada44f0c3687b4a37081c78bf4e8.mp3",
+                    "tags": [
+                        "INVOLVED"
+                    ]
+                }
+            ]
+        },
+        {
+            "partsOfSpeech": "adjective",
+            "meaning": "temporary",
+            "sentences": [
+                {
+                    "simplifiedText": "这是一个临时的解决方案。",
+                    "traditionalText": "這是一個臨時的解決方案。",
+                    "pinyin": "Zhè shì yīgè línshí de jiějué fāng'àn.",
+                    "translation": "This is a temporary solution.",
+                    "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/187e161bd9ea45519870d3f4b417a3e0.mp3",
+                    "voiceName": "zh-CN-YunfengNeural",
+                    "tags": [
+                        "EASY_TO_USE"
+                    ]
+                },
+                {
+                    "simplifiedText": "因为主管正在外地出差，所以他是临时代理主管的职务。",
+                    "traditionalText": "因為主管正在外地出差，所以他是臨時代理主管的職務。",
+                    "pinyin": "Yīnwèi zhǔguǎn zhèngzài wàidì chūchāi, suǒyǐ tā shì línshí dàilǐ zhǔguǎn de zhíwù.",
+                    "translation": "Because the manager is on a business trip out of town, he is temporarily acting as the manager.",
+                    "audioPath": "zh-CN-YunfengNeural",
+                    "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a7d9532c31943fd417cabfa40b86bd22.mp3",
+                    "tags": [
+                        "INVOLVED"
+                    ]
+                }
+            ]
+        },
+        {
+            "partsOfSpeech": "adjective",
+            "meaning": "ad hoc",
+            "sentences": [
+                {
+                    "simplifiedText": "这是一个临时决定。",
+                    "traditionalText": "這是一個臨時決定。",
+                    "pinyin": "Zhè shì yīgè línshí juédìng.",
+                    "translation": "This is a temporary decision.",
+                    "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d97695639713c7fdd42debca7c5135e8.mp3",
+                    "voiceName": "zh-CN-YunyangNeural",
+                    "tags": [
+                        "EASY_TO_USE"
+                    ]
+                },
+                {
+                    "simplifiedText": "由于突发事件，我们必须做出临时的调整。",
+                    "traditionalText": "由於突發事件，我們必須做出臨時的調整。",
+                    "pinyin": "Yóuyú tūfā shìjiàn, wǒmen bìxū zuò chū línshí de tiáozhěng.",
+                    "translation": "Due to an emergency, we have to make temporary adjustments.",
+                    "audioPath": "zh-CN-YunfengNeural",
+                    "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/98a2405050ebfcb18e8d581525e4403b.mp3",
+                    "tags": [
+                        "INVOLVED"
+                    ]
+                }
+            ]
+        }
+    ]
+}

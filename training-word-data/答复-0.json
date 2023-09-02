@@ -1,0 +1,63 @@
+{
+    "simplified": "答复",
+    "traditional": "答覆",
+    "pinyin": "dá fù",
+    "definitions": [
+        {
+            "partsOfSpeech": "verb",
+            "meaning": "to answer",
+            "sentences": [
+                {
+                    "simplifiedText": "请答复我的问题。",
+                    "traditionalText": "請答覆我的問題。",
+                    "pinyin": "qǐng dá fù wǒ de wèn tí.",
+                    "translation": "Please answer my question.",
+                    "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a8993d4e5e63a119c8aeaa0c5d036dc4.mp3",
+                    "voiceName": "zh-CN-YunyeNeural",
+                    "tags": [
+                        "EASY_TO_USE"
+                    ]
+                },
+                {
+                    "simplifiedText": "在会议结束后，我期待您能尽快答复我吧。",
+                    "traditionalText": "在會議結束後，我期待您能盡快答覆我吧。",
+                    "pinyin": "zài huì yì jié shù hòu, wǒ qī dài nín néng jǐn kuài dá fù wǒ ba.",
+                    "translation": "After the meeting is over, I hope you can respond to me as soon as possible.",
+                    "audioPath": "zh-CN-XiaomengNeural",
+                    "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/024aa0e3a85fbe10e7ef087684b29913.mp3",
+                    "tags": [
+                        "INVOLVED"
+                    ]
+                }
+            ]
+        },
+        {
+            "partsOfSpeech": "noun",
+            "meaning": "Reply to: (in email header)",
+            "sentences": [
+                {
+                    "simplifiedText": "请答复这个邮件。",
+                    "traditionalText": "請答覆這個郵件。",
+                    "pinyin": "qing3 da1 fu4 zhe4 ge ge1 you2 jian4.",
+                    "translation": "Please reply to this email.",
+                    "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e0c76e6099465dc62e0664b89f33f661.mp3",
+                    "voiceName": "zh-CN-YunhaoNeural",
+                    "tags": [
+                        "EASY_TO_USE"
+                    ]
+                },
+                {
+                    "simplifiedText": "他没有回答她的问题，只是简单地回复说会考虑。",
+                    "traditionalText": "他沒有回答她的問題，只是簡單地回覆說會考慮。",
+                    "pinyin": "ta1 mei2you3 hui2da1 ta1 de5 wen4ti2, zhi3shi4 jian3dan1 de5 hui2 fu4 shuo1 hui4 kao3lu:4.",
+                    "translation": "He didn't answer her question, he simply replied that he would consider it.",
+                    "audioPath": "zh-CN-XiaohanNeural",
+                    "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/655ce3500cd43acf3ed638d5aa349168.mp3",
+                    "tags": [
+                        "INVOLVED"
+                    ]
+                }
+            ]
+        }
+    ]
+}

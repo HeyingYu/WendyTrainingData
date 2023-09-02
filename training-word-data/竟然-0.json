@@ -1,0 +1,91 @@
+{
+    "simplified": "竟然",
+    "traditional": "竟然",
+    "pinyin": "jìng rán",
+    "definitions": [
+        {
+            "partsOfSpeech": "Adverb",
+            "meaning": "unexpectedly",
+            "sentences": [
+                {
+                    "simplifiedText": "我竟然中了彩票。",
+                    "traditionalText": "我竟然中了彩票。",
+                    "pinyin": "Wǒ jìngrán zhòngle cǎipiào.",
+                    "translation": "I actually won the lottery.",
+                    "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/ed5423653acd5ec8ce5dc1ad1bd7db07.mp3",
+                    "voiceName": "zh-CN-XiaomengNeural",
+                    "tags": [
+                        "EASY_TO_USE"
+                    ]
+                },
+                {
+                    "simplifiedText": "我去年投入了大量的时间和精力在学习上，但没想到，我竟然没能通过考试。",
+                    "traditionalText": "我去年投入了大量的時間和精力在學習上，但沒想到，我竟然沒能通過考試。",
+                    "pinyin": "Wǒ qùnián tóurùle dàliàng de shíjiān hé jīnglì zài xuéxí shàng, dàn méi xiǎngdào, wǒ jìngrán méi néng tōngguò kǎoshì.",
+                    "translation": "Last year, I spent a lot of time and effort on studying, but to my surprise, I failed the exam.",
+                    "audioPath": "zh-CN-YunjianNeural",
+                    "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/fff3301d2ca6a56a2ccff15c8487b8aa.mp3",
+                    "tags": [
+                        "INVOLVED"
+                    ]
+                }
+            ]
+        },
+        {
+            "partsOfSpeech": "adverb",
+            "meaning": "in spite of everything",
+            "sentences": [
+                {
+                    "simplifiedText": "他竟然没来。",
+                    "traditionalText": "他竟然沒來。",
+                    "pinyin": "Tā jìngrán méi lái.",
+                    "translation": "He didn't come, in spite of everything.",
+                    "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0bee172866740256eea6a9be9cacaf4b.mp3",
+                    "voiceName": "zh-CN-YunjianNeural",
+                    "tags": [
+                        "EASY_TO_USE"
+                    ]
+                },
+                {
+                    "simplifiedText": "虽然他答应了我们，但他竟然在最关键的时刻没有出现。",
+                    "traditionalText": "雖然他答應了我們，但他竟然在最關鍵的時刻沒有出現。",
+                    "pinyin": "Suīrán tā dāyìngle wǒmen, dàn tā jìngrán zài zuì guānjiàn de shíkè méiyǒu chūxiàn.",
+                    "translation": "Even though he promised us, but he did not appear at the most crucial moment, in spite of everything.",
+                    "audioPath": "zh-CN-YunfengNeural",
+                    "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/4a5f2289eae01bbf8884888a71cecf8e.mp3",
+                    "tags": [
+                        "INVOLVED"
+                    ]
+                }
+            ]
+        },
+        {
+            "partsOfSpeech": "adverb",
+            "meaning": "actually",
+            "sentences": [
+                {
+                    "simplifiedText": "你竟然没告诉我。",
+                    "traditionalText": "你竟然沒告訴我。",
+                    "pinyin": "nǐ jìngrán méi gàosu wǒ.",
+                    "translation": "You actually didn't tell me.",
+                    "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/4d3555b4a74c817b58d9e4d57472ca87.mp3",
+                    "voiceName": "zh-CN-YunjianNeural",
+                    "tags": [
+                        "EASY_TO_USE"
+                    ]
+                },
+                {
+                    "simplifiedText": "考试前一天，他竟然还去看电影了。",
+                    "traditionalText": "考試前一天，他竟然還去看電影了。",
+                    "pinyin": "kǎoshì qián yītiān, tā jìngrán hái qù kàn diànyǐng le.",
+                    "translation": "The day before the exam, he actually went to watch a movie.",
+                    "audioPath": "zh-CN-YunyangNeural",
+                    "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/1e0f5c2dbb1b14153037b25abf9e8ff5.mp3",
+                    "tags": [
+                        "INVOLVED"
+                    ]
+                }
+            ]
+        }
+    ]
+}

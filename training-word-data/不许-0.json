@@ -1,0 +1,63 @@
+{
+    "simplified": "不许",
+    "traditional": "不許",
+    "pinyin": "bù xǔ",
+    "definitions": [
+        {
+            "partsOfSpeech": "Verb",
+            "meaning": "not to allow",
+            "sentences": [
+                {
+                    "simplifiedText": "父母不许我晚上出去玩。",
+                    "traditionalText": "父母不准我晚上出去玩。",
+                    "pinyin": "Fùmǔ bùxǔ wǒ wǎnshàng chūqù wán.",
+                    "translation": "My parents did not allow me to go out to play at night.",
+                    "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/361661e481509cfffbd3454f9ab4cd31.mp3",
+                    "voiceName": "zh-CN-XiaomoNeural",
+                    "tags": [
+                        "EASY_TO_USE"
+                    ]
+                },
+                {
+                    "simplifiedText": "由於工作過於緊張，醫生不许她近期內再工作。",
+                    "traditionalText": "由于工作过于紧张，医生不许她近期内再工作。",
+                    "pinyin": "Yóuyú gōngzuò guòyú jǐnzhāng, yīshēng bùxǔ tā jìnqī nèi zài gōngzuò.",
+                    "translation": "Because her work was too strenuous, the doctor did not allow her to work again in the near term.",
+                    "audioPath": "zh-CN-YunyeNeural",
+                    "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/4ab889b84f158c69ad1b7102419f6f93.mp3",
+                    "tags": [
+                        "INVOLVED"
+                    ]
+                }
+            ]
+        },
+        {
+            "partsOfSpeech": "Verb",
+            "meaning": "can't",
+            "sentences": [
+                {
+                    "simplifiedText": "我不许你走。",
+                    "traditionalText": "我不許你走。",
+                    "pinyin": "Wǒ bùxǔ nǐ zǒu.",
+                    "translation": "I won't allow you to go.",
+                    "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/1c3b2fd7f9703490fea7c819ba4aaaf3.mp3",
+                    "voiceName": "zh-CN-XiaoruiNeural",
+                    "tags": [
+                        "EASY_TO_USE"
+                    ]
+                },
+                {
+                    "simplifiedText": "如果你不能按时完成你的工作，我不许你去参加那个派对。",
+                    "traditionalText": "如果你不能按時完成你的工作，我不許你去參加那個派對。",
+                    "pinyin": "Rúguǒ nǐ bùnéng ànshí wánchéng nǐ de gōngzuò, wǒ bùxǔ nǐ qù cānjiā nàgè pàiduì.",
+                    "translation": "If you can't finish your work on time, I won't allow you to go to that party.",
+                    "audioPath": "zh-CN-XiaochenNeural",
+                    "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a2e519b416621bae0229e5eee49a9220.mp3",
+                    "tags": [
+                        "INVOLVED"
+                    ]
+                }
+            ]
+        }
+    ]
+}

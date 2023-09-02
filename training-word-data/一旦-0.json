@@ -1,0 +1,91 @@
+{
+    "simplified": "一旦",
+    "traditional": "一旦",
+    "pinyin": "yī dàn",
+    "definitions": [
+        {
+            "partsOfSpeech": "conjunction",
+            "meaning": "in case (sth happens)",
+            "sentences": [
+                {
+                    "simplifiedText": "一旦有问题，请告诉我。",
+                    "traditionalText": "一旦有問題，請告訴我。",
+                    "pinyin": "yīdàn yǒu wèntí, qǐng gàosu wǒ.",
+                    "translation": "Once there is a problem, please tell me.",
+                    "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/787d9c704d3f0c81f44d3b10967ed76b.mp3",
+                    "voiceName": "zh-CN-XiaomoNeural",
+                    "tags": [
+                        "EASY_TO_USE"
+                    ]
+                },
+                {
+                    "simplifiedText": "我们必须安排计划，以防万一，一旦出现意外的情况，我们能够应对。",
+                    "traditionalText": "我們必須安排計劃，以防萬一，一旦出現意外的情況，我們能夠應對。",
+                    "pinyin": "wǒmen bìxū ānpái jìhuà, yǐfáng wànyī, yīdàn chūxiàn yìwài de qíngkuàng, wǒmen nénggòu yìngduì.",
+                    "translation": "We must plan ahead, in case, if there happens to be a sudden situation, we would be able to cope with it.",
+                    "audioPath": "zh-CN-YunfengNeural",
+                    "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/282e8b4bb135e4857203df5811f1d832.mp3",
+                    "tags": [
+                        "INVOLVED"
+                    ]
+                }
+            ]
+        },
+        {
+            "partsOfSpeech": "adverb",
+            "meaning": "once (sth happens, then...)",
+            "sentences": [
+                {
+                    "simplifiedText": "一旦他走，她就哭了。",
+                    "traditionalText": "一旦他走，她就哭了。",
+                    "pinyin": "Yīdàn tā zǒu, tā jiù kū le.",
+                    "translation": "Once he left, she cried.",
+                    "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/050984087da08212171a87b8933c75c8.mp3",
+                    "voiceName": "zh-CN-XiaohanNeural",
+                    "tags": [
+                        "EASY_TO_USE"
+                    ]
+                },
+                {
+                    "simplifiedText": "一旦你明白了这个道理，你的人生就会有所改变。",
+                    "traditionalText": "一旦你明白了這個道理，你的人生就會有所改變。",
+                    "pinyin": "Yīdàn nǐ míngbái le zhège dàolǐ, nǐ de rénshēng jiù huì yǒusuǒ gǎibiàn.",
+                    "translation": "Once you understand this principle, your life will change.",
+                    "audioPath": "zh-CN-YunjianNeural",
+                    "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/8500b13ce06a7c7f4624f2540303396d.mp3",
+                    "tags": [
+                        "INVOLVED"
+                    ]
+                }
+            ]
+        },
+        {
+            "partsOfSpeech": "adverb",
+            "meaning": "in a short time",
+            "sentences": [
+                {
+                    "simplifiedText": "他一旦决定了，就不会改变。",
+                    "traditionalText": "他一旦決定了，就不會改變。",
+                    "pinyin": "Tā yīdàn juédìngle, jiù bù huì gǎibiàn.",
+                    "translation": "Once he has made a decision, he won't change it.",
+                    "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/08504f3c9fe0bfa51ce225d428a98357.mp3",
+                    "voiceName": "zh-CN-XiaochenNeural",
+                    "tags": [
+                        "EASY_TO_USE"
+                    ]
+                },
+                {
+                    "simplifiedText": "他一旦决定了，就会用各种方法来实现他的目标。",
+                    "traditionalText": "他一旦決定了，就會用各種方法來實現他的目標。",
+                    "pinyin": "Tā yīdàn juédìngle, jiù huì yòng gè zhǒng fāngfǎ lái shíxiàn tā de mùbiāo.",
+                    "translation": "Once he has made a decision, he will use various methods to achieve his goal.",
+                    "audioPath": "zh-CN-XiaomengNeural",
+                    "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/663dad260dfce160171bea762640ace7.mp3",
+                    "tags": [
+                        "INVOLVED"
+                    ]
+                }
+            ]
+        }
+    ]
+}

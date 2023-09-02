@@ -1,0 +1,35 @@
+{
+    "simplified": "下楼",
+    "traditional": "下樓",
+    "pinyin": "xià lóu",
+    "definitions": [
+        {
+            "partsOfSpeech": "verb",
+            "meaning": "to go downstairs",
+            "sentences": [
+                {
+                    "simplifiedText": "我要下楼去超市。",
+                    "traditionalText": "我要下樓去超市。",
+                    "pinyin": "wǒ yào xià lóu qù chāo shì.",
+                    "translation": "I need to go downstairs to the supermarket.",
+                    "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b8071e6056310788dbaa7399f80eaa86.mp3",
+                    "voiceName": "zh-CN-XiaozhenNeural",
+                    "tags": [
+                        "EASY_TO_USE"
+                    ]
+                },
+                {
+                    "simplifiedText": "由于电梯坏了，我不得不走楼梯下楼去买东西。",
+                    "traditionalText": "由於電梯壞了，我不得不走樓梯下樓去買東西。",
+                    "pinyin": "yóu yú diàn tī huài le, wǒ bù dé bù zǒu lóu tī xià lóu qù mǎi dōng xi.",
+                    "translation": "Because the elevator was broken, I had no choice but to take the stairs to go downstairs to buy stuff.",
+                    "audioPath": "zh-CN-XiaoruiNeural",
+                    "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/8f9946dc018d1aaf9a1d08f88ab520ad.mp3",
+                    "tags": [
+                        "INVOLVED"
+                    ]
+                }
+            ]
+        }
+    ]
+}
