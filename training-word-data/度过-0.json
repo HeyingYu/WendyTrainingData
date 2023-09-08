@@ -1,1 +1,63 @@
-{"simplified":"度过","traditional":"度過","pinyin":"dù guò","definitions":[{"partsOfSpeech":"Verb","meaning":"to pass","sentences":[{"simplifiedText":"我想度过一个美好的假期。","traditionalText":"我想度過一個美好的假期。","pinyin":"Wǒ xiǎng dùguò yīgè měihǎo de jiàqī.","translation":"I want to spend a wonderful vacation.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/4b3ed99656f47c893d6ac31ff77de40e.mp3","voiceName":"zh-CN-XiaoyanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"虽然困难重重，我们还是成功度过了这个难关。","traditionalText":"雖然困難重重，我們還是成功度過了這個難關。","pinyin":"Suīrán kùnnán chóngchóng, wǒmen háishì chénggōng dùguòle zhège nánguān.","translation":"Despite the difficulties, we managed to get through this difficult time successfully.","audioPath":"zh-CN-XiaomengNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/2d43bd38aaafea84e404460a1ae57b6d.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"Verb","meaning":"to survive","sentences":[{"simplifiedText":"我希望我们都能度过这个难关。","traditionalText":"我希望我們都能度過這個難關。","pinyin":"wǒ xī wàng wǒ men dōu néng dù guò zhè gè nán guān.","translation":"I hope we can all get through this difficult time.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0618c49169e6beefe2df78cac3dee4ef.mp3","voiceName":"zh-CN-YunxiNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"尽管他生活中遇到了许多困难，但他始终都能以乐观的态度度过。","traditionalText":"儘管他生活中遇到了許多困難，但他始終都能以樂觀的態度度過。","pinyin":"jǐn guǎn tā shēng huó zhōng yù dào le xǔ duō kùn nán, dàn tā shǐ zhōng dōu néng yǐ lè guān de tài du dù guò.","translation":"Despite the many difficulties he has encountered in his life, he has always been able to get through them with an optimistic attitude.","audioPath":"zh-CN-YunyeNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/c3ff001e5bb4c49e7e422a29a5eaf779.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "度过",
+  "traditional": "度過",
+  "pinyin": "dù guò",
+  "definitions": [
+    {
+      "partsOfSpeech": "Verb",
+      "meaning": "to pass",
+      "sentences": [
+        {
+          "simplifiedText": "我想度过一个美好的假期。",
+          "traditionalText": "我想度過一個美好的假期。",
+          "pinyin": "Wǒ xiǎng dùguò yīgè měihǎo de jiàqī.",
+          "translation": "I want to spend a wonderful vacation.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/4b3ed99656f47c893d6ac31ff77de40e.mp3",
+          "voiceName": "zh-CN-XiaoyanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "虽然困难重重，我们还是成功度过了这个难关。",
+          "traditionalText": "雖然困難重重，我們還是成功度過了這個難關。",
+          "pinyin": "Suīrán kùnnán chóngchóng, wǒmen háishì chénggōng dùguòle zhège nánguān.",
+          "translation": "Despite the difficulties, we managed to get through this difficult time successfully.",
+          "audioPath": "zh-CN-XiaomengNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/2d43bd38aaafea84e404460a1ae57b6d.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "Verb",
+      "meaning": "to survive",
+      "sentences": [
+        {
+          "simplifiedText": "我希望我们都能度过这个难关。",
+          "traditionalText": "我希望我們都能度過這個難關。",
+          "pinyin": "wǒ xī wàng wǒ men dōu néng dù guò zhè gè nán guān.",
+          "translation": "I hope we can all get through this difficult time.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0618c49169e6beefe2df78cac3dee4ef.mp3",
+          "voiceName": "zh-CN-YunxiNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "尽管他生活中遇到了许多困难，但他始终都能以乐观的态度度过。",
+          "traditionalText": "儘管他生活中遇到了許多困難，但他始終都能以樂觀的態度度過。",
+          "pinyin": "jǐn guǎn tā shēng huó zhōng yù dào le xǔ duō kùn nán, dàn tā shǐ zhōng dōu néng yǐ lè guān de tài du dù guò.",
+          "translation": "Despite the many difficulties he has encountered in his life, he has always been able to get through them with an optimistic attitude.",
+          "audioPath": "zh-CN-YunyeNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/c3ff001e5bb4c49e7e422a29a5eaf779.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

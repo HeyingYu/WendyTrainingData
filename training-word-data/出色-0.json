@@ -1,1 +1,35 @@
-{"simplified":"出色","traditional":"出色","pinyin":"chū sè","definitions":[{"partsOfSpeech":"adjective","meaning":"remarkable; outstanding","sentences":[{"simplifiedText":"他的表演真的很出色。","traditionalText":"他的表演真的很出色。","pinyin":"Tā de biǎoyǎn zhēn de hěn chūsè.","translation":"His performance is really remarkable.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0250179ca0c0f5f78d495debe00e2a99.mp3","voiceName":"zh-CN-XiaomoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"我目睹了他出色的表演，而这使他在人群中脱颖而出。","traditionalText":"我目睹了他出色的表演，而這使他在人群中脫穎而出。","pinyin":"Wǒ mùdǔle tā chūsè de biǎoyǎn, ér zhè shǐ tā zài rénqún zhōng tuōyǐng érchū.","translation":"I witnessed his remarkable performance, and this made him stand out from the crowd.","audioPath":"zh-CN-XiaochenNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/de648f332dfd67973521926b3fd7ae16.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "出色",
+  "traditional": "出色",
+  "pinyin": "chū sè",
+  "definitions": [
+    {
+      "partsOfSpeech": "adjective",
+      "meaning": "remarkable; outstanding",
+      "sentences": [
+        {
+          "simplifiedText": "他的表演真的很出色。",
+          "traditionalText": "他的表演真的很出色。",
+          "pinyin": "Tā de biǎoyǎn zhēn de hěn chūsè.",
+          "translation": "His performance is really remarkable.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0250179ca0c0f5f78d495debe00e2a99.mp3",
+          "voiceName": "zh-CN-XiaomoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "我目睹了他出色的表演，而这使他在人群中脱颖而出。",
+          "traditionalText": "我目睹了他出色的表演，而這使他在人群中脫穎而出。",
+          "pinyin": "Wǒ mùdǔle tā chūsè de biǎoyǎn, ér zhè shǐ tā zài rénqún zhōng tuōyǐng érchū.",
+          "translation": "I witnessed his remarkable performance, and this made him stand out from the crowd.",
+          "audioPath": "zh-CN-XiaochenNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/de648f332dfd67973521926b3fd7ae16.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

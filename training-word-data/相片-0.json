@@ -1,1 +1,35 @@
-{"simplified":"相片","traditional":"相片","pinyin":"xiàng piàn","definitions":[{"partsOfSpeech":"noun","meaning":"image","sentences":[{"simplifiedText":"这是一个相片。","traditionalText":"這是一張相片。","pinyin":"Zhè shì yī zhāng xiàngpiàn.","translation":"This is a photo.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/ecc81df1d9c847a3fc0830d054b958a4.mp3","voiceName":"zh-CN-XiaochenNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"我在旅游时拍了很多美丽的相片。","traditionalText":"我在旅遊時拍了很多美麗的相片。","pinyin":"Wǒ zài lǚyóu shí pāile hěnduō měilì de xiàngpiàn.","translation":"I took many beautiful photos when I was traveling.","audioPath":"zh-CN-YunxiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/834da53d0e127d5e8db100e2e5ac7b5d.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "相片",
+  "traditional": "相片",
+  "pinyin": "xiàng piàn",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "image",
+      "sentences": [
+        {
+          "simplifiedText": "这是一个相片。",
+          "traditionalText": "這是一張相片。",
+          "pinyin": "Zhè shì yī zhāng xiàngpiàn.",
+          "translation": "This is a photo.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/ecc81df1d9c847a3fc0830d054b958a4.mp3",
+          "voiceName": "zh-CN-XiaochenNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "我在旅游时拍了很多美丽的相片。",
+          "traditionalText": "我在旅遊時拍了很多美麗的相片。",
+          "pinyin": "Wǒ zài lǚyóu shí pāile hěnduō měilì de xiàngpiàn.",
+          "translation": "I took many beautiful photos when I was traveling.",
+          "audioPath": "zh-CN-YunxiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/834da53d0e127d5e8db100e2e5ac7b5d.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

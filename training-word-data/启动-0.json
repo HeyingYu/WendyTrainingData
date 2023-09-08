@@ -1,1 +1,63 @@
-{"simplified":"启动","traditional":"啟動","pinyin":"qǐ dòng","definitions":[{"partsOfSpeech":"verb","meaning":"to start (a machine)","sentences":[{"simplifiedText":"请启动电脑。","traditionalText":"請啟動電腦。","pinyin":"Qǐng qǐdòng diànnǎo.","translation":"Please start the computer.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/53ad9ae70fc27a66e9dbbb5582ab60c7.mp3","voiceName":"zh-CN-YunyangNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"按下这个按钮，你就可以启动这台机器了。","traditionalText":"按下這個按鈕，你就可以啟動這台機器了。","pinyin":"Àn xià zhège ànniǔ, nǐ jiù kěyǐ qǐdòng zhè tái jīqì le.","translation":"Press this button, and you can start this machine.","audioPath":"zh-CN-YunyangNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/564bcadd1b407cbf8427b087ad4a9f8a.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"verb","meaning":"to launch (an operation)","sentences":[{"simplifiedText":"我们启动了新的项目。","traditionalText":"我們啟動了新的項目。","pinyin":"Wǒmen qǐdòngle xīn de xiàngmù.","translation":"We have launched a new project.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9196de1a3ffcdab3ff03cfc0dedba5e4.mp3","voiceName":"zh-CN-XiaoxiaoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"在这个创新环境中，他们启动了一个将持续一年的跨学科研究项目。","traditionalText":"在這個創新環境中，他們啟動了一個將持續一年的跨學科研究項目。","pinyin":"Zài zhège chuàngxīn huánjìng zhōng, tāmen qǐdòngle yīgè jiāng chíxù yīnián de kuà xuékē yánjiū xiàngmù.","translation":"In this innovative environment, they have launched a cross-disciplinary research project that will last for a year.","audioPath":"zh-CN-XiaohanNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/517f0a27bbbb040504bee322a48c8478.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "启动",
+  "traditional": "啟動",
+  "pinyin": "qǐ dòng",
+  "definitions": [
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to start (a machine)",
+      "sentences": [
+        {
+          "simplifiedText": "请启动电脑。",
+          "traditionalText": "請啟動電腦。",
+          "pinyin": "Qǐng qǐdòng diànnǎo.",
+          "translation": "Please start the computer.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/53ad9ae70fc27a66e9dbbb5582ab60c7.mp3",
+          "voiceName": "zh-CN-YunyangNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "按下这个按钮，你就可以启动这台机器了。",
+          "traditionalText": "按下這個按鈕，你就可以啟動這台機器了。",
+          "pinyin": "Àn xià zhège ànniǔ, nǐ jiù kěyǐ qǐdòng zhè tái jīqì le.",
+          "translation": "Press this button, and you can start this machine.",
+          "audioPath": "zh-CN-YunyangNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/564bcadd1b407cbf8427b087ad4a9f8a.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to launch (an operation)",
+      "sentences": [
+        {
+          "simplifiedText": "我们启动了新的项目。",
+          "traditionalText": "我們啟動了新的項目。",
+          "pinyin": "Wǒmen qǐdòngle xīn de xiàngmù.",
+          "translation": "We have launched a new project.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9196de1a3ffcdab3ff03cfc0dedba5e4.mp3",
+          "voiceName": "zh-CN-XiaoxiaoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "在这个创新环境中，他们启动了一个将持续一年的跨学科研究项目。",
+          "traditionalText": "在這個創新環境中，他們啟動了一個將持續一年的跨學科研究項目。",
+          "pinyin": "Zài zhège chuàngxīn huánjìng zhōng, tāmen qǐdòngle yīgè jiāng chíxù yīnián de kuà xuékē yánjiū xiàngmù.",
+          "translation": "In this innovative environment, they have launched a cross-disciplinary research project that will last for a year.",
+          "audioPath": "zh-CN-XiaohanNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/517f0a27bbbb040504bee322a48c8478.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

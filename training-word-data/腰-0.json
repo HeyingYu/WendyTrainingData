@@ -1,1 +1,91 @@
-{"simplified":"腰","traditional":"腰","pinyin":"yāo","definitions":[{"partsOfSpeech":"noun","meaning":"waist","sentences":[{"simplifiedText":"她的腰很细。","traditionalText":"她的腰很細。","pinyin":"Tā de yāo hěn xì.","translation":"Her waist is very thin.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/911565dc0ee2867d3117ebde9568b8d2.mp3","voiceName":"zh-CN-XiaomoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"我因为背部受伤，不能弯腰。","traditionalText":"我因為背部受傷，不能彎腰。","pinyin":"Wǒ yīnwèi bèibù shòushāng, bùnéng wānyāo.","translation":"Because of my back injury, I can't bend my waist.","audioPath":"zh-CN-XiaohanNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/88967e37d2122c067610e0d02b47e03e.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"noun","meaning":"pocket","sentences":[{"simplifiedText":"我从腰包里拿出钥匙。","traditionalText":"我從腰包裡拿出鑰匙。","pinyin":"Wǒ cóng yāobāo lǐ ná chū yàoshi.","translation":"I take out the keys from my waist bag.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e945190f74d761267275bd731d9e23f0.mp3","voiceName":"zh-CN-XiaomengNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"在炎热的夏天，她总是带着腰包，以便随时拿出扇子来扇风。","traditionalText":"在炎熱的夏天，她總是帶著腰包，以便隨時拿出扇子來扇風。","pinyin":"Zài yánrè de xiàtiān, tā zǒng shì dài zhe yāobāo, yǐbiàn suíshí ná chū shànzi lái shān fēng.","translation":"In the hot summer, she always carries a waist bag so that she can take out a fan to fan herself at any time.","audioPath":"zh-CN-XiaoxiaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/1c1950eb8c2269d4a64c0cef1adc6370.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"noun","meaning":"loins","sentences":[{"simplifiedText":"他的腰很疼。","traditionalText":"他的腰很疼。","pinyin":"Tā de yāo hěn téng.","translation":"His loins hurt.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/13b57c4f1a37e42bac2ce25c0d86742c.mp3","voiceName":"zh-CN-YunfengNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"他由于长时间坐在电脑前工作，感到腰酸背痛。","traditionalText":"他由於長時間坐在電腦前工作，感到腰酸背痛。","pinyin":"Tā yóuyú cháng shíjiān zuò zài diànnǎo qián gōngzuò, gǎndào yāosuān bèi tòng.","translation":"Due to sitting in front of the computer for a long time, he felt his loins and back ache.","audioPath":"zh-CN-XiaomoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/7795017c5ad172975dbf57b4cc9362bb.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "腰",
+  "traditional": "腰",
+  "pinyin": "yāo",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "waist",
+      "sentences": [
+        {
+          "simplifiedText": "她的腰很细。",
+          "traditionalText": "她的腰很細。",
+          "pinyin": "Tā de yāo hěn xì.",
+          "translation": "Her waist is very thin.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/911565dc0ee2867d3117ebde9568b8d2.mp3",
+          "voiceName": "zh-CN-XiaomoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "我因为背部受伤，不能弯腰。",
+          "traditionalText": "我因為背部受傷，不能彎腰。",
+          "pinyin": "Wǒ yīnwèi bèibù shòushāng, bùnéng wānyāo.",
+          "translation": "Because of my back injury, I can't bend my waist.",
+          "audioPath": "zh-CN-XiaohanNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/88967e37d2122c067610e0d02b47e03e.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "pocket",
+      "sentences": [
+        {
+          "simplifiedText": "我从腰包里拿出钥匙。",
+          "traditionalText": "我從腰包裡拿出鑰匙。",
+          "pinyin": "Wǒ cóng yāobāo lǐ ná chū yàoshi.",
+          "translation": "I take out the keys from my waist bag.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e945190f74d761267275bd731d9e23f0.mp3",
+          "voiceName": "zh-CN-XiaomengNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "在炎热的夏天，她总是带着腰包，以便随时拿出扇子来扇风。",
+          "traditionalText": "在炎熱的夏天，她總是帶著腰包，以便隨時拿出扇子來扇風。",
+          "pinyin": "Zài yánrè de xiàtiān, tā zǒng shì dài zhe yāobāo, yǐbiàn suíshí ná chū shànzi lái shān fēng.",
+          "translation": "In the hot summer, she always carries a waist bag so that she can take out a fan to fan herself at any time.",
+          "audioPath": "zh-CN-XiaoxiaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/1c1950eb8c2269d4a64c0cef1adc6370.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "loins",
+      "sentences": [
+        {
+          "simplifiedText": "他的腰很疼。",
+          "traditionalText": "他的腰很疼。",
+          "pinyin": "Tā de yāo hěn téng.",
+          "translation": "His loins hurt.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/13b57c4f1a37e42bac2ce25c0d86742c.mp3",
+          "voiceName": "zh-CN-YunfengNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "他由于长时间坐在电脑前工作，感到腰酸背痛。",
+          "traditionalText": "他由於長時間坐在電腦前工作，感到腰酸背痛。",
+          "pinyin": "Tā yóuyú cháng shíjiān zuò zài diànnǎo qián gōngzuò, gǎndào yāosuān bèi tòng.",
+          "translation": "Due to sitting in front of the computer for a long time, he felt his loins and back ache.",
+          "audioPath": "zh-CN-XiaomoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/7795017c5ad172975dbf57b4cc9362bb.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

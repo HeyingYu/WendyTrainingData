@@ -1,1 +1,35 @@
-{"simplified":"起码","traditional":"起碼","pinyin":"qǐ mǎ","definitions":[{"partsOfSpeech":"adverb","meaning":"at the minimum","sentences":[{"simplifiedText":"我每天起码运动一个小时。","traditionalText":"我每天起碼運動一個小時。","pinyin":"wǒ měi tiān qǐ mǎ yùn dòng yī gè xiǎo shí.","translation":"I exercise for at least one hour every day.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/96b488e73f11ef8208c6442435a75157.mp3","voiceName":"zh-CN-XiaohanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"虽然我很忙，但是我保证每天起码抽出一个小时来陪你。","traditionalText":"雖然我很忙，但是我保證每天起碼抽出一個小時來陪你。","pinyin":"suī rán wǒ hěn máng, dàn shì wǒ bǎo zhèng měi tiān qǐ mǎ chōu chū yī gè xiǎo shí lái péi nǐ.","translation":"Although I'm very busy, I promise to spend at least one hour with you every day.","audioPath":"zh-CN-YunhaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/1c2f11908492855fcd84183bdf429d0c.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "起码",
+  "traditional": "起碼",
+  "pinyin": "qǐ mǎ",
+  "definitions": [
+    {
+      "partsOfSpeech": "adverb",
+      "meaning": "at the minimum",
+      "sentences": [
+        {
+          "simplifiedText": "我每天起码运动一个小时。",
+          "traditionalText": "我每天起碼運動一個小時。",
+          "pinyin": "wǒ měi tiān qǐ mǎ yùn dòng yī gè xiǎo shí.",
+          "translation": "I exercise for at least one hour every day.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/96b488e73f11ef8208c6442435a75157.mp3",
+          "voiceName": "zh-CN-XiaohanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "虽然我很忙，但是我保证每天起码抽出一个小时来陪你。",
+          "traditionalText": "雖然我很忙，但是我保證每天起碼抽出一個小時來陪你。",
+          "pinyin": "suī rán wǒ hěn máng, dàn shì wǒ bǎo zhèng měi tiān qǐ mǎ chōu chū yī gè xiǎo shí lái péi nǐ.",
+          "translation": "Although I'm very busy, I promise to spend at least one hour with you every day.",
+          "audioPath": "zh-CN-YunhaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/1c2f11908492855fcd84183bdf429d0c.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

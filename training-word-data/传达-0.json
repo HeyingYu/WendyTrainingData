@@ -1,1 +1,91 @@
-{"simplified":"传达","traditional":"傳達","pinyin":"chuán dá","definitions":[{"partsOfSpeech":"verb","meaning":"to pass on","sentences":[{"simplifiedText":"请把这个消息传达给他。","traditionalText":"請把這個消息傳達給他。","pinyin":"Qǐng bǎ zhège xiāoxi chuándá gěi tā.","translation":"Please pass this message on to him.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/6fcee9eb3294856892cf2ff7ff581101.mp3","voiceName":"zh-CN-XiaomengNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"我负责传达总裁的决定，并确保所有的员工都了解清楚。","traditionalText":"我負責傳達總裁的決定，並確保所有的員工都了解清楚。","pinyin":"Wǒ fùzé chuándá zǒngcái de juédìng, bìng quèbǎo suǒyǒu de yuángōng dōu liǎojiě qīngchǔ.","translation":"I am responsible for passing on the president's decision and making sure all employees understand it clearly.","audioPath":"zh-CN-YunyeNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0a6fac1453596173c7b365dc30133570.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"Verb","meaning":"to relay","sentences":[{"simplifiedText":"请你传达我的信息给他。","traditionalText":"請你傳達我的信息給他。","pinyin":"Qǐng nǐ chuándá wǒ de xìnxī gěi tā.","translation":"Please relay my message to him.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/cffe65498fcc52c76db5943bcb9230ab.mp3","voiceName":"zh-CN-XiaozhenNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"他负责与联盟各成员之间的沟通，确保准确无误地传达各方的决定。","traditionalText":"他負責與聯盟各成員之間的溝通，確保準確無誤地傳達各方的決定。","pinyin":"Tā fùzé yǔ liánméng gè chéngyuán zhī jiān de gōutōng, quèbǎo zhǔnquè wúwù dì chuándá gèfāng de juédìng.","translation":"He is responsible for the communication between members of the alliance to ensure that the decisions of each part are accurately relayed.","audioPath":"zh-CN-YunyangNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e721ee2b367eb6744c1a909c093ac33f.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"noun","meaning":"transmission","sentences":[{"simplifiedText":"我接收到你的传达。","traditionalText":"我接收到你的傳達。","pinyin":"Wǒ jiēshōu dào nǐ de chuándá.","translation":"I have received your transmission.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/522290db602e5a4c560c75022caf26b8.mp3","voiceName":"zh-CN-YunhaoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"这个会议室用来接收和传达公司所有的重要信息。","traditionalText":"這個會議室用來接收和傳達公司所有的重要信息。","pinyin":"Zhègè huìyìshì yòng lái jiēshōu hé chuándá gōngsī suǒyǒu de zhòngyào xìnxī.","translation":"This conference room is used to receive and transmit all of the company's important information.","audioPath":"zh-CN-XiaomoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/5f417b2f47892e396213fd0a229aaa29.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "传达",
+  "traditional": "傳達",
+  "pinyin": "chuán dá",
+  "definitions": [
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to pass on",
+      "sentences": [
+        {
+          "simplifiedText": "请把这个消息传达给他。",
+          "traditionalText": "請把這個消息傳達給他。",
+          "pinyin": "Qǐng bǎ zhège xiāoxi chuándá gěi tā.",
+          "translation": "Please pass this message on to him.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/6fcee9eb3294856892cf2ff7ff581101.mp3",
+          "voiceName": "zh-CN-XiaomengNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "我负责传达总裁的决定，并确保所有的员工都了解清楚。",
+          "traditionalText": "我負責傳達總裁的決定，並確保所有的員工都了解清楚。",
+          "pinyin": "Wǒ fùzé chuándá zǒngcái de juédìng, bìng quèbǎo suǒyǒu de yuángōng dōu liǎojiě qīngchǔ.",
+          "translation": "I am responsible for passing on the president's decision and making sure all employees understand it clearly.",
+          "audioPath": "zh-CN-YunyeNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0a6fac1453596173c7b365dc30133570.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "Verb",
+      "meaning": "to relay",
+      "sentences": [
+        {
+          "simplifiedText": "请你传达我的信息给他。",
+          "traditionalText": "請你傳達我的信息給他。",
+          "pinyin": "Qǐng nǐ chuándá wǒ de xìnxī gěi tā.",
+          "translation": "Please relay my message to him.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/cffe65498fcc52c76db5943bcb9230ab.mp3",
+          "voiceName": "zh-CN-XiaozhenNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "他负责与联盟各成员之间的沟通，确保准确无误地传达各方的决定。",
+          "traditionalText": "他負責與聯盟各成員之間的溝通，確保準確無誤地傳達各方的決定。",
+          "pinyin": "Tā fùzé yǔ liánméng gè chéngyuán zhī jiān de gōutōng, quèbǎo zhǔnquè wúwù dì chuándá gèfāng de juédìng.",
+          "translation": "He is responsible for the communication between members of the alliance to ensure that the decisions of each part are accurately relayed.",
+          "audioPath": "zh-CN-YunyangNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e721ee2b367eb6744c1a909c093ac33f.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "transmission",
+      "sentences": [
+        {
+          "simplifiedText": "我接收到你的传达。",
+          "traditionalText": "我接收到你的傳達。",
+          "pinyin": "Wǒ jiēshōu dào nǐ de chuándá.",
+          "translation": "I have received your transmission.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/522290db602e5a4c560c75022caf26b8.mp3",
+          "voiceName": "zh-CN-YunhaoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "这个会议室用来接收和传达公司所有的重要信息。",
+          "traditionalText": "這個會議室用來接收和傳達公司所有的重要信息。",
+          "pinyin": "Zhègè huìyìshì yòng lái jiēshōu hé chuándá gōngsī suǒyǒu de zhòngyào xìnxī.",
+          "translation": "This conference room is used to receive and transmit all of the company's important information.",
+          "audioPath": "zh-CN-XiaomoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/5f417b2f47892e396213fd0a229aaa29.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

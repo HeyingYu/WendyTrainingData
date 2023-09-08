@@ -1,1 +1,35 @@
-{"simplified":"数目","traditional":"數目","pinyin":"shù mù","definitions":[{"partsOfSpeech":"noun","meaning":"amount","sentences":[{"simplifiedText":"这个苹果的数目是五个。","traditionalText":"這個蘋果的數目是五個。","pinyin":"zhè ge píng guǒ de shù mù shì wǔ gè.","translation":"The amount of this apple is five.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e37232bce7edd4de00beb20faa113816.mp3","voiceName":"zh-CN-YunxiNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"由于落叶归根的数目增加，秋天的树叶已经几乎全掉了。","traditionalText":"由於落葉歸根的數目增加，秋天的樹葉已經幾乎全掉了。","pinyin":"yóu yú luò yè guī gēn de shù mù zēng jiā, qiū tiān de shù yè yǐ jīng jī hū quán diào le.","translation":"Due to the increasing amount of fallen leaves, almost all the leaves of the tree have fallen in the autumn.","audioPath":"zh-CN-XiaoxuanNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0e5c42fe8ac48e9e889942b34826200e.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "数目",
+  "traditional": "數目",
+  "pinyin": "shù mù",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "amount",
+      "sentences": [
+        {
+          "simplifiedText": "这个苹果的数目是五个。",
+          "traditionalText": "這個蘋果的數目是五個。",
+          "pinyin": "zhè ge píng guǒ de shù mù shì wǔ gè.",
+          "translation": "The amount of this apple is five.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e37232bce7edd4de00beb20faa113816.mp3",
+          "voiceName": "zh-CN-YunxiNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "由于落叶归根的数目增加，秋天的树叶已经几乎全掉了。",
+          "traditionalText": "由於落葉歸根的數目增加，秋天的樹葉已經幾乎全掉了。",
+          "pinyin": "yóu yú luò yè guī gēn de shù mù zēng jiā, qiū tiān de shù yè yǐ jīng jī hū quán diào le.",
+          "translation": "Due to the increasing amount of fallen leaves, almost all the leaves of the tree have fallen in the autumn.",
+          "audioPath": "zh-CN-XiaoxuanNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0e5c42fe8ac48e9e889942b34826200e.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

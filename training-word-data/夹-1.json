@@ -1,1 +1,35 @@
-{"simplified":"夹","traditional":"夾","pinyin":"jiá","definitions":[{"partsOfSpeech":"noun","meaning":"double-layered","sentences":[{"simplifiedText":"他给我一个夹心饼干。","traditionalText":"他給我一個夾心餅乾。","pinyin":"tā gěi wǒ yīgè jiāxīn bǐnggān.","translation":"He gave me a sandwich cookie.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/bb98f8aeb80e710d7c17ee85a6e79a27.mp3","voiceName":"zh-CN-XiaomoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"这道菜是用鸡肉和蔬菜制作的夹心饼。","traditionalText":"這道菜是用雞肉和蔬菜製作的夾心餅。","pinyin":"zhè dào cài shì yòng jīròu hé shūcài zhìzuò de jiāxīn bǐng.","translation":"This dish is a sandwich cake made with chicken and vegetables.","audioPath":"zh-CN-XiaoruiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/7829ebf9a582d68be19d846b79e22f32.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "夹",
+  "traditional": "夾",
+  "pinyin": "jiá",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "double-layered",
+      "sentences": [
+        {
+          "simplifiedText": "他给我一个夹心饼干。",
+          "traditionalText": "他給我一個夾心餅乾。",
+          "pinyin": "tā gěi wǒ yīgè jiāxīn bǐnggān.",
+          "translation": "He gave me a sandwich cookie.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/bb98f8aeb80e710d7c17ee85a6e79a27.mp3",
+          "voiceName": "zh-CN-XiaomoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "这道菜是用鸡肉和蔬菜制作的夹心饼。",
+          "traditionalText": "這道菜是用雞肉和蔬菜製作的夾心餅。",
+          "pinyin": "zhè dào cài shì yòng jīròu hé shūcài zhìzuò de jiāxīn bǐng.",
+          "translation": "This dish is a sandwich cake made with chicken and vegetables.",
+          "audioPath": "zh-CN-XiaoruiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/7829ebf9a582d68be19d846b79e22f32.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

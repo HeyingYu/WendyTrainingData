@@ -1,1 +1,35 @@
-{"simplified":"补偿","traditional":"補償","pinyin":"bǔ cháng","definitions":[{"partsOfSpeech":"verb","meaning":"to compensate","sentences":[{"simplifiedText":"公司会补偿你的损失。","traditionalText":"公司會補償你的損失。","pinyin":"gōngsī huì bǔcháng nǐ de sǔnshī.","translation":"The company will compensate for your loss.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/c3e658b171a8b4d28a306192a4cd90a0.mp3","voiceName":"zh-CN-XiaoxuanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"由于火灾原因，保险公司承诺补偿商家所有的损失。","traditionalText":"由於火災原因，保險公司承諾補償商家所有的損失。","pinyin":"Yóuyú huǒzāi yuányīn, bǎoxiǎn gōngsī chéngnuò bǔcháng shāngjiā suǒyǒu de sǔnshī.","translation":"Due to the fire, the insurance company promised to compensate the merchants for all their losses.","audioPath":"zh-CN-XiaoruiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/abb34b631b26063849a88ab80baa42ee.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "补偿",
+  "traditional": "補償",
+  "pinyin": "bǔ cháng",
+  "definitions": [
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to compensate",
+      "sentences": [
+        {
+          "simplifiedText": "公司会补偿你的损失。",
+          "traditionalText": "公司會補償你的損失。",
+          "pinyin": "gōngsī huì bǔcháng nǐ de sǔnshī.",
+          "translation": "The company will compensate for your loss.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/c3e658b171a8b4d28a306192a4cd90a0.mp3",
+          "voiceName": "zh-CN-XiaoxuanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "由于火灾原因，保险公司承诺补偿商家所有的损失。",
+          "traditionalText": "由於火災原因，保險公司承諾補償商家所有的損失。",
+          "pinyin": "Yóuyú huǒzāi yuányīn, bǎoxiǎn gōngsī chéngnuò bǔcháng shāngjiā suǒyǒu de sǔnshī.",
+          "translation": "Due to the fire, the insurance company promised to compensate the merchants for all their losses.",
+          "audioPath": "zh-CN-XiaoruiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/abb34b631b26063849a88ab80baa42ee.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

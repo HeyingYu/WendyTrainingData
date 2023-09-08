@@ -1,1 +1,35 @@
-{"simplified":"喜剧","traditional":"喜劇","pinyin":"xǐ jù","definitions":[{"partsOfSpeech":"noun","meaning":"comedy","sentences":[{"simplifiedText":"我喜欢看喜剧片。","traditionalText":"我喜歡看喜劇片。","pinyin":"Wǒ xǐhuān kàn xǐjù piàn.","translation":"I like to watch comedies.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/59aff1a9c39ef3eb47ecdec99fead126.mp3","voiceName":"zh-CN-YunyeNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"这部喜剧片夺得了奥斯卡最佳影片奖","traditionalText":"這部喜劇片奪得了奧斯卡最佳影片獎","pinyin":"Zhè bù xǐjù piàn duó déle àosīkǎ zuìjiā yǐngpiàn jiǎng.","translation":"This comedy won the Oscar for Best Film.","audioPath":"zh-CN-XiaoyanNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/adc9dc2b19d150d24275b14a6c97666c.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "喜剧",
+  "traditional": "喜劇",
+  "pinyin": "xǐ jù",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "comedy",
+      "sentences": [
+        {
+          "simplifiedText": "我喜欢看喜剧片。",
+          "traditionalText": "我喜歡看喜劇片。",
+          "pinyin": "Wǒ xǐhuān kàn xǐjù piàn.",
+          "translation": "I like to watch comedies.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/59aff1a9c39ef3eb47ecdec99fead126.mp3",
+          "voiceName": "zh-CN-YunyeNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "这部喜剧片夺得了奥斯卡最佳影片奖",
+          "traditionalText": "這部喜劇片奪得了奧斯卡最佳影片獎",
+          "pinyin": "Zhè bù xǐjù piàn duó déle àosīkǎ zuìjiā yǐngpiàn jiǎng.",
+          "translation": "This comedy won the Oscar for Best Film.",
+          "audioPath": "zh-CN-XiaoyanNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/adc9dc2b19d150d24275b14a6c97666c.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

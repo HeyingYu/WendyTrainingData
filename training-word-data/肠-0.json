@@ -1,1 +1,35 @@
-{"simplified":"肠","traditional":"腸","pinyin":"cháng","definitions":[{"partsOfSpeech":"noun","meaning":"intestines","sentences":[{"simplifiedText":"吃太多肉就会对你的肠道有害。","traditionalText":"吃太多肉就會對你的腸道有害。","pinyin":"Chī tài duō ròu jiù huì duì nǐ de chángdào yǒuhài.","translation":"Eating too much meat can harm your intestines.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/899bb5b64ebb1a7c6164ed5b97e8cd3d.mp3","voiceName":"zh-CN-XiaohanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"医生说，他的肠道有一些问题，需要进行一次手术以修复。","traditionalText":"醫生說，他的腸道有一些問題，需要進行一次手術以修復。","pinyin":"Yīshēng shuō, tā de chángdào yǒu yīxiē wèntí, xūyào jìnxíng yīcì shǒushù yǐ xiūfù.","translation":"The doctor said that there are some issues with his intestines and he needs to have a surgery to fix them.","audioPath":"zh-CN-XiaomoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a0933ae9d64d568b6a1b281c5440da8a.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "肠",
+  "traditional": "腸",
+  "pinyin": "cháng",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "intestines",
+      "sentences": [
+        {
+          "simplifiedText": "吃太多肉就会对你的肠道有害。",
+          "traditionalText": "吃太多肉就會對你的腸道有害。",
+          "pinyin": "Chī tài duō ròu jiù huì duì nǐ de chángdào yǒuhài.",
+          "translation": "Eating too much meat can harm your intestines.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/899bb5b64ebb1a7c6164ed5b97e8cd3d.mp3",
+          "voiceName": "zh-CN-XiaohanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "医生说，他的肠道有一些问题，需要进行一次手术以修复。",
+          "traditionalText": "醫生說，他的腸道有一些問題，需要進行一次手術以修復。",
+          "pinyin": "Yīshēng shuō, tā de chángdào yǒu yīxiē wèntí, xūyào jìnxíng yīcì shǒushù yǐ xiūfù.",
+          "translation": "The doctor said that there are some issues with his intestines and he needs to have a surgery to fix them.",
+          "audioPath": "zh-CN-XiaomoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a0933ae9d64d568b6a1b281c5440da8a.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

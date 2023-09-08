@@ -1,1 +1,91 @@
-{"simplified":"装置","traditional":"裝置","pinyin":"zhuāng zhì","definitions":[{"partsOfSpeech":"verb","meaning":"to install","sentences":[{"simplifiedText":"请帮我装置这台电脑。","traditionalText":"請幫我裝置這台電腦。","pinyin":"Qǐng bāng wǒ zhuāng zhì zhè tái diànnǎo.","translation":"Please help me install this computer.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/03a0b5de0ff1c59024b5a93494a75f95.mp3","voiceName":"zh-CN-YunfengNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"在新的办公室，我们正忙着装置所有的电脑和打印机。","traditionalText":"在新的辦公室，我們正忙著裝置所有的電腦和打印機。","pinyin":"Zài xīn de bàngōngshì, wǒmen zhèng máng zhe zhuāng zhì suǒyǒu de diànnǎo hé dǎyìnjī.","translation":"In the new office, we are busy installing all the computers and printers.","audioPath":"zh-CN-YunxiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0d21345c7e495ed92c00c5968e4997c0.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"noun","meaning":"equipment","sentences":[{"simplifiedText":"这是新的装置。","traditionalText":"這是新的裝置。","pinyin":"Zhè shì xīn de zhuāngzhì.","translation":"This is a new piece of equipment.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9e5738eca33b9bc3046befaa436ce2a9.mp3","voiceName":"zh-CN-YunjianNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"为了更好的实验结果，我们需要改进我们的装置。","traditionalText":"為了更好的實驗結果，我們需要改進我們的裝置。","pinyin":"Wèile gèng hǎo de shíyàn jiéguǒ, wǒmen xūyào gǎijìn wǒmen de zhuāngzhì.","translation":"For better experimental results, we need to improve our equipment.","audioPath":"zh-CN-YunjianNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a8f19ea7b970e37b1a86accd28eac59e.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"noun","meaning":"unit","sentences":[{"simplifiedText":"这是一个新的装置。","traditionalText":"這是一個新的裝置。","pinyin":"zhè shì yī gè xīn de zhuāngzhì.","translation":"This is a new device.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b0f66885102c0db5d90128f9c75b6846.mp3","voiceName":"zh-CN-YunjianNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"我们正在研发一种可以自动清理空气的装置。","traditionalText":"我們正在研發一種可以自動清理空氣的裝置。","pinyin":"wǒmen zhèngzài yánfā yī zhǒng kěyǐ zìdòng qīnglǐ kōngqì de zhuāngzhì.","translation":"We are developing a device that can automatically clean the air.","audioPath":"zh-CN-YunyeNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/fe1602eb2f9d57dca438516dc924ad4e.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "装置",
+  "traditional": "裝置",
+  "pinyin": "zhuāng zhì",
+  "definitions": [
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to install",
+      "sentences": [
+        {
+          "simplifiedText": "请帮我装置这台电脑。",
+          "traditionalText": "請幫我裝置這台電腦。",
+          "pinyin": "Qǐng bāng wǒ zhuāng zhì zhè tái diànnǎo.",
+          "translation": "Please help me install this computer.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/03a0b5de0ff1c59024b5a93494a75f95.mp3",
+          "voiceName": "zh-CN-YunfengNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "在新的办公室，我们正忙着装置所有的电脑和打印机。",
+          "traditionalText": "在新的辦公室，我們正忙著裝置所有的電腦和打印機。",
+          "pinyin": "Zài xīn de bàngōngshì, wǒmen zhèng máng zhe zhuāng zhì suǒyǒu de diànnǎo hé dǎyìnjī.",
+          "translation": "In the new office, we are busy installing all the computers and printers.",
+          "audioPath": "zh-CN-YunxiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0d21345c7e495ed92c00c5968e4997c0.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "equipment",
+      "sentences": [
+        {
+          "simplifiedText": "这是新的装置。",
+          "traditionalText": "這是新的裝置。",
+          "pinyin": "Zhè shì xīn de zhuāngzhì.",
+          "translation": "This is a new piece of equipment.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9e5738eca33b9bc3046befaa436ce2a9.mp3",
+          "voiceName": "zh-CN-YunjianNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "为了更好的实验结果，我们需要改进我们的装置。",
+          "traditionalText": "為了更好的實驗結果，我們需要改進我們的裝置。",
+          "pinyin": "Wèile gèng hǎo de shíyàn jiéguǒ, wǒmen xūyào gǎijìn wǒmen de zhuāngzhì.",
+          "translation": "For better experimental results, we need to improve our equipment.",
+          "audioPath": "zh-CN-YunjianNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a8f19ea7b970e37b1a86accd28eac59e.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "unit",
+      "sentences": [
+        {
+          "simplifiedText": "这是一个新的装置。",
+          "traditionalText": "這是一個新的裝置。",
+          "pinyin": "zhè shì yī gè xīn de zhuāngzhì.",
+          "translation": "This is a new device.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b0f66885102c0db5d90128f9c75b6846.mp3",
+          "voiceName": "zh-CN-YunjianNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "我们正在研发一种可以自动清理空气的装置。",
+          "traditionalText": "我們正在研發一種可以自動清理空氣的裝置。",
+          "pinyin": "wǒmen zhèngzài yánfā yī zhǒng kěyǐ zìdòng qīnglǐ kōngqì de zhuāngzhì.",
+          "translation": "We are developing a device that can automatically clean the air.",
+          "audioPath": "zh-CN-YunyeNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/fe1602eb2f9d57dca438516dc924ad4e.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

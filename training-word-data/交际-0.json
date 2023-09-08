@@ -1,1 +1,35 @@
-{"simplified":"交际","traditional":"交際","pinyin":"jiāo jì","definitions":[{"partsOfSpeech":"Noun","meaning":"communication","sentences":[{"simplifiedText":"我喜欢进行交际。","traditionalText":"我喜歡進行交際。","pinyin":"Wǒ xǐhuan jìnxíng jiāojì.","translation":"I enjoy communication.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/af0c6fe2cbf1753958dd7d2325b5d2d6.mp3","voiceName":"zh-CN-YunyangNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"通过有效的交流，我成功地完成了这个项目。","traditionalText":"通過有效的交流，我成功地完成了這個項目。","pinyin":"Tōngguò yǒuxiào de jiāojì, wǒ chénggōng dì wánchéngle zhège xiàngmù.","translation":"Through effective communication, I successfully completed this project.","audioPath":"zh-CN-YunhaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/882fb4df3784e99f23636b2374d57117.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "交际",
+  "traditional": "交際",
+  "pinyin": "jiāo jì",
+  "definitions": [
+    {
+      "partsOfSpeech": "Noun",
+      "meaning": "communication",
+      "sentences": [
+        {
+          "simplifiedText": "我喜欢进行交际。",
+          "traditionalText": "我喜歡進行交際。",
+          "pinyin": "Wǒ xǐhuan jìnxíng jiāojì.",
+          "translation": "I enjoy communication.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/af0c6fe2cbf1753958dd7d2325b5d2d6.mp3",
+          "voiceName": "zh-CN-YunyangNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "通过有效的交流，我成功地完成了这个项目。",
+          "traditionalText": "通過有效的交流，我成功地完成了這個項目。",
+          "pinyin": "Tōngguò yǒuxiào de jiāojì, wǒ chénggōng dì wánchéngle zhège xiàngmù.",
+          "translation": "Through effective communication, I successfully completed this project.",
+          "audioPath": "zh-CN-YunhaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/882fb4df3784e99f23636b2374d57117.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

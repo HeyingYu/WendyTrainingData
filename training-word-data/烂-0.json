@@ -1,1 +1,119 @@
-{"simplified":"烂","traditional":"爛","pinyin":"làn","definitions":[{"partsOfSpeech":"Adjective","meaning":"soft; mushy","sentences":[{"simplifiedText":"我不喜欢吃烂苹果。","traditionalText":"我不喜歡吃爛蘋果。","pinyin":"Wǒ bù xǐhuān chī làn píngguǒ.","translation":"I do not like to eat mushy apples.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/6b0e522f091fa8c5375765e0967b360a.mp3","voiceName":"zh-CN-XiaozhenNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"因为放久了，那些香蕉已经变得很烂了。","traditionalText":"因為放久了，那些香蕉已經變得很爛了。","pinyin":"Yīnwèi fàngjiǔle, nàxiē xiāngjiāo yǐjīng biàn de hěn lànle.","translation":"Because they were left for a long time, those bananas have become very mushy.","audioPath":"zh-CN-XiaoruiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e0dcfe1992e38b1b3743ece4673e242a.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"verb","meaning":"to rot; to decompose","sentences":[{"simplifiedText":"蔬菜烂了。","traditionalText":"蔬菜爛了。","pinyin":"Shūcài làn le.","translation":"The vegetables have rotten.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/2cf979da7e896ad5e3d27f6ec3eee524.mp3","voiceName":"zh-CN-XiaoruiNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"如果你不放冰箱，肉会烂。","traditionalText":"如果你不放冰箱，肉會爛。","pinyin":"Rúguǒ nǐ bù fàng bīngxiāng, ròu huì làn.","translation":"The meat will rot if you don't put it in the refrigerator.","audioPath":"zh-CN-XiaoruiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/5d85fbad6f01583ba14c0720a95dfcb4.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"Adjective","meaning":"worn out","sentences":[{"simplifiedText":"我的衬衫烂了。","traditionalText":"我的襯衫爛了。","pinyin":"Wǒ de chènshān làn le.","translation":"My shirt is worn out.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/2cbfe760b81618aa0d44c96d47790c19.mp3","voiceName":"zh-CN-XiaomengNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"我每天都在这条路上跑步，我的运动鞋早已烂了。","traditionalText":"我每天都在這條路上跑步，我的運動鞋早已爛了。","pinyin":"Wǒ měitiān dōu zài zhè tiáo lù shàng pǎobù, wǒ de yùndòng xié zǎo yǐ làn le.","translation":"I run on this road every day, my sports shoes have long been worn out.","audioPath":"zh-CN-XiaoxuanNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/dd10fcf96dac3349459a4452522ba66a.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"adverb","meaning":"utterly; thoroughly","sentences":[{"simplifiedText":"家里透彻烂了。","traditionalText":"家裡徹底爛了。","pinyin":"jiā lǐ tòu chè làn le.","translation":"The house is utterly ruined.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/cd4cf32d96ab5c8ed10ec81bbb27c2db.mp3","voiceName":"zh-CN-XiaozhenNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"经过这场洪水的摧残，整个城市已经烂透了。","traditionalText":"經過這場洪水的摧殘，整個城市已經爛透了。","pinyin":"jīng guò zhè chǎng hóng shuǐ de cuī cán, zhěng gè chéng shì yǐ jīng làn tòu le.","translation":"After the devastation of this flood, the entire city is thoroughly ruined.","audioPath":"zh-CN-XiaoxuanNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/ccba93f8d8390aa296057d890d830289.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "烂",
+  "traditional": "爛",
+  "pinyin": "làn",
+  "definitions": [
+    {
+      "partsOfSpeech": "Adjective",
+      "meaning": "soft; mushy",
+      "sentences": [
+        {
+          "simplifiedText": "我不喜欢吃烂苹果。",
+          "traditionalText": "我不喜歡吃爛蘋果。",
+          "pinyin": "Wǒ bù xǐhuān chī làn píngguǒ.",
+          "translation": "I do not like to eat mushy apples.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/6b0e522f091fa8c5375765e0967b360a.mp3",
+          "voiceName": "zh-CN-XiaozhenNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "因为放久了，那些香蕉已经变得很烂了。",
+          "traditionalText": "因為放久了，那些香蕉已經變得很爛了。",
+          "pinyin": "Yīnwèi fàngjiǔle, nàxiē xiāngjiāo yǐjīng biàn de hěn lànle.",
+          "translation": "Because they were left for a long time, those bananas have become very mushy.",
+          "audioPath": "zh-CN-XiaoruiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e0dcfe1992e38b1b3743ece4673e242a.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to rot; to decompose",
+      "sentences": [
+        {
+          "simplifiedText": "蔬菜烂了。",
+          "traditionalText": "蔬菜爛了。",
+          "pinyin": "Shūcài làn le.",
+          "translation": "The vegetables have rotten.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/2cf979da7e896ad5e3d27f6ec3eee524.mp3",
+          "voiceName": "zh-CN-XiaoruiNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "如果你不放冰箱，肉会烂。",
+          "traditionalText": "如果你不放冰箱，肉會爛。",
+          "pinyin": "Rúguǒ nǐ bù fàng bīngxiāng, ròu huì làn.",
+          "translation": "The meat will rot if you don't put it in the refrigerator.",
+          "audioPath": "zh-CN-XiaoruiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/5d85fbad6f01583ba14c0720a95dfcb4.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "Adjective",
+      "meaning": "worn out",
+      "sentences": [
+        {
+          "simplifiedText": "我的衬衫烂了。",
+          "traditionalText": "我的襯衫爛了。",
+          "pinyin": "Wǒ de chènshān làn le.",
+          "translation": "My shirt is worn out.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/2cbfe760b81618aa0d44c96d47790c19.mp3",
+          "voiceName": "zh-CN-XiaomengNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "我每天都在这条路上跑步，我的运动鞋早已烂了。",
+          "traditionalText": "我每天都在這條路上跑步，我的運動鞋早已爛了。",
+          "pinyin": "Wǒ měitiān dōu zài zhè tiáo lù shàng pǎobù, wǒ de yùndòng xié zǎo yǐ làn le.",
+          "translation": "I run on this road every day, my sports shoes have long been worn out.",
+          "audioPath": "zh-CN-XiaoxuanNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/dd10fcf96dac3349459a4452522ba66a.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "adverb",
+      "meaning": "utterly; thoroughly",
+      "sentences": [
+        {
+          "simplifiedText": "家里透彻烂了。",
+          "traditionalText": "家裡徹底爛了。",
+          "pinyin": "jiā lǐ tòu chè làn le.",
+          "translation": "The house is utterly ruined.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/cd4cf32d96ab5c8ed10ec81bbb27c2db.mp3",
+          "voiceName": "zh-CN-XiaozhenNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "经过这场洪水的摧残，整个城市已经烂透了。",
+          "traditionalText": "經過這場洪水的摧殘，整個城市已經爛透了。",
+          "pinyin": "jīng guò zhè chǎng hóng shuǐ de cuī cán, zhěng gè chéng shì yǐ jīng làn tòu le.",
+          "translation": "After the devastation of this flood, the entire city is thoroughly ruined.",
+          "audioPath": "zh-CN-XiaoxuanNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/ccba93f8d8390aa296057d890d830289.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

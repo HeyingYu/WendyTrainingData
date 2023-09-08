@@ -1,1 +1,35 @@
-{"simplified":"填空","traditional":"填空","pinyin":"tián kòng","definitions":[{"partsOfSpeech":"verb","meaning":"to fill a job vacancy","sentences":[{"simplifiedText":"他们正在填空。","traditionalText":"他們正在填空。","pinyin":"Tāmen zhèngzài tiánkòng.","translation":"They are filling the vacancy.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/f148a197090a7dc306295829e1392b14.mp3","voiceName":"zh-CN-XiaomengNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"由于前任经理的离职，他们正在尝试填空。","traditionalText":"由於前任經理的離職，他們正在嘗試填空。","pinyin":"Yóuyú qiánrèn jīnglǐ de lízhí, tāmen zhèngzài chángshì tiánkòng.","translation":"Due to the resignation of the previous manager, they are trying to fill the vacancy.","audioPath":"zh-CN-YunyangNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/739eafe485735f5e6ca113fe36e0f8bd.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "填空",
+  "traditional": "填空",
+  "pinyin": "tián kòng",
+  "definitions": [
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to fill a job vacancy",
+      "sentences": [
+        {
+          "simplifiedText": "他们正在填空。",
+          "traditionalText": "他們正在填空。",
+          "pinyin": "Tāmen zhèngzài tiánkòng.",
+          "translation": "They are filling the vacancy.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/f148a197090a7dc306295829e1392b14.mp3",
+          "voiceName": "zh-CN-XiaomengNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "由于前任经理的离职，他们正在尝试填空。",
+          "traditionalText": "由於前任經理的離職，他們正在嘗試填空。",
+          "pinyin": "Yóuyú qiánrèn jīnglǐ de lízhí, tāmen zhèngzài chángshì tiánkòng.",
+          "translation": "Due to the resignation of the previous manager, they are trying to fill the vacancy.",
+          "audioPath": "zh-CN-YunyangNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/739eafe485735f5e6ca113fe36e0f8bd.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

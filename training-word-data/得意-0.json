@@ -1,1 +1,63 @@
-{"simplified":"得意","traditional":"得意","pinyin":"dé yì","definitions":[{"partsOfSpeech":"adjective","meaning":"proud of oneself","sentences":[{"simplifiedText":"他很得意。","traditionalText":"他很得意。","pinyin":"tā hěn déyì.","translation":"He is very proud of himself.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/5eb1b66fcd4242bdbec3c3e4171c654a.mp3","voiceName":"zh-CN-YunxiNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"看到他的孩子赢得比赛，他非常得意。","traditionalText":"看到他的孩子贏得比賽，他非常得意。","pinyin":"kàn dào tā de háizi yíngdé bǐsài, tā fēicháng déyì.","translation":"Seeing his child win the competition, he is very proud.","audioPath":"zh-CN-XiaozhenNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/4447f321f4efe0da4c58751799566fef.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"adj.","meaning":"complacent","sentences":[{"simplifiedText":"他看起来非常得意。","traditionalText":"他看起來非常得意。","pinyin":"Tā kàn qǐlai fēicháng déyì.","translation":"He looks very complacent.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/168a0ec9c82a523945987397307a6e1d.mp3","voiceName":"zh-CN-YunxiNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"他过一会儿竟然对我笑了出来，那笑的样子非常得意，仿佛是得到了什么极大的满足。","traditionalText":"他過一會兒竟然對我笑了出來，那笑的樣子非常得意，仿佛是得到了什麼極大的滿足。","pinyin":"Tā guò yīhuǐr jìngrán duì wǒ xiào le chūlái, nà xiào de yàngzi fēicháng déyì, fǎngfú shì dédào le shé me jí dà de mǎnzú.","translation":"He actually smiled at me after a while that smile looked very complacent, as if he had gotten some great satisfaction.","audioPath":"zh-CN-YunxiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/422ea8060fae49cc57255db3b9c60c47.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "得意",
+  "traditional": "得意",
+  "pinyin": "dé yì",
+  "definitions": [
+    {
+      "partsOfSpeech": "adjective",
+      "meaning": "proud of oneself",
+      "sentences": [
+        {
+          "simplifiedText": "他很得意。",
+          "traditionalText": "他很得意。",
+          "pinyin": "tā hěn déyì.",
+          "translation": "He is very proud of himself.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/5eb1b66fcd4242bdbec3c3e4171c654a.mp3",
+          "voiceName": "zh-CN-YunxiNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "看到他的孩子赢得比赛，他非常得意。",
+          "traditionalText": "看到他的孩子贏得比賽，他非常得意。",
+          "pinyin": "kàn dào tā de háizi yíngdé bǐsài, tā fēicháng déyì.",
+          "translation": "Seeing his child win the competition, he is very proud.",
+          "audioPath": "zh-CN-XiaozhenNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/4447f321f4efe0da4c58751799566fef.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "adj.",
+      "meaning": "complacent",
+      "sentences": [
+        {
+          "simplifiedText": "他看起来非常得意。",
+          "traditionalText": "他看起來非常得意。",
+          "pinyin": "Tā kàn qǐlai fēicháng déyì.",
+          "translation": "He looks very complacent.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/168a0ec9c82a523945987397307a6e1d.mp3",
+          "voiceName": "zh-CN-YunxiNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "他过一会儿竟然对我笑了出来，那笑的样子非常得意，仿佛是得到了什么极大的满足。",
+          "traditionalText": "他過一會兒竟然對我笑了出來，那笑的樣子非常得意，仿佛是得到了什麼極大的滿足。",
+          "pinyin": "Tā guò yīhuǐr jìngrán duì wǒ xiào le chūlái, nà xiào de yàngzi fēicháng déyì, fǎngfú shì dédào le shé me jí dà de mǎnzú.",
+          "translation": "He actually smiled at me after a while that smile looked very complacent, as if he had gotten some great satisfaction.",
+          "audioPath": "zh-CN-YunxiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/422ea8060fae49cc57255db3b9c60c47.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

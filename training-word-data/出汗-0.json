@@ -1,1 +1,35 @@
-{"simplified":"出汗","traditional":"出汗","pinyin":"chū hàn","definitions":[{"partsOfSpeech":"verb","meaning":"to perspire","sentences":[{"simplifiedText":"我在跑步后出汗了。","traditionalText":"我在慢跑後出汗了。","pinyin":"wǒ zài pǎobù hòu chūhànle.","translation":"I perspired after running.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/52671c0f7b3ca280d247d2566c927d54.mp3","voiceName":"zh-CN-XiaomengNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"在炎炎烈日下，他在田里劳作，不一会儿就开始出汗了。","traditionalText":"在炎炎烈日下，他在田裡勞作，不一會兒就開始出汗了。","pinyin":"zài yányàn lièrì xià, tā zài tián lǐ láozuò, bù yíhuǐr jiù kāishǐ chūhànle.","translation":"Under the blazing sun, he was working in the field, and began to perspire not long after.","audioPath":"zh-CN-XiaoyanNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/80161dfea32ef1bd2119b52547bfd0d9.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "出汗",
+  "traditional": "出汗",
+  "pinyin": "chū hàn",
+  "definitions": [
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to perspire",
+      "sentences": [
+        {
+          "simplifiedText": "我在跑步后出汗了。",
+          "traditionalText": "我在慢跑後出汗了。",
+          "pinyin": "wǒ zài pǎobù hòu chūhànle.",
+          "translation": "I perspired after running.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/52671c0f7b3ca280d247d2566c927d54.mp3",
+          "voiceName": "zh-CN-XiaomengNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "在炎炎烈日下，他在田里劳作，不一会儿就开始出汗了。",
+          "traditionalText": "在炎炎烈日下，他在田裡勞作，不一會兒就開始出汗了。",
+          "pinyin": "zài yányàn lièrì xià, tā zài tián lǐ láozuò, bù yíhuǐr jiù kāishǐ chūhànle.",
+          "translation": "Under the blazing sun, he was working in the field, and began to perspire not long after.",
+          "audioPath": "zh-CN-XiaoyanNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/80161dfea32ef1bd2119b52547bfd0d9.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

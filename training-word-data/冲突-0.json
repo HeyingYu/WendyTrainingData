@@ -1,1 +1,91 @@
-{"simplified":"冲突","traditional":"衝突","pinyin":"chōng tū","definitions":[{"partsOfSpeech":"noun","meaning":"conflict","sentences":[{"simplifiedText":"这次会议中出现了一些冲突。","traditionalText":"這次會議中出現了一些衝突。","pinyin":"zhè cì huì yì zhōng chū xiàn le yī xiē chōng tū.","translation":"There were some conflicts in the meeting.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/afc016fe9a258e9f050568bddfa2ef9f.mp3","voiceName":"zh-CN-XiaomengNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"由于资源的分配不均，公司内部产生了严重的冲突。","traditionalText":"由於資源的分配不均，公司內部產生了嚴重的衝突。","pinyin":"yóu yú zī yuán de fēn pèi bù jūn, gōng sī nèi bù chǎn shēng le yán zhòng de chōng tū.","translation":"Due to the uneven distribution of resources, serious conflicts arose within the company.","audioPath":"zh-CN-XiaoxuanNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a1e8287710240ec19a4cf3cbbd6e036e.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"noun","meaning":"clash of opposing forces","sentences":[{"simplifiedText":"两军发生了冲突。","traditionalText":"兩軍發生了衝突。","pinyin":"Liǎng jūn fāshēng le chōngtū.","translation":"The two armies clashed.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/2c555b41f397aad60837de158ca1eaf9.mp3","voiceName":"zh-CN-XiaozhenNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"由于利益的冲突，两个公司之间发生了激烈的竞争。","traditionalText":"由於利益的衝突，兩個公司之間發生了激烈的競爭。","pinyin":"Yóu yú lìyì de chōngtū, liǎng gè gōngsī zhī jiān fāshēng le jīliè de jìngzhēng.","translation":"Due to the clash of interests, there was fierce competition between the two companies.","audioPath":"zh-CN-XiaoruiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/ea0e0b5f16258868789b745a345aaf00.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"Noun","meaning":"contention","sentences":[{"simplifiedText":"我想避免任何冲突。","traditionalText":"我想避免任何衝突。","pinyin":"wǒ xiǎng bìmiǎn rènhé chōngtū.","translation":"I want to avoid any contention.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/7f18bd88132cb0430cd1f5843981db71.mp3","voiceName":"zh-CN-YunfengNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"在队伍中，我们应始终避免内部冲突以保持和谐。","traditionalText":"在隊伍中，我們應始終避免內部衝突以保持和諧。","pinyin":"zài duìwǔ zhōng，wǒmen yīng shǐzhōng bìmiǎn nèibù chōngtū yǐ bǎochí héxié.","translation":"In a team, we should always avoid internal contention to maintain harmony.","audioPath":"zh-CN-XiaoxuanNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/04272a96b6f9f4285e735a1372922d63.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "冲突",
+  "traditional": "衝突",
+  "pinyin": "chōng tū",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "conflict",
+      "sentences": [
+        {
+          "simplifiedText": "这次会议中出现了一些冲突。",
+          "traditionalText": "這次會議中出現了一些衝突。",
+          "pinyin": "zhè cì huì yì zhōng chū xiàn le yī xiē chōng tū.",
+          "translation": "There were some conflicts in the meeting.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/afc016fe9a258e9f050568bddfa2ef9f.mp3",
+          "voiceName": "zh-CN-XiaomengNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "由于资源的分配不均，公司内部产生了严重的冲突。",
+          "traditionalText": "由於資源的分配不均，公司內部產生了嚴重的衝突。",
+          "pinyin": "yóu yú zī yuán de fēn pèi bù jūn, gōng sī nèi bù chǎn shēng le yán zhòng de chōng tū.",
+          "translation": "Due to the uneven distribution of resources, serious conflicts arose within the company.",
+          "audioPath": "zh-CN-XiaoxuanNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a1e8287710240ec19a4cf3cbbd6e036e.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "clash of opposing forces",
+      "sentences": [
+        {
+          "simplifiedText": "两军发生了冲突。",
+          "traditionalText": "兩軍發生了衝突。",
+          "pinyin": "Liǎng jūn fāshēng le chōngtū.",
+          "translation": "The two armies clashed.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/2c555b41f397aad60837de158ca1eaf9.mp3",
+          "voiceName": "zh-CN-XiaozhenNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "由于利益的冲突，两个公司之间发生了激烈的竞争。",
+          "traditionalText": "由於利益的衝突，兩個公司之間發生了激烈的競爭。",
+          "pinyin": "Yóu yú lìyì de chōngtū, liǎng gè gōngsī zhī jiān fāshēng le jīliè de jìngzhēng.",
+          "translation": "Due to the clash of interests, there was fierce competition between the two companies.",
+          "audioPath": "zh-CN-XiaoruiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/ea0e0b5f16258868789b745a345aaf00.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "Noun",
+      "meaning": "contention",
+      "sentences": [
+        {
+          "simplifiedText": "我想避免任何冲突。",
+          "traditionalText": "我想避免任何衝突。",
+          "pinyin": "wǒ xiǎng bìmiǎn rènhé chōngtū.",
+          "translation": "I want to avoid any contention.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/7f18bd88132cb0430cd1f5843981db71.mp3",
+          "voiceName": "zh-CN-YunfengNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "在队伍中，我们应始终避免内部冲突以保持和谐。",
+          "traditionalText": "在隊伍中，我們應始終避免內部衝突以保持和諧。",
+          "pinyin": "zài duìwǔ zhōng，wǒmen yīng shǐzhōng bìmiǎn nèibù chōngtū yǐ bǎochí héxié.",
+          "translation": "In a team, we should always avoid internal contention to maintain harmony.",
+          "audioPath": "zh-CN-XiaoxuanNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/04272a96b6f9f4285e735a1372922d63.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

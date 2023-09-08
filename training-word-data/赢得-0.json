@@ -1,1 +1,35 @@
-{"simplified":"赢得","traditional":"贏得","pinyin":"yíng dé","definitions":[{"partsOfSpeech":"verb","meaning":"to win","sentences":[{"simplifiedText":"我们必须赢得这场比赛。","traditionalText":"我們必須贏得這場比賽。","pinyin":"wǒ men bì xū yíng dé zhè chǎng bǐ sài。","translation":"We must win this match.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/2d9db270c1c2feb3cafc0b4d03be3d0a.mp3","voiceName":"zh-CN-XiaoxuanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"尽管有很多困难，他们仍能赢得比赛。","traditionalText":"儘管有很多困難，他們仍能贏得比賽。","pinyin":"jǐn guǎn yǒu hěn duō kùn nán, tā men réng néng yíng dé bǐ sài。","translation":"Despite many difficulties, they are still able to win the match.","audioPath":"zh-CN-XiaoxiaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/6b2457a9d06ffbeea7473723b33fc56b.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "赢得",
+  "traditional": "贏得",
+  "pinyin": "yíng dé",
+  "definitions": [
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to win",
+      "sentences": [
+        {
+          "simplifiedText": "我们必须赢得这场比赛。",
+          "traditionalText": "我們必須贏得這場比賽。",
+          "pinyin": "wǒ men bì xū yíng dé zhè chǎng bǐ sài。",
+          "translation": "We must win this match.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/2d9db270c1c2feb3cafc0b4d03be3d0a.mp3",
+          "voiceName": "zh-CN-XiaoxuanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "尽管有很多困难，他们仍能赢得比赛。",
+          "traditionalText": "儘管有很多困難，他們仍能贏得比賽。",
+          "pinyin": "jǐn guǎn yǒu hěn duō kùn nán, tā men réng néng yíng dé bǐ sài。",
+          "translation": "Despite many difficulties, they are still able to win the match.",
+          "audioPath": "zh-CN-XiaoxiaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/6b2457a9d06ffbeea7473723b33fc56b.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

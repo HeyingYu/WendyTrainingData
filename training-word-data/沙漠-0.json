@@ -1,1 +1,35 @@
-{"simplified":"沙漠","traditional":"沙漠","pinyin":"shā mò","definitions":[{"partsOfSpeech":"noun","meaning":"desert","sentences":[{"simplifiedText":"我从来没有去过沙漠。","traditionalText":"我從來沒有去過沙漠。","pinyin":"Wǒ cónglái méiyǒu qùguò shāmò.","translation":"I have never been to a desert.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e144d2a7f5f815279e005273b5072ff9.mp3","voiceName":"zh-CN-YunhaoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"尽管沙漠看起来充满死亡与绝望，但是它也孕育着生命和希望。","traditionalText":"儘管沙漠看起來充滿死亡與絕望，但是它也孕育著生命和希望。","pinyin":"Jǐnguǎn shāmò kàn qǐlái chōngmǎn sǐwáng yǔ juéwàng, dànshì tā yě yùnyù zhe shēngmìng hé xīwàng.","translation":"Even though the desert seems full of death and despair, it also nurtures life and hope.","audioPath":"zh-CN-XiaoyanNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/804682c8a865ca870e8809f4c686e1a6.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "沙漠",
+  "traditional": "沙漠",
+  "pinyin": "shā mò",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "desert",
+      "sentences": [
+        {
+          "simplifiedText": "我从来没有去过沙漠。",
+          "traditionalText": "我從來沒有去過沙漠。",
+          "pinyin": "Wǒ cónglái méiyǒu qùguò shāmò.",
+          "translation": "I have never been to a desert.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e144d2a7f5f815279e005273b5072ff9.mp3",
+          "voiceName": "zh-CN-YunhaoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "尽管沙漠看起来充满死亡与绝望，但是它也孕育着生命和希望。",
+          "traditionalText": "儘管沙漠看起來充滿死亡與絕望，但是它也孕育著生命和希望。",
+          "pinyin": "Jǐnguǎn shāmò kàn qǐlái chōngmǎn sǐwáng yǔ juéwàng, dànshì tā yě yùnyù zhe shēngmìng hé xīwàng.",
+          "translation": "Even though the desert seems full of death and despair, it also nurtures life and hope.",
+          "audioPath": "zh-CN-XiaoyanNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/804682c8a865ca870e8809f4c686e1a6.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

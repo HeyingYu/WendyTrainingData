@@ -1,1 +1,35 @@
-{"simplified":"诚实","traditional":"誠實","pinyin":"chéng shí","definitions":[{"partsOfSpeech":"adj.","meaning":"honest","sentences":[{"simplifiedText":"他是个很诚实的人。","traditionalText":"他是個很誠實的人。","pinyin":"Tā shì gè hěn chéngshí de rén.","translation":"He is a very honest person.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/feb13b793636eb9fd86c800411feddbc.mp3","voiceName":"zh-CN-XiaochenNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"在商业中，诚实不仅是道德规范，也是成功的关键因素。","traditionalText":"在商業中，誠實不僅是道德規範，也是成功的關鍵因素。","pinyin":"Zài shāngyè zhōng, chéngshí bùjǐn shì dàodé guīfàn, yěshì chénggōng de guānjiàn yīnsù.","translation":"In business, honesty is not only a moral norm, but also a key factor for success.","audioPath":"zh-CN-YunjianNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/57515c95ee6b1df38e5e4455613dc760.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "诚实",
+  "traditional": "誠實",
+  "pinyin": "chéng shí",
+  "definitions": [
+    {
+      "partsOfSpeech": "adj.",
+      "meaning": "honest",
+      "sentences": [
+        {
+          "simplifiedText": "他是个很诚实的人。",
+          "traditionalText": "他是個很誠實的人。",
+          "pinyin": "Tā shì gè hěn chéngshí de rén.",
+          "translation": "He is a very honest person.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/feb13b793636eb9fd86c800411feddbc.mp3",
+          "voiceName": "zh-CN-XiaochenNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "在商业中，诚实不仅是道德规范，也是成功的关键因素。",
+          "traditionalText": "在商業中，誠實不僅是道德規範，也是成功的關鍵因素。",
+          "pinyin": "Zài shāngyè zhōng, chéngshí bùjǐn shì dàodé guīfàn, yěshì chénggōng de guānjiàn yīnsù.",
+          "translation": "In business, honesty is not only a moral norm, but also a key factor for success.",
+          "audioPath": "zh-CN-YunjianNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/57515c95ee6b1df38e5e4455613dc760.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

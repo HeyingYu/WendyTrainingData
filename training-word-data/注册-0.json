@@ -1,1 +1,35 @@
-{"simplified":"注册","traditional":"註冊","pinyin":"zhù cè","definitions":[{"partsOfSpeech":"Verb","meaning":"to register","sentences":[{"simplifiedText":"我需要注册一个帐户。","traditionalText":"我需要註冊一個帳戶。","pinyin":"Wǒ xūyào zhùcè yīgè zhànghù.","translation":"I need to register an account.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d4a6507dbd4c279e5189c4062b008775.mp3","voiceName":"zh-CN-XiaomoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"在网站上进行注册后，我将可以享受他们的会员优惠。","traditionalText":"在網站上進行註冊後，我將可以享受他們的會員優惠。","pinyin":"Zài wǎngzhàn shàng jìnxíng zhùcè hòu, wǒ jiāng kěyǐ xiǎngshòu tāmen de huìyuán yōuhuì.","translation":"After registering on the website, I will be able to enjoy their member privileges.","audioPath":"zh-CN-XiaomoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/ffefd8501b72644bcbf05c7c0d309205.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "注册",
+  "traditional": "註冊",
+  "pinyin": "zhù cè",
+  "definitions": [
+    {
+      "partsOfSpeech": "Verb",
+      "meaning": "to register",
+      "sentences": [
+        {
+          "simplifiedText": "我需要注册一个帐户。",
+          "traditionalText": "我需要註冊一個帳戶。",
+          "pinyin": "Wǒ xūyào zhùcè yīgè zhànghù.",
+          "translation": "I need to register an account.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d4a6507dbd4c279e5189c4062b008775.mp3",
+          "voiceName": "zh-CN-XiaomoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "在网站上进行注册后，我将可以享受他们的会员优惠。",
+          "traditionalText": "在網站上進行註冊後，我將可以享受他們的會員優惠。",
+          "pinyin": "Zài wǎngzhàn shàng jìnxíng zhùcè hòu, wǒ jiāng kěyǐ xiǎngshòu tāmen de huìyuán yōuhuì.",
+          "translation": "After registering on the website, I will be able to enjoy their member privileges.",
+          "audioPath": "zh-CN-XiaomoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/ffefd8501b72644bcbf05c7c0d309205.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

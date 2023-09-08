@@ -1,1 +1,63 @@
-{"simplified":"无所谓","traditional":"無所謂","pinyin":"wú suǒ wèi","definitions":[{"partsOfSpeech":"Verb phrase","meaning":"to be indifferent","sentences":[{"simplifiedText":"我对去哪儿无所谓。","traditionalText":"我對去哪兒無所謂。","pinyin":"wǒ duì qù nǎ'er wú suǒ wèi。","translation":"I don't care where to go.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/bfcc27ce8d24cf39bbe4a36d4ed5dd09.mp3","voiceName":"zh-CN-XiaohanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"我是因为你的冷漠，才学会无所谓。","traditionalText":"我是因為你的冷漠，才學會無所謂。","pinyin":"wǒ shì yīn wèi nǐ de lěng mò, cái xué huì wú suǒ wèi。","translation":"It is because of your indifference that I have learned to be indifferent.","audioPath":"zh-CN-XiaoxiaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/2a64231d3beb967fb85b86de3c3e2412.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"Verb, Idiomatic expression","meaning":"cannot be said to be","sentences":[{"simplifiedText":"他对那件事无所谓。","traditionalText":"他對那件事無所謂。","pinyin":"Tā duì nà jiàn shì wúsuǒwèi.","translation":"He doesn't care about that matter.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/021f44b705b8eebc0dd236250ac91409.mp3","voiceName":"zh-CN-XiaohanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"对于他来说，得到或者失去这个机会，他都无所谓。","traditionalText":"對於他來說，得到或者失去這個機會，他都無所謂。","pinyin":"Duìyú tā lái shuō, dédào huòzhě shīqù zhège jīhuì, tā dōu wúsuǒwèi.","translation":"For him, whether he gets or loses this opportunity, he doesn't care.","audioPath":"zh-CN-YunfengNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/143a02e3c9b01095a223b8fb5c908137.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "无所谓",
+  "traditional": "無所謂",
+  "pinyin": "wú suǒ wèi",
+  "definitions": [
+    {
+      "partsOfSpeech": "Verb phrase",
+      "meaning": "to be indifferent",
+      "sentences": [
+        {
+          "simplifiedText": "我对去哪儿无所谓。",
+          "traditionalText": "我對去哪兒無所謂。",
+          "pinyin": "wǒ duì qù nǎ'er wú suǒ wèi。",
+          "translation": "I don't care where to go.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/bfcc27ce8d24cf39bbe4a36d4ed5dd09.mp3",
+          "voiceName": "zh-CN-XiaohanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "我是因为你的冷漠，才学会无所谓。",
+          "traditionalText": "我是因為你的冷漠，才學會無所謂。",
+          "pinyin": "wǒ shì yīn wèi nǐ de lěng mò, cái xué huì wú suǒ wèi。",
+          "translation": "It is because of your indifference that I have learned to be indifferent.",
+          "audioPath": "zh-CN-XiaoxiaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/2a64231d3beb967fb85b86de3c3e2412.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "Verb, Idiomatic expression",
+      "meaning": "cannot be said to be",
+      "sentences": [
+        {
+          "simplifiedText": "他对那件事无所谓。",
+          "traditionalText": "他對那件事無所謂。",
+          "pinyin": "Tā duì nà jiàn shì wúsuǒwèi.",
+          "translation": "He doesn't care about that matter.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/021f44b705b8eebc0dd236250ac91409.mp3",
+          "voiceName": "zh-CN-XiaohanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "对于他来说，得到或者失去这个机会，他都无所谓。",
+          "traditionalText": "對於他來說，得到或者失去這個機會，他都無所謂。",
+          "pinyin": "Duìyú tā lái shuō, dédào huòzhě shīqù zhège jīhuì, tā dōu wúsuǒwèi.",
+          "translation": "For him, whether he gets or loses this opportunity, he doesn't care.",
+          "audioPath": "zh-CN-YunfengNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/143a02e3c9b01095a223b8fb5c908137.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"simplified":"抢救","traditional":"搶救","pinyin":"qiǎng jìu","definitions":[{"partsOfSpeech":"verb","meaning":"to rescue","sentences":[{"simplifiedText":"他正在抢救这个患者。","traditionalText":"他正在搶救這個患者。","pinyin":"Tā zhèngzài qiǎngjiù zhège huànzhě.","translation":"He is rescuing this patient.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9ecacde81241138dfdc2d2dc6c10d07d.mp3","voiceName":"zh-CN-YunjianNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"尽管医生们正在竭尽全力地抢救，患者的生命体征还是在不断下降。","traditionalText":"儘管醫生們正在竭盡全力地搶救，患者的生命體徵還是在不斷下降。","pinyin":"Jǐnguǎn yīshēngmen zhèngzài jiéjìn quánlì dì qiǎngjiù, huànzhě de shēngmìng tǐzhēng háishì zài bùduàn xiàjiàng.","translation":"Even though the doctors are doing their best to rescue, the patient's vital signs are still declining.","audioPath":"zh-CN-YunhaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/1df43524f59b2dc79aab6eb177a7d01d.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "抢救",
+  "traditional": "搶救",
+  "pinyin": "qiǎng jìu",
+  "definitions": [
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to rescue",
+      "sentences": [
+        {
+          "simplifiedText": "他正在抢救这个患者。",
+          "traditionalText": "他正在搶救這個患者。",
+          "pinyin": "Tā zhèngzài qiǎngjiù zhège huànzhě.",
+          "translation": "He is rescuing this patient.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9ecacde81241138dfdc2d2dc6c10d07d.mp3",
+          "voiceName": "zh-CN-YunjianNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "尽管医生们正在竭尽全力地抢救，患者的生命体征还是在不断下降。",
+          "traditionalText": "儘管醫生們正在竭盡全力地搶救，患者的生命體徵還是在不斷下降。",
+          "pinyin": "Jǐnguǎn yīshēngmen zhèngzài jiéjìn quánlì dì qiǎngjiù, huànzhě de shēngmìng tǐzhēng háishì zài bùduàn xiàjiàng.",
+          "translation": "Even though the doctors are doing their best to rescue, the patient's vital signs are still declining.",
+          "audioPath": "zh-CN-YunhaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/1df43524f59b2dc79aab6eb177a7d01d.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

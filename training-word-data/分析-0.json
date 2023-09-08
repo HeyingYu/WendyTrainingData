@@ -1,1 +1,35 @@
-{"simplified":"分析","traditional":"分析","pinyin":"fēn xī","definitions":[{"partsOfSpeech":"verb","meaning":"to analyze","sentences":[{"simplifiedText":"我需要分析这个报告。","traditionalText":"我需要分析這個報告。","pinyin":"wǒ xū yào fēn xī zhè ge bào gào.","translation":"I need to analyze this report.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/cdca20490697cad92309fa166aca0368.mp3","voiceName":"zh-CN-YunxiNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"基于我们的调查，我们需要分析这个市场的情况。","traditionalText":"基於我們的調查，我們需要分析這個市場的情況。","pinyin":"jī yú wǒ men de diào chá, wǒ men xū yào fēn xī zhè ge shì chǎng de qíng kuàng.","translation":"Based on our research, we need to analyze the situation of this market.","audioPath":"zh-CN-YunxiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/56476aee33131158363b88a1d1e20f88.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "分析",
+  "traditional": "分析",
+  "pinyin": "fēn xī",
+  "definitions": [
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to analyze",
+      "sentences": [
+        {
+          "simplifiedText": "我需要分析这个报告。",
+          "traditionalText": "我需要分析這個報告。",
+          "pinyin": "wǒ xū yào fēn xī zhè ge bào gào.",
+          "translation": "I need to analyze this report.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/cdca20490697cad92309fa166aca0368.mp3",
+          "voiceName": "zh-CN-YunxiNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "基于我们的调查，我们需要分析这个市场的情况。",
+          "traditionalText": "基於我們的調查，我們需要分析這個市場的情況。",
+          "pinyin": "jī yú wǒ men de diào chá, wǒ men xū yào fēn xī zhè ge shì chǎng de qíng kuàng.",
+          "translation": "Based on our research, we need to analyze the situation of this market.",
+          "audioPath": "zh-CN-YunxiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/56476aee33131158363b88a1d1e20f88.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

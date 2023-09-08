@@ -1,1 +1,91 @@
-{"simplified":"得以","traditional":"得以","pinyin":"dé yǐ","definitions":[{"partsOfSpeech":"verb helper","meaning":"able to","sentences":[{"simplifiedText":"你得以来参加这个活动","traditionalText":"你得以來參加這個活動","pinyin":"Nǐ déyǐ lái cānjiā zhège huódòng","translation":"You are able to attend this event","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/36f71974d891147f9b72e55b7c319e61.mp3","voiceName":"zh-CN-XiaoruiNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"尽管有许多困难，我们还是得以完成任务","traditionalText":"盡管有許多困難，我們還是得以完成任務","pinyin":"Jǐnguǎn yǒu xǔduō kùnnán, wǒmen háishì déyǐ wánchéng rènwù","translation":"Despite many difficulties, we were still able to complete the mission","audioPath":"zh-CN-YunhaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/827bf4d3028335ea70e05df733f87eb3.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"adjective","meaning":"enabling","sentences":[{"simplifiedText":"你的鼓励让我得以继续。","traditionalText":"你的鼓勵讓我得以繼續。","pinyin":"nǐ de gǔlì ràng wǒ déyǐ jìxù.","translation":"Your encouragement enables me to continue.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e519bcc97afaaf97c886f69681ed3ad9.mp3","voiceName":"zh-CN-YunxiNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"只有得到你的许可，我才得以进入这个房间。","traditionalText":"只有得到你的許可，我才得以進入這個房間。","pinyin":"zhǐyǒu dédào nǐ de xǔkě, wǒ cái déyǐ jìnrù zhège fángjiān.","translation":"Only with your permission am I able to enter this room.","audioPath":"zh-CN-XiaochenNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/33cb745f8566ea6f0d0fb3a908601600.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"phrase","meaning":"finally in a position to","sentences":[{"simplifiedText":"我得以去见我的朋友。","traditionalText":"我得以去見我的朋友。","pinyin":"Wǒ déyǐ qù jiàn wǒ de péngyǒu.","translation":"I am finally in a position to see my friends.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b02c4a41de9ac1ae5afc45eb296e96df.mp3","voiceName":"zh-CN-YunyangNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"经过了这么多的困难和挑战，我终于得以见到了你。","traditionalText":"經過了這麼多的困難和挑戰，我終於得以見到了妳。","pinyin":"Jīngguòle zhème duō de kùnnán hé tiǎozhàn, wǒ zhōngyú déyǐ jiàn dàole nǐ.","translation":"After countless difficulties and challenges, I finally get to see you.","audioPath":"zh-CN-XiaomoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/1e2cb465b4356bcf7f94050d7c7490fe.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "得以",
+  "traditional": "得以",
+  "pinyin": "dé yǐ",
+  "definitions": [
+    {
+      "partsOfSpeech": "verb helper",
+      "meaning": "able to",
+      "sentences": [
+        {
+          "simplifiedText": "你得以来参加这个活动",
+          "traditionalText": "你得以來參加這個活動",
+          "pinyin": "Nǐ déyǐ lái cānjiā zhège huódòng",
+          "translation": "You are able to attend this event",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/36f71974d891147f9b72e55b7c319e61.mp3",
+          "voiceName": "zh-CN-XiaoruiNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "尽管有许多困难，我们还是得以完成任务",
+          "traditionalText": "盡管有許多困難，我們還是得以完成任務",
+          "pinyin": "Jǐnguǎn yǒu xǔduō kùnnán, wǒmen háishì déyǐ wánchéng rènwù",
+          "translation": "Despite many difficulties, we were still able to complete the mission",
+          "audioPath": "zh-CN-YunhaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/827bf4d3028335ea70e05df733f87eb3.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "adjective",
+      "meaning": "enabling",
+      "sentences": [
+        {
+          "simplifiedText": "你的鼓励让我得以继续。",
+          "traditionalText": "你的鼓勵讓我得以繼續。",
+          "pinyin": "nǐ de gǔlì ràng wǒ déyǐ jìxù.",
+          "translation": "Your encouragement enables me to continue.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e519bcc97afaaf97c886f69681ed3ad9.mp3",
+          "voiceName": "zh-CN-YunxiNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "只有得到你的许可，我才得以进入这个房间。",
+          "traditionalText": "只有得到你的許可，我才得以進入這個房間。",
+          "pinyin": "zhǐyǒu dédào nǐ de xǔkě, wǒ cái déyǐ jìnrù zhège fángjiān.",
+          "translation": "Only with your permission am I able to enter this room.",
+          "audioPath": "zh-CN-XiaochenNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/33cb745f8566ea6f0d0fb3a908601600.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "phrase",
+      "meaning": "finally in a position to",
+      "sentences": [
+        {
+          "simplifiedText": "我得以去见我的朋友。",
+          "traditionalText": "我得以去見我的朋友。",
+          "pinyin": "Wǒ déyǐ qù jiàn wǒ de péngyǒu.",
+          "translation": "I am finally in a position to see my friends.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b02c4a41de9ac1ae5afc45eb296e96df.mp3",
+          "voiceName": "zh-CN-YunyangNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "经过了这么多的困难和挑战，我终于得以见到了你。",
+          "traditionalText": "經過了這麼多的困難和挑戰，我終於得以見到了妳。",
+          "pinyin": "Jīngguòle zhème duō de kùnnán hé tiǎozhàn, wǒ zhōngyú déyǐ jiàn dàole nǐ.",
+          "translation": "After countless difficulties and challenges, I finally get to see you.",
+          "audioPath": "zh-CN-XiaomoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/1e2cb465b4356bcf7f94050d7c7490fe.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

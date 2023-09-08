@@ -1,1 +1,35 @@
-{"simplified":"硬件","traditional":"硬件","pinyin":"yìng jiàn","definitions":[{"partsOfSpeech":"noun","meaning":"hardware","sentences":[{"simplifiedText":"我需要更好的硬件来玩这个游戏。","traditionalText":"我需要更好的硬件來玩這個遊戲。","pinyin":"wǒ xūyào gèng hǎo de yìngjiàn lái wán zhè gè yóuxì.","translation":"I need better hardware to play this game.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/10838865a02c27ad2e27aaa03f078f66.mp3","voiceName":"zh-CN-YunxiNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"虽然软件是计算机的灵魂，但硬件是它的基础。","traditionalText":"雖然軟體是計算機的靈魂，但硬件是它的基礎。","pinyin":"suī rán ruǎnjiàn shì jìsuànjī de líng hún, dàn yìngjiàn shì tā de jīchǔ.","translation":"Although software is the soul of the computer, hardware is its foundation.","audioPath":"zh-CN-YunhaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0935d4818fcf1fc6ba1aabcf5a0a2206.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "硬件",
+  "traditional": "硬件",
+  "pinyin": "yìng jiàn",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "hardware",
+      "sentences": [
+        {
+          "simplifiedText": "我需要更好的硬件来玩这个游戏。",
+          "traditionalText": "我需要更好的硬件來玩這個遊戲。",
+          "pinyin": "wǒ xūyào gèng hǎo de yìngjiàn lái wán zhè gè yóuxì.",
+          "translation": "I need better hardware to play this game.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/10838865a02c27ad2e27aaa03f078f66.mp3",
+          "voiceName": "zh-CN-YunxiNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "虽然软件是计算机的灵魂，但硬件是它的基础。",
+          "traditionalText": "雖然軟體是計算機的靈魂，但硬件是它的基礎。",
+          "pinyin": "suī rán ruǎnjiàn shì jìsuànjī de líng hún, dàn yìngjiàn shì tā de jīchǔ.",
+          "translation": "Although software is the soul of the computer, hardware is its foundation.",
+          "audioPath": "zh-CN-YunhaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0935d4818fcf1fc6ba1aabcf5a0a2206.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

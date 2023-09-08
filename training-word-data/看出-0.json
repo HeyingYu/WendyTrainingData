@@ -1,1 +1,35 @@
-{"simplified":"看出","traditional":"看出","pinyin":"kàn chū","definitions":[{"partsOfSpeech":"Verb","meaning":"to make out","sentences":[{"simplifiedText":"你看出来了吗？","traditionalText":"你看出來了嗎？","pinyin":"Nǐ kàn chūlai le ma?","translation":"Did you figure it out?","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/3722f03721e5baca416ae3f7cb9076a0.mp3","voiceName":"zh-CN-YunyeNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"通过他的表情，我可以看出他是真心的。","traditionalText":"透過他的表情，我可以看出他是真心的。","pinyin":"Tòuguò tā de biǎoqíng, wǒ kěyǐ kàn chū tā shì zhēnxīn de.","translation":"Through his expressions, I can make out that he is sincere.","audioPath":"zh-CN-YunfengNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/8f5783d135f38e99609c1eb9de183ef0.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "看出",
+  "traditional": "看出",
+  "pinyin": "kàn chū",
+  "definitions": [
+    {
+      "partsOfSpeech": "Verb",
+      "meaning": "to make out",
+      "sentences": [
+        {
+          "simplifiedText": "你看出来了吗？",
+          "traditionalText": "你看出來了嗎？",
+          "pinyin": "Nǐ kàn chūlai le ma?",
+          "translation": "Did you figure it out?",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/3722f03721e5baca416ae3f7cb9076a0.mp3",
+          "voiceName": "zh-CN-YunyeNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "通过他的表情，我可以看出他是真心的。",
+          "traditionalText": "透過他的表情，我可以看出他是真心的。",
+          "pinyin": "Tòuguò tā de biǎoqíng, wǒ kěyǐ kàn chū tā shì zhēnxīn de.",
+          "translation": "Through his expressions, I can make out that he is sincere.",
+          "audioPath": "zh-CN-YunfengNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/8f5783d135f38e99609c1eb9de183ef0.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

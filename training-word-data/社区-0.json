@@ -1,1 +1,35 @@
-{"simplified":"社区","traditional":"社區","pinyin":"shè qū","definitions":[{"partsOfSpeech":"noun","meaning":"community","sentences":[{"simplifiedText":"这个社区真热闹。","traditionalText":"這個社區真熱鬧。","pinyin":"Zhège shèqū zhēn rènào.","translation":"This community is very lively.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0f04274e86a1b7c01faf9e220d4fff41.mp3","voiceName":"zh-CN-XiaoxuanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"他为了社区的繁荣，贡献了自己的全部精力。","traditionalText":"他為了社區的繁榮，貢獻了自己的全部精力。","pinyin":"Tā wèile shèqū de fánróng, gòngxiànle zìjǐ de quánbù jīnglì.","translation":"He contributed all his energy for the prosperity of the community.","audioPath":"zh-CN-YunyangNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/7fb98d53a77e12cb54bd7a65fec1f0d8.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "社区",
+  "traditional": "社區",
+  "pinyin": "shè qū",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "community",
+      "sentences": [
+        {
+          "simplifiedText": "这个社区真热闹。",
+          "traditionalText": "這個社區真熱鬧。",
+          "pinyin": "Zhège shèqū zhēn rènào.",
+          "translation": "This community is very lively.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0f04274e86a1b7c01faf9e220d4fff41.mp3",
+          "voiceName": "zh-CN-XiaoxuanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "他为了社区的繁荣，贡献了自己的全部精力。",
+          "traditionalText": "他為了社區的繁榮，貢獻了自己的全部精力。",
+          "pinyin": "Tā wèile shèqū de fánróng, gòngxiànle zìjǐ de quánbù jīnglì.",
+          "translation": "He contributed all his energy for the prosperity of the community.",
+          "audioPath": "zh-CN-YunyangNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/7fb98d53a77e12cb54bd7a65fec1f0d8.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

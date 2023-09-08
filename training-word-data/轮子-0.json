@@ -1,1 +1,35 @@
-{"simplified":"轮子","traditional":"輪子","pinyin":"lún zi","definitions":[{"partsOfSpeech":"noun","meaning":"wheel","sentences":[{"simplifiedText":"这是一个车轮。","traditionalText":"這是一個車輪。","pinyin":"zhè shì yīgè chēlún.","translation":"This is a wheel.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/df1232486621a04430bd69b58658dfae.mp3","voiceName":"zh-CN-YunfengNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"他正在更换自行车的轮子。","traditionalText":"他正在更換自行車的輪子。","pinyin":"tā zhèngzài gēnghuàn zìxíngchē de lúnzi.","translation":"He is changing the wheel of the bicycle.","audioPath":"zh-CN-YunyeNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/39bbbb6dd367599e7a214c926ae056da.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "轮子",
+  "traditional": "輪子",
+  "pinyin": "lún zi",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "wheel",
+      "sentences": [
+        {
+          "simplifiedText": "这是一个车轮。",
+          "traditionalText": "這是一個車輪。",
+          "pinyin": "zhè shì yīgè chēlún.",
+          "translation": "This is a wheel.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/df1232486621a04430bd69b58658dfae.mp3",
+          "voiceName": "zh-CN-YunfengNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "他正在更换自行车的轮子。",
+          "traditionalText": "他正在更換自行車的輪子。",
+          "pinyin": "tā zhèngzài gēnghuàn zìxíngchē de lúnzi.",
+          "translation": "He is changing the wheel of the bicycle.",
+          "audioPath": "zh-CN-YunyeNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/39bbbb6dd367599e7a214c926ae056da.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

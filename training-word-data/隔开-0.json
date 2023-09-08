@@ -1,1 +1,35 @@
-{"simplified":"隔开","traditional":"隔開","pinyin":"gé kāi","definitions":[{"partsOfSpeech":"Verb","meaning":"to separate","sentences":[{"simplifiedText":"我们必须隔开这两个物品。","traditionalText":"我們必須隔開這兩個物品。","pinyin":"Wǒmen bìxū gékāi zhè liǎng gè wùpǐn.","translation":"We must separate these two items.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d1c05d06006f80d3cdbee75305a3a6b9.mp3","voiceName":"zh-CN-XiaohanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"由于疫情，人们被迫在家隔开，避免病毒传播。","traditionalText":"由於疫情，人們被迫在家隔開，避免病毒傳播。","pinyin":"Yóuyú yìqíng, rénmen bèi pò zài jiā gékāi, bìmiǎn bìngdú chuánbō.","translation":"Due to the epidemic, people are forced to separate at home to prevent the spread of the virus.","audioPath":"zh-CN-XiaoruiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/7cbe97839b02adbc4b2a051beb07125a.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "隔开",
+  "traditional": "隔開",
+  "pinyin": "gé kāi",
+  "definitions": [
+    {
+      "partsOfSpeech": "Verb",
+      "meaning": "to separate",
+      "sentences": [
+        {
+          "simplifiedText": "我们必须隔开这两个物品。",
+          "traditionalText": "我們必須隔開這兩個物品。",
+          "pinyin": "Wǒmen bìxū gékāi zhè liǎng gè wùpǐn.",
+          "translation": "We must separate these two items.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d1c05d06006f80d3cdbee75305a3a6b9.mp3",
+          "voiceName": "zh-CN-XiaohanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "由于疫情，人们被迫在家隔开，避免病毒传播。",
+          "traditionalText": "由於疫情，人們被迫在家隔開，避免病毒傳播。",
+          "pinyin": "Yóuyú yìqíng, rénmen bèi pò zài jiā gékāi, bìmiǎn bìngdú chuánbō.",
+          "translation": "Due to the epidemic, people are forced to separate at home to prevent the spread of the virus.",
+          "audioPath": "zh-CN-XiaoruiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/7cbe97839b02adbc4b2a051beb07125a.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

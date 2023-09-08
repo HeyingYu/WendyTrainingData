@@ -1,1 +1,35 @@
-{"simplified":"出差","traditional":"出差","pinyin":"chū chāi","definitions":[{"partsOfSpeech":"Verb","meaning":"to go on an official or business trip","sentences":[{"simplifiedText":"我明天要出差。","traditionalText":"我明天要出差。","pinyin":"Wǒ míngtiān yào chūchāi.","translation":"I have to go on a business trip tomorrow.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9cd0bc7c1ee99784e7f6a4231f61a0a7.mp3","voiceName":"zh-CN-YunxiNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"由于这个项目的重要性，我被公司安排下周出差到上海。","traditionalText":"由於這個項目的重要性，我被公司安排下周出差到上海。","pinyin":"Yóuyú zhège xiàngmù de zhòngyàoxìng, wǒ bèi gōngsī ānpái xià zhōu chūchāi dào Shànghǎi.","translation":"Due to the importance of this project, I was arranged by the company to go on a business trip to Shanghai next week.","audioPath":"zh-CN-XiaoruiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/98031b4287b6628a50ac72a47f1f8c85.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "出差",
+  "traditional": "出差",
+  "pinyin": "chū chāi",
+  "definitions": [
+    {
+      "partsOfSpeech": "Verb",
+      "meaning": "to go on an official or business trip",
+      "sentences": [
+        {
+          "simplifiedText": "我明天要出差。",
+          "traditionalText": "我明天要出差。",
+          "pinyin": "Wǒ míngtiān yào chūchāi.",
+          "translation": "I have to go on a business trip tomorrow.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9cd0bc7c1ee99784e7f6a4231f61a0a7.mp3",
+          "voiceName": "zh-CN-YunxiNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "由于这个项目的重要性，我被公司安排下周出差到上海。",
+          "traditionalText": "由於這個項目的重要性，我被公司安排下周出差到上海。",
+          "pinyin": "Yóuyú zhège xiàngmù de zhòngyàoxìng, wǒ bèi gōngsī ānpái xià zhōu chūchāi dào Shànghǎi.",
+          "translation": "Due to the importance of this project, I was arranged by the company to go on a business trip to Shanghai next week.",
+          "audioPath": "zh-CN-XiaoruiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/98031b4287b6628a50ac72a47f1f8c85.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

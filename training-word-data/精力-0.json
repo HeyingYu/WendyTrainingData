@@ -1,1 +1,35 @@
-{"simplified":"精力","traditional":"精力","pinyin":"jīng lì","definitions":[{"partsOfSpeech":"noun","meaning":"energy","sentences":[{"simplifiedText":"我没有精力。","traditionalText":"我沒有精力。","pinyin":"Wǒ méiyǒu jīnglì.","translation":"I have no energy.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0c01981a88eee744243a5201424edcf8.mp3","voiceName":"zh-CN-XiaohanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"由于我连续晚上不睡觉，现在我没有精力去运动。","traditionalText":"由於我連續晚上不睡覺，現在我沒有精力去運動。","pinyin":"Yóu yú wǒ liánxù wǎnshàng bù shuìjiào, xiànzài wǒ méiyǒu jīnglì qù yùndòng.","translation":"Due to my consecutive sleepless nights, I now have no energy to exercise.","audioPath":"zh-CN-YunjianNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/219307754ccacfebc25276716ff0a4b9.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "精力",
+  "traditional": "精力",
+  "pinyin": "jīng lì",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "energy",
+      "sentences": [
+        {
+          "simplifiedText": "我没有精力。",
+          "traditionalText": "我沒有精力。",
+          "pinyin": "Wǒ méiyǒu jīnglì.",
+          "translation": "I have no energy.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0c01981a88eee744243a5201424edcf8.mp3",
+          "voiceName": "zh-CN-XiaohanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "由于我连续晚上不睡觉，现在我没有精力去运动。",
+          "traditionalText": "由於我連續晚上不睡覺，現在我沒有精力去運動。",
+          "pinyin": "Yóu yú wǒ liánxù wǎnshàng bù shuìjiào, xiànzài wǒ méiyǒu jīnglì qù yùndòng.",
+          "translation": "Due to my consecutive sleepless nights, I now have no energy to exercise.",
+          "audioPath": "zh-CN-YunjianNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/219307754ccacfebc25276716ff0a4b9.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,63 @@
-{"simplified":"宽广","traditional":"寬廣","pinyin":"kuān guǎng","definitions":[{"partsOfSpeech":"Adjective","meaning":"wide","sentences":[{"simplifiedText":"这片土地很宽广。","traditionalText":"這片土地很寬廣。","pinyin":"Zhè piàn tǔdì hěn kuānguǎng.","translation":"This land is very wide.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/ed48786b22ff807bbcb9edc37742f301.mp3","voiceName":"zh-CN-YunyangNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"他站在山顶，俯瞰下面宽广的土地，感到异常的宁静。","traditionalText":"他站在山頂，俯瞰下面寬廣的土地，感到異常的寧靜。","pinyin":"Tā zhàn zài shāndǐng, fǔkàn xiàmiàn kuānguǎng de tǔdì, gǎndào yìcháng de níngjìng.","translation":"He stood on top of the mountain, overlooking the wide land below, and felt extraordinarily peaceful.","audioPath":"zh-CN-YunxiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/5c4a50b6f0625f4090a851ecd11f5470.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"Adjective","meaning":"extensive","sentences":[{"simplifiedText":"这个公园非常宽广。","traditionalText":"這個公園非常寬廣。","pinyin":"Zhè gè gōngyuán fēicháng kuānguǎng.","translation":"This park is very extensive.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/692cee63c6442599b71af05774c829dc.mp3","voiceName":"zh-CN-XiaozhenNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"据我了解，这个大学的研究领域非常宽广，涵盖了艺术、科学、文学和技术等众多领域。","traditionalText":"據我了解，這個大學的研究領域非常寬廣，涵蓋了藝術、科學、文學和技術等眾多領域。","pinyin":"Jù wǒ liǎojiě, zhège dàxué de yánjiū lǐngyù fēicháng kuānguǎng, hángài le yìshù, kēxué, wénxué hé jìshù děng zhòngduō lǐngyù.","translation":"From what I understand, the research areas of this university are very extensive, covering many areas such as art, science, literature, and technology.","audioPath":"zh-CN-XiaozhenNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b24fb98f60b2447f72f52b82a00ae115.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "宽广",
+  "traditional": "寬廣",
+  "pinyin": "kuān guǎng",
+  "definitions": [
+    {
+      "partsOfSpeech": "Adjective",
+      "meaning": "wide",
+      "sentences": [
+        {
+          "simplifiedText": "这片土地很宽广。",
+          "traditionalText": "這片土地很寬廣。",
+          "pinyin": "Zhè piàn tǔdì hěn kuānguǎng.",
+          "translation": "This land is very wide.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/ed48786b22ff807bbcb9edc37742f301.mp3",
+          "voiceName": "zh-CN-YunyangNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "他站在山顶，俯瞰下面宽广的土地，感到异常的宁静。",
+          "traditionalText": "他站在山頂，俯瞰下面寬廣的土地，感到異常的寧靜。",
+          "pinyin": "Tā zhàn zài shāndǐng, fǔkàn xiàmiàn kuānguǎng de tǔdì, gǎndào yìcháng de níngjìng.",
+          "translation": "He stood on top of the mountain, overlooking the wide land below, and felt extraordinarily peaceful.",
+          "audioPath": "zh-CN-YunxiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/5c4a50b6f0625f4090a851ecd11f5470.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "Adjective",
+      "meaning": "extensive",
+      "sentences": [
+        {
+          "simplifiedText": "这个公园非常宽广。",
+          "traditionalText": "這個公園非常寬廣。",
+          "pinyin": "Zhè gè gōngyuán fēicháng kuānguǎng.",
+          "translation": "This park is very extensive.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/692cee63c6442599b71af05774c829dc.mp3",
+          "voiceName": "zh-CN-XiaozhenNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "据我了解，这个大学的研究领域非常宽广，涵盖了艺术、科学、文学和技术等众多领域。",
+          "traditionalText": "據我了解，這個大學的研究領域非常寬廣，涵蓋了藝術、科學、文學和技術等眾多領域。",
+          "pinyin": "Jù wǒ liǎojiě, zhège dàxué de yánjiū lǐngyù fēicháng kuānguǎng, hángài le yìshù, kēxué, wénxué hé jìshù děng zhòngduō lǐngyù.",
+          "translation": "From what I understand, the research areas of this university are very extensive, covering many areas such as art, science, literature, and technology.",
+          "audioPath": "zh-CN-XiaozhenNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b24fb98f60b2447f72f52b82a00ae115.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

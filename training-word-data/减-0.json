@@ -1,1 +1,91 @@
-{"simplified":"减","traditional":"減","pinyin":"jiǎn","definitions":[{"partsOfSpeech":"verb","meaning":"to lower","sentences":[{"simplifiedText":"请你把音量减低。","traditionalText":"請你把音量減低。","pinyin":"qǐng nǐ bǎ yīn liàng jiǎn dī。","translation":"Please lower the volume.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/242ecc3b8f42562a923d3d79b1670236.mp3","voiceName":"zh-CN-XiaoruiNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"由于这部电影的评价一直在下降，电影院决定减少这部电影的播放次数。","traditionalText":"由於這部電影的評價一直在下降，電影院決定減少這部電影的播放次數。","pinyin":"yóu yú zhè bù diàn yǐng de píng jià yī zhí zài xià jiàng,diàn yǐng yuàn jué dìng jiǎn shǎo zhè bù diàn yǐng de bō fàng cì shù。","translation":"Due to the constantly decreasing reviews of this movie, the cinema decided to reduce the number of times this movie is shown.","audioPath":"zh-CN-XiaomoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/8f9d41bcf89bc645fd50dad96cf97412.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"verb","meaning":"to reduce","sentences":[{"simplifiedText":"我们需要减少浪费。","traditionalText":"我們需要減少浪費。","pinyin":"Wǒmen xūyào jiǎnshǎo làngfèi.","translation":"We need to reduce waste.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/1785df9e47c87bd00cea555ccc32bff8.mp3","voiceName":"zh-CN-XiaomoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"为了环境保护，我们必须尽可能减少排放量。","traditionalText":"為了環境保護，我們必須盡可能減少排放量。","pinyin":"Wèi le huánjìng bǎohù, wǒmen bìxū jǐn kěnéng jiǎnshǎo páifàngliàng.","translation":"For the sake of environmental protection, we must reduce emissions as much as possible.","audioPath":"zh-CN-YunfengNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/73e7a57d4968007876a1d3a082545fd2.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"verb","meaning":"to diminish","sentences":[{"simplifiedText":"我要减少糖的摄取。","traditionalText":"我要減少糖的攝取。","pinyin":"Wǒ yào jiǎnshǎo táng de shèqǔ.","translation":"I want to reduce my sugar intake.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/cbec3de7c9b93c1ef46e8e3b0c1901df.mp3","voiceName":"zh-CN-YunyeNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"政府正在制定政策以减少消费者对化石燃料的依赖。","traditionalText":"政府正在制定政策以減少消費者對化石燃料的依賴。","pinyin":"Zhèngfǔ zhèngzài zhìdìng zhèngcè yǐ jiǎnshǎo xiāofèi zhě duì huàshí ránliào de yīlài.","translation":"The government is formulating policies to decrease consumers' dependence on fossil fuels.","audioPath":"zh-CN-XiaoyanNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/aa3518a76e7f1e949b36c0b86998a4f0.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "减",
+  "traditional": "減",
+  "pinyin": "jiǎn",
+  "definitions": [
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to lower",
+      "sentences": [
+        {
+          "simplifiedText": "请你把音量减低。",
+          "traditionalText": "請你把音量減低。",
+          "pinyin": "qǐng nǐ bǎ yīn liàng jiǎn dī。",
+          "translation": "Please lower the volume.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/242ecc3b8f42562a923d3d79b1670236.mp3",
+          "voiceName": "zh-CN-XiaoruiNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "由于这部电影的评价一直在下降，电影院决定减少这部电影的播放次数。",
+          "traditionalText": "由於這部電影的評價一直在下降，電影院決定減少這部電影的播放次數。",
+          "pinyin": "yóu yú zhè bù diàn yǐng de píng jià yī zhí zài xià jiàng,diàn yǐng yuàn jué dìng jiǎn shǎo zhè bù diàn yǐng de bō fàng cì shù。",
+          "translation": "Due to the constantly decreasing reviews of this movie, the cinema decided to reduce the number of times this movie is shown.",
+          "audioPath": "zh-CN-XiaomoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/8f9d41bcf89bc645fd50dad96cf97412.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to reduce",
+      "sentences": [
+        {
+          "simplifiedText": "我们需要减少浪费。",
+          "traditionalText": "我們需要減少浪費。",
+          "pinyin": "Wǒmen xūyào jiǎnshǎo làngfèi.",
+          "translation": "We need to reduce waste.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/1785df9e47c87bd00cea555ccc32bff8.mp3",
+          "voiceName": "zh-CN-XiaomoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "为了环境保护，我们必须尽可能减少排放量。",
+          "traditionalText": "為了環境保護，我們必須盡可能減少排放量。",
+          "pinyin": "Wèi le huánjìng bǎohù, wǒmen bìxū jǐn kěnéng jiǎnshǎo páifàngliàng.",
+          "translation": "For the sake of environmental protection, we must reduce emissions as much as possible.",
+          "audioPath": "zh-CN-YunfengNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/73e7a57d4968007876a1d3a082545fd2.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to diminish",
+      "sentences": [
+        {
+          "simplifiedText": "我要减少糖的摄取。",
+          "traditionalText": "我要減少糖的攝取。",
+          "pinyin": "Wǒ yào jiǎnshǎo táng de shèqǔ.",
+          "translation": "I want to reduce my sugar intake.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/cbec3de7c9b93c1ef46e8e3b0c1901df.mp3",
+          "voiceName": "zh-CN-YunyeNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "政府正在制定政策以减少消费者对化石燃料的依赖。",
+          "traditionalText": "政府正在制定政策以減少消費者對化石燃料的依賴。",
+          "pinyin": "Zhèngfǔ zhèngzài zhìdìng zhèngcè yǐ jiǎnshǎo xiāofèi zhě duì huàshí ránliào de yīlài.",
+          "translation": "The government is formulating policies to decrease consumers' dependence on fossil fuels.",
+          "audioPath": "zh-CN-XiaoyanNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/aa3518a76e7f1e949b36c0b86998a4f0.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

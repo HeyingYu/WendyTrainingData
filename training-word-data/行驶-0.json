@@ -1,1 +1,35 @@
-{"simplified":"行驶","traditional":"行駛","pinyin":"xíng shǐ","definitions":[{"partsOfSpeech":"Verb","meaning":"to travel along a route (of vehicles etc)","sentences":[{"simplifiedText":"你是如何行驶这辆车的?","traditionalText":"你是如何行駛這輛車的?","pinyin":"Nǐ shì rúhé xíngshǐ zhè liàng chē de?","translation":"How do you drive this car?","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/49882ad00ae89325d31bb26662ae9963.mp3","voiceName":"zh-CN-XiaoxuanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"为了去北京,我们必须沿这条路线行驶。","traditionalText":"為了去北京,我們必須沿這條路線行駛。","pinyin":"Wèile qù běijīng, wǒmen bìxū yán zhè tiáo lùxiàn xíngshǐ.","translation":"In order to go to Beijing, we must travel along this route.","audioPath":"zh-CN-XiaoxiaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/ba3c200d40346c75eb051ca775238ef9.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "行驶",
+  "traditional": "行駛",
+  "pinyin": "xíng shǐ",
+  "definitions": [
+    {
+      "partsOfSpeech": "Verb",
+      "meaning": "to travel along a route (of vehicles etc)",
+      "sentences": [
+        {
+          "simplifiedText": "你是如何行驶这辆车的?",
+          "traditionalText": "你是如何行駛這輛車的?",
+          "pinyin": "Nǐ shì rúhé xíngshǐ zhè liàng chē de?",
+          "translation": "How do you drive this car?",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/49882ad00ae89325d31bb26662ae9963.mp3",
+          "voiceName": "zh-CN-XiaoxuanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "为了去北京,我们必须沿这条路线行驶。",
+          "traditionalText": "為了去北京,我們必須沿這條路線行駛。",
+          "pinyin": "Wèile qù běijīng, wǒmen bìxū yán zhè tiáo lùxiàn xíngshǐ.",
+          "translation": "In order to go to Beijing, we must travel along this route.",
+          "audioPath": "zh-CN-XiaoxiaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/ba3c200d40346c75eb051ca775238ef9.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

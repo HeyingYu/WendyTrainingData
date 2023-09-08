@@ -1,1 +1,63 @@
-{"simplified":"规则","traditional":"規則","pinyin":"guī zé","definitions":[{"partsOfSpeech":"noun","meaning":"rule","sentences":[{"simplifiedText":"这是一个规则。","traditionalText":"這是一個規則。","pinyin":"Zhè shì yīgè guīzé.","translation":"This is a rule.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/fc9642a99e425c67e558dd2eeabbb055.mp3","voiceName":"zh-CN-YunxiNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"根据公司的规则，我们不能在工作时间使用手机。","traditionalText":"根據公司的規則，我們不能在工作時間使用手機。","pinyin":"Gēnjù gōngsī de guīzé, wǒmen bùnéng zài gōngzuò shíjiān shǐyòng shǒujī.","translation":"According to the company's rules, we cannot use cell phones during work hours.","audioPath":"zh-CN-XiaoxuanNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/c3b12de15c460f7df0f664ad2a40dd6d.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"noun","meaning":"rules and regulations","sentences":[{"simplifiedText":"我必须遵守学校的规则。","traditionalText":"我必須遵守學校的規則。","pinyin":"wǒ bìxū zūnshǒu xuéxiào de guīzé.","translation":"I have to respect the rules of the school.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/1583a7a6b6e3fae74194c9199161687a.mp3","voiceName":"zh-CN-XiaoxuanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"如果我们不遵守这些规则，我们可能会面临严重的后果。","traditionalText":"如果我們不遵守這些規則，我們可能會面臨嚴重的後果。","pinyin":"rúguǒ wǒmen bù zūnshǒu zhèxiē guīzé, wǒmen kěnéng huì miàn lín yánzhòng de hòuguǒ.","translation":"If we do not follow these rules, we may face serious consequences.","audioPath":"zh-CN-XiaozhenNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/c3287ea5058b6fae80b5cc693f021708.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "规则",
+  "traditional": "規則",
+  "pinyin": "guī zé",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "rule",
+      "sentences": [
+        {
+          "simplifiedText": "这是一个规则。",
+          "traditionalText": "這是一個規則。",
+          "pinyin": "Zhè shì yīgè guīzé.",
+          "translation": "This is a rule.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/fc9642a99e425c67e558dd2eeabbb055.mp3",
+          "voiceName": "zh-CN-YunxiNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "根据公司的规则，我们不能在工作时间使用手机。",
+          "traditionalText": "根據公司的規則，我們不能在工作時間使用手機。",
+          "pinyin": "Gēnjù gōngsī de guīzé, wǒmen bùnéng zài gōngzuò shíjiān shǐyòng shǒujī.",
+          "translation": "According to the company's rules, we cannot use cell phones during work hours.",
+          "audioPath": "zh-CN-XiaoxuanNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/c3b12de15c460f7df0f664ad2a40dd6d.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "rules and regulations",
+      "sentences": [
+        {
+          "simplifiedText": "我必须遵守学校的规则。",
+          "traditionalText": "我必須遵守學校的規則。",
+          "pinyin": "wǒ bìxū zūnshǒu xuéxiào de guīzé.",
+          "translation": "I have to respect the rules of the school.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/1583a7a6b6e3fae74194c9199161687a.mp3",
+          "voiceName": "zh-CN-XiaoxuanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "如果我们不遵守这些规则，我们可能会面临严重的后果。",
+          "traditionalText": "如果我們不遵守這些規則，我們可能會面臨嚴重的後果。",
+          "pinyin": "rúguǒ wǒmen bù zūnshǒu zhèxiē guīzé, wǒmen kěnéng huì miàn lín yánzhòng de hòuguǒ.",
+          "translation": "If we do not follow these rules, we may face serious consequences.",
+          "audioPath": "zh-CN-XiaozhenNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/c3287ea5058b6fae80b5cc693f021708.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

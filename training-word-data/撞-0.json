@@ -1,1 +1,63 @@
-{"simplified":"撞","traditional":"撞","pinyin":"zhuàng","definitions":[{"partsOfSpeech":"verb","meaning":"to knock against","sentences":[{"simplifiedText":"他不小心撞到了桌子。","traditionalText":"他不小心撞到了桌子。","pinyin":"tā bùxiǎoxīn zhuàng dào le zhuōzi","translation":"He accidentally knocked against the table.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d17e1e3752efbd9a390a38b56f783840.mp3","voiceName":"zh-CN-XiaoxuanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"他正在开车的时候，因为没有注意路况，所以撞到了路边的树。","traditionalText":"他正在開車的時候，因為沒有注意路況，所以撞到了路邊的樹。","pinyin":"tā zhèngzài kāichē de shíhòu, yīnwèi méiyǒu zhùyì lùkuàng, suǒyǐ zhuàng dào le lùbiān de shù","translation":"He knocked against a tree by the side of the road because he didn't pay attention to the road conditions while he was driving.","audioPath":"zh-CN-XiaozhenNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/1568aebd083f8bd408bacee37cd4adbf.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"verb","meaning":"to run into","sentences":[{"simplifiedText":"我撞到了墙。","traditionalText":"我撞到了墻。","pinyin":"Wǒ zhuàng dào le qiáng.","translation":"I ran into the wall.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/5ac997b19d176ec925f3f59083650372.mp3","voiceName":"zh-CN-YunfengNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"我在匆忙中不小心撞到了玻璃门，吓得我一个激灵。","traditionalText":"我在匆忙中不小心撞到了玻璃門，嚇得我一個激靈。","pinyin":"Wǒ zài cōngmáng zhōng bù xiǎoxīn zhuàng dào le bōlímén, xià de wǒ yīgè jī líng.","translation":"In my hurry, I accidentally ran into the glass door, scaring myself to jump.","audioPath":"zh-CN-XiaomoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/05725337546d1b33d09a4bb8fa2b2aa3.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "撞",
+  "traditional": "撞",
+  "pinyin": "zhuàng",
+  "definitions": [
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to knock against",
+      "sentences": [
+        {
+          "simplifiedText": "他不小心撞到了桌子。",
+          "traditionalText": "他不小心撞到了桌子。",
+          "pinyin": "tā bùxiǎoxīn zhuàng dào le zhuōzi",
+          "translation": "He accidentally knocked against the table.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d17e1e3752efbd9a390a38b56f783840.mp3",
+          "voiceName": "zh-CN-XiaoxuanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "他正在开车的时候，因为没有注意路况，所以撞到了路边的树。",
+          "traditionalText": "他正在開車的時候，因為沒有注意路況，所以撞到了路邊的樹。",
+          "pinyin": "tā zhèngzài kāichē de shíhòu, yīnwèi méiyǒu zhùyì lùkuàng, suǒyǐ zhuàng dào le lùbiān de shù",
+          "translation": "He knocked against a tree by the side of the road because he didn't pay attention to the road conditions while he was driving.",
+          "audioPath": "zh-CN-XiaozhenNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/1568aebd083f8bd408bacee37cd4adbf.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to run into",
+      "sentences": [
+        {
+          "simplifiedText": "我撞到了墙。",
+          "traditionalText": "我撞到了墻。",
+          "pinyin": "Wǒ zhuàng dào le qiáng.",
+          "translation": "I ran into the wall.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/5ac997b19d176ec925f3f59083650372.mp3",
+          "voiceName": "zh-CN-YunfengNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "我在匆忙中不小心撞到了玻璃门，吓得我一个激灵。",
+          "traditionalText": "我在匆忙中不小心撞到了玻璃門，嚇得我一個激靈。",
+          "pinyin": "Wǒ zài cōngmáng zhōng bù xiǎoxīn zhuàng dào le bōlímén, xià de wǒ yīgè jī líng.",
+          "translation": "In my hurry, I accidentally ran into the glass door, scaring myself to jump.",
+          "audioPath": "zh-CN-XiaomoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/05725337546d1b33d09a4bb8fa2b2aa3.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

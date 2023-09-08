@@ -1,1 +1,63 @@
-{"simplified":"圈","traditional":"圈","pinyin":"quān","definitions":[{"partsOfSpeech":"verb","meaning":"to confine","sentences":[{"simplifiedText":"你不能把我圈在这里。","traditionalText":"你不能把我圈在這裡。","pinyin":"nǐ bù néng bǎ wǒ quān zài zhè lǐ。","translation":"You can't confine me here.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/50b81edc60a7fa2ac7124020eff2096f.mp3","voiceName":"zh-CN-XiaohanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"建议你不要试图把他的想法圈在一个小范围内，因为他的思维总是非常开阔。","traditionalText":"建議你不要試圖把他的想法圈在一個小範圍內，因為他的思維總是非常開闊。","pinyin":"jiàn yì nǐ bù yào shì tú bǎ tā de xiǎng fǎ quān zài yī gè xiǎo fàn wéi nèi, yīn wéi tā de sī wéi zǒng shì fēi cháng kāi kuò。","translation":"It's suggested that you do not try to confine his ideas within a small range, as his thinking is always very broad.","audioPath":"zh-CN-YunxiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/4b7de7143bc7f0b0977f4cffb56af34d.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"verb","meaning":"to pen in","sentences":[{"simplifiedText":"他圈了一只羊在树下。","traditionalText":"他圈了一隻羊在樹下。","pinyin":"tā quān le yī zhī yáng zài shù xià.","translation":"He penned a sheep under the tree.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a88d42f12a5069cce415f3ce53f3cf5d.mp3","voiceName":"zh-CN-XiaomoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"他用木栅栏圈起一片牧场，以防止羊群离开。","traditionalText":"他用木柵欄圈起一片牧場，以防止羊群離開。","pinyin":"tā yòng mù zhà lán quān qǐ yī piàn mù chǎng, yǐ fáng zhǐ yáng qún lí kāi.","translation":"He used a wooden fence to pen in a pasture, preventing the sheep from leaving.","audioPath":"zh-CN-XiaoxuanNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a210ef4b8a52235ae2963f3dd579a875.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "圈",
+  "traditional": "圈",
+  "pinyin": "quān",
+  "definitions": [
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to confine",
+      "sentences": [
+        {
+          "simplifiedText": "你不能把我圈在这里。",
+          "traditionalText": "你不能把我圈在這裡。",
+          "pinyin": "nǐ bù néng bǎ wǒ quān zài zhè lǐ。",
+          "translation": "You can't confine me here.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/50b81edc60a7fa2ac7124020eff2096f.mp3",
+          "voiceName": "zh-CN-XiaohanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "建议你不要试图把他的想法圈在一个小范围内，因为他的思维总是非常开阔。",
+          "traditionalText": "建議你不要試圖把他的想法圈在一個小範圍內，因為他的思維總是非常開闊。",
+          "pinyin": "jiàn yì nǐ bù yào shì tú bǎ tā de xiǎng fǎ quān zài yī gè xiǎo fàn wéi nèi, yīn wéi tā de sī wéi zǒng shì fēi cháng kāi kuò。",
+          "translation": "It's suggested that you do not try to confine his ideas within a small range, as his thinking is always very broad.",
+          "audioPath": "zh-CN-YunxiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/4b7de7143bc7f0b0977f4cffb56af34d.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to pen in",
+      "sentences": [
+        {
+          "simplifiedText": "他圈了一只羊在树下。",
+          "traditionalText": "他圈了一隻羊在樹下。",
+          "pinyin": "tā quān le yī zhī yáng zài shù xià.",
+          "translation": "He penned a sheep under the tree.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a88d42f12a5069cce415f3ce53f3cf5d.mp3",
+          "voiceName": "zh-CN-XiaomoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "他用木栅栏圈起一片牧场，以防止羊群离开。",
+          "traditionalText": "他用木柵欄圈起一片牧場，以防止羊群離開。",
+          "pinyin": "tā yòng mù zhà lán quān qǐ yī piàn mù chǎng, yǐ fáng zhǐ yáng qún lí kāi.",
+          "translation": "He used a wooden fence to pen in a pasture, preventing the sheep from leaving.",
+          "audioPath": "zh-CN-XiaoxuanNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a210ef4b8a52235ae2963f3dd579a875.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

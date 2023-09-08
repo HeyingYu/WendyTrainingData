@@ -1,1 +1,175 @@
-{"simplified":"夹","traditional":"夾","pinyin":"jiā","definitions":[{"partsOfSpeech":"verb","meaning":"to press from either side","sentences":[{"simplifiedText":"我夹起了书。","traditionalText":"我夾起了書。","pinyin":"Wǒ jiā qǐle shū.","translation":"I picked up the book.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/eda7ad990b9c92d9cc7cd7ff4e419af6.mp3","voiceName":"zh-CN-XiaomengNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"他把纸夹在两本书中间。","traditionalText":"他把紙夾在兩本書中間。","pinyin":"Tā bǎ zhǐ jiā zài liǎng běn shū zhōngjiān.","translation":"He sandwiched the paper in between two books.","audioPath":"zh-CN-XiaozhenNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/90e4564ef6a2124d19172cf23d5fa080.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"verb","meaning":"to sandwich","sentences":[{"simplifiedText":"请在两片面包中夹一片火腿。","traditionalText":"請在兩片麵包中夾一片火腿。","pinyin":"qǐng zài liǎng piàn miàn bāo zhōng jiā yī piàn huǒ tuǐ.","translation":"Please sandwich a slice of ham between two pieces of bread.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/6e17382c3372269081cae11f27b97742.mp3","voiceName":"zh-CN-XiaomoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"为了准备午餐，他先涂了一些黄油，然后在两片面包中夹了几片火腿和奶酪。","traditionalText":"為了準備午餐，他先塗了一些黃油，然後在兩片麵包中夾了幾片火腿和奶酪。","pinyin":"wèi le zhǔn bèi wǔ cān，tā xiān tú le yī xiē huáng yóu，rán hòu zài liǎng piàn miàn bāo zhōng jiā le jǐ piàn huǒ tuǐ hé nǎi lào.","translation":"To prepare lunch, he first spread some butter, and then sandwiched several slices of ham and cheese between two pieces of bread.","audioPath":"zh-CN-XiaohanNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9fe57f8ff8b2dd3238e3fba719af4351.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"verb","meaning":"wedged between","sentences":[{"simplifiedText":"果汁被夹在两个杯子之间。","traditionalText":"果汁被夾在兩個杯子之間。","pinyin":"guǒ zhī bèi jiā zài liǎng gè bēi zi zhī jiān.","translation":"The juice is wedged between two cups.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0a866df25e0d59942bdaed4a2d44005d.mp3","voiceName":"zh-CN-YunxiNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"我发现我的铅笔被夹在了书本和温度计之间，这让我感到非常意外。","traditionalText":"我發現我的鉛筆被夾在了書本和溫度計之間，這讓我感到非常意外。","pinyin":"wǒ fā xiàn wǒ de qiān bǐ bèi jiā zài le shū běn hé wēn dù jì zhī jiān, zhè ràng wǒ gǎn dào fēi cháng yì wài.","translation":"I found my pencil wedged between the book and the thermometer, which was very surprising to me.","audioPath":"zh-CN-YunxiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/1fdb5cc21be8edd662e9d7625b97a85b.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"verb","meaning":"to intersperse","sentences":[{"simplifiedText":"他的演讲夹杂着笑话。","traditionalText":"他的演講夾雜著笑話。","pinyin":"Tā de yǎnjiǎng jiāzá zhe xiàohuà.","translation":"His speech was interspersed with jokes.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/5162e3ab7b57841bc81328eee60f5c75.mp3","voiceName":"zh-CN-YunfengNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"演讲者巧妙地夹杂了一些幽默的元素，使整个讲座充满了趣味。","traditionalText":"演講者巧妙地夾雜了一些幽默的元素，使整個講座充滿了趣味。","pinyin":"Yǎnjiǎngzhě qiǎomiào dì jiāzále yīxiē yōumò de yuánsù, shǐ zhěnggè jiǎngzuò chōngmǎnle qùwèi.","translation":"The speaker skillfully interspersed some humorous elements, making the whole lecture full of interest.","audioPath":"zh-CN-YunjianNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/57ddd3739e576dc510e908f9c964fac6.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"Verb","meaning":"to mingle","sentences":[{"simplifiedText":"请把鸡肉和调料夹在一起。","traditionalText":"請把雞肉和調料夾在一起。","pinyin":"Qǐng bǎ jīròu hé tiáoliào jiā zài yīqǐ.","translation":"Please mix the chicken and the seasoning together.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d9481eaf1be7631155c877f02d00c7de.mp3","voiceName":"zh-CN-YunjianNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"这个美食的制作过程涉及把各种香料和肉夹在一起，然后慢热，使它们的风味能够混合。","traditionalText":"這個美食的製作過程涉及把各種香料和肉夾在一起，然後慢熱，使它們的風味能夠混合。","pinyin":"Zhège měishí de zhìzuò guòchéng shèjí bǎ gè zhǒng xiāngliào hé ròu jiā zài yīqǐ, ránhòu màn rè, shǐ tāmen de fēngwèi nénggòu hùnhé.","translation":"The making of this delicacy involves mingling various spices and meat, and then slow heating to allow their flavors to combine.","audioPath":"zh-CN-XiaozhenNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/aeeb5a6f79ad40ebf8faa2eb99019122.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"名词","meaning":"folder","sentences":[{"simplifiedText":"请把这个文件放在这个夹子里。","traditionalText":"請把這個檔案放在這個夾子裏。","pinyin":"qǐng bǎ zhè ge dàng àn fàng zài zhè ge jiā zi lǐ","translation":"Please put this file in this folder.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/496f295d9ea0079e14b0df9dba9f58f7.mp3","voiceName":"zh-CN-XiaomoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"请按照日期和客户名称把文件正确地放进相应的夹子。","traditionalText":"請按照日期和客戶名稱把檔案正確地放進相應的夾子。","pinyin":"qǐng àn zhào rì qī hé kè hù míng chēng bǎ dàng àn zhèng què dì fàng jìn xiāng yìng de jiā zi","translation":"Please correctly place the files in the corresponding folders according to the date and the customer name.","audioPath":"zh-CN-YunfengNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/69020d7d599ab4ca4e9dc71961311fbc.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "夹",
+  "traditional": "夾",
+  "pinyin": "jiā",
+  "definitions": [
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to press from either side",
+      "sentences": [
+        {
+          "simplifiedText": "我夹起了书。",
+          "traditionalText": "我夾起了書。",
+          "pinyin": "Wǒ jiā qǐle shū.",
+          "translation": "I picked up the book.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/eda7ad990b9c92d9cc7cd7ff4e419af6.mp3",
+          "voiceName": "zh-CN-XiaomengNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "他把纸夹在两本书中间。",
+          "traditionalText": "他把紙夾在兩本書中間。",
+          "pinyin": "Tā bǎ zhǐ jiā zài liǎng běn shū zhōngjiān.",
+          "translation": "He sandwiched the paper in between two books.",
+          "audioPath": "zh-CN-XiaozhenNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/90e4564ef6a2124d19172cf23d5fa080.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to sandwich",
+      "sentences": [
+        {
+          "simplifiedText": "请在两片面包中夹一片火腿。",
+          "traditionalText": "請在兩片麵包中夾一片火腿。",
+          "pinyin": "qǐng zài liǎng piàn miàn bāo zhōng jiā yī piàn huǒ tuǐ.",
+          "translation": "Please sandwich a slice of ham between two pieces of bread.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/6e17382c3372269081cae11f27b97742.mp3",
+          "voiceName": "zh-CN-XiaomoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "为了准备午餐，他先涂了一些黄油，然后在两片面包中夹了几片火腿和奶酪。",
+          "traditionalText": "為了準備午餐，他先塗了一些黃油，然後在兩片麵包中夾了幾片火腿和奶酪。",
+          "pinyin": "wèi le zhǔn bèi wǔ cān，tā xiān tú le yī xiē huáng yóu，rán hòu zài liǎng piàn miàn bāo zhōng jiā le jǐ piàn huǒ tuǐ hé nǎi lào.",
+          "translation": "To prepare lunch, he first spread some butter, and then sandwiched several slices of ham and cheese between two pieces of bread.",
+          "audioPath": "zh-CN-XiaohanNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9fe57f8ff8b2dd3238e3fba719af4351.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "wedged between",
+      "sentences": [
+        {
+          "simplifiedText": "果汁被夹在两个杯子之间。",
+          "traditionalText": "果汁被夾在兩個杯子之間。",
+          "pinyin": "guǒ zhī bèi jiā zài liǎng gè bēi zi zhī jiān.",
+          "translation": "The juice is wedged between two cups.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0a866df25e0d59942bdaed4a2d44005d.mp3",
+          "voiceName": "zh-CN-YunxiNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "我发现我的铅笔被夹在了书本和温度计之间，这让我感到非常意外。",
+          "traditionalText": "我發現我的鉛筆被夾在了書本和溫度計之間，這讓我感到非常意外。",
+          "pinyin": "wǒ fā xiàn wǒ de qiān bǐ bèi jiā zài le shū běn hé wēn dù jì zhī jiān, zhè ràng wǒ gǎn dào fēi cháng yì wài.",
+          "translation": "I found my pencil wedged between the book and the thermometer, which was very surprising to me.",
+          "audioPath": "zh-CN-YunxiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/1fdb5cc21be8edd662e9d7625b97a85b.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to intersperse",
+      "sentences": [
+        {
+          "simplifiedText": "他的演讲夹杂着笑话。",
+          "traditionalText": "他的演講夾雜著笑話。",
+          "pinyin": "Tā de yǎnjiǎng jiāzá zhe xiàohuà.",
+          "translation": "His speech was interspersed with jokes.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/5162e3ab7b57841bc81328eee60f5c75.mp3",
+          "voiceName": "zh-CN-YunfengNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "演讲者巧妙地夹杂了一些幽默的元素，使整个讲座充满了趣味。",
+          "traditionalText": "演講者巧妙地夾雜了一些幽默的元素，使整個講座充滿了趣味。",
+          "pinyin": "Yǎnjiǎngzhě qiǎomiào dì jiāzále yīxiē yōumò de yuánsù, shǐ zhěnggè jiǎngzuò chōngmǎnle qùwèi.",
+          "translation": "The speaker skillfully interspersed some humorous elements, making the whole lecture full of interest.",
+          "audioPath": "zh-CN-YunjianNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/57ddd3739e576dc510e908f9c964fac6.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "Verb",
+      "meaning": "to mingle",
+      "sentences": [
+        {
+          "simplifiedText": "请把鸡肉和调料夹在一起。",
+          "traditionalText": "請把雞肉和調料夾在一起。",
+          "pinyin": "Qǐng bǎ jīròu hé tiáoliào jiā zài yīqǐ.",
+          "translation": "Please mix the chicken and the seasoning together.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d9481eaf1be7631155c877f02d00c7de.mp3",
+          "voiceName": "zh-CN-YunjianNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "这个美食的制作过程涉及把各种香料和肉夹在一起，然后慢热，使它们的风味能够混合。",
+          "traditionalText": "這個美食的製作過程涉及把各種香料和肉夾在一起，然後慢熱，使它們的風味能夠混合。",
+          "pinyin": "Zhège měishí de zhìzuò guòchéng shèjí bǎ gè zhǒng xiāngliào hé ròu jiā zài yīqǐ, ránhòu màn rè, shǐ tāmen de fēngwèi nénggòu hùnhé.",
+          "translation": "The making of this delicacy involves mingling various spices and meat, and then slow heating to allow their flavors to combine.",
+          "audioPath": "zh-CN-XiaozhenNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/aeeb5a6f79ad40ebf8faa2eb99019122.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "名词",
+      "meaning": "folder",
+      "sentences": [
+        {
+          "simplifiedText": "请把这个文件放在这个夹子里。",
+          "traditionalText": "請把這個檔案放在這個夾子裏。",
+          "pinyin": "qǐng bǎ zhè ge dàng àn fàng zài zhè ge jiā zi lǐ",
+          "translation": "Please put this file in this folder.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/496f295d9ea0079e14b0df9dba9f58f7.mp3",
+          "voiceName": "zh-CN-XiaomoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "请按照日期和客户名称把文件正确地放进相应的夹子。",
+          "traditionalText": "請按照日期和客戶名稱把檔案正確地放進相應的夾子。",
+          "pinyin": "qǐng àn zhào rì qī hé kè hù míng chēng bǎ dàng àn zhèng què dì fàng jìn xiāng yìng de jiā zi",
+          "translation": "Please correctly place the files in the corresponding folders according to the date and the customer name.",
+          "audioPath": "zh-CN-YunfengNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/69020d7d599ab4ca4e9dc71961311fbc.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

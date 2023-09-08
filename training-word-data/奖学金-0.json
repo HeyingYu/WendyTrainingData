@@ -1,1 +1,35 @@
-{"simplified":"奖学金","traditional":"獎學金","pinyin":"jiǎng xué jīn","definitions":[{"partsOfSpeech":"noun","meaning":"scholarship","sentences":[{"simplifiedText":"我获得了奖学金。","traditionalText":"我獲得了獎學金。","pinyin":"Wǒ huòdéle jiǎngxuéjīn.","translation":"I got a scholarship.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/fcdaf74341f0f84e84228a1bf58e3122.mp3","voiceName":"zh-CN-XiaoxuanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"因为我在高中的优秀表现，我获得了大学的全额奖学金。","traditionalText":"因為我在高中的優秀表現，我獲得了大學的全額獎學金。","pinyin":"Yīnwèi wǒ zài gāozhōng de yōuxiù biǎoxiàn, wǒ huòdéle dàxué de quán'é jiǎngxuéjīn.","translation":"Because of my excellent performance in high school, I received a full scholarship to university.","audioPath":"zh-CN-XiaomengNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/513aa2ca23a0a777e07a1796600f4202.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "奖学金",
+  "traditional": "獎學金",
+  "pinyin": "jiǎng xué jīn",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "scholarship",
+      "sentences": [
+        {
+          "simplifiedText": "我获得了奖学金。",
+          "traditionalText": "我獲得了獎學金。",
+          "pinyin": "Wǒ huòdéle jiǎngxuéjīn.",
+          "translation": "I got a scholarship.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/fcdaf74341f0f84e84228a1bf58e3122.mp3",
+          "voiceName": "zh-CN-XiaoxuanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "因为我在高中的优秀表现，我获得了大学的全额奖学金。",
+          "traditionalText": "因為我在高中的優秀表現，我獲得了大學的全額獎學金。",
+          "pinyin": "Yīnwèi wǒ zài gāozhōng de yōuxiù biǎoxiàn, wǒ huòdéle dàxué de quán'é jiǎngxuéjīn.",
+          "translation": "Because of my excellent performance in high school, I received a full scholarship to university.",
+          "audioPath": "zh-CN-XiaomengNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/513aa2ca23a0a777e07a1796600f4202.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

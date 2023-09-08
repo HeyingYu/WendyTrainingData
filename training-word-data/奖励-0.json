@@ -1,1 +1,35 @@
-{"simplified":"奖励","traditional":"獎勵","pinyin":"jiǎng lì","definitions":[{"partsOfSpeech":"verb","meaning":"to reward","sentences":[{"simplifiedText":"老师奖励了学生一本书。","traditionalText":"老師獎勵了學生一本書。","pinyin":"lǎoshī jiǎnglì le xuéshēng yī běn shū。","translation":"The teacher rewarded the student with a book.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/899ac2b3293c84d18a7d4a7232d9b47c.mp3","voiceName":"zh-CN-YunyeNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"因为小明在学期末考试中表现出色，老师决定奖励他最新的科技书籍。","traditionalText":"因為小明在學期末考試中表現出色，老師決定獎勵他最新的科技書籍。","pinyin":"yīnwèi xiǎomíng zài xuéqí mò kǎoshì zhōng biǎoxiàn chūsè, lǎoshī juédìng jiǎnglì tā zuìxīn de kējì shūjí。","translation":"Because Xiao Ming performed brilliantly in the end-of-term exam, the teacher decided to reward him with the latest tech book.","audioPath":"zh-CN-XiaoyanNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/db569223dc70c426cebbcd88484abd0a.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "奖励",
+  "traditional": "獎勵",
+  "pinyin": "jiǎng lì",
+  "definitions": [
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to reward",
+      "sentences": [
+        {
+          "simplifiedText": "老师奖励了学生一本书。",
+          "traditionalText": "老師獎勵了學生一本書。",
+          "pinyin": "lǎoshī jiǎnglì le xuéshēng yī běn shū。",
+          "translation": "The teacher rewarded the student with a book.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/899ac2b3293c84d18a7d4a7232d9b47c.mp3",
+          "voiceName": "zh-CN-YunyeNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "因为小明在学期末考试中表现出色，老师决定奖励他最新的科技书籍。",
+          "traditionalText": "因為小明在學期末考試中表現出色，老師決定獎勵他最新的科技書籍。",
+          "pinyin": "yīnwèi xiǎomíng zài xuéqí mò kǎoshì zhōng biǎoxiàn chūsè, lǎoshī juédìng jiǎnglì tā zuìxīn de kējì shūjí。",
+          "translation": "Because Xiao Ming performed brilliantly in the end-of-term exam, the teacher decided to reward him with the latest tech book.",
+          "audioPath": "zh-CN-XiaoyanNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/db569223dc70c426cebbcd88484abd0a.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"simplified":"本科","traditional":"本科","pinyin":"běn kē","definitions":[{"partsOfSpeech":"noun","meaning":"undergraduate course","sentences":[{"simplifiedText":"我正在学习一门本科课程。","traditionalText":"我正在學習一門本科課程。","pinyin":"Wǒ zhèngzài xuéxí yī mén běnkē kèchéng.","translation":"I am studying an undergraduate course.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/5c2f328b16e7a10f08b4e8c6661e1bfb.mp3","voiceName":"zh-CN-XiaoxuanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"由于我的本科课程要求严格，我必须每天都用功学习。","traditionalText":"由於我的本科課程要求嚴格，我必須每天都用功學習。","pinyin":"Yóuyú wǒ de běnkē kèchéng yāoqiú yángé, wǒ bìxū měitiān dōu yònggōng xuéxí.","translation":"Because my undergraduate course has strict requirements, I must study hard every day.","audioPath":"zh-CN-XiaohanNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/5bab6fe4e716f21861086c91c87f8b4b.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "本科",
+  "traditional": "本科",
+  "pinyin": "běn kē",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "undergraduate course",
+      "sentences": [
+        {
+          "simplifiedText": "我正在学习一门本科课程。",
+          "traditionalText": "我正在學習一門本科課程。",
+          "pinyin": "Wǒ zhèngzài xuéxí yī mén běnkē kèchéng.",
+          "translation": "I am studying an undergraduate course.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/5c2f328b16e7a10f08b4e8c6661e1bfb.mp3",
+          "voiceName": "zh-CN-XiaoxuanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "由于我的本科课程要求严格，我必须每天都用功学习。",
+          "traditionalText": "由於我的本科課程要求嚴格，我必須每天都用功學習。",
+          "pinyin": "Yóuyú wǒ de běnkē kèchéng yāoqiú yángé, wǒ bìxū měitiān dōu yònggōng xuéxí.",
+          "translation": "Because my undergraduate course has strict requirements, I must study hard every day.",
+          "audioPath": "zh-CN-XiaohanNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/5bab6fe4e716f21861086c91c87f8b4b.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

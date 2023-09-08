@@ -1,1 +1,63 @@
-{"simplified":"各个","traditional":"各個","pinyin":"gè gè","definitions":[{"partsOfSpeech":"adjective","meaning":"every","sentences":[{"simplifiedText":"他各个方面都做得很好。","traditionalText":"他各個方面都做得很好。","pinyin":"tā gè gè fāng miàn dōu zuò de hěn hǎo.","translation":"He does well in every aspect.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/314360ee546bb0276343b22c74245ab3.mp3","voiceName":"zh-CN-XiaomengNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"我各个阶段都会给你发送进度报告。","traditionalText":"我各個階段都會給你發送進度報告。","pinyin":"wǒ gè gè jiē duàn dōu huì gěi nǐ fā sòng jìn dù bào gào.","translation":"I will send you progress reports at every stage.","audioPath":"zh-CN-YunhaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/fccabc6469b0c49a34405923402fa98c.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"Adverb","meaning":"separately, one by one","sentences":[{"simplifiedText":"他们各个离开了。","traditionalText":"他們各個離開了。","pinyin":"Tāmen gègè líkāi le.","translation":"They each left one by one.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0474af726697239fc7ed918ef75d2502.mp3","voiceName":"zh-CN-YunhaoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"各个城市的人们都有不同的习惯。","traditionalText":"各個城市的人們都有不同的習慣。","pinyin":"Gègè chéngshì de rénmen dū yǒu bùtóng de xíguàn.","translation":"People from different cities each have their own habits.","audioPath":"zh-CN-XiaomengNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/5e5bb1010065da2b96f320abbf4658f5.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "各个",
+  "traditional": "各個",
+  "pinyin": "gè gè",
+  "definitions": [
+    {
+      "partsOfSpeech": "adjective",
+      "meaning": "every",
+      "sentences": [
+        {
+          "simplifiedText": "他各个方面都做得很好。",
+          "traditionalText": "他各個方面都做得很好。",
+          "pinyin": "tā gè gè fāng miàn dōu zuò de hěn hǎo.",
+          "translation": "He does well in every aspect.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/314360ee546bb0276343b22c74245ab3.mp3",
+          "voiceName": "zh-CN-XiaomengNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "我各个阶段都会给你发送进度报告。",
+          "traditionalText": "我各個階段都會給你發送進度報告。",
+          "pinyin": "wǒ gè gè jiē duàn dōu huì gěi nǐ fā sòng jìn dù bào gào.",
+          "translation": "I will send you progress reports at every stage.",
+          "audioPath": "zh-CN-YunhaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/fccabc6469b0c49a34405923402fa98c.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "Adverb",
+      "meaning": "separately, one by one",
+      "sentences": [
+        {
+          "simplifiedText": "他们各个离开了。",
+          "traditionalText": "他們各個離開了。",
+          "pinyin": "Tāmen gègè líkāi le.",
+          "translation": "They each left one by one.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0474af726697239fc7ed918ef75d2502.mp3",
+          "voiceName": "zh-CN-YunhaoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "各个城市的人们都有不同的习惯。",
+          "traditionalText": "各個城市的人們都有不同的習慣。",
+          "pinyin": "Gègè chéngshì de rénmen dū yǒu bùtóng de xíguàn.",
+          "translation": "People from different cities each have their own habits.",
+          "audioPath": "zh-CN-XiaomengNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/5e5bb1010065da2b96f320abbf4658f5.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

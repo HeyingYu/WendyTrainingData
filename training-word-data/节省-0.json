@@ -1,1 +1,63 @@
-{"simplified":"节省","traditional":"節省","pinyin":"jié shěng","definitions":[{"partsOfSpeech":"verb","meaning":"saving","sentences":[{"simplifiedText":"我们要节省用水。","traditionalText":"我們要節省用水。","pinyin":"Wǒmen yào jiéshěng yòng shuǐ.","translation":"We need to save water.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a30d6b9e3a9034bf6bee8eea69c44c88.mp3","voiceName":"zh-CN-XiaoruiNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"为了地球的未来，我们应当节省能源，保护环境。","traditionalText":"為了地球的未來，我們應當節省能源，保護環境。","pinyin":"Wèile dìqiú de wèilái, wǒmen yīngdāng jiéshěng néngyuán, bǎohù huánjìng.","translation":"For the future of the Earth, we should save energy and protect the environment.","audioPath":"zh-CN-XiaoxiaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/95d3e73c370e3c3cb2270cb6558708d7.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"verb","meaning":"to use sparingly","sentences":[{"simplifiedText":"我们应该节省用水。","traditionalText":"我們應該節省用水。","pinyin":"wǒ men yīng gāi jié shěng yòng shuǐ.","translation":"We should use water sparingly.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/8ed89d34718ca7fde1fdbf5350f3c06f.mp3","voiceName":"zh-CN-XiaoyanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"面对严重的水资源短缺，我们必须更加注重节省用水。","traditionalText":"面對嚴重的水資源短缺，我們必須更加注重節省用水。","pinyin":"miàn duì yán zhòng de shuǐ zī yuán duǎn quē, wǒ men bì xū gèng jiā zhù zhòng jié shěng yòng shuǐ.","translation":"Facing severe water shortage, we must pay more attention to using water sparingly.","audioPath":"zh-CN-XiaomoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/c5dc33eed8800375421354e1bddb641c.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "节省",
+  "traditional": "節省",
+  "pinyin": "jié shěng",
+  "definitions": [
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "saving",
+      "sentences": [
+        {
+          "simplifiedText": "我们要节省用水。",
+          "traditionalText": "我們要節省用水。",
+          "pinyin": "Wǒmen yào jiéshěng yòng shuǐ.",
+          "translation": "We need to save water.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a30d6b9e3a9034bf6bee8eea69c44c88.mp3",
+          "voiceName": "zh-CN-XiaoruiNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "为了地球的未来，我们应当节省能源，保护环境。",
+          "traditionalText": "為了地球的未來，我們應當節省能源，保護環境。",
+          "pinyin": "Wèile dìqiú de wèilái, wǒmen yīngdāng jiéshěng néngyuán, bǎohù huánjìng.",
+          "translation": "For the future of the Earth, we should save energy and protect the environment.",
+          "audioPath": "zh-CN-XiaoxiaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/95d3e73c370e3c3cb2270cb6558708d7.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to use sparingly",
+      "sentences": [
+        {
+          "simplifiedText": "我们应该节省用水。",
+          "traditionalText": "我們應該節省用水。",
+          "pinyin": "wǒ men yīng gāi jié shěng yòng shuǐ.",
+          "translation": "We should use water sparingly.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/8ed89d34718ca7fde1fdbf5350f3c06f.mp3",
+          "voiceName": "zh-CN-XiaoyanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "面对严重的水资源短缺，我们必须更加注重节省用水。",
+          "traditionalText": "面對嚴重的水資源短缺，我們必須更加注重節省用水。",
+          "pinyin": "miàn duì yán zhòng de shuǐ zī yuán duǎn quē, wǒ men bì xū gèng jiā zhù zhòng jié shěng yòng shuǐ.",
+          "translation": "Facing severe water shortage, we must pay more attention to using water sparingly.",
+          "audioPath": "zh-CN-XiaomoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/c5dc33eed8800375421354e1bddb641c.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

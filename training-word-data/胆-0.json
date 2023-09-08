@@ -1,1 +1,91 @@
-{"simplified":"胆","traditional":"膽","pinyin":"dǎn","definitions":[{"partsOfSpeech":"noun","meaning":"gall bladder","sentences":[{"simplifiedText":"他的胆子很小。","traditionalText":"他的膽子很小。","pinyin":"tā de dǎn zi hěn xiǎo.","translation":"He has a small gall bladder.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a81ef211707b95f1acfadad7fb32921c.mp3","voiceName":"zh-CN-YunhaoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"医生说他的胆子有问题，可能需要手术。","traditionalText":"醫生說他的膽子有問題，可能需要手術。","pinyin":"yīshēng shuō tā de dǎnzi yǒu wèntí, kěnéng xūyào shǒushù.","translation":"The doctor said there is a problem with his gall bladder, he may need surgery.","audioPath":"zh-CN-XiaoruiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d156dcb55558eabf7eb54c386c55c2f6.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"noun","meaning":"guts","sentences":[{"simplifiedText":"他有胆量。","traditionalText":"他有膽量。","pinyin":"Tā yǒu dǎnliàng。","translation":"He has guts.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/2355add48af2178a27eb6d53abb854db.mp3","voiceName":"zh-CN-YunfengNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"虽然他是新入行的，但他的胆识和决断让所有人都刮目相看。","traditionalText":"雖然他是新入行的，但他的膽識和決斷讓所有人都刮目相看。","pinyin":"Suīrán tā shì xīn rù háng de, dàn tā de dǎnshì hé juédìng ràng suǒyǒu rén dōu guāmùxiāngkàn.","translation":"Although he is new to the industry, his guts and decisive decision-making impressed everyone.","audioPath":"zh-CN-XiaochenNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a05c7808720214290e0aaa55f01ca2dd.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"noun","meaning":"inner container (e.g. bladder of a football, inner container of a thermos)","sentences":[{"simplifiedText":"我需要一个新的足球胆。","traditionalText":"我需要一個新的足球膽。","pinyin":"Wǒ xūyào yīgè xīn de zúqiú dǎn.","translation":"I need a new football bladder.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/7215fbebf190b28484864f75d71615a5.mp3","voiceName":"zh-CN-XiaoyanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"由于足球胆破裂，比赛不得不暂停。","traditionalText":"由於足球膽破裂，比賽不得不暫停。","pinyin":"Yóuyú zúqiú dǎn pòliè, bǐsài bùdébù zhàntíng.","translation":"The game had to be paused due to a ruptured football bladder.","audioPath":"zh-CN-XiaomoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b648fc43990c1eebf943af5446c379a6.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "胆",
+  "traditional": "膽",
+  "pinyin": "dǎn",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "gall bladder",
+      "sentences": [
+        {
+          "simplifiedText": "他的胆子很小。",
+          "traditionalText": "他的膽子很小。",
+          "pinyin": "tā de dǎn zi hěn xiǎo.",
+          "translation": "He has a small gall bladder.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a81ef211707b95f1acfadad7fb32921c.mp3",
+          "voiceName": "zh-CN-YunhaoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "医生说他的胆子有问题，可能需要手术。",
+          "traditionalText": "醫生說他的膽子有問題，可能需要手術。",
+          "pinyin": "yīshēng shuō tā de dǎnzi yǒu wèntí, kěnéng xūyào shǒushù.",
+          "translation": "The doctor said there is a problem with his gall bladder, he may need surgery.",
+          "audioPath": "zh-CN-XiaoruiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d156dcb55558eabf7eb54c386c55c2f6.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "guts",
+      "sentences": [
+        {
+          "simplifiedText": "他有胆量。",
+          "traditionalText": "他有膽量。",
+          "pinyin": "Tā yǒu dǎnliàng。",
+          "translation": "He has guts.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/2355add48af2178a27eb6d53abb854db.mp3",
+          "voiceName": "zh-CN-YunfengNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "虽然他是新入行的，但他的胆识和决断让所有人都刮目相看。",
+          "traditionalText": "雖然他是新入行的，但他的膽識和決斷讓所有人都刮目相看。",
+          "pinyin": "Suīrán tā shì xīn rù háng de, dàn tā de dǎnshì hé juédìng ràng suǒyǒu rén dōu guāmùxiāngkàn.",
+          "translation": "Although he is new to the industry, his guts and decisive decision-making impressed everyone.",
+          "audioPath": "zh-CN-XiaochenNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a05c7808720214290e0aaa55f01ca2dd.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "inner container (e.g. bladder of a football, inner container of a thermos)",
+      "sentences": [
+        {
+          "simplifiedText": "我需要一个新的足球胆。",
+          "traditionalText": "我需要一個新的足球膽。",
+          "pinyin": "Wǒ xūyào yīgè xīn de zúqiú dǎn.",
+          "translation": "I need a new football bladder.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/7215fbebf190b28484864f75d71615a5.mp3",
+          "voiceName": "zh-CN-XiaoyanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "由于足球胆破裂，比赛不得不暂停。",
+          "traditionalText": "由於足球膽破裂，比賽不得不暫停。",
+          "pinyin": "Yóuyú zúqiú dǎn pòliè, bǐsài bùdébù zhàntíng.",
+          "translation": "The game had to be paused due to a ruptured football bladder.",
+          "audioPath": "zh-CN-XiaomoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b648fc43990c1eebf943af5446c379a6.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"simplified":"实施","traditional":"實施","pinyin":"shí shī","definitions":[{"partsOfSpeech":"verb","meaning":"to implement","sentences":[{"simplifiedText":"我们需要实施这个计划。","traditionalText":"我們需要實施這個計劃。","pinyin":"wǒmen xūyào shíshī zhège jìhuà.","translation":"We need to implement this plan.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/83663f44e02c6ad4da81484b1894d60f.mp3","voiceName":"zh-CN-XiaoruiNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"根据新的政策，学校需要实施更严格的安全措施。","traditionalText":"根據新的政策，學校需要實施更嚴格的安全措施。","pinyin":"gēnjù xīn de zhèngcè, xuéxiào xūyào shíshī gèng yán gé de ānquán cuòshī.","translation":"According to the new policy, schools need to implement stricter safety measures.","audioPath":"zh-CN-YunxiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0997cc5e4204f86038c8da318c04b24c.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "实施",
+  "traditional": "實施",
+  "pinyin": "shí shī",
+  "definitions": [
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to implement",
+      "sentences": [
+        {
+          "simplifiedText": "我们需要实施这个计划。",
+          "traditionalText": "我們需要實施這個計劃。",
+          "pinyin": "wǒmen xūyào shíshī zhège jìhuà.",
+          "translation": "We need to implement this plan.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/83663f44e02c6ad4da81484b1894d60f.mp3",
+          "voiceName": "zh-CN-XiaoruiNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "根据新的政策，学校需要实施更严格的安全措施。",
+          "traditionalText": "根據新的政策，學校需要實施更嚴格的安全措施。",
+          "pinyin": "gēnjù xīn de zhèngcè, xuéxiào xūyào shíshī gèng yán gé de ānquán cuòshī.",
+          "translation": "According to the new policy, schools need to implement stricter safety measures.",
+          "audioPath": "zh-CN-YunxiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0997cc5e4204f86038c8da318c04b24c.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

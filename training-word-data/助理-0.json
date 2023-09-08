@@ -1,1 +1,35 @@
-{"simplified":"助理","traditional":"助理","pinyin":"zhù lǐ","definitions":[{"partsOfSpeech":"noun","meaning":"assistant","sentences":[{"simplifiedText":"他是我的助理。","traditionalText":"他是我的助理。","pinyin":"Tā shì wǒ de zhù lǐ.","translation":"He is my assistant.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/1654f0af52cf4e6e08d47e6e17d47ad3.mp3","voiceName":"zh-CN-XiaomoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"我的助理帮我安排了一天的日程。","traditionalText":"我的助理幫我安排了一天的日程。","pinyin":"Wǒ de zhù lǐ bāng wǒ ān pái le yī tiān de rì chéng.","translation":"My assistant helped me arrange the schedule for the day.","audioPath":"zh-CN-XiaoxuanNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/bd7be0ef019ee37c676436d0e5eef1da.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "助理",
+  "traditional": "助理",
+  "pinyin": "zhù lǐ",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "assistant",
+      "sentences": [
+        {
+          "simplifiedText": "他是我的助理。",
+          "traditionalText": "他是我的助理。",
+          "pinyin": "Tā shì wǒ de zhù lǐ.",
+          "translation": "He is my assistant.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/1654f0af52cf4e6e08d47e6e17d47ad3.mp3",
+          "voiceName": "zh-CN-XiaomoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "我的助理帮我安排了一天的日程。",
+          "traditionalText": "我的助理幫我安排了一天的日程。",
+          "pinyin": "Wǒ de zhù lǐ bāng wǒ ān pái le yī tiān de rì chéng.",
+          "translation": "My assistant helped me arrange the schedule for the day.",
+          "audioPath": "zh-CN-XiaoxuanNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/bd7be0ef019ee37c676436d0e5eef1da.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

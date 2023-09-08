@@ -1,1 +1,35 @@
-{"simplified":"新郎","traditional":"新郎","pinyin":"xīn láng","definitions":[{"partsOfSpeech":"noun","meaning":"bridegroom","sentences":[{"simplifiedText":"他是今天的新郎。","traditionalText":"他是今天的新郎。","pinyin":"Tā shì jīntiān de xīnláng.","translation":"He is the bridegroom today.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d91ec944a60050a9b1768975a7a87477.mp3","voiceName":"zh-CN-XiaochenNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"新郎和新娘在众人的祝福下开心地离开了教堂。","traditionalText":"新郎和新娘在眾人的祝福下開心地離開了教堂。","pinyin":"Xīnláng hé xīnniáng zài zhòngrén de zhùfú xià kāixīn dì líkāile jiàotáng.","translation":"The bridegroom and the bride happily left the church under the blessings of everyone.","audioPath":"zh-CN-YunyangNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/469b990d906374ea34ff17a0081c6a7b.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "新郎",
+  "traditional": "新郎",
+  "pinyin": "xīn láng",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "bridegroom",
+      "sentences": [
+        {
+          "simplifiedText": "他是今天的新郎。",
+          "traditionalText": "他是今天的新郎。",
+          "pinyin": "Tā shì jīntiān de xīnláng.",
+          "translation": "He is the bridegroom today.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d91ec944a60050a9b1768975a7a87477.mp3",
+          "voiceName": "zh-CN-XiaochenNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "新郎和新娘在众人的祝福下开心地离开了教堂。",
+          "traditionalText": "新郎和新娘在眾人的祝福下開心地離開了教堂。",
+          "pinyin": "Xīnláng hé xīnniáng zài zhòngrén de zhùfú xià kāixīn dì líkāile jiàotáng.",
+          "translation": "The bridegroom and the bride happily left the church under the blessings of everyone.",
+          "audioPath": "zh-CN-YunyangNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/469b990d906374ea34ff17a0081c6a7b.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

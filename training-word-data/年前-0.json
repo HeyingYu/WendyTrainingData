@@ -1,1 +1,35 @@
-{"simplified":"年前","traditional":"年前","pinyin":"nián qián","definitions":[{"partsOfSpeech":"phrase","meaning":"by the end of the year","sentences":[{"simplifiedText":"我们年前要完成这个项目。","traditionalText":"我們年前要完成這個項目。","pinyin":"Wǒmen niánqián yào wánchéng zhège xiàngmù.","translation":"We need to complete this project by the end of the year.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/49b1b7aa2db5d7131f2373ddbdc9bb2a.mp3","voiceName":"zh-CN-XiaoruiNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"老板已经明确指出，所有的报告必须在年前提交。","traditionalText":"老闆已經明確指出，所有的報告必須在年前提交。","pinyin":"Lǎobǎn yǐjīng míngquè zhǐchū, suǒyǒu de bàogào bìxū zài niánqián tíjiǎo.","translation":"The boss has made it clear that all reports must be submitted by the end of the year.","audioPath":"zh-CN-XiaomengNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/649ee98e5b3196df59ca16d0aa680e93.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "年前",
+  "traditional": "年前",
+  "pinyin": "nián qián",
+  "definitions": [
+    {
+      "partsOfSpeech": "phrase",
+      "meaning": "by the end of the year",
+      "sentences": [
+        {
+          "simplifiedText": "我们年前要完成这个项目。",
+          "traditionalText": "我們年前要完成這個項目。",
+          "pinyin": "Wǒmen niánqián yào wánchéng zhège xiàngmù.",
+          "translation": "We need to complete this project by the end of the year.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/49b1b7aa2db5d7131f2373ddbdc9bb2a.mp3",
+          "voiceName": "zh-CN-XiaoruiNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "老板已经明确指出，所有的报告必须在年前提交。",
+          "traditionalText": "老闆已經明確指出，所有的報告必須在年前提交。",
+          "pinyin": "Lǎobǎn yǐjīng míngquè zhǐchū, suǒyǒu de bàogào bìxū zài niánqián tíjiǎo.",
+          "translation": "The boss has made it clear that all reports must be submitted by the end of the year.",
+          "audioPath": "zh-CN-XiaomengNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/649ee98e5b3196df59ca16d0aa680e93.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

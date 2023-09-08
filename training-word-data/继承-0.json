@@ -1,1 +1,63 @@
-{"simplified":"继承","traditional":"繼承","pinyin":"jì chéng","definitions":[{"partsOfSpeech":"verb","meaning":"to inherit","sentences":[{"simplifiedText":"我继承了我父亲的房子。","traditionalText":"我繼承了我父親的房子。","pinyin":"Wǒ jìchéng le wǒ fùqīn de fángzi.","translation":"I inherited my father's house.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d68fc28e94c7506c79413ccaee696a88.mp3","voiceName":"zh-CN-XiaoyanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"尽管他从未表现出多大的兴趣，他仍然继承了父亲的企业。","traditionalText":"儘管他從未表現出多大的興趣，他仍然繼承了父親的企業。","pinyin":"Jǐnguǎn tā cóng wèi biǎoxiàn chū duō dà de xìngqù, tā réngrán jìchéng le fùqīn de qǐyè.","translation":"Despite never showing much interest, he still inherited his father's business.","audioPath":"zh-CN-XiaoruiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/325bd8191ecf095767240ac29848c4b4.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"verb","meaning":"to carry on (a tradition etc)","sentences":[{"simplifiedText":"我们要继承父母的事业。","traditionalText":"我們要繼承父母的事業。","pinyin":"wǒmen yào jìchéng fùmǔ de shìyè.","translation":"We want to carry on our parents' career.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/168d137066b62e08ab0497ab29397b80.mp3","voiceName":"zh-CN-XiaoxuanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"国家通过法律，赋予公民按照自己的意愿继承财产的权利。","traditionalText":"國家通過法律，賦予公民按照自己的意願繼承財產的權利。","pinyin":"guójia tōngguò fǎlǜ, fùyǔ gōngmín ànzhào zìjǐ de yìyuàn jìchéng cáichǎn de quánlì.","translation":"The state, through law, empowers citizens the rights to inherit property according to their own wishes.","audioPath":"zh-CN-YunhaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9d980207da01c71b53861e70ff27c3bc.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "继承",
+  "traditional": "繼承",
+  "pinyin": "jì chéng",
+  "definitions": [
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to inherit",
+      "sentences": [
+        {
+          "simplifiedText": "我继承了我父亲的房子。",
+          "traditionalText": "我繼承了我父親的房子。",
+          "pinyin": "Wǒ jìchéng le wǒ fùqīn de fángzi.",
+          "translation": "I inherited my father's house.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d68fc28e94c7506c79413ccaee696a88.mp3",
+          "voiceName": "zh-CN-XiaoyanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "尽管他从未表现出多大的兴趣，他仍然继承了父亲的企业。",
+          "traditionalText": "儘管他從未表現出多大的興趣，他仍然繼承了父親的企業。",
+          "pinyin": "Jǐnguǎn tā cóng wèi biǎoxiàn chū duō dà de xìngqù, tā réngrán jìchéng le fùqīn de qǐyè.",
+          "translation": "Despite never showing much interest, he still inherited his father's business.",
+          "audioPath": "zh-CN-XiaoruiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/325bd8191ecf095767240ac29848c4b4.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to carry on (a tradition etc)",
+      "sentences": [
+        {
+          "simplifiedText": "我们要继承父母的事业。",
+          "traditionalText": "我們要繼承父母的事業。",
+          "pinyin": "wǒmen yào jìchéng fùmǔ de shìyè.",
+          "translation": "We want to carry on our parents' career.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/168d137066b62e08ab0497ab29397b80.mp3",
+          "voiceName": "zh-CN-XiaoxuanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "国家通过法律，赋予公民按照自己的意愿继承财产的权利。",
+          "traditionalText": "國家通過法律，賦予公民按照自己的意願繼承財產的權利。",
+          "pinyin": "guójia tōngguò fǎlǜ, fùyǔ gōngmín ànzhào zìjǐ de yìyuàn jìchéng cáichǎn de quánlì.",
+          "translation": "The state, through law, empowers citizens the rights to inherit property according to their own wishes.",
+          "audioPath": "zh-CN-YunhaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9d980207da01c71b53861e70ff27c3bc.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

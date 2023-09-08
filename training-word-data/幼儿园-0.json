@@ -1,1 +1,35 @@
-{"simplified":"幼儿园","traditional":"幼兒園","pinyin":"yòu ér yuán","definitions":[{"partsOfSpeech":"noun","meaning":"kindergarten","sentences":[{"simplifiedText":"我女儿上幼儿园。","traditionalText":"我女兒上幼兒園。","pinyin":"Wǒ nǚ'ér shàng yòu'éryuán.","translation":"My daughter goes to kindergarten.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9a30c52f19de8a76d98c5f9403c7cea2.mp3","voiceName":"zh-CN-XiaochenNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"每天早上，我都会送我的女儿去幼儿园。","traditionalText":"每天早上，我都會送我的女兒去幼兒園。","pinyin":"Měitiān zǎoshang, wǒ dū huì sòng wǒ de nǚ'ér qù yòu'éryuán.","translation":"Every morning, I send my daughter to kindergarten.","audioPath":"zh-CN-XiaomoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d0c5ac43d3e19be15e35dccb517b4e0c.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "幼儿园",
+  "traditional": "幼兒園",
+  "pinyin": "yòu ér yuán",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "kindergarten",
+      "sentences": [
+        {
+          "simplifiedText": "我女儿上幼儿园。",
+          "traditionalText": "我女兒上幼兒園。",
+          "pinyin": "Wǒ nǚ'ér shàng yòu'éryuán.",
+          "translation": "My daughter goes to kindergarten.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9a30c52f19de8a76d98c5f9403c7cea2.mp3",
+          "voiceName": "zh-CN-XiaochenNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "每天早上，我都会送我的女儿去幼儿园。",
+          "traditionalText": "每天早上，我都會送我的女兒去幼兒園。",
+          "pinyin": "Měitiān zǎoshang, wǒ dū huì sòng wǒ de nǚ'ér qù yòu'éryuán.",
+          "translation": "Every morning, I send my daughter to kindergarten.",
+          "audioPath": "zh-CN-XiaomoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d0c5ac43d3e19be15e35dccb517b4e0c.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

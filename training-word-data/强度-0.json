@@ -1,1 +1,35 @@
-{"simplified":"强度","traditional":"強度","pinyin":"qiáng dù","definitions":[{"partsOfSpeech":"noun","meaning":"strength","sentences":[{"simplifiedText":"这个人的强度很大。","traditionalText":"這個人的強度很大。","pinyin":"Zhè gè rén de qiángdù hěn dà.","translation":"This person has a lot of strength.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/fa78677a35806082de4498a7ca9b4cbf.mp3","voiceName":"zh-CN-XiaochenNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"任何工作，只有用充足的强度去做，才能做得好。","traditionalText":"任何工作，只有用充足的強度去做，才能做得好。","pinyin":"Rènhé gōngzuò, zhǐyǒu yòng chōngzú de qiángdù qù zuò, cáinéng zuò dé hǎo.","translation":"Any work, only by doing it with sufficient strength, can be done well.","audioPath":"zh-CN-YunjianNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9439afb6570d2f88875e4dd7cfa9ed63.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "强度",
+  "traditional": "強度",
+  "pinyin": "qiáng dù",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "strength",
+      "sentences": [
+        {
+          "simplifiedText": "这个人的强度很大。",
+          "traditionalText": "這個人的強度很大。",
+          "pinyin": "Zhè gè rén de qiángdù hěn dà.",
+          "translation": "This person has a lot of strength.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/fa78677a35806082de4498a7ca9b4cbf.mp3",
+          "voiceName": "zh-CN-XiaochenNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "任何工作，只有用充足的强度去做，才能做得好。",
+          "traditionalText": "任何工作，只有用充足的強度去做，才能做得好。",
+          "pinyin": "Rènhé gōngzuò, zhǐyǒu yòng chōngzú de qiángdù qù zuò, cáinéng zuò dé hǎo.",
+          "translation": "Any work, only by doing it with sufficient strength, can be done well.",
+          "audioPath": "zh-CN-YunjianNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9439afb6570d2f88875e4dd7cfa9ed63.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

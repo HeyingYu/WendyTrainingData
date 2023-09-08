@@ -1,1 +1,91 @@
-{"simplified":"指示","traditional":"指示","pinyin":"zhǐ shì","definitions":[{"partsOfSpeech":"verb","meaning":"to point out","sentences":[{"simplifiedText":"请指示正确的道路。","traditionalText":"請指示正確的道路。","pinyin":"Qǐng zhǐshì zhèngquè de dàolù.","translation":"Please point out the correct way.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/433004f1ac5a490d17e9a5c3683bbb8d.mp3","voiceName":"zh-CN-XiaoxuanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"在紧急情况下，他冷静地向我们指示了安全出口的位置。","traditionalText":"在緊急情況下，他冷靜地向我們指示了安全出口的位置。","pinyin":"Zài jǐnjí qíngkuàng xià, tā lěngjìng de xiàng wǒmen zhǐshì le ānquán chūkǒu de wèizhi.","translation":"In an emergency situation, he calmly pointed out the location of the safe exit to us.","audioPath":"zh-CN-YunxiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/86540dd64114e91663839290873a912c.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"verb","meaning":"to instruct","sentences":[{"simplifiedText":"他被指示去做那件事。","traditionalText":"他被指示去做那件事。","pinyin":"tā bèi zhǐshì qù zuò nà jiàn shì.","translation":"He was instructed to do that thing.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/6392755238f4ad98cce897e93a34f8eb.mp3","voiceName":"zh-CN-YunyeNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"在会议上，部门经理被指示提出一个新的销售策略。","traditionalText":"在會議上，部門經理被指示提出一個新的銷售策略。","pinyin":"zài huìyì shàng, bùmén jīnglǐ bèi zhǐshì tíchū yīgè xīn de xiāoshòu cèlüè.","translation":"At the meeting, the department manager was instructed to propose a new sales strategy.","audioPath":"zh-CN-YunyeNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9f97ac73934ff99b51ba64c3a8c34db0.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"Noun","meaning":"instructions","sentences":[{"simplifiedText":"请按照指示操作。","traditionalText":"請按照指示操作。","pinyin":"Qǐng ànzhào zhǐshì cāozuò.","translation":"Please follow the instructions.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/652734d68a6c353afddb404f049454ce.mp3","voiceName":"zh-CN-YunyeNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"当我们看不清楚路标的时候，我们必须按照GPS的指示进行行驶。","traditionalText":"當我們看不清楚路標的時候，我們必須按照GPS的指示進行行駛。","pinyin":"Dāng wǒmen kàn bù qīngchu lùbiāo de shíhòu, wǒmen bìxū ànzhào GPS de zhǐshì jìnxíng xíngshǐ.","translation":"When we can't see the road signs clearly, we must drive according to the instructions of the GPS.","audioPath":"zh-CN-XiaozhenNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/331848c22e421ac23707e50f14c32b35.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "指示",
+  "traditional": "指示",
+  "pinyin": "zhǐ shì",
+  "definitions": [
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to point out",
+      "sentences": [
+        {
+          "simplifiedText": "请指示正确的道路。",
+          "traditionalText": "請指示正確的道路。",
+          "pinyin": "Qǐng zhǐshì zhèngquè de dàolù.",
+          "translation": "Please point out the correct way.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/433004f1ac5a490d17e9a5c3683bbb8d.mp3",
+          "voiceName": "zh-CN-XiaoxuanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "在紧急情况下，他冷静地向我们指示了安全出口的位置。",
+          "traditionalText": "在緊急情況下，他冷靜地向我們指示了安全出口的位置。",
+          "pinyin": "Zài jǐnjí qíngkuàng xià, tā lěngjìng de xiàng wǒmen zhǐshì le ānquán chūkǒu de wèizhi.",
+          "translation": "In an emergency situation, he calmly pointed out the location of the safe exit to us.",
+          "audioPath": "zh-CN-YunxiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/86540dd64114e91663839290873a912c.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to instruct",
+      "sentences": [
+        {
+          "simplifiedText": "他被指示去做那件事。",
+          "traditionalText": "他被指示去做那件事。",
+          "pinyin": "tā bèi zhǐshì qù zuò nà jiàn shì.",
+          "translation": "He was instructed to do that thing.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/6392755238f4ad98cce897e93a34f8eb.mp3",
+          "voiceName": "zh-CN-YunyeNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "在会议上，部门经理被指示提出一个新的销售策略。",
+          "traditionalText": "在會議上，部門經理被指示提出一個新的銷售策略。",
+          "pinyin": "zài huìyì shàng, bùmén jīnglǐ bèi zhǐshì tíchū yīgè xīn de xiāoshòu cèlüè.",
+          "translation": "At the meeting, the department manager was instructed to propose a new sales strategy.",
+          "audioPath": "zh-CN-YunyeNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9f97ac73934ff99b51ba64c3a8c34db0.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "Noun",
+      "meaning": "instructions",
+      "sentences": [
+        {
+          "simplifiedText": "请按照指示操作。",
+          "traditionalText": "請按照指示操作。",
+          "pinyin": "Qǐng ànzhào zhǐshì cāozuò.",
+          "translation": "Please follow the instructions.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/652734d68a6c353afddb404f049454ce.mp3",
+          "voiceName": "zh-CN-YunyeNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "当我们看不清楚路标的时候，我们必须按照GPS的指示进行行驶。",
+          "traditionalText": "當我們看不清楚路標的時候，我們必須按照GPS的指示進行行駛。",
+          "pinyin": "Dāng wǒmen kàn bù qīngchu lùbiāo de shíhòu, wǒmen bìxū ànzhào GPS de zhǐshì jìnxíng xíngshǐ.",
+          "translation": "When we can't see the road signs clearly, we must drive according to the instructions of the GPS.",
+          "audioPath": "zh-CN-XiaozhenNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/331848c22e421ac23707e50f14c32b35.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,63 @@
-{"simplified":"测","traditional":"測","pinyin":"cè","definitions":[{"partsOfSpeech":"verb","meaning":"to survey","sentences":[{"simplifiedText":"你需要测量这个盒子的长度。","traditionalText":"你需要測量這個盒子的長度。","pinyin":"nǐ xūyào cèliáng zhège hézi de chángdù.","translation":"You need to measure the length of this box.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e8bc964d37114e0d1c268900eebab723.mp3","voiceName":"zh-CN-XiaomoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"工程师正在使用专业工具来测量桥梁的稳定性。","traditionalText":"工程師正在使用專業工具來測量橋樑的穩定性。","pinyin":"gōngchéngshī zhèngzài shǐyòng zhuānyè gōngjù lái cèliáng qiáoliáng de wěndìngxìng.","translation":"The engineer is using professional tools to measure the stability of the bridge.","audioPath":"zh-CN-XiaoxiaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/6867e06fbe8d13d1194b0fd4c81af34d.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"verb","meaning":"to conjecture","sentences":[{"simplifiedText":"你在测什么?","traditionalText":"你在測什麼?","pinyin":"nǐ zài cè shén me?","translation":"What are you conjecturing?","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/046d8844ecbd2955097521d82179eaec.mp3","voiceName":"zh-CN-XiaohanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"他用他的脑子来测测这个问题的可能答案。","traditionalText":"他用他的腦子來測測這個問題的可能答案。","pinyin":"tā yòng tā de nǎozi lái cè cè zhège wèntí de kěnéng dá'àn。","translation":"He used his brain to conjecture possible answers to this problem.","audioPath":"zh-CN-YunyangNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0262a7e38d7a9f3c0fae4ac6f23eca7b.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "测",
+  "traditional": "測",
+  "pinyin": "cè",
+  "definitions": [
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to survey",
+      "sentences": [
+        {
+          "simplifiedText": "你需要测量这个盒子的长度。",
+          "traditionalText": "你需要測量這個盒子的長度。",
+          "pinyin": "nǐ xūyào cèliáng zhège hézi de chángdù.",
+          "translation": "You need to measure the length of this box.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e8bc964d37114e0d1c268900eebab723.mp3",
+          "voiceName": "zh-CN-XiaomoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "工程师正在使用专业工具来测量桥梁的稳定性。",
+          "traditionalText": "工程師正在使用專業工具來測量橋樑的穩定性。",
+          "pinyin": "gōngchéngshī zhèngzài shǐyòng zhuānyè gōngjù lái cèliáng qiáoliáng de wěndìngxìng.",
+          "translation": "The engineer is using professional tools to measure the stability of the bridge.",
+          "audioPath": "zh-CN-XiaoxiaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/6867e06fbe8d13d1194b0fd4c81af34d.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to conjecture",
+      "sentences": [
+        {
+          "simplifiedText": "你在测什么?",
+          "traditionalText": "你在測什麼?",
+          "pinyin": "nǐ zài cè shén me?",
+          "translation": "What are you conjecturing?",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/046d8844ecbd2955097521d82179eaec.mp3",
+          "voiceName": "zh-CN-XiaohanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "他用他的脑子来测测这个问题的可能答案。",
+          "traditionalText": "他用他的腦子來測測這個問題的可能答案。",
+          "pinyin": "tā yòng tā de nǎozi lái cè cè zhège wèntí de kěnéng dá'àn。",
+          "translation": "He used his brain to conjecture possible answers to this problem.",
+          "audioPath": "zh-CN-YunyangNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0262a7e38d7a9f3c0fae4ac6f23eca7b.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"simplified":"延伸","traditional":"延伸","pinyin":"yán shēn","definitions":[{"partsOfSpeech":"verb","meaning":"to extend","sentences":[{"simplifiedText":"他想延伸他的旅程。","traditionalText":"他想延伸他的旅程。","pinyin":"tā xiǎng yánshēn tā de lǚchéng.","translation":"He wants to extend his journey.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/25e835967a7abc1b031b0b5a21595c65.mp3","voiceName":"zh-CN-XiaomengNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"由于新的合同条件，公司决定延伸他们的业务到国外。","traditionalText":"由於新的合同條件，公司決定延伸他們的業務到國外。","pinyin":"yóuyú xīn de hétóng tiáojiàn, gōngsī juédìng yánshēn tāmen de yèwù dào guówài.","translation":"Due to the new contract conditions, the company decided to extend their business abroad.","audioPath":"zh-CN-XiaoxiaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/49a1d924b659126e360ac34c94e5c947.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "延伸",
+  "traditional": "延伸",
+  "pinyin": "yán shēn",
+  "definitions": [
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to extend",
+      "sentences": [
+        {
+          "simplifiedText": "他想延伸他的旅程。",
+          "traditionalText": "他想延伸他的旅程。",
+          "pinyin": "tā xiǎng yánshēn tā de lǚchéng.",
+          "translation": "He wants to extend his journey.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/25e835967a7abc1b031b0b5a21595c65.mp3",
+          "voiceName": "zh-CN-XiaomengNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "由于新的合同条件，公司决定延伸他们的业务到国外。",
+          "traditionalText": "由於新的合同條件，公司決定延伸他們的業務到國外。",
+          "pinyin": "yóuyú xīn de hétóng tiáojiàn, gōngsī juédìng yánshēn tāmen de yèwù dào guówài.",
+          "translation": "Due to the new contract conditions, the company decided to extend their business abroad.",
+          "audioPath": "zh-CN-XiaoxiaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/49a1d924b659126e360ac34c94e5c947.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

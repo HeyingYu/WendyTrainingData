@@ -1,1 +1,35 @@
-{"simplified":"沟通","traditional":"溝通","pinyin":"gōu tōng","definitions":[{"partsOfSpeech":"verb","meaning":"to join; to connect; to link up","sentences":[{"simplifiedText":"我们需要沟通。","traditionalText":"我們需要溝通。","pinyin":"wǒ men xū yào gōu tōng.","translation":"We need to communicate.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/ad94f5a1e2c3e8f81773d723fc4b38c4.mp3","voiceName":"zh-CN-XiaomoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"有效的沟通可以减少误会和冲突。","traditionalText":"有效的溝通可以減少誤會和衝突。","pinyin":"yǒu xiào de gōu tōng kě yǐ jiǎn shǎo wù huì hé chōng tū.","translation":"Effective communication can reduce misunderstandings and conflicts.","audioPath":"zh-CN-XiaohanNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/2a15f1a944ea1d0485fdd6770ec43828.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "沟通",
+  "traditional": "溝通",
+  "pinyin": "gōu tōng",
+  "definitions": [
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to join; to connect; to link up",
+      "sentences": [
+        {
+          "simplifiedText": "我们需要沟通。",
+          "traditionalText": "我們需要溝通。",
+          "pinyin": "wǒ men xū yào gōu tōng.",
+          "translation": "We need to communicate.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/ad94f5a1e2c3e8f81773d723fc4b38c4.mp3",
+          "voiceName": "zh-CN-XiaomoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "有效的沟通可以减少误会和冲突。",
+          "traditionalText": "有效的溝通可以減少誤會和衝突。",
+          "pinyin": "yǒu xiào de gōu tōng kě yǐ jiǎn shǎo wù huì hé chōng tū.",
+          "translation": "Effective communication can reduce misunderstandings and conflicts.",
+          "audioPath": "zh-CN-XiaohanNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/2a15f1a944ea1d0485fdd6770ec43828.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

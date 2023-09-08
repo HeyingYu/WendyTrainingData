@@ -1,1 +1,35 @@
-{"simplified":"摄像机","traditional":"攝像機","pinyin":"shè xiàng jī","definitions":[{"partsOfSpeech":"noun","meaning":"video camera","sentences":[{"simplifiedText":"这是我的新摄像机。","traditionalText":"這是我的新攝像機。","pinyin":"Zhè shì wǒ de xīn shèxiàngjī.","translation":"This is my new video camera.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/f16efe6b3f1bae0957f2b050317fcf3d.mp3","voiceName":"zh-CN-XiaoyanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"我在电子商店购买了一台新的摄像机，用于拍摄我的旅行纪录片。","traditionalText":"我在電子商店購買了一台新的攝像機，用於拍攝我的旅行紀錄片。","pinyin":"Wǒ zài diànzǐ shāngdiàn gòumǎile yī tái xīn de shèxiàngjī, yòngyú pāishè wǒ de lǚxíng jìlùpiàn.","translation":"I bought a new video camera in the electronics store for shooting my travel documentary.","audioPath":"zh-CN-YunjianNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/3065ac176d29753b7af8ffce0725241e.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "摄像机",
+  "traditional": "攝像機",
+  "pinyin": "shè xiàng jī",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "video camera",
+      "sentences": [
+        {
+          "simplifiedText": "这是我的新摄像机。",
+          "traditionalText": "這是我的新攝像機。",
+          "pinyin": "Zhè shì wǒ de xīn shèxiàngjī.",
+          "translation": "This is my new video camera.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/f16efe6b3f1bae0957f2b050317fcf3d.mp3",
+          "voiceName": "zh-CN-XiaoyanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "我在电子商店购买了一台新的摄像机，用于拍摄我的旅行纪录片。",
+          "traditionalText": "我在電子商店購買了一台新的攝像機，用於拍攝我的旅行紀錄片。",
+          "pinyin": "Wǒ zài diànzǐ shāngdiàn gòumǎile yī tái xīn de shèxiàngjī, yòngyú pāishè wǒ de lǚxíng jìlùpiàn.",
+          "translation": "I bought a new video camera in the electronics store for shooting my travel documentary.",
+          "audioPath": "zh-CN-YunjianNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/3065ac176d29753b7af8ffce0725241e.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

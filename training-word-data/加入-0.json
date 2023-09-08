@@ -1,1 +1,91 @@
-{"simplified":"加入","traditional":"加入","pinyin":"jiā rù","definitions":[{"partsOfSpeech":"verb","meaning":"to become a member","sentences":[{"simplifiedText":"我想加入这个俱乐部。","traditionalText":"我想加入這個俱樂部。","pinyin":"wǒ xiǎng jiārù zhègè jùlèbù.","translation":"I want to join this club.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/070bf07e29d47cbc5925ff34dd92d350.mp3","voiceName":"zh-CN-YunfengNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"如果我们的理念一致，你将被邀请加入我们的组织。","traditionalText":"如果我們的理念一致，你將被邀請加入我們的組織。","pinyin":"rúguǒ wǒmen de lǐniàn yīzhì, nǐ jiāng bèi yāoqǐng jiārù wǒmen de zǔzhī.","translation":"If our ideologies align, you will be invited to join our organization.","audioPath":"zh-CN-YunyeNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/2faee205d918509698fc43f8ae9aab49.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"动词","meaning":"to mix into","sentences":[{"simplifiedText":"请把糖加入到茶里。","traditionalText":"請把糖加入到茶裡。","pinyin":"Qǐng bǎ táng jiārù dào chá lǐ.","translation":"Please mix the sugar into the tea.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/1240c66171de226390003e6bc9538f3a.mp3","voiceName":"zh-CN-XiaoxuanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"在研究过程中，我们必须把新的数据加入到我们的模型中去。","traditionalText":"在研究過程中，我們必須把新的數據加入到我們的模型中去。","pinyin":"Zài yánjiū guòchéng zhōng, wǒmen bìxū bǎ xīn de shùjù jiārù dào wǒmen de móxíng zhōng qù.","translation":"In the research process, we must incorporate new data into our model.","audioPath":"zh-CN-XiaoyanNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/45b8ee3b85e3c9a663704c43ce2fb059.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"verb","meaning":"to add in","sentences":[{"simplifiedText":"我要加入这个俱乐部。","traditionalText":"我要加入這個俱樂部。","pinyin":"Wǒ yào jiārù zhège jùlèbù.","translation":"I want to join this club.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d534d0dda043346ee93e13590f5d05d7.mp3","voiceName":"zh-CN-YunxiNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"如果你愿意加入我们的团队，你需要首先完成一些基础的入门测试。","traditionalText":"如果你願意加入我們的團隊，你需要首先完成一些基礎的入門測試。","pinyin":"Rúguǒ nǐ yuànyì jiārù wǒmen de tuánduì, nǐ xūyào shǒuxiān wánchéng yīxiē jīchǔ de rùmén cèshì.","translation":"If you are willing to join our team, you need to first complete some basic entry tests.","audioPath":"zh-CN-XiaomoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/044faf62e3f3baa0cb38264a0bc21e12.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "加入",
+  "traditional": "加入",
+  "pinyin": "jiā rù",
+  "definitions": [
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to become a member",
+      "sentences": [
+        {
+          "simplifiedText": "我想加入这个俱乐部。",
+          "traditionalText": "我想加入這個俱樂部。",
+          "pinyin": "wǒ xiǎng jiārù zhègè jùlèbù.",
+          "translation": "I want to join this club.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/070bf07e29d47cbc5925ff34dd92d350.mp3",
+          "voiceName": "zh-CN-YunfengNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "如果我们的理念一致，你将被邀请加入我们的组织。",
+          "traditionalText": "如果我們的理念一致，你將被邀請加入我們的組織。",
+          "pinyin": "rúguǒ wǒmen de lǐniàn yīzhì, nǐ jiāng bèi yāoqǐng jiārù wǒmen de zǔzhī.",
+          "translation": "If our ideologies align, you will be invited to join our organization.",
+          "audioPath": "zh-CN-YunyeNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/2faee205d918509698fc43f8ae9aab49.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "动词",
+      "meaning": "to mix into",
+      "sentences": [
+        {
+          "simplifiedText": "请把糖加入到茶里。",
+          "traditionalText": "請把糖加入到茶裡。",
+          "pinyin": "Qǐng bǎ táng jiārù dào chá lǐ.",
+          "translation": "Please mix the sugar into the tea.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/1240c66171de226390003e6bc9538f3a.mp3",
+          "voiceName": "zh-CN-XiaoxuanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "在研究过程中，我们必须把新的数据加入到我们的模型中去。",
+          "traditionalText": "在研究過程中，我們必須把新的數據加入到我們的模型中去。",
+          "pinyin": "Zài yánjiū guòchéng zhōng, wǒmen bìxū bǎ xīn de shùjù jiārù dào wǒmen de móxíng zhōng qù.",
+          "translation": "In the research process, we must incorporate new data into our model.",
+          "audioPath": "zh-CN-XiaoyanNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/45b8ee3b85e3c9a663704c43ce2fb059.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to add in",
+      "sentences": [
+        {
+          "simplifiedText": "我要加入这个俱乐部。",
+          "traditionalText": "我要加入這個俱樂部。",
+          "pinyin": "Wǒ yào jiārù zhège jùlèbù.",
+          "translation": "I want to join this club.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d534d0dda043346ee93e13590f5d05d7.mp3",
+          "voiceName": "zh-CN-YunxiNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "如果你愿意加入我们的团队，你需要首先完成一些基础的入门测试。",
+          "traditionalText": "如果你願意加入我們的團隊，你需要首先完成一些基礎的入門測試。",
+          "pinyin": "Rúguǒ nǐ yuànyì jiārù wǒmen de tuánduì, nǐ xūyào shǒuxiān wánchéng yīxiē jīchǔ de rùmén cèshì.",
+          "translation": "If you are willing to join our team, you need to first complete some basic entry tests.",
+          "audioPath": "zh-CN-XiaomoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/044faf62e3f3baa0cb38264a0bc21e12.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

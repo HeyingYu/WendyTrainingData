@@ -1,1 +1,35 @@
-{"simplified":"雨水","traditional":"雨水","pinyin":"yǔ shuǐ","definitions":[{"partsOfSpeech":"noun","meaning":"rainwater; rainfall; rain","sentences":[{"simplifiedText":"雨水汇集在地面上。","traditionalText":"雨水匯集在地面上。","pinyin":"yǔ shuǐ huì jí zài dì miàn shàng.","translation":"The rainwater gathers on the ground.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/bbff79f7d4a0f4e9b0b3c2c26dc9e4f2.mp3","voiceName":"zh-CN-YunyeNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"雨水的积累可能导致地面积水，进一步造成洪灾。","traditionalText":"雨水的積累可能導致地面積水，進一步造成洪災。","pinyin":"yǔ shuǐ de jī lěi kě néng dǎo zhì dì miàn jī shuǐ, jìn yí bù zào chéng hóng zāi.","translation":"The accumulation of rainwater may cause flooding on the ground, further leading to flood disasters.","audioPath":"zh-CN-YunhaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/223750028d444da562baf4dc867a8f74.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "雨水",
+  "traditional": "雨水",
+  "pinyin": "yǔ shuǐ",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "rainwater; rainfall; rain",
+      "sentences": [
+        {
+          "simplifiedText": "雨水汇集在地面上。",
+          "traditionalText": "雨水匯集在地面上。",
+          "pinyin": "yǔ shuǐ huì jí zài dì miàn shàng.",
+          "translation": "The rainwater gathers on the ground.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/bbff79f7d4a0f4e9b0b3c2c26dc9e4f2.mp3",
+          "voiceName": "zh-CN-YunyeNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "雨水的积累可能导致地面积水，进一步造成洪灾。",
+          "traditionalText": "雨水的積累可能導致地面積水，進一步造成洪災。",
+          "pinyin": "yǔ shuǐ de jī lěi kě néng dǎo zhì dì miàn jī shuǐ, jìn yí bù zào chéng hóng zāi.",
+          "translation": "The accumulation of rainwater may cause flooding on the ground, further leading to flood disasters.",
+          "audioPath": "zh-CN-YunhaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/223750028d444da562baf4dc867a8f74.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

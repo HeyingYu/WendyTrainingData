@@ -1,1 +1,35 @@
-{"simplified":"高铁","traditional":"高鐵","pinyin":"gāo tiě","definitions":[{"partsOfSpeech":"noun","meaning":"high speed rail","sentences":[{"simplifiedText":"我乘坐高铁去北京。","traditionalText":"我乘坐高鐵去北京。","pinyin":"wǒ chéngzuò gāotiě qù běijīng.","translation":"I take the high-speed rail to Beijing.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/56391f45a5225db83f28b2b2d6fbc280.mp3","voiceName":"zh-CN-XiaochenNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"高铁的出现使得中国各个城市的联系更加紧密。","traditionalText":"高鐵的出現使得中國各個城市的聯繫更加緊密。","pinyin":"gāotiě de chūxiàn shǐdé zhōngguó gègè chéngshì de liánxì gèngjiā jǐnmì.","translation":"The advent of high-speed rail has made the connection between various cities in China more close.","audioPath":"zh-CN-XiaoxiaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/4ac91f908448d99634047ab1b61fb641.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "高铁",
+  "traditional": "高鐵",
+  "pinyin": "gāo tiě",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "high speed rail",
+      "sentences": [
+        {
+          "simplifiedText": "我乘坐高铁去北京。",
+          "traditionalText": "我乘坐高鐵去北京。",
+          "pinyin": "wǒ chéngzuò gāotiě qù běijīng.",
+          "translation": "I take the high-speed rail to Beijing.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/56391f45a5225db83f28b2b2d6fbc280.mp3",
+          "voiceName": "zh-CN-XiaochenNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "高铁的出现使得中国各个城市的联系更加紧密。",
+          "traditionalText": "高鐵的出現使得中國各個城市的聯繫更加緊密。",
+          "pinyin": "gāotiě de chūxiàn shǐdé zhōngguó gègè chéngshì de liánxì gèngjiā jǐnmì.",
+          "translation": "The advent of high-speed rail has made the connection between various cities in China more close.",
+          "audioPath": "zh-CN-XiaoxiaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/4ac91f908448d99634047ab1b61fb641.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

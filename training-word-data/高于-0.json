@@ -1,1 +1,35 @@
-{"simplified":"高于","traditional":"高於","pinyin":"gāo yú","definitions":[{"partsOfSpeech":"Preposition","meaning":"greater than","sentences":[{"simplifiedText":"这个山高于那个山。","traditionalText":"這個山高於那個山。","pinyin":"Zhège shān gāo yú nàgè shān.","translation":"This mountain is higher than that mountain.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/56a95f3d2daa30b36a3377637a14f11c.mp3","voiceName":"zh-CN-YunyeNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"他的成绩高于班级平均水平，被选为年级优秀生。","traditionalText":"他的成績高於班級平均水平，被選為年級優秀生。","pinyin":"Tā de chéngjì gāo yú bānjí píngjūn shuǐpíng, bèi xuǎn wèi niánjí yōuxiù shēng.","translation":"His grades are higher than the class average, so he was selected as an outstanding student of the grade.","audioPath":"zh-CN-YunhaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/c66fd02a31c71ce06b3b757cedbf1720.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "高于",
+  "traditional": "高於",
+  "pinyin": "gāo yú",
+  "definitions": [
+    {
+      "partsOfSpeech": "Preposition",
+      "meaning": "greater than",
+      "sentences": [
+        {
+          "simplifiedText": "这个山高于那个山。",
+          "traditionalText": "這個山高於那個山。",
+          "pinyin": "Zhège shān gāo yú nàgè shān.",
+          "translation": "This mountain is higher than that mountain.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/56a95f3d2daa30b36a3377637a14f11c.mp3",
+          "voiceName": "zh-CN-YunyeNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "他的成绩高于班级平均水平，被选为年级优秀生。",
+          "traditionalText": "他的成績高於班級平均水平，被選為年級優秀生。",
+          "pinyin": "Tā de chéngjì gāo yú bānjí píngjūn shuǐpíng, bèi xuǎn wèi niánjí yōuxiù shēng.",
+          "translation": "His grades are higher than the class average, so he was selected as an outstanding student of the grade.",
+          "audioPath": "zh-CN-YunhaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/c66fd02a31c71ce06b3b757cedbf1720.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

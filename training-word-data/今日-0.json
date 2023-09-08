@@ -1,1 +1,35 @@
-{"simplified":"今日","traditional":"今日","pinyin":"jīn rì","definitions":[{"partsOfSpeech":"noun","meaning":"today","sentences":[{"simplifiedText":"今日是星期五。","traditionalText":"今日是星期五。","pinyin":"jīn rì shì xīng qī wǔ.","translation":"Today is Friday.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e51fbadc8e596d0058026fba98584b05.mp3","voiceName":"zh-CN-YunxiNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"他计划在今日下午的会议上提出这个问题。","traditionalText":"他計劃在今日下午的會議上提出這個問題。","pinyin":"tā jì huà zài jīn rì xià wǔ de huì yì shàng tí chū zhè ge wèn tí.","translation":"He plans to raise this issue in today's afternoon meeting.","audioPath":"zh-CN-XiaohanNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/7e50749dd49245f29a32801ee8f841bb.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "今日",
+  "traditional": "今日",
+  "pinyin": "jīn rì",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "today",
+      "sentences": [
+        {
+          "simplifiedText": "今日是星期五。",
+          "traditionalText": "今日是星期五。",
+          "pinyin": "jīn rì shì xīng qī wǔ.",
+          "translation": "Today is Friday.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e51fbadc8e596d0058026fba98584b05.mp3",
+          "voiceName": "zh-CN-YunxiNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "他计划在今日下午的会议上提出这个问题。",
+          "traditionalText": "他計劃在今日下午的會議上提出這個問題。",
+          "pinyin": "tā jì huà zài jīn rì xià wǔ de huì yì shàng tí chū zhè ge wèn tí.",
+          "translation": "He plans to raise this issue in today's afternoon meeting.",
+          "audioPath": "zh-CN-XiaohanNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/7e50749dd49245f29a32801ee8f841bb.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"simplified":"园林","traditional":"園林","pinyin":"yuán lín","definitions":[{"partsOfSpeech":"noun","meaning":"gardens; park; landscape garden","sentences":[{"simplifiedText":"我喜欢在园林里漫步。","traditionalText":"我喜歡在園林裡漫步。","pinyin":"Wǒ xǐhuan zài yuánlín lǐ mànbù.","translation":"I like strolling in the garden.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/53e98401a85c27fd12138de9630f2b25.mp3","voiceName":"zh-CN-YunfengNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"我午後在繁花似錦的园林裡散步，讓人感到無比的舒適與寧靜。","traditionalText":"我午後在繁花似錦的園林裡散步，讓人感到無比的舒適與寧靜。","pinyin":"Wǒ wǔhòu zài fánhuā sì jǐn de yuánlín lǐ sànbù, ràng rén gǎndào wúbǐ de shūshì yǔ níngjìng.","translation":"Taking a walk in the blooming garden in the afternoon, one feels incomparable comfort and tranquility.","audioPath":"zh-CN-YunxiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/68039ed6e85aacaae5293d17f599290b.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "园林",
+  "traditional": "園林",
+  "pinyin": "yuán lín",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "gardens; park; landscape garden",
+      "sentences": [
+        {
+          "simplifiedText": "我喜欢在园林里漫步。",
+          "traditionalText": "我喜歡在園林裡漫步。",
+          "pinyin": "Wǒ xǐhuan zài yuánlín lǐ mànbù.",
+          "translation": "I like strolling in the garden.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/53e98401a85c27fd12138de9630f2b25.mp3",
+          "voiceName": "zh-CN-YunfengNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "我午後在繁花似錦的园林裡散步，讓人感到無比的舒適與寧靜。",
+          "traditionalText": "我午後在繁花似錦的園林裡散步，讓人感到無比的舒適與寧靜。",
+          "pinyin": "Wǒ wǔhòu zài fánhuā sì jǐn de yuánlín lǐ sànbù, ràng rén gǎndào wúbǐ de shūshì yǔ níngjìng.",
+          "translation": "Taking a walk in the blooming garden in the afternoon, one feels incomparable comfort and tranquility.",
+          "audioPath": "zh-CN-YunxiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/68039ed6e85aacaae5293d17f599290b.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

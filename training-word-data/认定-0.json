@@ -1,1 +1,119 @@
-{"simplified":"认定","traditional":"認定","pinyin":"rèn dìng","definitions":[{"partsOfSpeech":"Verb","meaning":"to maintain (that sth is true)","sentences":[{"simplifiedText":"我认定他是对的。","traditionalText":"我認定他是對的。","pinyin":"wǒ rèn dìng tā shì duì de.","translation":"I maintain that he is right.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/abbd946d687a238a0ba7eab70d7211b4.mp3","voiceName":"zh-CN-XiaoyanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"尽管他的行为让人质疑，我仍然认定他的初衷是好的。","traditionalText":"儘管他的行為讓人質疑，我仍然認定他的初衷是好的。","pinyin":"jǐn guǎn tā de xíng wéi ràng rén zhì yí ，wǒ réng rán rèn dìng tā de chū zhōng shì hǎo de.","translation":"Despite his questionable actions, I still maintain that his initial intentions were good.","audioPath":"zh-CN-XiaoyanNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/95d1cb38daf5dc63b37fe13a3493f63e.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"noun","meaning":"determination (of an amount)","sentences":[{"simplifiedText":"我已经对此做出了认定。","traditionalText":"我已經對此做出了認定。","pinyin":"Wǒ yǐjīng duì cǐ zuòchūle rèndìng.","translation":"I have already made a determination on this.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9e5f37cf74bbd2f6294633bd520d8168.mp3","voiceName":"zh-CN-YunyeNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"在没有绝对事实的情况下，我们通常需要依赖专家的意见认定问题。","traditionalText":"在沒有絕對事實的情況下，我們通常需要依賴專家的意見認定問題。","pinyin":"Zài méiyǒu juéduì shìshí de qíngkuàng xià, wǒmen tōngcháng xūyào yīlài zhuānjiā de yìjiàn rèndìng wèntí.","translation":"In the absence of absolute facts, we usually need to rely on expert opinions for determination of issues.","audioPath":"zh-CN-YunyeNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/98cb2334ca7c13508ebfa1a27bb44811.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"Verb","meaning":"to believe firmly","sentences":[{"simplifiedText":"我完全认定你可以做到。","traditionalText":"我完全認定你可以做到。","pinyin":"wǒ wán quán rèn dìng nǐ kě yǐ zuò dào.","translation":"I firmly believe that you can do it.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/4b3c3b5e31b23e6885f3b3bd5c56b016.mp3","voiceName":"zh-CN-YunfengNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"经过一段时间的观察和调查, 我们忍定这是个好机会，因此决定把握住这次机会。","traditionalText":"經過一段時間的觀察和調查，我們認定這是個好機會，因此決定把握住這次機會。","pinyin":"jīng guò yī duàn shí jiān de guān chá hé diào chá, wǒ men rèn dìng zhè shì gè hǎo jī huì, yīn cǐ jué dìng bǎ wò zhù zhè cì jī huì.","translation":"After a period of observation and investigation, we firmly believe that this is a good opportunity, so we decide to seize this opportunity.","audioPath":"zh-CN-YunyeNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/931d33f7df65b5d609fa184613b58cf1.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"verb","meaning":"to identify with","sentences":[{"simplifiedText":"我认定他是我最好的朋友。","traditionalText":"我認定他是我最好的朋友。","pinyin":"Wǒ rèndìng tā shì wǒ zuì hǎo de péngyǒu.","translation":"I identify him as my best friend.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/7d94e28e5e6eeb6b708d4fd1c0247250.mp3","voiceName":"zh-CN-XiaomoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"在经过一段长时间的相处之后，她最终认定他是她的生命中那个特别的人。","traditionalText":"在經過一段長時間的相處之後，她最終認定他是她的生命中那個特別的人。","pinyin":"Zài jīngguò yīduàn cháng shíjiān de xiāngchǔ zhīhòu, tā zuìzhōng rèndìng tā shì tā de shēngmìng zhōng nàgè tèbié de rén.","translation":"After a long period of interaction, she ultimately identified him as that special person in her life.","audioPath":"zh-CN-XiaozhenNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/dafefe8f994d889238c101ff483eacfa.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "认定",
+  "traditional": "認定",
+  "pinyin": "rèn dìng",
+  "definitions": [
+    {
+      "partsOfSpeech": "Verb",
+      "meaning": "to maintain (that sth is true)",
+      "sentences": [
+        {
+          "simplifiedText": "我认定他是对的。",
+          "traditionalText": "我認定他是對的。",
+          "pinyin": "wǒ rèn dìng tā shì duì de.",
+          "translation": "I maintain that he is right.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/abbd946d687a238a0ba7eab70d7211b4.mp3",
+          "voiceName": "zh-CN-XiaoyanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "尽管他的行为让人质疑，我仍然认定他的初衷是好的。",
+          "traditionalText": "儘管他的行為讓人質疑，我仍然認定他的初衷是好的。",
+          "pinyin": "jǐn guǎn tā de xíng wéi ràng rén zhì yí ，wǒ réng rán rèn dìng tā de chū zhōng shì hǎo de.",
+          "translation": "Despite his questionable actions, I still maintain that his initial intentions were good.",
+          "audioPath": "zh-CN-XiaoyanNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/95d1cb38daf5dc63b37fe13a3493f63e.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "determination (of an amount)",
+      "sentences": [
+        {
+          "simplifiedText": "我已经对此做出了认定。",
+          "traditionalText": "我已經對此做出了認定。",
+          "pinyin": "Wǒ yǐjīng duì cǐ zuòchūle rèndìng.",
+          "translation": "I have already made a determination on this.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9e5f37cf74bbd2f6294633bd520d8168.mp3",
+          "voiceName": "zh-CN-YunyeNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "在没有绝对事实的情况下，我们通常需要依赖专家的意见认定问题。",
+          "traditionalText": "在沒有絕對事實的情況下，我們通常需要依賴專家的意見認定問題。",
+          "pinyin": "Zài méiyǒu juéduì shìshí de qíngkuàng xià, wǒmen tōngcháng xūyào yīlài zhuānjiā de yìjiàn rèndìng wèntí.",
+          "translation": "In the absence of absolute facts, we usually need to rely on expert opinions for determination of issues.",
+          "audioPath": "zh-CN-YunyeNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/98cb2334ca7c13508ebfa1a27bb44811.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "Verb",
+      "meaning": "to believe firmly",
+      "sentences": [
+        {
+          "simplifiedText": "我完全认定你可以做到。",
+          "traditionalText": "我完全認定你可以做到。",
+          "pinyin": "wǒ wán quán rèn dìng nǐ kě yǐ zuò dào.",
+          "translation": "I firmly believe that you can do it.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/4b3c3b5e31b23e6885f3b3bd5c56b016.mp3",
+          "voiceName": "zh-CN-YunfengNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "经过一段时间的观察和调查, 我们忍定这是个好机会，因此决定把握住这次机会。",
+          "traditionalText": "經過一段時間的觀察和調查，我們認定這是個好機會，因此決定把握住這次機會。",
+          "pinyin": "jīng guò yī duàn shí jiān de guān chá hé diào chá, wǒ men rèn dìng zhè shì gè hǎo jī huì, yīn cǐ jué dìng bǎ wò zhù zhè cì jī huì.",
+          "translation": "After a period of observation and investigation, we firmly believe that this is a good opportunity, so we decide to seize this opportunity.",
+          "audioPath": "zh-CN-YunyeNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/931d33f7df65b5d609fa184613b58cf1.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to identify with",
+      "sentences": [
+        {
+          "simplifiedText": "我认定他是我最好的朋友。",
+          "traditionalText": "我認定他是我最好的朋友。",
+          "pinyin": "Wǒ rèndìng tā shì wǒ zuì hǎo de péngyǒu.",
+          "translation": "I identify him as my best friend.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/7d94e28e5e6eeb6b708d4fd1c0247250.mp3",
+          "voiceName": "zh-CN-XiaomoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "在经过一段长时间的相处之后，她最终认定他是她的生命中那个特别的人。",
+          "traditionalText": "在經過一段長時間的相處之後，她最終認定他是她的生命中那個特別的人。",
+          "pinyin": "Zài jīngguò yīduàn cháng shíjiān de xiāngchǔ zhīhòu, tā zuìzhōng rèndìng tā shì tā de shēngmìng zhōng nàgè tèbié de rén.",
+          "translation": "After a long period of interaction, she ultimately identified him as that special person in her life.",
+          "audioPath": "zh-CN-XiaozhenNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/dafefe8f994d889238c101ff483eacfa.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

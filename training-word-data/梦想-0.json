@@ -1,1 +1,35 @@
-{"simplified":"梦想","traditional":"夢想","pinyin":"mèng xiǎng","definitions":[{"partsOfSpeech":"Noun","meaning":"(fig.) to dream of","sentences":[{"simplifiedText":"我有一个梦想。","traditionalText":"我擁有一個夢想。","pinyin":"wǒ yǒu yīgè mèngxiǎng.","translation":"I have a dream.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/799120eeef2e1726864de182e5f6425b.mp3","voiceName":"zh-CN-XiaoyanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"面对困难，我们可以选择放弃，也可以选择坚持，但不论选择何种方式，我们都不能放弃我们的梦想。","traditionalText":"面對困難，我們可以選擇放棄，也可以選擇堅持，但不論選擇何種方式，我們都不能放棄我們的夢想。","pinyin":"miàn duì kùn nán, wǒ men kě yǐ xuǎn zé fàng qì, yě kě yǐ xuǎn zé jiān chí, dàn bù lùn xuǎn zé hé zhǒng fāng shì, wǒ men dōu bù néng fàng qì wǒ men de mèng xiǎng.","translation":"In the face of difficulties, we can choose to give up or stick to it, but no matter what method we choose, we should never give up our dream.","audioPath":"zh-CN-YunhaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/29250d81b05c03d214d404ceb1ab58c9.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "梦想",
+  "traditional": "夢想",
+  "pinyin": "mèng xiǎng",
+  "definitions": [
+    {
+      "partsOfSpeech": "Noun",
+      "meaning": "(fig.) to dream of",
+      "sentences": [
+        {
+          "simplifiedText": "我有一个梦想。",
+          "traditionalText": "我擁有一個夢想。",
+          "pinyin": "wǒ yǒu yīgè mèngxiǎng.",
+          "translation": "I have a dream.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/799120eeef2e1726864de182e5f6425b.mp3",
+          "voiceName": "zh-CN-XiaoyanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "面对困难，我们可以选择放弃，也可以选择坚持，但不论选择何种方式，我们都不能放弃我们的梦想。",
+          "traditionalText": "面對困難，我們可以選擇放棄，也可以選擇堅持，但不論選擇何種方式，我們都不能放棄我們的夢想。",
+          "pinyin": "miàn duì kùn nán, wǒ men kě yǐ xuǎn zé fàng qì, yě kě yǐ xuǎn zé jiān chí, dàn bù lùn xuǎn zé hé zhǒng fāng shì, wǒ men dōu bù néng fàng qì wǒ men de mèng xiǎng.",
+          "translation": "In the face of difficulties, we can choose to give up or stick to it, but no matter what method we choose, we should never give up our dream.",
+          "audioPath": "zh-CN-YunhaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/29250d81b05c03d214d404ceb1ab58c9.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

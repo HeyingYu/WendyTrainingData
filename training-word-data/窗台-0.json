@@ -1,1 +1,35 @@
-{"simplified":"窗台","traditional":"窗臺","pinyin":"chuāng tái","definitions":[{"partsOfSpeech":"noun","meaning":"window sill","sentences":[{"simplifiedText":"请把书放在窗台上。","traditionalText":"請把書放在窗台上。","pinyin":"Qǐng bǎ shū fàng zài chuāng tái shàng.","translation":"Please put the book on the window sill.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/177a1dfe16ffac03ef3f315676294f88.mp3","voiceName":"zh-CN-XiaoxuanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"每天早上，他都会坐在窗台上，看着外面的世界，思考人生。","traditionalText":"每天早上，他都會坐在窗台上，看著外面的世界，思考人生。","pinyin":"Měitiān zǎoshang, tā dōu huì zuò zài chuāng tái shàng, kànzhe wàimiàn de shìjiè, sīkǎo rénshēng.","translation":"Every morning, he would sit by the window sill, looking at the outside world, pondering about life.","audioPath":"zh-CN-YunyeNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0c2576842e43a7303d641a8668856c83.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "窗台",
+  "traditional": "窗臺",
+  "pinyin": "chuāng tái",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "window sill",
+      "sentences": [
+        {
+          "simplifiedText": "请把书放在窗台上。",
+          "traditionalText": "請把書放在窗台上。",
+          "pinyin": "Qǐng bǎ shū fàng zài chuāng tái shàng.",
+          "translation": "Please put the book on the window sill.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/177a1dfe16ffac03ef3f315676294f88.mp3",
+          "voiceName": "zh-CN-XiaoxuanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "每天早上，他都会坐在窗台上，看着外面的世界，思考人生。",
+          "traditionalText": "每天早上，他都會坐在窗台上，看著外面的世界，思考人生。",
+          "pinyin": "Měitiān zǎoshang, tā dōu huì zuò zài chuāng tái shàng, kànzhe wàimiàn de shìjiè, sīkǎo rénshēng.",
+          "translation": "Every morning, he would sit by the window sill, looking at the outside world, pondering about life.",
+          "audioPath": "zh-CN-YunyeNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0c2576842e43a7303d641a8668856c83.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

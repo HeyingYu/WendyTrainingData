@@ -1,1 +1,35 @@
-{"simplified":"航班","traditional":"航班","pinyin":"háng bān","definitions":[{"partsOfSpeech":"noun","meaning":"(scheduled) flight; (scheduled) sailing","sentences":[{"simplifiedText":"这是我的航班。","traditionalText":"這是我的航班。","pinyin":"Zhè shì wǒ de hángbān.","translation":"This is my flight.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/f997e8cce9c4b20186d0f0b9e4394f04.mp3","voiceName":"zh-CN-YunyangNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"由于疫情的原因，我的航班被取消了。我必须重新订票。","traditionalText":"由於疫情的原因，我的航班被取消了。我必須重新訂票。","pinyin":"Yóuyú yìqíng de yuányīn, wǒ de hángbān bèi qǔxiāole. Wǒ bìxū chóngxīn dìng piào.","translation":"Due to the epidemic, my flight was canceled. I must rebook.","audioPath":"zh-CN-YunyangNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/8bb396ee59c2b41bc7b50aa1cd6424e3.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "航班",
+  "traditional": "航班",
+  "pinyin": "háng bān",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "(scheduled) flight; (scheduled) sailing",
+      "sentences": [
+        {
+          "simplifiedText": "这是我的航班。",
+          "traditionalText": "這是我的航班。",
+          "pinyin": "Zhè shì wǒ de hángbān.",
+          "translation": "This is my flight.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/f997e8cce9c4b20186d0f0b9e4394f04.mp3",
+          "voiceName": "zh-CN-YunyangNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "由于疫情的原因，我的航班被取消了。我必须重新订票。",
+          "traditionalText": "由於疫情的原因，我的航班被取消了。我必須重新訂票。",
+          "pinyin": "Yóuyú yìqíng de yuányīn, wǒ de hángbān bèi qǔxiāole. Wǒ bìxū chóngxīn dìng piào.",
+          "translation": "Due to the epidemic, my flight was canceled. I must rebook.",
+          "audioPath": "zh-CN-YunyangNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/8bb396ee59c2b41bc7b50aa1cd6424e3.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

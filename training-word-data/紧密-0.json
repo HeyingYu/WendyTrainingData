@@ -1,35 +1,35 @@
 {
-    "simplified": "紧密",
-    "traditional": "緊密",
-    "pinyin": "jǐn mì",
-    "definitions": [
+  "simplified": "紧密",
+  "traditional": "緊密",
+  "pinyin": "jǐn mì",
+  "definitions": [
+    {
+      "partsOfSpeech": "Adverb",
+      "meaning": "inseparably close",
+      "sentences": [
         {
-            "partsOfSpeech": "Adverb",
-            "meaning": "inseparably close",
-            "sentences": [
-                {
-                    "simplifiedText": "他紧密看着那个人。",
-                    "traditionalText": "他緊密看著那個人。",
-                    "pinyin": "tā jǐn mì kàn zhe nàgè rén.",
-                    "translation": "He is watching that person closely.",
-                    "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0bf6fefdead3538ad37bf1773ce1fff0.mp3",
-                    "voiceName": "zh-CN-YunxiNeural",
-                    "tags": [
-                        "EASY_TO_USE"
-                    ]
-                },
-                {
-                    "simplifiedText": "在复杂的环境下，紧密的团队协作是成功的关键.",
-                    "traditionalText": "在複雜的環境下，緊密的團隊協作是成功的關鍵.",
-                    "pinyin": "zài fùzá de huánjìng xià, jǐnmì de tuánduì xiézuò shì chénggōng de guānjiàn.",
-                    "translation": "In a complex environment, the key to success is close teamwork.",
-                    "audioPath": "zh-CN-YunfengNeural",
-                    "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9be088bd2bad916e67941eab81e97f3c.mp3",
-                    "tags": [
-                        "INVOLVED"
-                    ]
-                }
-            ]
+          "simplifiedText": "他紧密看着那个人。",
+          "traditionalText": "他緊密看著那個人。",
+          "pinyin": "tā jǐn mì kàn zhe nàgè rén.",
+          "translation": "He is watching that person closely.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0bf6fefdead3538ad37bf1773ce1fff0.mp3",
+          "voiceName": "zh-CN-YunxiNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "在复杂的环境下，紧密的团队协作是成功的关键.",
+          "traditionalText": "在複雜的環境下，緊密的團隊協作是成功的關鍵.",
+          "pinyin": "zài fùzá de huánjìng xià, jǐnmì de tuánduì xiézuò shì chénggōng de guānjiàn.",
+          "translation": "In a complex environment, the key to success is close teamwork.",
+          "audioPath": "zh-CN-YunfengNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9be088bd2bad916e67941eab81e97f3c.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
         }
-    ]
+      ]
+    }
+  ]
 }

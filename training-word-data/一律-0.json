@@ -1,63 +1,63 @@
 {
-    "simplified": "一律",
-    "traditional": "一律",
-    "pinyin": "yī lù:",
-    "definitions": [
+  "simplified": "一律",
+  "traditional": "一律",
+  "pinyin": "yī lù:",
+  "definitions": [
+    {
+      "partsOfSpeech": "adverb",
+      "meaning": "same",
+      "sentences": [
         {
-            "partsOfSpeech": "adverb",
-            "meaning": "same",
-            "sentences": [
-                {
-                    "simplifiedText": "我们学校的女生一律长发。",
-                    "traditionalText": "我們學校的女生一律長髮。",
-                    "pinyin": "Wǒmen xuéxiào de nǚshēng yīlǜ cháng fā.",
-                    "translation": "All the girls in our school have long hair.",
-                    "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/7c5690c1080d3ef59db68b40b1a71aee.mp3",
-                    "voiceName": "zh-CN-XiaoyanNeural",
-                    "tags": [
-                        "EASY_TO_USE"
-                    ]
-                },
-                {
-                    "simplifiedText": "为了确保平等，入场规则一律适用于所有人。",
-                    "traditionalText": "為了確保平等，入場規則一律適用於所有人。",
-                    "pinyin": "Wèile quèbǎo píngděng, rùchǎng guīzé yīlǜ shìyòng yú suǒyǒu rén.",
-                    "translation": "To ensure equality, the rules of admission applies equally to everyone.",
-                    "audioPath": "zh-CN-YunjianNeural",
-                    "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/70f43624a18ec0dbad6ffaf09d4c6bea.mp3",
-                    "tags": [
-                        "INVOLVED"
-                    ]
-                }
-            ]
+          "simplifiedText": "我们学校的女生一律长发。",
+          "traditionalText": "我們學校的女生一律長髮。",
+          "pinyin": "Wǒmen xuéxiào de nǚshēng yīlǜ cháng fā.",
+          "translation": "All the girls in our school have long hair.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/7c5690c1080d3ef59db68b40b1a71aee.mp3",
+          "voiceName": "zh-CN-XiaoyanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
         },
         {
-            "partsOfSpeech": "adverb",
-            "meaning": "all",
-            "sentences": [
-                {
-                    "simplifiedText": "公司规定，员工一律穿着固定制服。",
-                    "traditionalText": "公司規定，員工一律穿著固定制服。",
-                    "pinyin": "gōngsī guīdìng, yuángōng yīlǜ chuānzhuó gùdìng zhìfú.",
-                    "translation": "The company stipulates that all employees must wear specific uniforms.",
-                    "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/6f5f19c18c7c98275f28857ed6575610.mp3",
-                    "voiceName": "zh-CN-YunxiNeural",
-                    "tags": [
-                        "EASY_TO_USE"
-                    ]
-                },
-                {
-                    "simplifiedText": "为了公平竞争，所有参赛者的赛车一律由承办方提供。",
-                    "traditionalText": "為了公平競爭，所有參賽者的賽車一律由承辦方提供。",
-                    "pinyin": "wèile gōngpíng jìngzhēng, suǒyǒu cānsàizhě de sàichē yīlǜ yóu chéngbàn fāng tígōng.",
-                    "translation": "In the interest of fairness, the organizers will provide the racing cars to all competitors.",
-                    "audioPath": "zh-CN-YunfengNeural",
-                    "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d2e4dff7be801b5e86abd8823d76bda6.mp3",
-                    "tags": [
-                        "INVOLVED"
-                    ]
-                }
-            ]
+          "simplifiedText": "为了确保平等，入场规则一律适用于所有人。",
+          "traditionalText": "為了確保平等，入場規則一律適用於所有人。",
+          "pinyin": "Wèile quèbǎo píngděng, rùchǎng guīzé yīlǜ shìyòng yú suǒyǒu rén.",
+          "translation": "To ensure equality, the rules of admission applies equally to everyone.",
+          "audioPath": "zh-CN-YunjianNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/70f43624a18ec0dbad6ffaf09d4c6bea.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
         }
-    ]
+      ]
+    },
+    {
+      "partsOfSpeech": "adverb",
+      "meaning": "all",
+      "sentences": [
+        {
+          "simplifiedText": "公司规定，员工一律穿着固定制服。",
+          "traditionalText": "公司規定，員工一律穿著固定制服。",
+          "pinyin": "gōngsī guīdìng, yuángōng yīlǜ chuānzhuó gùdìng zhìfú.",
+          "translation": "The company stipulates that all employees must wear specific uniforms.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/6f5f19c18c7c98275f28857ed6575610.mp3",
+          "voiceName": "zh-CN-YunxiNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "为了公平竞争，所有参赛者的赛车一律由承办方提供。",
+          "traditionalText": "為了公平競爭，所有參賽者的賽車一律由承辦方提供。",
+          "pinyin": "wèile gōngpíng jìngzhēng, suǒyǒu cānsàizhě de sàichē yīlǜ yóu chéngbàn fāng tígōng.",
+          "translation": "In the interest of fairness, the organizers will provide the racing cars to all competitors.",
+          "audioPath": "zh-CN-YunfengNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d2e4dff7be801b5e86abd8823d76bda6.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
 }

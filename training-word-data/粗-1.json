@@ -1,1 +1,35 @@
-{"simplified":"粗","traditional":"麤","pinyin":"cū","definitions":[{"partsOfSpeech":"adjective","meaning":"remote","sentences":[{"simplifiedText":"这个石头很粗。","traditionalText":"這個石頭很粗。","pinyin":"Zhège shítou hěn cū.","translation":"This stone is very coarse.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/fbe471076c5624be25ae2eb5f62bb5df.mp3","voiceName":"zh-CN-XiaohanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"他用粗而强大的手掌抓住了那根粗糙的绳子。","traditionalText":"他用粗而強大的手掌抓住了那根粗糙的繩子。","pinyin":"Tā yòng cū ér qiángdà de shǒuzhǎng zhuā zhùle nà gēn cūcāo de shéngzi.","translation":"He grabbed the rough rope with his large and rough hand.","audioPath":"zh-CN-XiaoxuanNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b967c36372af9996ed54244b6c3e842b.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "粗",
+  "traditional": "麤",
+  "pinyin": "cū",
+  "definitions": [
+    {
+      "partsOfSpeech": "adjective",
+      "meaning": "remote",
+      "sentences": [
+        {
+          "simplifiedText": "这个石头很粗。",
+          "traditionalText": "這個石頭很粗。",
+          "pinyin": "Zhège shítou hěn cū.",
+          "translation": "This stone is very coarse.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/fbe471076c5624be25ae2eb5f62bb5df.mp3",
+          "voiceName": "zh-CN-XiaohanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "他用粗而强大的手掌抓住了那根粗糙的绳子。",
+          "traditionalText": "他用粗而強大的手掌抓住了那根粗糙的繩子。",
+          "pinyin": "Tā yòng cū ér qiángdà de shǒuzhǎng zhuā zhùle nà gēn cūcāo de shéngzi.",
+          "translation": "He grabbed the rough rope with his large and rough hand.",
+          "audioPath": "zh-CN-XiaoxuanNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b967c36372af9996ed54244b6c3e842b.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

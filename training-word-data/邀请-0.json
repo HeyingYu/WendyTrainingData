@@ -1,1 +1,35 @@
-{"simplified":"邀请","traditional":"邀請","pinyin":"yāo qǐng","definitions":[{"partsOfSpeech":"verb","meaning":"to invite","sentences":[{"simplifiedText":"我邀请你来我的派对。","traditionalText":"我邀請你來我的派對。","pinyin":"wǒ yāoqǐng nǐ lái wǒ de pàiduì.","translation":"I invite you to my party.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/df3449c9021b8ae6b84626168ad8f8d0.mp3","voiceName":"zh-CN-YunjianNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"由于他的表现非常出色，公司决定邀请他在年会上发表讲话。","traditionalText":"由於他的表現非常出色，公司決定邀請他在年會上發表講話。","pinyin":"yóu yú tā de biǎoxiàn fēicháng chūsè, gōngsī juédìng yāoqǐng tā zài niánhuì shàng fābiǎo jiǎnghuà.","translation":"Due to his excellent performance, the company decided to invite him to give a speech at the annual meeting.","audioPath":"zh-CN-XiaomengNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b23f7ffb5301a8d8cd3a700f182b4a3e.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "邀请",
+  "traditional": "邀請",
+  "pinyin": "yāo qǐng",
+  "definitions": [
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to invite",
+      "sentences": [
+        {
+          "simplifiedText": "我邀请你来我的派对。",
+          "traditionalText": "我邀請你來我的派對。",
+          "pinyin": "wǒ yāoqǐng nǐ lái wǒ de pàiduì.",
+          "translation": "I invite you to my party.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/df3449c9021b8ae6b84626168ad8f8d0.mp3",
+          "voiceName": "zh-CN-YunjianNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "由于他的表现非常出色，公司决定邀请他在年会上发表讲话。",
+          "traditionalText": "由於他的表現非常出色，公司決定邀請他在年會上發表講話。",
+          "pinyin": "yóu yú tā de biǎoxiàn fēicháng chūsè, gōngsī juédìng yāoqǐng tā zài niánhuì shàng fābiǎo jiǎnghuà.",
+          "translation": "Due to his excellent performance, the company decided to invite him to give a speech at the annual meeting.",
+          "audioPath": "zh-CN-XiaomengNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b23f7ffb5301a8d8cd3a700f182b4a3e.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

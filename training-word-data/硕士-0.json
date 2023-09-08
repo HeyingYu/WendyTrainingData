@@ -1,1 +1,63 @@
-{"simplified":"硕士","traditional":"碩士","pinyin":"shuò shì","definitions":[{"partsOfSpeech":"Noun","meaning":"master's degree","sentences":[{"simplifiedText":"我正在读硕士学位。","traditionalText":"我正在讀碩士學位。","pinyin":"Wǒ zhèngzài dú shuòshì xuéwèi.","translation":"I am studying for a master's degree.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/1a74e557cc89bc4c4bdeed962ea501bb.mp3","voiceName":"zh-CN-XiaoxuanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"经过了两年的努力学习，我终于获得了硕士学位。","traditionalText":"經過了兩年的努力學習，我終於獲得了碩士學位。","pinyin":"Jīngguòle liǎng nián de nǔlì xuéxí, wǒ zhōngyú huòdéle shuòshì xuéwèi.","translation":"After two years of hard study, I finally obtained a master's degree.","audioPath":"zh-CN-XiaoruiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b1e8c01a06312c4452885bffeae8431e.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"noun","meaning":"learned person","sentences":[{"simplifiedText":"他是一个硕士。","traditionalText":"他是一個碩士。","pinyin":"Tā shì yīgè shuòshì.","translation":"He is a learned person.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/fca26df851a7f17914b941206a5b64fa.mp3","voiceName":"zh-CN-XiaohanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"我会给予这位硕士最高的尊重，因为他知识渊博。","traditionalText":"我會給予這位碩士最高的尊重，因為他知識淵博。","pinyin":"Wǒ huì gěi yǔ zhè wèi shuòshì zuì gāo de zūnzhòng, yīn wèi tā zhīshì yuānbó.","translation":"I will give the highest respect to this learned person, because his knowledge is profound.","audioPath":"zh-CN-XiaoyanNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/512d9d4f39896d72541906c1f836bacd.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "硕士",
+  "traditional": "碩士",
+  "pinyin": "shuò shì",
+  "definitions": [
+    {
+      "partsOfSpeech": "Noun",
+      "meaning": "master's degree",
+      "sentences": [
+        {
+          "simplifiedText": "我正在读硕士学位。",
+          "traditionalText": "我正在讀碩士學位。",
+          "pinyin": "Wǒ zhèngzài dú shuòshì xuéwèi.",
+          "translation": "I am studying for a master's degree.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/1a74e557cc89bc4c4bdeed962ea501bb.mp3",
+          "voiceName": "zh-CN-XiaoxuanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "经过了两年的努力学习，我终于获得了硕士学位。",
+          "traditionalText": "經過了兩年的努力學習，我終於獲得了碩士學位。",
+          "pinyin": "Jīngguòle liǎng nián de nǔlì xuéxí, wǒ zhōngyú huòdéle shuòshì xuéwèi.",
+          "translation": "After two years of hard study, I finally obtained a master's degree.",
+          "audioPath": "zh-CN-XiaoruiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b1e8c01a06312c4452885bffeae8431e.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "learned person",
+      "sentences": [
+        {
+          "simplifiedText": "他是一个硕士。",
+          "traditionalText": "他是一個碩士。",
+          "pinyin": "Tā shì yīgè shuòshì.",
+          "translation": "He is a learned person.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/fca26df851a7f17914b941206a5b64fa.mp3",
+          "voiceName": "zh-CN-XiaohanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "我会给予这位硕士最高的尊重，因为他知识渊博。",
+          "traditionalText": "我會給予這位碩士最高的尊重，因為他知識淵博。",
+          "pinyin": "Wǒ huì gěi yǔ zhè wèi shuòshì zuì gāo de zūnzhòng, yīn wèi tā zhīshì yuānbó.",
+          "translation": "I will give the highest respect to this learned person, because his knowledge is profound.",
+          "audioPath": "zh-CN-XiaoyanNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/512d9d4f39896d72541906c1f836bacd.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

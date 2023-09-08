@@ -1,1 +1,63 @@
-{"simplified":"时机","traditional":"時機","pinyin":"shí jī","definitions":[{"partsOfSpeech":"noun","meaning":"fortunate timing","sentences":[{"simplifiedText":"时机正好","traditionalText":"時機正好","pinyin":"shíjī zhènghǎo","translation":"The timing is just right","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9c4fae6fce66565a41cdcbf8597d1d86.mp3","voiceName":"zh-CN-XiaoxuanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"他拿住了发动攻击的时机，一举将对手击败","traditionalText":"他拿住了發動攻擊的時機，一舉將對手擊敗","pinyin":"tā názhu le fādòng gōngjī de shíjī, yījǔ jiāng duìshǒu jíbài","translation":"He seized the opportunity to launch an attack, defeating his opponent in one fell swoop","audioPath":"zh-CN-XiaoruiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/47294cc69e784e0afa916259a2f2c989.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"Noun","meaning":"opportunity","sentences":[{"simplifiedText":"现在是个好时机。","traditionalText":"現在是個好時機。","pinyin":"Xiànzài shì gè hǎo shíjī.","translation":"Now is a good opportunity.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/8db5a9fadeedad5a13090d04c852ba81.mp3","voiceName":"zh-CN-XiaochenNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"如果你错过了这个好时机，可能再也找不到这么好的机会了。","traditionalText":"如果你錯過了這個好時機，可能再也找不到這麼好的機會了。","pinyin":"Rúguǒ nǐ cuòguòle zhège hǎo shíjī, kěnéng zàiyě zhǎobudào zhème hǎo de jīhuì le.","translation":"If you miss this good opportunity, you may never find such a good chance again.","audioPath":"zh-CN-XiaoxuanNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e97bf9c8b5357ad7cbc8505c2aca16ac.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "时机",
+  "traditional": "時機",
+  "pinyin": "shí jī",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "fortunate timing",
+      "sentences": [
+        {
+          "simplifiedText": "时机正好",
+          "traditionalText": "時機正好",
+          "pinyin": "shíjī zhènghǎo",
+          "translation": "The timing is just right",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9c4fae6fce66565a41cdcbf8597d1d86.mp3",
+          "voiceName": "zh-CN-XiaoxuanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "他拿住了发动攻击的时机，一举将对手击败",
+          "traditionalText": "他拿住了發動攻擊的時機，一舉將對手擊敗",
+          "pinyin": "tā názhu le fādòng gōngjī de shíjī, yījǔ jiāng duìshǒu jíbài",
+          "translation": "He seized the opportunity to launch an attack, defeating his opponent in one fell swoop",
+          "audioPath": "zh-CN-XiaoruiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/47294cc69e784e0afa916259a2f2c989.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "Noun",
+      "meaning": "opportunity",
+      "sentences": [
+        {
+          "simplifiedText": "现在是个好时机。",
+          "traditionalText": "現在是個好時機。",
+          "pinyin": "Xiànzài shì gè hǎo shíjī.",
+          "translation": "Now is a good opportunity.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/8db5a9fadeedad5a13090d04c852ba81.mp3",
+          "voiceName": "zh-CN-XiaochenNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "如果你错过了这个好时机，可能再也找不到这么好的机会了。",
+          "traditionalText": "如果你錯過了這個好時機，可能再也找不到這麼好的機會了。",
+          "pinyin": "Rúguǒ nǐ cuòguòle zhège hǎo shíjī, kěnéng zàiyě zhǎobudào zhème hǎo de jīhuì le.",
+          "translation": "If you miss this good opportunity, you may never find such a good chance again.",
+          "audioPath": "zh-CN-XiaoxuanNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e97bf9c8b5357ad7cbc8505c2aca16ac.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

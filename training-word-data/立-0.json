@@ -1,1 +1,147 @@
-{"simplified":"立","traditional":"立","pinyin":"lì","definitions":[{"partsOfSpeech":"noun","meaning":"surname Li","sentences":[{"simplifiedText":"我的姓是立。","traditionalText":"我的姓是立。","pinyin":"Wǒ de xìng shì Lì.","translation":"My surname is Li.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a34a0b50f0acecedf23166ff3b41ca29.mp3","voiceName":"zh-CN-YunyeNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"听说立先生专业是物理学，他为科研作出了巨大贡献。","traditionalText":"聽說立先生專業是物理學，他為科研作出了巨大貢獻。","pinyin":"Tīng shuō Lì xiānsheng zhuānyè shì wù lǐ xué, tā wèi kē yán zuò chū le jù dà gòng xiàn.","translation":"I heard Mr. Li is a physicist. He has made significant contributions to scientific research.","audioPath":"zh-CN-YunyangNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/c030fa4a9aeece7bba6c18a3eb758e15.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"verb","meaning":"to stand","sentences":[{"simplifiedText":"请你站起来。","traditionalText":"請你站起來。","pinyin":"qǐng nǐ zhàn qǐlái.","translation":"Please stand up.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/79378ee5837bab8005a73cd6b04f3652.mp3","voiceName":"zh-CN-YunhaoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"尽管他已经很疲倦，但他还是强迫自己站起来继续工作。","traditionalText":"盡管他已經很疲倦，但他還是強迫自己站起來繼續工作。","pinyin":"jǐnguǎn tā yǐjīng hěn píjuàn, dàn tā háishì qiǎngpò zìjǐ zhàn qǐlái jìxù gōngzuò.","translation":"Although he was very tired, he still forced himself to stand up and continue to work.","audioPath":"zh-CN-XiaoruiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a7087fc9ba1cb9810c1425f1578bf601.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"verb","meaning":"to establish","sentences":[{"simplifiedText":"他们决定在1858年立校。","traditionalText":"他們決定在1858年立校。","pinyin":"Tāmen juédìng zài 1858 nián lì xiào.","translation":"They decided to establish the school in 1858.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a7d369aa9bb9e32efc47f84926a7aa77.mp3","voiceName":"zh-CN-XiaomoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"在经过深思熟虑后，他们决定立起他们自己的公司。","traditionalText":"在經過深思熟慮後，他們決定立起他們自己的公司。","pinyin":"Zài jīngguò shēnsī shúlǜ hòu, tāmen juédìng lì qǐ tāmen zìjǐ de gōngsī.","translation":"After careful consideration, they decided to establish their own company.","audioPath":"zh-CN-YunfengNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e949128508d114b4a8898c27fa5219ff.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"verb","meaning":"to draw up","sentences":[{"simplifiedText":"他立了一份合同。","traditionalText":"他立了一份合約。","pinyin":"Tā lì le yī fèn hétóng.","translation":"He drew up a contract.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/565c975ae8a7f97bc487d6faa11e4052.mp3","voiceName":"zh-CN-YunyeNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"为了保证以后的交易，我们明天会立一份合同。","traditionalText":"為了保證以後的交易，我們明天會立一份合約。","pinyin":"Wèi le bǎozhèng yǐhòu de jiāoyì, wǒmen míngtiān huì lì yī fèn hétóng.","translation":"In order to ensure future transactions, we will draw up a contract tomorrow.","audioPath":"zh-CN-XiaomengNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/ee172cb2aa801a3f5b0d8bfc91c18827.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"adverb","meaning":"immediately","sentences":[{"simplifiedText":"我立刻去做。","traditionalText":"我立即去做。","pinyin":"Wǒ lìjí qù zuò.","translation":"I'll do it immediately.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/21f55ba0ddc66aa059378a80d08916af.mp3","voiceName":"zh-CN-YunyeNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"听到这个消息，他立刻决定去找那个人。","traditionalText":"聽到這個消息，他立即決定去找那個人。","pinyin":"Tīng dào zhège xiāoxi, tā líjí juédìng qù zhǎo nàgè rén.","translation":"Upon hearing this news, he immediately decided to go look for that person.","audioPath":"zh-CN-XiaoxuanNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/7ddd7f7036f2e64423ff5e1828088c98.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "立",
+  "traditional": "立",
+  "pinyin": "lì",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "surname Li",
+      "sentences": [
+        {
+          "simplifiedText": "我的姓是立。",
+          "traditionalText": "我的姓是立。",
+          "pinyin": "Wǒ de xìng shì Lì.",
+          "translation": "My surname is Li.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a34a0b50f0acecedf23166ff3b41ca29.mp3",
+          "voiceName": "zh-CN-YunyeNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "听说立先生专业是物理学，他为科研作出了巨大贡献。",
+          "traditionalText": "聽說立先生專業是物理學，他為科研作出了巨大貢獻。",
+          "pinyin": "Tīng shuō Lì xiānsheng zhuānyè shì wù lǐ xué, tā wèi kē yán zuò chū le jù dà gòng xiàn.",
+          "translation": "I heard Mr. Li is a physicist. He has made significant contributions to scientific research.",
+          "audioPath": "zh-CN-YunyangNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/c030fa4a9aeece7bba6c18a3eb758e15.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to stand",
+      "sentences": [
+        {
+          "simplifiedText": "请你站起来。",
+          "traditionalText": "請你站起來。",
+          "pinyin": "qǐng nǐ zhàn qǐlái.",
+          "translation": "Please stand up.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/79378ee5837bab8005a73cd6b04f3652.mp3",
+          "voiceName": "zh-CN-YunhaoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "尽管他已经很疲倦，但他还是强迫自己站起来继续工作。",
+          "traditionalText": "盡管他已經很疲倦，但他還是強迫自己站起來繼續工作。",
+          "pinyin": "jǐnguǎn tā yǐjīng hěn píjuàn, dàn tā háishì qiǎngpò zìjǐ zhàn qǐlái jìxù gōngzuò.",
+          "translation": "Although he was very tired, he still forced himself to stand up and continue to work.",
+          "audioPath": "zh-CN-XiaoruiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a7087fc9ba1cb9810c1425f1578bf601.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to establish",
+      "sentences": [
+        {
+          "simplifiedText": "他们决定在1858年立校。",
+          "traditionalText": "他們決定在1858年立校。",
+          "pinyin": "Tāmen juédìng zài 1858 nián lì xiào.",
+          "translation": "They decided to establish the school in 1858.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a7d369aa9bb9e32efc47f84926a7aa77.mp3",
+          "voiceName": "zh-CN-XiaomoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "在经过深思熟虑后，他们决定立起他们自己的公司。",
+          "traditionalText": "在經過深思熟慮後，他們決定立起他們自己的公司。",
+          "pinyin": "Zài jīngguò shēnsī shúlǜ hòu, tāmen juédìng lì qǐ tāmen zìjǐ de gōngsī.",
+          "translation": "After careful consideration, they decided to establish their own company.",
+          "audioPath": "zh-CN-YunfengNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e949128508d114b4a8898c27fa5219ff.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to draw up",
+      "sentences": [
+        {
+          "simplifiedText": "他立了一份合同。",
+          "traditionalText": "他立了一份合約。",
+          "pinyin": "Tā lì le yī fèn hétóng.",
+          "translation": "He drew up a contract.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/565c975ae8a7f97bc487d6faa11e4052.mp3",
+          "voiceName": "zh-CN-YunyeNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "为了保证以后的交易，我们明天会立一份合同。",
+          "traditionalText": "為了保證以後的交易，我們明天會立一份合約。",
+          "pinyin": "Wèi le bǎozhèng yǐhòu de jiāoyì, wǒmen míngtiān huì lì yī fèn hétóng.",
+          "translation": "In order to ensure future transactions, we will draw up a contract tomorrow.",
+          "audioPath": "zh-CN-XiaomengNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/ee172cb2aa801a3f5b0d8bfc91c18827.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "adverb",
+      "meaning": "immediately",
+      "sentences": [
+        {
+          "simplifiedText": "我立刻去做。",
+          "traditionalText": "我立即去做。",
+          "pinyin": "Wǒ lìjí qù zuò.",
+          "translation": "I'll do it immediately.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/21f55ba0ddc66aa059378a80d08916af.mp3",
+          "voiceName": "zh-CN-YunyeNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "听到这个消息，他立刻决定去找那个人。",
+          "traditionalText": "聽到這個消息，他立即決定去找那個人。",
+          "pinyin": "Tīng dào zhège xiāoxi, tā líjí juédìng qù zhǎo nàgè rén.",
+          "translation": "Upon hearing this news, he immediately decided to go look for that person.",
+          "audioPath": "zh-CN-XiaoxuanNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/7ddd7f7036f2e64423ff5e1828088c98.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

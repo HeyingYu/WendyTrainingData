@@ -1,1 +1,35 @@
-{"simplified":"极其","traditional":"極其","pinyin":"jí qí","definitions":[{"partsOfSpeech":"adverb","meaning":"extremely","sentences":[{"simplifiedText":"这支笔极其便宜。","traditionalText":"這支筆極其便宜。","pinyin":"zhè zhī bǐ jí qí pián yi","translation":"This pen is extremely cheap.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d21378abba4ca6d5cdddfbc9d812a2fa.mp3","voiceName":"zh-CN-XiaoxiaoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"虽然这个城市的房价极其昂贵，但他依然决定在这里买房。","traditionalText":"雖然這個城市的房價極其昂貴，但他依然決定在這裡買房。","pinyin":"suī rán zhè gè chéng shì de fáng jià jí qí áng guì, dàn tā yī rán jué dìng zài zhè lǐ mǎi fáng","translation":"Although the housing prices in this city are extremely high, he still decided to buy a house here.","audioPath":"zh-CN-YunhaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b77df738d73ac5ef34cb0b7628c57f13.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "极其",
+  "traditional": "極其",
+  "pinyin": "jí qí",
+  "definitions": [
+    {
+      "partsOfSpeech": "adverb",
+      "meaning": "extremely",
+      "sentences": [
+        {
+          "simplifiedText": "这支笔极其便宜。",
+          "traditionalText": "這支筆極其便宜。",
+          "pinyin": "zhè zhī bǐ jí qí pián yi",
+          "translation": "This pen is extremely cheap.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d21378abba4ca6d5cdddfbc9d812a2fa.mp3",
+          "voiceName": "zh-CN-XiaoxiaoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "虽然这个城市的房价极其昂贵，但他依然决定在这里买房。",
+          "traditionalText": "雖然這個城市的房價極其昂貴，但他依然決定在這裡買房。",
+          "pinyin": "suī rán zhè gè chéng shì de fáng jià jí qí áng guì, dàn tā yī rán jué dìng zài zhè lǐ mǎi fáng",
+          "translation": "Although the housing prices in this city are extremely high, he still decided to buy a house here.",
+          "audioPath": "zh-CN-YunhaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b77df738d73ac5ef34cb0b7628c57f13.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

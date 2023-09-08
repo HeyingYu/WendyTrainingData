@@ -1,1 +1,35 @@
-{"simplified":"物业","traditional":"物業","pinyin":"wù yè","definitions":[{"partsOfSpeech":"Noun","meaning":"property","sentences":[{"simplifiedText":"我住的这个楼的物业非常好.","traditionalText":"我住的這個樓的物業非常好.","pinyin":"Wǒ zhù de zhègè lóu de wùyè fēicháng hǎo.","translation":"The property management of the building I live in is very good.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9b19f9d45e0746ada33f37d5eb21efc4.mp3","voiceName":"zh-CN-YunyeNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"物业管理人员每天都在检查公共设施，确保我们住得舒适.","traditionalText":"物業管理人員每天都在檢查公共設施，確保我們住得舒適.","pinyin":"Wùyè guǎnlǐ rényuán měi tiān dū zài jiǎnchá gōnggòng shèshī, quèbǎo wǒmen zhù dé shūshì.","translation":"The property management staff inspect the public facilities every day to ensure that we live comfortably.","audioPath":"zh-CN-YunyeNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/096c838f985dbb4d984a5859ed77c182.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "物业",
+  "traditional": "物業",
+  "pinyin": "wù yè",
+  "definitions": [
+    {
+      "partsOfSpeech": "Noun",
+      "meaning": "property",
+      "sentences": [
+        {
+          "simplifiedText": "我住的这个楼的物业非常好.",
+          "traditionalText": "我住的這個樓的物業非常好.",
+          "pinyin": "Wǒ zhù de zhègè lóu de wùyè fēicháng hǎo.",
+          "translation": "The property management of the building I live in is very good.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9b19f9d45e0746ada33f37d5eb21efc4.mp3",
+          "voiceName": "zh-CN-YunyeNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "物业管理人员每天都在检查公共设施，确保我们住得舒适.",
+          "traditionalText": "物業管理人員每天都在檢查公共設施，確保我們住得舒適.",
+          "pinyin": "Wùyè guǎnlǐ rényuán měi tiān dū zài jiǎnchá gōnggòng shèshī, quèbǎo wǒmen zhù dé shūshì.",
+          "translation": "The property management staff inspect the public facilities every day to ensure that we live comfortably.",
+          "audioPath": "zh-CN-YunyeNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/096c838f985dbb4d984a5859ed77c182.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

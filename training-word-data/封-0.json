@@ -1,1 +1,119 @@
-{"simplified":"封","traditional":"封","pinyin":"fēng","definitions":[{"partsOfSpeech":"noun","meaning":"surname Feng","sentences":[{"simplifiedText":"他的姓是封。","traditionalText":"他的姓是封。","pinyin":"Tā de xìng shì fēng.","translation":"His surname is Feng.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/1bab1bea643672a3b8b2b8150cd014e3.mp3","voiceName":"zh-CN-YunfengNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"封先生是我们公司的新员工。","traditionalText":"封先生是我們公司的新員工。","pinyin":"Fēng xiānshēng shì wǒmen gōngsī de xīn yuángōng.","translation":"Mr. Feng is our company's new employee.","audioPath":"zh-CN-XiaoxuanNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/f1ab7765932fba1f7ddbc4fcc65b750a.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"verb","meaning":"to confer","sentences":[{"simplifiedText":"他被封为国王。","traditionalText":"他被封為國王。","pinyin":"Tā bèi fēng wéi guówáng.","translation":"He was crowned king.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/dcf043989d050edc07b9a9ddbe9ccd86.mp3","voiceName":"zh-CN-XiaochenNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"在盛大的典礼上，他被冠以国王的头衔，从而使他的地位得到了提升。","traditionalText":"在盛大的典禮上，他被冠以國王的頭銜，從而使他的地位獲得了提升。","pinyin":"Zài shèngdà de diǎnlǐ shàng, tā bèi guàn yǐ guówáng de tóuxián, cóng'ér shǐ tā de dìwèi huòdéle tíshēng.","translation":"At a grand ceremony, he was crowned king, thereby elevating his status.","audioPath":"zh-CN-XiaohanNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/fc8138b10699eacc7155ec47cabd307d.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"verb","meaning":"to bestow a title","sentences":[{"simplifiedText":"皇帝封他为王。","traditionalText":"皇帝封他為王。","pinyin":"Huángdì fēng tā wéi wáng.","translation":"The emperor bestowed him with the title of King.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/193d66b93195862fe8fb5b6d454e5a51.mp3","voiceName":"zh-CN-YunyangNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"在古代, 皇帝会封贵族为国王, 现在这个传统已经不存在了。","traditionalText":"在古代, 皇帝會封貴族為國王, 現在這個傳統已經不存在了。","pinyin":"Zài gǔdài, huángdì huì fēng guìzú wéi guówáng, xiànzài zhège chuántǒng yǐjīng bùcúnzài le.","translation":"In ancient times, the emperor would bestow titles of Kings to the nobles, but this tradition no longer exists.","audioPath":"zh-CN-XiaoxiaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/fd47b3ed352a0e69e384c06361438876.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"Classifier","meaning":"classifier for sealed objects, esp. letters","sentences":[{"simplifiedText":"请把这封信交给他。","traditionalText":"請把這封信交給他。","pinyin":"Qǐng bǎ zhè fēng xìn jiāo gěi tā.","translation":"Please give this letter to him.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/79178934f0843cb9f3ce3f9a32798807.mp3","voiceName":"zh-CN-YunfengNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"她写了一封信，详细地解释了她的决定。","traditionalText":"她寫了一封信，詳細地解釋了她的決定。","pinyin":"Tā xiě le yī fēng xìn, xiángxì de jiěshì le tā de juédìng.","translation":"She wrote a letter in which she explained her decision in detail.","audioPath":"zh-CN-XiaochenNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/4cd3d64b7452fc81c26bbac1251b48a0.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "封",
+  "traditional": "封",
+  "pinyin": "fēng",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "surname Feng",
+      "sentences": [
+        {
+          "simplifiedText": "他的姓是封。",
+          "traditionalText": "他的姓是封。",
+          "pinyin": "Tā de xìng shì fēng.",
+          "translation": "His surname is Feng.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/1bab1bea643672a3b8b2b8150cd014e3.mp3",
+          "voiceName": "zh-CN-YunfengNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "封先生是我们公司的新员工。",
+          "traditionalText": "封先生是我們公司的新員工。",
+          "pinyin": "Fēng xiānshēng shì wǒmen gōngsī de xīn yuángōng.",
+          "translation": "Mr. Feng is our company's new employee.",
+          "audioPath": "zh-CN-XiaoxuanNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/f1ab7765932fba1f7ddbc4fcc65b750a.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to confer",
+      "sentences": [
+        {
+          "simplifiedText": "他被封为国王。",
+          "traditionalText": "他被封為國王。",
+          "pinyin": "Tā bèi fēng wéi guówáng.",
+          "translation": "He was crowned king.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/dcf043989d050edc07b9a9ddbe9ccd86.mp3",
+          "voiceName": "zh-CN-XiaochenNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "在盛大的典礼上，他被冠以国王的头衔，从而使他的地位得到了提升。",
+          "traditionalText": "在盛大的典禮上，他被冠以國王的頭銜，從而使他的地位獲得了提升。",
+          "pinyin": "Zài shèngdà de diǎnlǐ shàng, tā bèi guàn yǐ guówáng de tóuxián, cóng'ér shǐ tā de dìwèi huòdéle tíshēng.",
+          "translation": "At a grand ceremony, he was crowned king, thereby elevating his status.",
+          "audioPath": "zh-CN-XiaohanNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/fc8138b10699eacc7155ec47cabd307d.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to bestow a title",
+      "sentences": [
+        {
+          "simplifiedText": "皇帝封他为王。",
+          "traditionalText": "皇帝封他為王。",
+          "pinyin": "Huángdì fēng tā wéi wáng.",
+          "translation": "The emperor bestowed him with the title of King.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/193d66b93195862fe8fb5b6d454e5a51.mp3",
+          "voiceName": "zh-CN-YunyangNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "在古代, 皇帝会封贵族为国王, 现在这个传统已经不存在了。",
+          "traditionalText": "在古代, 皇帝會封貴族為國王, 現在這個傳統已經不存在了。",
+          "pinyin": "Zài gǔdài, huángdì huì fēng guìzú wéi guówáng, xiànzài zhège chuántǒng yǐjīng bùcúnzài le.",
+          "translation": "In ancient times, the emperor would bestow titles of Kings to the nobles, but this tradition no longer exists.",
+          "audioPath": "zh-CN-XiaoxiaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/fd47b3ed352a0e69e384c06361438876.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "Classifier",
+      "meaning": "classifier for sealed objects, esp. letters",
+      "sentences": [
+        {
+          "simplifiedText": "请把这封信交给他。",
+          "traditionalText": "請把這封信交給他。",
+          "pinyin": "Qǐng bǎ zhè fēng xìn jiāo gěi tā.",
+          "translation": "Please give this letter to him.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/79178934f0843cb9f3ce3f9a32798807.mp3",
+          "voiceName": "zh-CN-YunfengNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "她写了一封信，详细地解释了她的决定。",
+          "traditionalText": "她寫了一封信，詳細地解釋了她的決定。",
+          "pinyin": "Tā xiě le yī fēng xìn, xiángxì de jiěshì le tā de juédìng.",
+          "translation": "She wrote a letter in which she explained her decision in detail.",
+          "audioPath": "zh-CN-XiaochenNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/4cd3d64b7452fc81c26bbac1251b48a0.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

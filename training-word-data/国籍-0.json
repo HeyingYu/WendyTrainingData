@@ -1,1 +1,35 @@
-{"simplified":"国籍","traditional":"國籍","pinyin":"guó jí","definitions":[{"partsOfSpeech":"noun","meaning":"nationality","sentences":[{"simplifiedText":"他的国籍是中国。","traditionalText":"他的國籍是中國。","pinyin":"Tā de guójí shì zhōngguó.","translation":"His nationality is Chinese.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/4228a3e0685ad54848105495d686ae44.mp3","voiceName":"zh-CN-YunjianNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"虽然他在美国出生，但他的父母都是中国人，所以他的国籍是中国。","traditionalText":"雖然他在美國出生，但他的父母都是中國人，所以他的國籍是中國。","pinyin":"Suīrán tā zài měiguó chūshēng, dàn tā de fùmǔ dū shì zhōngguó rén, suǒyǐ tā de guójí shì zhōngguó.","translation":"Even though he was born in America, both his parents are Chinese, so his nationality is Chinese.","audioPath":"zh-CN-XiaomoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9bda5f5977ce626c522c9dd5fdad116d.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "国籍",
+  "traditional": "國籍",
+  "pinyin": "guó jí",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "nationality",
+      "sentences": [
+        {
+          "simplifiedText": "他的国籍是中国。",
+          "traditionalText": "他的國籍是中國。",
+          "pinyin": "Tā de guójí shì zhōngguó.",
+          "translation": "His nationality is Chinese.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/4228a3e0685ad54848105495d686ae44.mp3",
+          "voiceName": "zh-CN-YunjianNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "虽然他在美国出生，但他的父母都是中国人，所以他的国籍是中国。",
+          "traditionalText": "雖然他在美國出生，但他的父母都是中國人，所以他的國籍是中國。",
+          "pinyin": "Suīrán tā zài měiguó chūshēng, dàn tā de fùmǔ dū shì zhōngguó rén, suǒyǐ tā de guójí shì zhōngguó.",
+          "translation": "Even though he was born in America, both his parents are Chinese, so his nationality is Chinese.",
+          "audioPath": "zh-CN-XiaomoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9bda5f5977ce626c522c9dd5fdad116d.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

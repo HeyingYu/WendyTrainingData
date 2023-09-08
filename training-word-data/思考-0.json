@@ -1,1 +1,35 @@
-{"simplified":"思考","traditional":"思考","pinyin":"sī kǎo","definitions":[{"partsOfSpeech":"verb","meaning":"to reflect on","sentences":[{"simplifiedText":"我在思考这个问题。","traditionalText":"我在思考這個問題。","pinyin":"wǒ zài sīkǎo zhège wèntí.","translation":"I'm reflecting on this issue.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/57f7a32bfaf4ce29e07d54e8e1d52c33.mp3","voiceName":"zh-CN-XiaoxuanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"为了解决这个问题，我需要思考更多的可能性。","traditionalText":"為了解決這個問題，我需要思考更多的可能性。","pinyin":"wèi le jiějué zhège wèntí, wǒ xūyào sīkǎo gèng duō de kěnéngxìng.","translation":"In order to understand this problem, I need to reflect on more possibilities.","audioPath":"zh-CN-XiaomoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/256ce5c2a481624fd1e050338c5cdecd.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "思考",
+  "traditional": "思考",
+  "pinyin": "sī kǎo",
+  "definitions": [
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to reflect on",
+      "sentences": [
+        {
+          "simplifiedText": "我在思考这个问题。",
+          "traditionalText": "我在思考這個問題。",
+          "pinyin": "wǒ zài sīkǎo zhège wèntí.",
+          "translation": "I'm reflecting on this issue.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/57f7a32bfaf4ce29e07d54e8e1d52c33.mp3",
+          "voiceName": "zh-CN-XiaoxuanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "为了解决这个问题，我需要思考更多的可能性。",
+          "traditionalText": "為了解決這個問題，我需要思考更多的可能性。",
+          "pinyin": "wèi le jiějué zhège wèntí, wǒ xūyào sīkǎo gèng duō de kěnéngxìng.",
+          "translation": "In order to understand this problem, I need to reflect on more possibilities.",
+          "audioPath": "zh-CN-XiaomoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/256ce5c2a481624fd1e050338c5cdecd.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

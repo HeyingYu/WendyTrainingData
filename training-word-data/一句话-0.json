@@ -1,35 +1,35 @@
 {
-    "simplified": "一句话",
-    "traditional": "一句話",
-    "pinyin": "yī jù huà",
-    "definitions": [
+  "simplified": "一句话",
+  "traditional": "一句話",
+  "pinyin": "yī jù huà",
+  "definitions": [
+    {
+      "partsOfSpeech": "Phrase",
+      "meaning": "in a word",
+      "sentences": [
         {
-            "partsOfSpeech": "Phrase",
-            "meaning": "in a word",
-            "sentences": [
-                {
-                    "simplifiedText": "说来说去，一句话，你就是不信任我。",
-                    "traditionalText": "說來說去，一句話，你就是不信任我。",
-                    "pinyin": "Shuo lái shuo qù, yī jù huà, nǐ jiù shì bù xìn rèn wǒ.",
-                    "translation": "After all said and done, in a word, you just don't trust me.",
-                    "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/7d9d9ce89642c6f0dcfb387053c857e0.mp3",
-                    "voiceName": "zh-CN-XiaoruiNeural",
-                    "tags": [
-                        "EASY_TO_USE"
-                    ]
-                },
-                {
-                    "simplifiedText": "经过日夜奋斗和努力，我们终于解决了这个问题，一句话，值得。",
-                    "traditionalText": "經過日夜奮鬥和努力，我們終於解決了這個問題，一句話，值得。",
-                    "pinyin": "Jīngguò rìyè fèndòu hé nǔlì, wǒmen zhōngyú jiějuéle zhège wèntí, yī jù huà, zhídé.",
-                    "translation": "After days and nights of hard work and effort, we finally solved this problem. In a word, it was worth it.",
-                    "audioPath": "zh-CN-XiaochenNeural",
-                    "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/09876013d2c4ff21ee6cdcba87eb9044.mp3",
-                    "tags": [
-                        "INVOLVED"
-                    ]
-                }
-            ]
+          "simplifiedText": "说来说去，一句话，你就是不信任我。",
+          "traditionalText": "說來說去，一句話，你就是不信任我。",
+          "pinyin": "Shuo lái shuo qù, yī jù huà, nǐ jiù shì bù xìn rèn wǒ.",
+          "translation": "After all said and done, in a word, you just don't trust me.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/7d9d9ce89642c6f0dcfb387053c857e0.mp3",
+          "voiceName": "zh-CN-XiaoruiNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "经过日夜奋斗和努力，我们终于解决了这个问题，一句话，值得。",
+          "traditionalText": "經過日夜奮鬥和努力，我們終於解決了這個問題，一句話，值得。",
+          "pinyin": "Jīngguò rìyè fèndòu hé nǔlì, wǒmen zhōngyú jiějuéle zhège wèntí, yī jù huà, zhídé.",
+          "translation": "After days and nights of hard work and effort, we finally solved this problem. In a word, it was worth it.",
+          "audioPath": "zh-CN-XiaochenNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/09876013d2c4ff21ee6cdcba87eb9044.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
         }
-    ]
+      ]
+    }
+  ]
 }

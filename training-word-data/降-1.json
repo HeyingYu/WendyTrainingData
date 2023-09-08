@@ -1,1 +1,63 @@
-{"simplified":"降","traditional":"降","pinyin":"xiáng","definitions":[{"partsOfSpeech":"verb","meaning":"to surrender","sentences":[{"simplifiedText":"他们不愿意降。","traditionalText":"他們不願意降。","pinyin":"Tāmen bù yuànyì jiàng.","translation":"They are unwilling to surrender.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/f3a6f5a169628f339778eaee72595181.mp3","voiceName":"zh-CN-XiaoxuanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"面对强大的敌人，将军选择了降而不是战斗到底。","traditionalText":"面對強大的敵人，將軍選擇了降而不是戰鬥到底。","pinyin":"Miàn duì qiángdà de dírén, jiāngjūn xuǎnzéle jiàng ér bùshì zhàndòu dào dǐ.","translation":"Faced with a mighty enemy, the general chose to surrender instead of fighting to the end.","audioPath":"zh-CN-XiaoxiaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0161a40b937891a4487024754d03ea9e.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"verb","meaning":"to subdue","sentences":[{"simplifiedText":"我们需要降这个问题。","traditionalText":"我們需要降這個問題。","pinyin":"wǒmen xūyào jiàng zhège wèntí.","translation":"We need to subdue this problem.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/3a6c13543604d2538cc22c51e33df3d4.mp3","voiceName":"zh-CN-YunjianNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"警察成功地降了示威者，使局势得到了控制。","traditionalText":"警察成功地降了示威者，使局勢得到了控制。","pinyin":"jǐngchá chénggōng de jiàng le shìwèi zhě, shǐ júshì dédào le kòngzhì.","translation":"The police successfully subdued the protesters, bringing the situation under control.","audioPath":"zh-CN-XiaomoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/780ceabd3ef91f09f668a18082a38323.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "降",
+  "traditional": "降",
+  "pinyin": "xiáng",
+  "definitions": [
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to surrender",
+      "sentences": [
+        {
+          "simplifiedText": "他们不愿意降。",
+          "traditionalText": "他們不願意降。",
+          "pinyin": "Tāmen bù yuànyì jiàng.",
+          "translation": "They are unwilling to surrender.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/f3a6f5a169628f339778eaee72595181.mp3",
+          "voiceName": "zh-CN-XiaoxuanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "面对强大的敌人，将军选择了降而不是战斗到底。",
+          "traditionalText": "面對強大的敵人，將軍選擇了降而不是戰鬥到底。",
+          "pinyin": "Miàn duì qiángdà de dírén, jiāngjūn xuǎnzéle jiàng ér bùshì zhàndòu dào dǐ.",
+          "translation": "Faced with a mighty enemy, the general chose to surrender instead of fighting to the end.",
+          "audioPath": "zh-CN-XiaoxiaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0161a40b937891a4487024754d03ea9e.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to subdue",
+      "sentences": [
+        {
+          "simplifiedText": "我们需要降这个问题。",
+          "traditionalText": "我們需要降這個問題。",
+          "pinyin": "wǒmen xūyào jiàng zhège wèntí.",
+          "translation": "We need to subdue this problem.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/3a6c13543604d2538cc22c51e33df3d4.mp3",
+          "voiceName": "zh-CN-YunjianNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "警察成功地降了示威者，使局势得到了控制。",
+          "traditionalText": "警察成功地降了示威者，使局勢得到了控制。",
+          "pinyin": "jǐngchá chénggōng de jiàng le shìwèi zhě, shǐ júshì dédào le kòngzhì.",
+          "translation": "The police successfully subdued the protesters, bringing the situation under control.",
+          "audioPath": "zh-CN-XiaomoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/780ceabd3ef91f09f668a18082a38323.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"simplified":"逛","traditional":"逛","pinyin":"guàng","definitions":[{"partsOfSpeech":"verb","meaning":"to stroll","sentences":[{"simplifiedText":"我喜欢逛街。","traditionalText":"我喜歡逛街。","pinyin":"Wǒ xǐhuān guàng jiē.","translation":"I like to stroll around the streets.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b1ed54057247d05b89a69956f11a3957.mp3","voiceName":"zh-CN-XiaochenNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"在上海，有很多逛不完的购物中心和有趣的地方。","traditionalText":"在上海，有很多逛不完的購物中心和有趣的地方。","pinyin":"Zài shànghǎi , yǒu hěnduō guang bu wán de gòuwù zhōngxīn hé yǒuqù de dìfāng.","translation":"In Shanghai, there are many shopping centers and interesting places that you can't finish strolling around.","audioPath":"zh-CN-YunjianNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/aa79ce08d4ad2ff2dc2b2dfdf6b2b175.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "逛",
+  "traditional": "逛",
+  "pinyin": "guàng",
+  "definitions": [
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to stroll",
+      "sentences": [
+        {
+          "simplifiedText": "我喜欢逛街。",
+          "traditionalText": "我喜歡逛街。",
+          "pinyin": "Wǒ xǐhuān guàng jiē.",
+          "translation": "I like to stroll around the streets.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b1ed54057247d05b89a69956f11a3957.mp3",
+          "voiceName": "zh-CN-XiaochenNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "在上海，有很多逛不完的购物中心和有趣的地方。",
+          "traditionalText": "在上海，有很多逛不完的購物中心和有趣的地方。",
+          "pinyin": "Zài shànghǎi , yǒu hěnduō guang bu wán de gòuwù zhōngxīn hé yǒuqù de dìfāng.",
+          "translation": "In Shanghai, there are many shopping centers and interesting places that you can't finish strolling around.",
+          "audioPath": "zh-CN-YunjianNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/aa79ce08d4ad2ff2dc2b2dfdf6b2b175.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

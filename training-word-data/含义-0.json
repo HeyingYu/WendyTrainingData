@@ -1,1 +1,91 @@
-{"simplified":"含义","traditional":"含義","pinyin":"hán yì","definitions":[{"partsOfSpeech":"Noun","meaning":"meaning (implicit in a phrase)","sentences":[{"simplifiedText":"我懂他的含义。","traditionalText":"我懂他的含義。","pinyin":"Wǒ dǒng tā de hànyì.","translation":"I understand his implication.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/1129056f84619ecd77837be05668ee93.mp3","voiceName":"zh-CN-YunfengNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"虽然他说的很含蓄，但我还是能理解他的含义。","traditionalText":"雖然他說的很含蓄，但我還是能理解他的含義。","pinyin":"Suīrán tā shuō de hěn hánxù, dàn wǒ háishì néng lǐjiě tā de hànyì.","translation":"Although he speaks implicitly, I can still understand his implication.","audioPath":"zh-CN-XiaoxuanNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d648872b1815304e4b3921c0783b4e39.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"noun","meaning":"hidden meaning","sentences":[{"simplifiedText":"我们需要找出这个故事的含义。","traditionalText":"我們需要找出這個故事的含義。","pinyin":"Wǒmen xūyào zhǎochū zhège gùshì de hányì.","translation":"We need to find out the meaning of this story.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/cdc8e6bba9fd0475d0f4b1319214d046.mp3","voiceName":"zh-CN-XiaoxuanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"考虑到他的肢体语言，他的话有更深层的含义。","traditionalText":"考慮到他的肢體語言，他的話有更深層的含義。","pinyin":"Kǎolǜ dào tā de zhītǐ yǔyán, tā de huà yǒu gèng shēncéng de hányì.","translation":"Considering his body language, his words have a deeper meaning.","audioPath":"zh-CN-XiaochenNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/57485fcdd7722350b32c0a28defccdb1.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"Noun","meaning":"connotation","sentences":[{"simplifiedText":"这个词有深深的含义。","traditionalText":"這個詞有深深的含義。","pinyin":"Zhège cí yǒu shēn shēn de hán yì.","translation":"This word has a deep connotation.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/723aebf3744a7d5428a1f1f00a52fc2a.mp3","voiceName":"zh-CN-XiaozhenNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"在文学分析中，我们必须寻找词汇和短语背后的含义。","traditionalText":"在文學分析中，我們必須尋找詞彙和短語背後的含義。","pinyin":"Zài wénxué fēnxī zhōng, wǒmen bìxū xúnzhǎo cíhuì hé duǎn yǔ bèihòu de hán yì.","translation":"In literature analysis, we must look for the connotation behind words and phrases.","audioPath":"zh-CN-XiaochenNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/f5e87bf3ae120c56d93fadf17dcc6427.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "含义",
+  "traditional": "含義",
+  "pinyin": "hán yì",
+  "definitions": [
+    {
+      "partsOfSpeech": "Noun",
+      "meaning": "meaning (implicit in a phrase)",
+      "sentences": [
+        {
+          "simplifiedText": "我懂他的含义。",
+          "traditionalText": "我懂他的含義。",
+          "pinyin": "Wǒ dǒng tā de hànyì.",
+          "translation": "I understand his implication.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/1129056f84619ecd77837be05668ee93.mp3",
+          "voiceName": "zh-CN-YunfengNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "虽然他说的很含蓄，但我还是能理解他的含义。",
+          "traditionalText": "雖然他說的很含蓄，但我還是能理解他的含義。",
+          "pinyin": "Suīrán tā shuō de hěn hánxù, dàn wǒ háishì néng lǐjiě tā de hànyì.",
+          "translation": "Although he speaks implicitly, I can still understand his implication.",
+          "audioPath": "zh-CN-XiaoxuanNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d648872b1815304e4b3921c0783b4e39.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "hidden meaning",
+      "sentences": [
+        {
+          "simplifiedText": "我们需要找出这个故事的含义。",
+          "traditionalText": "我們需要找出這個故事的含義。",
+          "pinyin": "Wǒmen xūyào zhǎochū zhège gùshì de hányì.",
+          "translation": "We need to find out the meaning of this story.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/cdc8e6bba9fd0475d0f4b1319214d046.mp3",
+          "voiceName": "zh-CN-XiaoxuanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "考虑到他的肢体语言，他的话有更深层的含义。",
+          "traditionalText": "考慮到他的肢體語言，他的話有更深層的含義。",
+          "pinyin": "Kǎolǜ dào tā de zhītǐ yǔyán, tā de huà yǒu gèng shēncéng de hányì.",
+          "translation": "Considering his body language, his words have a deeper meaning.",
+          "audioPath": "zh-CN-XiaochenNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/57485fcdd7722350b32c0a28defccdb1.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "Noun",
+      "meaning": "connotation",
+      "sentences": [
+        {
+          "simplifiedText": "这个词有深深的含义。",
+          "traditionalText": "這個詞有深深的含義。",
+          "pinyin": "Zhège cí yǒu shēn shēn de hán yì.",
+          "translation": "This word has a deep connotation.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/723aebf3744a7d5428a1f1f00a52fc2a.mp3",
+          "voiceName": "zh-CN-XiaozhenNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "在文学分析中，我们必须寻找词汇和短语背后的含义。",
+          "traditionalText": "在文學分析中，我們必須尋找詞彙和短語背後的含義。",
+          "pinyin": "Zài wénxué fēnxī zhōng, wǒmen bìxū xúnzhǎo cíhuì hé duǎn yǔ bèihòu de hán yì.",
+          "translation": "In literature analysis, we must look for the connotation behind words and phrases.",
+          "audioPath": "zh-CN-XiaochenNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/f5e87bf3ae120c56d93fadf17dcc6427.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

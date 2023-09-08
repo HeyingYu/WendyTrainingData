@@ -1,1 +1,35 @@
-{"simplified":"性能","traditional":"性能","pinyin":"xìng néng","definitions":[{"partsOfSpeech":"Noun","meaning":"function; performance; behavior","sentences":[{"simplifiedText":"这个软件的性能非常优秀。","traditionalText":"這個軟件的性能非常優秀。","pinyin":"zhè gè ruǎn jiàn de xìng néng fēi cháng yōu xiù.","translation":"The performance of this software is very excellent.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b6371a33c514b0fb377278499cb43d10.mp3","voiceName":"zh-CN-YunyeNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"在严格的测试环境下，这个设备的性能达到了设计要求的最高标准。","traditionalText":"在嚴格的測試環境下，這個設備的性能達到了設計要求的最高標準。","pinyin":"zài yán gé de cè shì huán jìng xià, zhè gè shè bèi de xìng néng dá dào le shè jì yāo qiú de zuì gāo biāo zhǔn.","translation":"In a strict testing environment, the performance of this device reached the highest standard of design requirements.","audioPath":"zh-CN-XiaomoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b2adf4f2c6b6a62d5ca6ab7bbf6584fc.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "性能",
+  "traditional": "性能",
+  "pinyin": "xìng néng",
+  "definitions": [
+    {
+      "partsOfSpeech": "Noun",
+      "meaning": "function; performance; behavior",
+      "sentences": [
+        {
+          "simplifiedText": "这个软件的性能非常优秀。",
+          "traditionalText": "這個軟件的性能非常優秀。",
+          "pinyin": "zhè gè ruǎn jiàn de xìng néng fēi cháng yōu xiù.",
+          "translation": "The performance of this software is very excellent.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b6371a33c514b0fb377278499cb43d10.mp3",
+          "voiceName": "zh-CN-YunyeNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "在严格的测试环境下，这个设备的性能达到了设计要求的最高标准。",
+          "traditionalText": "在嚴格的測試環境下，這個設備的性能達到了設計要求的最高標準。",
+          "pinyin": "zài yán gé de cè shì huán jìng xià, zhè gè shè bèi de xìng néng dá dào le shè jì yāo qiú de zuì gāo biāo zhǔn.",
+          "translation": "In a strict testing environment, the performance of this device reached the highest standard of design requirements.",
+          "audioPath": "zh-CN-XiaomoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b2adf4f2c6b6a62d5ca6ab7bbf6584fc.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

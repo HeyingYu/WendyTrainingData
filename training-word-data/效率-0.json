@@ -1,1 +1,35 @@
-{"simplified":"效率","traditional":"效率","pinyin":"xiào lù:","definitions":[{"partsOfSpeech":"Noun","meaning":"efficiency","sentences":[{"simplifiedText":"我们的效率需要提高。","traditionalText":"我們的效率需要提高。","pinyin":"Wǒmen de xiàolǜ xūyào tígāo.","translation":"We need to improve our efficiency.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/915080da92bdfb545d052d17ed18ece7.mp3","voiceName":"zh-CN-YunxiNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"为了提高办公效率，我们决定投资购买一批新电脑。","traditionalText":"為了提高辦公效率，我們決定投資購買新電腦。","pinyin":"Wèile tígāo bàngōng xiàolǜ, wǒmen juédìng tóuzī gòumǎi yī pī xīn diànnǎo.","translation":"In order to increase office efficiency, we decided to invest in a batch of new computers.","audioPath":"zh-CN-YunfengNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/720ccc3c509a8c00f8c6a54348fcc6c0.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "效率",
+  "traditional": "效率",
+  "pinyin": "xiào lù:",
+  "definitions": [
+    {
+      "partsOfSpeech": "Noun",
+      "meaning": "efficiency",
+      "sentences": [
+        {
+          "simplifiedText": "我们的效率需要提高。",
+          "traditionalText": "我們的效率需要提高。",
+          "pinyin": "Wǒmen de xiàolǜ xūyào tígāo.",
+          "translation": "We need to improve our efficiency.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/915080da92bdfb545d052d17ed18ece7.mp3",
+          "voiceName": "zh-CN-YunxiNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "为了提高办公效率，我们决定投资购买一批新电脑。",
+          "traditionalText": "為了提高辦公效率，我們決定投資購買新電腦。",
+          "pinyin": "Wèile tígāo bàngōng xiàolǜ, wǒmen juédìng tóuzī gòumǎi yī pī xīn diànnǎo.",
+          "translation": "In order to increase office efficiency, we decided to invest in a batch of new computers.",
+          "audioPath": "zh-CN-YunfengNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/720ccc3c509a8c00f8c6a54348fcc6c0.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

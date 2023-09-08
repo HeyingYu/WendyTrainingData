@@ -1,1 +1,63 @@
-{"simplified":"专利","traditional":"專利","pinyin":"zhuān lì","definitions":[{"partsOfSpeech":"noun","meaning":"patent","sentences":[{"simplifiedText":"我有一个专利。","traditionalText":"我有一個專利。","pinyin":"wǒ yǒu yī gè zhuān lì.","translation":"I have a patent.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/354073b05d864b18ac75426a74916ff0.mp3","voiceName":"zh-CN-YunhaoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"这个新技术已经被公司申请了专利。","traditionalText":"這個新技術已經被公司申請了專利。","pinyin":"zhè gè xīn jì shù yǐ jīng bèi gōng sī shēn qǐng le zhuān lì.","translation":"This new technology has already been patented by the company.","audioPath":"zh-CN-YunfengNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/55d9a6bf578a0986ee85fd769186108e.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"noun","meaning":"monopoly","sentences":[{"simplifiedText":"他拥有这项技术的专利。","traditionalText":"他擁有這項技術的專利。","pinyin":"tā yǒngyǒu zhè xiàng jìshù de zhuānlì。","translation":"He has the patent for this technology.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/22839ca39c97ad4e7b7d424ee67a7c60.mp3","voiceName":"zh-CN-YunfengNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"在保护知识产权方面，拥有专利可以防止竞争对手复制并使用你的创新技术。","traditionalText":"在保護知識產權方面，擁有專利可以防止競爭對手複製並使用你的創新技術。","pinyin":"zài bǎohù zhīshì chǎnquán fāngmiàn，yǒngyǒu zhuānlì kěyǐ fángzhǐ jìngzhēng duìshǒu fùzhì bìng shǐyòng nǐ de chuàngxīn jìshù。","translation":"In terms of intellectual property protection, having a patent can prevent competitors from copying and using your innovative technology.","audioPath":"zh-CN-YunfengNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d499cda7a29868384e17d7b68c592d04.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "专利",
+  "traditional": "專利",
+  "pinyin": "zhuān lì",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "patent",
+      "sentences": [
+        {
+          "simplifiedText": "我有一个专利。",
+          "traditionalText": "我有一個專利。",
+          "pinyin": "wǒ yǒu yī gè zhuān lì.",
+          "translation": "I have a patent.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/354073b05d864b18ac75426a74916ff0.mp3",
+          "voiceName": "zh-CN-YunhaoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "这个新技术已经被公司申请了专利。",
+          "traditionalText": "這個新技術已經被公司申請了專利。",
+          "pinyin": "zhè gè xīn jì shù yǐ jīng bèi gōng sī shēn qǐng le zhuān lì.",
+          "translation": "This new technology has already been patented by the company.",
+          "audioPath": "zh-CN-YunfengNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/55d9a6bf578a0986ee85fd769186108e.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "monopoly",
+      "sentences": [
+        {
+          "simplifiedText": "他拥有这项技术的专利。",
+          "traditionalText": "他擁有這項技術的專利。",
+          "pinyin": "tā yǒngyǒu zhè xiàng jìshù de zhuānlì。",
+          "translation": "He has the patent for this technology.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/22839ca39c97ad4e7b7d424ee67a7c60.mp3",
+          "voiceName": "zh-CN-YunfengNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "在保护知识产权方面，拥有专利可以防止竞争对手复制并使用你的创新技术。",
+          "traditionalText": "在保護知識產權方面，擁有專利可以防止競爭對手複製並使用你的創新技術。",
+          "pinyin": "zài bǎohù zhīshì chǎnquán fāngmiàn，yǒngyǒu zhuānlì kěyǐ fángzhǐ jìngzhēng duìshǒu fùzhì bìng shǐyòng nǐ de chuàngxīn jìshù。",
+          "translation": "In terms of intellectual property protection, having a patent can prevent competitors from copying and using your innovative technology.",
+          "audioPath": "zh-CN-YunfengNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d499cda7a29868384e17d7b68c592d04.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

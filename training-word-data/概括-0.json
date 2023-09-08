@@ -1,1 +1,35 @@
-{"simplified":"概括","traditional":"概括","pinyin":"gài kuò","definitions":[{"partsOfSpeech":"verb","meaning":"to summarize; to generalize","sentences":[{"simplifiedText":"请概括一下你的计划。","traditionalText":"請概括一下你的計劃。","pinyin":"qǐng gàikuò yīxià nǐ de jìhuà.","translation":"Please summarize your plan.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/590f4b8221a0cd0128ae0a131c13f130.mp3","voiceName":"zh-CN-YunyeNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"在做决策之前，我们需要概括所有的信息，这样才能做出最佳的选择。","traditionalText":"在做決策之前，我們需要概括所有的信息，這樣才能做出最佳的選擇。","pinyin":"zài zuò juécè zhīqián，wǒmen xūyào gàikuò suǒyǒu de xìnxī，zhèyàng cáinéng zuòchū zuìjiā de xuǎnzé.","translation":"Before making decisions, we need to summarize all the information, so that we can make the best choice.","audioPath":"zh-CN-YunyeNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/23f22def98ed6e4b15653710cbd87b9b.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "概括",
+  "traditional": "概括",
+  "pinyin": "gài kuò",
+  "definitions": [
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to summarize; to generalize",
+      "sentences": [
+        {
+          "simplifiedText": "请概括一下你的计划。",
+          "traditionalText": "請概括一下你的計劃。",
+          "pinyin": "qǐng gàikuò yīxià nǐ de jìhuà.",
+          "translation": "Please summarize your plan.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/590f4b8221a0cd0128ae0a131c13f130.mp3",
+          "voiceName": "zh-CN-YunyeNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "在做决策之前，我们需要概括所有的信息，这样才能做出最佳的选择。",
+          "traditionalText": "在做決策之前，我們需要概括所有的信息，這樣才能做出最佳的選擇。",
+          "pinyin": "zài zuò juécè zhīqián，wǒmen xūyào gàikuò suǒyǒu de xìnxī，zhèyàng cáinéng zuòchū zuìjiā de xuǎnzé.",
+          "translation": "Before making decisions, we need to summarize all the information, so that we can make the best choice.",
+          "audioPath": "zh-CN-YunyeNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/23f22def98ed6e4b15653710cbd87b9b.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

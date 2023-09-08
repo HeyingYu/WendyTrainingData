@@ -1,1 +1,63 @@
-{"simplified":"考察","traditional":"考察","pinyin":"kǎo chá","definitions":[{"partsOfSpeech":"verb","meaning":"to inspect","sentences":[{"simplifiedText":"我需要考察这个案子。","traditionalText":"我需要考察這個案子。","pinyin":"wǒ xūyào kǎochá zhègè ànzi.","translation":"I need to inspect this case.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b5177ed5ba758691ffc61031c8737aa8.mp3","voiceName":"zh-CN-XiaoxuanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"在我们购买房子之前，我们请专门的人来考察了沙土的质量。","traditionalText":"在我們購買房子之前，我們請專門的人來考察了沙土的質量。","pinyin":"zài wǒmen gòumǎi fángzi zhīqián, wǒmen qǐng zhuānmén de rén lái kǎochá le shātǔ de zhìliàng.","translation":"Before we bought the house, we had someone specially come and inspect the quality of the soil.","audioPath":"zh-CN-YunjianNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/44898cef6615cf15b1a7db2450668e03.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"noun","meaning":"on-the-spot investigation","sentences":[{"simplifiedText":"他们正在对汽车事故现场进行现场考察。","traditionalText":"他們正在對汽車事故現場進行現場考察。","pinyin":"Tāmen zhèngzài duì qìchē shìgù xiànchǎng jìnxíng xiànchǎng kǎochá.","translation":"They are on the spot investigating the car accident scene.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9fe2ec30624e0b8cfa9bb9b2fe516f8a.mp3","voiceName":"zh-CN-XiaomengNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"为了更好的理解这次地震的影响，地震学家们正在对受影响地区进行现场考察。","traditionalText":"為了更好的理解這次地震的影響，地震學家們正在對受影響地區進行現場考察。","pinyin":"Wèile gèng hǎo de lǐjiě zhè cì dìzhèn de yǐngxiǎng, dìzhèn xuéjiāmen zhèngzài duì shòu yǐngxiǎng dìqū jìnxíng xiànchǎng kǎochá.","translation":"To better understand the impact of this earthquake, seismologists are conducting on-the-spot investigations in the affected areas.","audioPath":"zh-CN-XiaozhenNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/302250d5ba12c2020c214a3add6154c5.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "考察",
+  "traditional": "考察",
+  "pinyin": "kǎo chá",
+  "definitions": [
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to inspect",
+      "sentences": [
+        {
+          "simplifiedText": "我需要考察这个案子。",
+          "traditionalText": "我需要考察這個案子。",
+          "pinyin": "wǒ xūyào kǎochá zhègè ànzi.",
+          "translation": "I need to inspect this case.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b5177ed5ba758691ffc61031c8737aa8.mp3",
+          "voiceName": "zh-CN-XiaoxuanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "在我们购买房子之前，我们请专门的人来考察了沙土的质量。",
+          "traditionalText": "在我們購買房子之前，我們請專門的人來考察了沙土的質量。",
+          "pinyin": "zài wǒmen gòumǎi fángzi zhīqián, wǒmen qǐng zhuānmén de rén lái kǎochá le shātǔ de zhìliàng.",
+          "translation": "Before we bought the house, we had someone specially come and inspect the quality of the soil.",
+          "audioPath": "zh-CN-YunjianNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/44898cef6615cf15b1a7db2450668e03.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "on-the-spot investigation",
+      "sentences": [
+        {
+          "simplifiedText": "他们正在对汽车事故现场进行现场考察。",
+          "traditionalText": "他們正在對汽車事故現場進行現場考察。",
+          "pinyin": "Tāmen zhèngzài duì qìchē shìgù xiànchǎng jìnxíng xiànchǎng kǎochá.",
+          "translation": "They are on the spot investigating the car accident scene.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9fe2ec30624e0b8cfa9bb9b2fe516f8a.mp3",
+          "voiceName": "zh-CN-XiaomengNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "为了更好的理解这次地震的影响，地震学家们正在对受影响地区进行现场考察。",
+          "traditionalText": "為了更好的理解這次地震的影響，地震學家們正在對受影響地區進行現場考察。",
+          "pinyin": "Wèile gèng hǎo de lǐjiě zhè cì dìzhèn de yǐngxiǎng, dìzhèn xuéjiāmen zhèngzài duì shòu yǐngxiǎng dìqū jìnxíng xiànchǎng kǎochá.",
+          "translation": "To better understand the impact of this earthquake, seismologists are conducting on-the-spot investigations in the affected areas.",
+          "audioPath": "zh-CN-XiaozhenNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/302250d5ba12c2020c214a3add6154c5.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

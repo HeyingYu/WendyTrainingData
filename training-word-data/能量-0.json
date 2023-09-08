@@ -1,1 +1,35 @@
-{"simplified":"能量","traditional":"能量","pinyin":"néng liàng","definitions":[{"partsOfSpeech":"noun","meaning":"energy","sentences":[{"simplifiedText":"她有很多能量。","traditionalText":"她有很多能量。","pinyin":"Tā yǒu hěnduō néngliàng.","translation":"She has a lot of energy.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/59f313933798c97c9c8566dc99079038.mp3","voiceName":"zh-CN-XiaoxiaoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"为了完成这个项目，我们需要投入大量的精力和能量。","traditionalText":"為了完成這個項目，我們需要投入大量的精力和能量。","pinyin":"Wèile wánchéng zhège xiàngmù, wǒmen xūyào tóurù dàliàng de jīnglì hé néngliàng.","translation":"To complete this project, we need to put in a lot of effort and energy.","audioPath":"zh-CN-YunxiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/06060416f4a14f04f2a73b6ac6ad9408.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "能量",
+  "traditional": "能量",
+  "pinyin": "néng liàng",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "energy",
+      "sentences": [
+        {
+          "simplifiedText": "她有很多能量。",
+          "traditionalText": "她有很多能量。",
+          "pinyin": "Tā yǒu hěnduō néngliàng.",
+          "translation": "She has a lot of energy.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/59f313933798c97c9c8566dc99079038.mp3",
+          "voiceName": "zh-CN-XiaoxiaoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "为了完成这个项目，我们需要投入大量的精力和能量。",
+          "traditionalText": "為了完成這個項目，我們需要投入大量的精力和能量。",
+          "pinyin": "Wèile wánchéng zhège xiàngmù, wǒmen xūyào tóurù dàliàng de jīnglì hé néngliàng.",
+          "translation": "To complete this project, we need to put in a lot of effort and energy.",
+          "audioPath": "zh-CN-YunxiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/06060416f4a14f04f2a73b6ac6ad9408.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

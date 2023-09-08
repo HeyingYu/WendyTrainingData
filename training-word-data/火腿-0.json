@@ -1,1 +1,35 @@
-{"simplified":"火腿","traditional":"火腿","pinyin":"huǒ tuǐ","definitions":[{"partsOfSpeech":"noun","meaning":"ham","sentences":[{"simplifiedText":"我喜欢吃火腿。","traditionalText":"我喜歡吃火腿。","pinyin":"wǒ xǐhuān chī huǒtuǐ.","translation":"I like to eat ham.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/f59029731924a0760b413dd917968287.mp3","voiceName":"zh-CN-YunjianNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"我早饭喜欢吃煎蛋和火腿。","traditionalText":"我早餐喜歡吃煎蛋和火腿。","pinyin":"wǒ zǎofàn xǐhuān chī jiāndàn hé huǒtuǐ.","translation":"I like to eat fried eggs and ham for breakfast.","audioPath":"zh-CN-YunyeNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/3625ca701f954d9bbca243579ad1f470.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "火腿",
+  "traditional": "火腿",
+  "pinyin": "huǒ tuǐ",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "ham",
+      "sentences": [
+        {
+          "simplifiedText": "我喜欢吃火腿。",
+          "traditionalText": "我喜歡吃火腿。",
+          "pinyin": "wǒ xǐhuān chī huǒtuǐ.",
+          "translation": "I like to eat ham.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/f59029731924a0760b413dd917968287.mp3",
+          "voiceName": "zh-CN-YunjianNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "我早饭喜欢吃煎蛋和火腿。",
+          "traditionalText": "我早餐喜歡吃煎蛋和火腿。",
+          "pinyin": "wǒ zǎofàn xǐhuān chī jiāndàn hé huǒtuǐ.",
+          "translation": "I like to eat fried eggs and ham for breakfast.",
+          "audioPath": "zh-CN-YunyeNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/3625ca701f954d9bbca243579ad1f470.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

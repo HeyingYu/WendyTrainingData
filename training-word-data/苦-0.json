@@ -1,1 +1,91 @@
-{"simplified":"苦","traditional":"苦","pinyin":"kǔ","definitions":[{"partsOfSpeech":"Adjective","meaning":"bitter","sentences":[{"simplifiedText":"这个药很苦。","traditionalText":"這個藥很苦。","pinyin":"Zhègè yào hěn kǔ.","translation":"This medicine is very bitter.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/24a214302e84143b15983d5a4b4c7236.mp3","voiceName":"zh-CN-YunfengNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"他经历的苦难让他的性格变得更为坚韧。","traditionalText":"他經歷的苦難讓他的性格變得更為堅韌。","pinyin":"Tā jīnglì de kǔnàn ràng tā de xìnggé biàn dé gèng wéi jiānrèn.","translation":"The hardships he experienced made his character even more tenacious.","audioPath":"zh-CN-XiaoruiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d1cecebf46d10cb9bf69d3317814c28f.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"noun","meaning":"pain","sentences":[{"simplifiedText":"我很苦。","traditionalText":"我很苦。","pinyin":"Wǒ hěn kǔ.","translation":"I am in pain.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/c40223acb6c816b6146546729b4fc0cb.mp3","voiceName":"zh-CN-XiaochenNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"我经历了许多苦难才成功。","traditionalText":"我經歷了許多苦難才成功。","pinyin":"Wǒ jīnglìle xǔduō kǔnàn cái chénggōng.","translation":"I went through a lot of pain before I succeeded.","audioPath":"zh-CN-YunxiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/be5df4d365581ab5b3901e02c529f019.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"Verb","meaning":"to bring suffering to","sentences":[{"simplifiedText":"他的话苦了我。","traditionalText":"他的話苦了我。","pinyin":"tā de huà kǔ le wǒ.","translation":"His words hurt me.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/6f547237477976095b548f91f9514816.mp3","voiceName":"zh-CN-XiaoxuanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"他的遗忘和冷淡让我心里感到无比苦。","traditionalText":"他的遺忘和冷淡讓我心裡感到無比苦。","pinyin":"tā de yíwàng hé lěngdàn ràng wǒ xīnlǐ gǎndào wúbǐ kǔ.","translation":"His forgetfulness and indifference made me feel unbearably hurt in my heart.","audioPath":"zh-CN-YunhaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/19c3cfd0602c995b8edb6e8c5b05b1b3.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "苦",
+  "traditional": "苦",
+  "pinyin": "kǔ",
+  "definitions": [
+    {
+      "partsOfSpeech": "Adjective",
+      "meaning": "bitter",
+      "sentences": [
+        {
+          "simplifiedText": "这个药很苦。",
+          "traditionalText": "這個藥很苦。",
+          "pinyin": "Zhègè yào hěn kǔ.",
+          "translation": "This medicine is very bitter.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/24a214302e84143b15983d5a4b4c7236.mp3",
+          "voiceName": "zh-CN-YunfengNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "他经历的苦难让他的性格变得更为坚韧。",
+          "traditionalText": "他經歷的苦難讓他的性格變得更為堅韌。",
+          "pinyin": "Tā jīnglì de kǔnàn ràng tā de xìnggé biàn dé gèng wéi jiānrèn.",
+          "translation": "The hardships he experienced made his character even more tenacious.",
+          "audioPath": "zh-CN-XiaoruiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d1cecebf46d10cb9bf69d3317814c28f.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "pain",
+      "sentences": [
+        {
+          "simplifiedText": "我很苦。",
+          "traditionalText": "我很苦。",
+          "pinyin": "Wǒ hěn kǔ.",
+          "translation": "I am in pain.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/c40223acb6c816b6146546729b4fc0cb.mp3",
+          "voiceName": "zh-CN-XiaochenNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "我经历了许多苦难才成功。",
+          "traditionalText": "我經歷了許多苦難才成功。",
+          "pinyin": "Wǒ jīnglìle xǔduō kǔnàn cái chénggōng.",
+          "translation": "I went through a lot of pain before I succeeded.",
+          "audioPath": "zh-CN-YunxiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/be5df4d365581ab5b3901e02c529f019.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "Verb",
+      "meaning": "to bring suffering to",
+      "sentences": [
+        {
+          "simplifiedText": "他的话苦了我。",
+          "traditionalText": "他的話苦了我。",
+          "pinyin": "tā de huà kǔ le wǒ.",
+          "translation": "His words hurt me.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/6f547237477976095b548f91f9514816.mp3",
+          "voiceName": "zh-CN-XiaoxuanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "他的遗忘和冷淡让我心里感到无比苦。",
+          "traditionalText": "他的遺忘和冷淡讓我心裡感到無比苦。",
+          "pinyin": "tā de yíwàng hé lěngdàn ràng wǒ xīnlǐ gǎndào wúbǐ kǔ.",
+          "translation": "His forgetfulness and indifference made me feel unbearably hurt in my heart.",
+          "audioPath": "zh-CN-YunhaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/19c3cfd0602c995b8edb6e8c5b05b1b3.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

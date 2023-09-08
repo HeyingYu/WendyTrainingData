@@ -1,1 +1,63 @@
-{"simplified":"明明","traditional":"明明","pinyin":"míng míng","definitions":[{"partsOfSpeech":"Adverb","meaning":"obviously","sentences":[{"simplifiedText":"他明明说过不去。","traditionalText":"他明明說過不去。","pinyin":"tā míngmíng shuōguò bù qù.","translation":"He obviously said he won't go.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e16777d2ec2150a70fe0cfd53a7fa362.mp3","voiceName":"zh-CN-YunjianNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"即使他试图否认，事实是他明明知道真相，却选择保持沉默。","traditionalText":"即使他試圖否認，事實是他明明知道真相，卻選擇保持沉默。","pinyin":"jíshǐ tā shìtú fǒurèn, shìshí shì tā míngmíng zhīdào zhēnxiàng, què xuǎnzé bǎochí chénmò.","translation":"Even though he tried to deny it, the truth is he obviously knew the truth, but chose to remain silent.","audioPath":"zh-CN-YunhaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/29bc8be32873c9d92144815f612647a0.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"Adverb","meaning":"undoubtedly","sentences":[{"simplifiedText":"明明他应该知道这个答案。","traditionalText":"明明他應該知道這個答案。","pinyin":"Míngmíng tā yīnggāi zhīdào zhège dá'àn.","translation":"He should obviously know the answer.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/1e4491dde7e2653fc356d24a56b65469.mp3","voiceName":"zh-CN-XiaoxuanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"明明可以做得更好，但他总是对自己的能力缺乏信心。","traditionalText":"明明可以做得更好，但他總是對自己的能力缺乏信心。","pinyin":"Míngmíng kěyǐ zuò dé gèng hǎo, dàn tā zǒng shì duì zìjǐ de nénglì quēfá xìnxīn.","translation":"Though he is clearly capable of doing better, he always lacks confidence in his abilities.","audioPath":"zh-CN-XiaozhenNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0d20e149f1551edb7fb3b51743f996b8.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "明明",
+  "traditional": "明明",
+  "pinyin": "míng míng",
+  "definitions": [
+    {
+      "partsOfSpeech": "Adverb",
+      "meaning": "obviously",
+      "sentences": [
+        {
+          "simplifiedText": "他明明说过不去。",
+          "traditionalText": "他明明說過不去。",
+          "pinyin": "tā míngmíng shuōguò bù qù.",
+          "translation": "He obviously said he won't go.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e16777d2ec2150a70fe0cfd53a7fa362.mp3",
+          "voiceName": "zh-CN-YunjianNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "即使他试图否认，事实是他明明知道真相，却选择保持沉默。",
+          "traditionalText": "即使他試圖否認，事實是他明明知道真相，卻選擇保持沉默。",
+          "pinyin": "jíshǐ tā shìtú fǒurèn, shìshí shì tā míngmíng zhīdào zhēnxiàng, què xuǎnzé bǎochí chénmò.",
+          "translation": "Even though he tried to deny it, the truth is he obviously knew the truth, but chose to remain silent.",
+          "audioPath": "zh-CN-YunhaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/29bc8be32873c9d92144815f612647a0.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "Adverb",
+      "meaning": "undoubtedly",
+      "sentences": [
+        {
+          "simplifiedText": "明明他应该知道这个答案。",
+          "traditionalText": "明明他應該知道這個答案。",
+          "pinyin": "Míngmíng tā yīnggāi zhīdào zhège dá'àn.",
+          "translation": "He should obviously know the answer.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/1e4491dde7e2653fc356d24a56b65469.mp3",
+          "voiceName": "zh-CN-XiaoxuanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "明明可以做得更好，但他总是对自己的能力缺乏信心。",
+          "traditionalText": "明明可以做得更好，但他總是對自己的能力缺乏信心。",
+          "pinyin": "Míngmíng kěyǐ zuò dé gèng hǎo, dàn tā zǒng shì duì zìjǐ de nénglì quēfá xìnxīn.",
+          "translation": "Though he is clearly capable of doing better, he always lacks confidence in his abilities.",
+          "audioPath": "zh-CN-XiaozhenNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0d20e149f1551edb7fb3b51743f996b8.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"simplified":"胆小","traditional":"膽小","pinyin":"dǎn xiǎo","definitions":[{"partsOfSpeech":"Noun","meaning":"cowardice","sentences":[{"simplifiedText":"他胆小如鼠。","traditionalText":"他膽小如鼠。","pinyin":"tā dǎn xiǎo rú shǔ.","translation":"He is as timid as a mouse.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/3722c1cd8bfecc8d5b4e9ba05c3287c0.mp3","voiceName":"zh-CN-XiaoxiaoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"他的胆小使他错过了可能改变他人生的机会。","traditionalText":"他的膽小使他錯過了可能改變他人生的機會。","pinyin":"tā de dǎn xiǎo shǐ tā cuò guò le kě néng gǎi biàn tā rén shēng de jī huì.","translation":"His cowardice caused him to miss a chance that could have changed his life.","audioPath":"zh-CN-XiaomoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/242dc8051e631768e09f6c5d9e2d2f0a.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "胆小",
+  "traditional": "膽小",
+  "pinyin": "dǎn xiǎo",
+  "definitions": [
+    {
+      "partsOfSpeech": "Noun",
+      "meaning": "cowardice",
+      "sentences": [
+        {
+          "simplifiedText": "他胆小如鼠。",
+          "traditionalText": "他膽小如鼠。",
+          "pinyin": "tā dǎn xiǎo rú shǔ.",
+          "translation": "He is as timid as a mouse.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/3722c1cd8bfecc8d5b4e9ba05c3287c0.mp3",
+          "voiceName": "zh-CN-XiaoxiaoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "他的胆小使他错过了可能改变他人生的机会。",
+          "traditionalText": "他的膽小使他錯過了可能改變他人生的機會。",
+          "pinyin": "tā de dǎn xiǎo shǐ tā cuò guò le kě néng gǎi biàn tā rén shēng de jī huì.",
+          "translation": "His cowardice caused him to miss a chance that could have changed his life.",
+          "audioPath": "zh-CN-XiaomoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/242dc8051e631768e09f6c5d9e2d2f0a.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

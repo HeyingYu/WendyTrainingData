@@ -1,1 +1,63 @@
-{"simplified":"服从","traditional":"服從","pinyin":"fú cóng","definitions":[{"partsOfSpeech":"verb","meaning":"to obey (an order)","sentences":[{"simplifiedText":"你必须服从命令","traditionalText":"你必須服從命令","pinyin":"nǐ bìxū fúcóng mìnglìng","translation":"You must obey the orders","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/947c4e34bf330f0053eddf9a4b5dfdce.mp3","voiceName":"zh-CN-XiaomoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"尽管他对决定有疑问，但他还是选择服从","traditionalText":"儘管他對決定有疑問，但他還是選擇服從","pinyin":"jǐnguǎn tā duì juédìng yǒu yíwèn, dàn tā háishì xuǎnzé fúcóng","translation":"Although he had doubts about the decision, he chose to obey","audioPath":"zh-CN-YunxiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/bc6b57f7d9597b307759a8fae9cba3c7.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"VERB","meaning":"to defer","sentences":[{"simplifiedText":"你必须服从命令。","traditionalText":"你必須服從命令。","pinyin":"Nǐ bìxū fúcóng mìnglìng.","translation":"You must obey orders.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/8eabb2bda6413797da843ac82970d82f.mp3","voiceName":"zh-CN-XiaozhenNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"尽管他对这个决定有所保留，但他仍然选择服从。","traditionalText":"儘管他對這個決定有所保留，但他仍然選擇服從。","pinyin":"Jǐnguǎn tā duì zhège juédìng yǒu suǒ bǎoliú, dàn tā réngrán xuǎnzé fúcóng.","translation":"Despite his reservations about the decision, he still chose to obey.","audioPath":"zh-CN-XiaoxiaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b641eddde8f33981960759a6bcf5ed14.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "服从",
+  "traditional": "服從",
+  "pinyin": "fú cóng",
+  "definitions": [
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to obey (an order)",
+      "sentences": [
+        {
+          "simplifiedText": "你必须服从命令",
+          "traditionalText": "你必須服從命令",
+          "pinyin": "nǐ bìxū fúcóng mìnglìng",
+          "translation": "You must obey the orders",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/947c4e34bf330f0053eddf9a4b5dfdce.mp3",
+          "voiceName": "zh-CN-XiaomoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "尽管他对决定有疑问，但他还是选择服从",
+          "traditionalText": "儘管他對決定有疑問，但他還是選擇服從",
+          "pinyin": "jǐnguǎn tā duì juédìng yǒu yíwèn, dàn tā háishì xuǎnzé fúcóng",
+          "translation": "Although he had doubts about the decision, he chose to obey",
+          "audioPath": "zh-CN-YunxiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/bc6b57f7d9597b307759a8fae9cba3c7.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "VERB",
+      "meaning": "to defer",
+      "sentences": [
+        {
+          "simplifiedText": "你必须服从命令。",
+          "traditionalText": "你必須服從命令。",
+          "pinyin": "Nǐ bìxū fúcóng mìnglìng.",
+          "translation": "You must obey orders.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/8eabb2bda6413797da843ac82970d82f.mp3",
+          "voiceName": "zh-CN-XiaozhenNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "尽管他对这个决定有所保留，但他仍然选择服从。",
+          "traditionalText": "儘管他對這個決定有所保留，但他仍然選擇服從。",
+          "pinyin": "Jǐnguǎn tā duì zhège juédìng yǒu suǒ bǎoliú, dàn tā réngrán xuǎnzé fúcóng.",
+          "translation": "Despite his reservations about the decision, he still chose to obey.",
+          "audioPath": "zh-CN-XiaoxiaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b641eddde8f33981960759a6bcf5ed14.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

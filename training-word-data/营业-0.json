@@ -1,1 +1,35 @@
-{"simplified":"营业","traditional":"營業","pinyin":"yíng yè","definitions":[{"partsOfSpeech":"verb","meaning":"to do business","sentences":[{"simplifiedText":"这家店正在营业。","traditionalText":"這家店正在營業。","pinyin":"zhè jiā diàn zhèngzài yíngyè.","translation":"This shop is doing business.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/36beb109475018d05bd58aca9571526f.mp3","voiceName":"zh-CN-XiaohanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"由于疫情影响，许多商店无法正常营业。","traditionalText":"由於疫情影響，許多商店無法正常營業。","pinyin":"yóu yú yìqíng yǐngxiǎng, xǔduō shāngdiàn wúfǎ zhèngcháng yíngyè.","translation":"Due to the impact of the epidemic, many stores cannot do business normally.","audioPath":"zh-CN-YunhaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d42c5d93505fec6b323d896d1eecde94.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "营业",
+  "traditional": "營業",
+  "pinyin": "yíng yè",
+  "definitions": [
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to do business",
+      "sentences": [
+        {
+          "simplifiedText": "这家店正在营业。",
+          "traditionalText": "這家店正在營業。",
+          "pinyin": "zhè jiā diàn zhèngzài yíngyè.",
+          "translation": "This shop is doing business.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/36beb109475018d05bd58aca9571526f.mp3",
+          "voiceName": "zh-CN-XiaohanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "由于疫情影响，许多商店无法正常营业。",
+          "traditionalText": "由於疫情影響，許多商店無法正常營業。",
+          "pinyin": "yóu yú yìqíng yǐngxiǎng, xǔduō shāngdiàn wúfǎ zhèngcháng yíngyè.",
+          "translation": "Due to the impact of the epidemic, many stores cannot do business normally.",
+          "audioPath": "zh-CN-YunhaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d42c5d93505fec6b323d896d1eecde94.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,147 @@
-{"simplified":"翻","traditional":"翻","pinyin":"fān","definitions":[{"partsOfSpeech":"verb","meaning":"to turn over","sentences":[{"simplifiedText":"请把这个翻过来。","traditionalText":"請把這個翻過來。","pinyin":"qǐng bǎ zhège fān guòlái.","translation":"Please turn this over.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/59aed28acb4153b87da2498f4f17244e.mp3","voiceName":"zh-CN-YunyeNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"为了找到那份文件，她不得不翻遍整个抽屉。","traditionalText":"為了找到那份文件，她不得不翻遍整個抽屜。","pinyin":"wèile zhǎodào nà fèn wénjiàn, tā bùdébù fān biàn zhěng gè chōuti.","translation":"To find that document, she had to turn over every drawer.","audioPath":"zh-CN-YunyangNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d648a179dd0d94c5584f8ca44dc1bb4c.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"verb","meaning":"to overturn","sentences":[{"simplifiedText":"这个杯子被翻倒了。","traditionalText":"這個杯子被翻倒了。","pinyin":"zhè gè bēi zi bèi fān dào le。","translation":"This cup has been overturned.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d5515bd2ba951f99f0039669d1967cb4.mp3","voiceName":"zh-CN-YunyeNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"在风暴中，小艇被翻倒，乘客全都落水了。","traditionalText":"在風暴中，小艇被翻倒，乘客全都落水了。","pinyin":"zài fēng bào zhōng，xiǎo tǐng bèi fān dǎo，chéng kè quán dōu luò shuǐ le。","translation":"During the storm, the small boat was overturned, and all passengers fell into the water.","audioPath":"zh-CN-XiaoyanNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/233124d4a8d7b470bc88adad8791b56e.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"动词","meaning":"to translate","sentences":[{"simplifiedText":"我正在翻译这个句子。","traditionalText":"我正在翻譯這個句子。","pinyin":"Wǒ zhèngzài fānyì zhège jùzi.","translation":"I am translating this sentence.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/2260fb54e44c499e95d205cb4ac6c3e6.mp3","voiceName":"zh-CN-YunjianNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"他的工作是翻译外国文学作品。","traditionalText":"他的工作是翻譯外國文學作品。","pinyin":"Tā de gōngzuò shì fānyì wàiguó wénxué zuòpǐn.","translation":"His job is to translate foreign literary works.","audioPath":"zh-CN-YunxiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/fc05a76c8d66ff4d9e574270dc881ff5.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"verb","meaning":"to double","sentences":[{"simplifiedText":"他现在是翻倍的幸福。","traditionalText":"他現在是翻倍的幸福。","pinyin":"tā xiànzài shì fānbèi de xìngfú.","translation":"He is double the happiness now.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/010ca68942a54cc75d1a8e6763b33080.mp3","voiceName":"zh-CN-YunyangNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"得益于我们的团队努力，公司的利润今年已经翻了一番。","traditionalText":"得益於我們的團隊努力，公司的利潤今年已經翻了一番。","pinyin":"déyì yú wǒmen de tuánduì nǔlì, gōngsī de lìrùn jīnnián yǐjīng fān le yī fān.","translation":"Thanks to the efforts of our team, the company's profits have doubled this year.","audioPath":"zh-CN-YunjianNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/ca39bfcc62e339032c4e65f734b19908.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"verb","meaning":"to cross","sentences":[{"simplifiedText":"我们需要翻过这座山。","traditionalText":"我們需要翻過這座山。","pinyin":"Wǒmen xūyào fān guò zhè zuò shān.","translation":"We need to cross this mountain.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/c6b3487d5efff957e93baa5fe094fd13.mp3","voiceName":"zh-CN-XiaoyanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"尽管翻过高山和深沟前行艰难，但我们依然坚持前进。","traditionalText":"儘管翻過高山和深溝前行艱難，但我們依然堅持前進。","pinyin":"Jǐnguǎn fān guò gāoshān hé shēn gōu qián xíng jiānnán, dàn wǒmen yīrán jiānchí qiánjìn.","translation":"Despite the difficult journey of crossing mountains and deep troughs, we still persist and move forward.","audioPath":"zh-CN-XiaohanNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/8cafb78959cf91fdd35b8d9f5ab20366.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "翻",
+  "traditional": "翻",
+  "pinyin": "fān",
+  "definitions": [
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to turn over",
+      "sentences": [
+        {
+          "simplifiedText": "请把这个翻过来。",
+          "traditionalText": "請把這個翻過來。",
+          "pinyin": "qǐng bǎ zhège fān guòlái.",
+          "translation": "Please turn this over.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/59aed28acb4153b87da2498f4f17244e.mp3",
+          "voiceName": "zh-CN-YunyeNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "为了找到那份文件，她不得不翻遍整个抽屉。",
+          "traditionalText": "為了找到那份文件，她不得不翻遍整個抽屜。",
+          "pinyin": "wèile zhǎodào nà fèn wénjiàn, tā bùdébù fān biàn zhěng gè chōuti.",
+          "translation": "To find that document, she had to turn over every drawer.",
+          "audioPath": "zh-CN-YunyangNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d648a179dd0d94c5584f8ca44dc1bb4c.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to overturn",
+      "sentences": [
+        {
+          "simplifiedText": "这个杯子被翻倒了。",
+          "traditionalText": "這個杯子被翻倒了。",
+          "pinyin": "zhè gè bēi zi bèi fān dào le。",
+          "translation": "This cup has been overturned.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d5515bd2ba951f99f0039669d1967cb4.mp3",
+          "voiceName": "zh-CN-YunyeNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "在风暴中，小艇被翻倒，乘客全都落水了。",
+          "traditionalText": "在風暴中，小艇被翻倒，乘客全都落水了。",
+          "pinyin": "zài fēng bào zhōng，xiǎo tǐng bèi fān dǎo，chéng kè quán dōu luò shuǐ le。",
+          "translation": "During the storm, the small boat was overturned, and all passengers fell into the water.",
+          "audioPath": "zh-CN-XiaoyanNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/233124d4a8d7b470bc88adad8791b56e.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "动词",
+      "meaning": "to translate",
+      "sentences": [
+        {
+          "simplifiedText": "我正在翻译这个句子。",
+          "traditionalText": "我正在翻譯這個句子。",
+          "pinyin": "Wǒ zhèngzài fānyì zhège jùzi.",
+          "translation": "I am translating this sentence.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/2260fb54e44c499e95d205cb4ac6c3e6.mp3",
+          "voiceName": "zh-CN-YunjianNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "他的工作是翻译外国文学作品。",
+          "traditionalText": "他的工作是翻譯外國文學作品。",
+          "pinyin": "Tā de gōngzuò shì fānyì wàiguó wénxué zuòpǐn.",
+          "translation": "His job is to translate foreign literary works.",
+          "audioPath": "zh-CN-YunxiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/fc05a76c8d66ff4d9e574270dc881ff5.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to double",
+      "sentences": [
+        {
+          "simplifiedText": "他现在是翻倍的幸福。",
+          "traditionalText": "他現在是翻倍的幸福。",
+          "pinyin": "tā xiànzài shì fānbèi de xìngfú.",
+          "translation": "He is double the happiness now.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/010ca68942a54cc75d1a8e6763b33080.mp3",
+          "voiceName": "zh-CN-YunyangNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "得益于我们的团队努力，公司的利润今年已经翻了一番。",
+          "traditionalText": "得益於我們的團隊努力，公司的利潤今年已經翻了一番。",
+          "pinyin": "déyì yú wǒmen de tuánduì nǔlì, gōngsī de lìrùn jīnnián yǐjīng fān le yī fān.",
+          "translation": "Thanks to the efforts of our team, the company's profits have doubled this year.",
+          "audioPath": "zh-CN-YunjianNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/ca39bfcc62e339032c4e65f734b19908.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to cross",
+      "sentences": [
+        {
+          "simplifiedText": "我们需要翻过这座山。",
+          "traditionalText": "我們需要翻過這座山。",
+          "pinyin": "Wǒmen xūyào fān guò zhè zuò shān.",
+          "translation": "We need to cross this mountain.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/c6b3487d5efff957e93baa5fe094fd13.mp3",
+          "voiceName": "zh-CN-XiaoyanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "尽管翻过高山和深沟前行艰难，但我们依然坚持前进。",
+          "traditionalText": "儘管翻過高山和深溝前行艱難，但我們依然堅持前進。",
+          "pinyin": "Jǐnguǎn fān guò gāoshān hé shēn gōu qián xíng jiānnán, dàn wǒmen yīrán jiānchí qiánjìn.",
+          "translation": "Despite the difficult journey of crossing mountains and deep troughs, we still persist and move forward.",
+          "audioPath": "zh-CN-XiaohanNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/8cafb78959cf91fdd35b8d9f5ab20366.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

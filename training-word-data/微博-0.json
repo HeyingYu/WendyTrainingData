@@ -1,1 +1,35 @@
-{"simplified":"微博","traditional":"微博","pinyin":"wēi bó","definitions":[{"partsOfSpeech":"noun","meaning":"microblogging","sentences":[{"simplifiedText":"我在微博上看到了这条新闻。","traditionalText":"我在微博上看到了這條新聞。","pinyin":"Wǒ zài wēi bó shàng kàn dào le zhè tiáo xīn wén.","translation":"I saw this news on Weibo.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/bb82945533e713ca3ff21de1c3f0d84f.mp3","voiceName":"zh-CN-YunhaoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"在微博上，你可以分享你的生活照片，发表你的观点，还可以关注你感兴趣的人或事。","traditionalText":"在微博上，你可以分享你的生活照片，發表你的觀點，還可以關注你感興趣的人或事。","pinyin":"Zài wēi bó shàng, nǐ kě yǐ fēn xiǎng nǐ de shēng huó zhào piàn, fā biǎo nǐ de guān diǎn, hái kě yǐ guān zhù nǐ gǎn xìng qù de rén huò shì.","translation":"On Weibo, you can share your life photos, express your views, as well as follow people or things you are interested in.","audioPath":"zh-CN-XiaomengNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0ff2425fd4e598012e05d4022074aa9a.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "微博",
+  "traditional": "微博",
+  "pinyin": "wēi bó",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "microblogging",
+      "sentences": [
+        {
+          "simplifiedText": "我在微博上看到了这条新闻。",
+          "traditionalText": "我在微博上看到了這條新聞。",
+          "pinyin": "Wǒ zài wēi bó shàng kàn dào le zhè tiáo xīn wén.",
+          "translation": "I saw this news on Weibo.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/bb82945533e713ca3ff21de1c3f0d84f.mp3",
+          "voiceName": "zh-CN-YunhaoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "在微博上，你可以分享你的生活照片，发表你的观点，还可以关注你感兴趣的人或事。",
+          "traditionalText": "在微博上，你可以分享你的生活照片，發表你的觀點，還可以關注你感興趣的人或事。",
+          "pinyin": "Zài wēi bó shàng, nǐ kě yǐ fēn xiǎng nǐ de shēng huó zhào piàn, fā biǎo nǐ de guān diǎn, hái kě yǐ guān zhù nǐ gǎn xìng qù de rén huò shì.",
+          "translation": "On Weibo, you can share your life photos, express your views, as well as follow people or things you are interested in.",
+          "audioPath": "zh-CN-XiaomengNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0ff2425fd4e598012e05d4022074aa9a.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

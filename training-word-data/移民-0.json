@@ -1,1 +1,63 @@
-{"simplified":"移民","traditional":"移民","pinyin":"yí mín","definitions":[{"partsOfSpeech":"verb","meaning":"to immigrate","sentences":[{"simplifiedText":"他计划移民到加拿大。","traditionalText":"他計劃移民到加拿大。","pinyin":"Tā jìhuà yímín dào Jiānádà.","translation":"He plans to immigrate to Canada.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/3cba337fa5cc01cb03239860e65894f3.mp3","voiceName":"zh-CN-YunfengNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"他的父母曾经在二十年前移民到美国，以寻找更好的工作和生活。","traditionalText":"他的父母曾經在二十年前移民到美國，以尋找更好的工作和生活。","pinyin":"Tā de fùmǔ céngjīng zài èrshí nián qián yímín dào Měiguó, yǐ xúnzhǎo gèng hǎo de gōngzuò hé shēnghuó.","translation":"His parents immigrated to the United States twenty years ago in search of better work and life.","audioPath":"zh-CN-XiaochenNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d5d52a5f412ed2f02703b614942889fc.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"noun","meaning":"emigrant","sentences":[{"simplifiedText":"他是一位移民。","traditionalText":"他是一位移民。","pinyin":"tā shì yī wèi yímín.","translation":"He is an emigrant.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/543991674a1ab04596a4ca15e010003e.mp3","voiceName":"zh-CN-XiaoxuanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"由于经济压力和政治动荡，他成为了一位移民。","traditionalText":"由於經濟壓力和政治動盪，他成為了一位移民。","pinyin":"yóu yú jīng jì yā lì hé zhèng zhì dòng dàng, tā chéng wéi le yī wèi yí mín.","translation":"Due to economic pressure and political turmoil, he became an emigrant.","audioPath":"zh-CN-YunxiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/5b0360530fc2ffc50547a6c9d6cae910.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "移民",
+  "traditional": "移民",
+  "pinyin": "yí mín",
+  "definitions": [
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to immigrate",
+      "sentences": [
+        {
+          "simplifiedText": "他计划移民到加拿大。",
+          "traditionalText": "他計劃移民到加拿大。",
+          "pinyin": "Tā jìhuà yímín dào Jiānádà.",
+          "translation": "He plans to immigrate to Canada.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/3cba337fa5cc01cb03239860e65894f3.mp3",
+          "voiceName": "zh-CN-YunfengNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "他的父母曾经在二十年前移民到美国，以寻找更好的工作和生活。",
+          "traditionalText": "他的父母曾經在二十年前移民到美國，以尋找更好的工作和生活。",
+          "pinyin": "Tā de fùmǔ céngjīng zài èrshí nián qián yímín dào Měiguó, yǐ xúnzhǎo gèng hǎo de gōngzuò hé shēnghuó.",
+          "translation": "His parents immigrated to the United States twenty years ago in search of better work and life.",
+          "audioPath": "zh-CN-XiaochenNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d5d52a5f412ed2f02703b614942889fc.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "emigrant",
+      "sentences": [
+        {
+          "simplifiedText": "他是一位移民。",
+          "traditionalText": "他是一位移民。",
+          "pinyin": "tā shì yī wèi yímín.",
+          "translation": "He is an emigrant.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/543991674a1ab04596a4ca15e010003e.mp3",
+          "voiceName": "zh-CN-XiaoxuanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "由于经济压力和政治动荡，他成为了一位移民。",
+          "traditionalText": "由於經濟壓力和政治動盪，他成為了一位移民。",
+          "pinyin": "yóu yú jīng jì yā lì hé zhèng zhì dòng dàng, tā chéng wéi le yī wèi yí mín.",
+          "translation": "Due to economic pressure and political turmoil, he became an emigrant.",
+          "audioPath": "zh-CN-YunxiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/5b0360530fc2ffc50547a6c9d6cae910.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,91 @@
-{"simplified":"拼","traditional":"拼","pinyin":"pīn","definitions":[{"partsOfSpeech":"verb","meaning":"to piece together","sentences":[{"simplifiedText":"我可以把它们拼起来.","traditionalText":"我可以把它們拼起來.","pinyin":"wǒ kěyǐ bǎ tāmen pīn qǐlái.","translation":"I can piece them together.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/6d42ee40d9e0bcc0811933279c3db53f.mp3","voiceName":"zh-CN-XiaomoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"你的脑袋是如何拼出理论的框架来的？","traditionalText":"你的腦袋是如何拼出理論的框架來的？","pinyin":"nǐ de nǎodai shì rúhé pīn chū lǐlùn de kuàngjià lái de?","translation":"How did you piece together the framework of the theory in your mind?","audioPath":"zh-CN-XiaoruiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/4dc01bbbd065eb245114c8c198660264.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"Verb","meaning":"to stake all","sentences":[{"simplifiedText":"我拼了。","traditionalText":"我拼了。","pinyin":"Wǒ pīnle.","translation":"I went all in.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/2f4b203162086b04c5c2c54134ded569.mp3","voiceName":"zh-CN-XiaomengNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"无论结果如何，他都已经拼了。","traditionalText":"無論結果如何，他都已經拼了。","pinyin":"Wúlùn jiéguǒ rúhé, tā dōu yǐjīng pīnle.","translation":"Regardless of the outcome, he has already gone all in.","audioPath":"zh-CN-XiaomoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a740155b15463f62661c3d8cc9851e14.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"Preposition","meaning":"at the risk of one's life","sentences":[{"simplifiedText":"他冒着生命危险去救人。","traditionalText":"他冒著生命危險去救人。","pinyin":"Tā màozhe shēngmìng wēixiǎn qù jiùrén.","translation":"He went to save people at the risk of his life.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d81a379e6cf82169be816d99eeb02649.mp3","voiceName":"zh-CN-XiaoxuanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"在大雪中，他冒着生命危险爬上了高山。","traditionalText":"在大雪中，他冒著生命危險爬上了高山。","pinyin":"Zài dàxuě zhōng, tā màozhe shēngmìng wēixiǎn pá shàngle gāoshān.","translation":"In the heavy snow, he climbed the high mountain at the risk of his life.","audioPath":"zh-CN-XiaoxiaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/13a2a1ed75619ce0794647cfb4c8cc2a.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "拼",
+  "traditional": "拼",
+  "pinyin": "pīn",
+  "definitions": [
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to piece together",
+      "sentences": [
+        {
+          "simplifiedText": "我可以把它们拼起来.",
+          "traditionalText": "我可以把它們拼起來.",
+          "pinyin": "wǒ kěyǐ bǎ tāmen pīn qǐlái.",
+          "translation": "I can piece them together.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/6d42ee40d9e0bcc0811933279c3db53f.mp3",
+          "voiceName": "zh-CN-XiaomoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "你的脑袋是如何拼出理论的框架来的？",
+          "traditionalText": "你的腦袋是如何拼出理論的框架來的？",
+          "pinyin": "nǐ de nǎodai shì rúhé pīn chū lǐlùn de kuàngjià lái de?",
+          "translation": "How did you piece together the framework of the theory in your mind?",
+          "audioPath": "zh-CN-XiaoruiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/4dc01bbbd065eb245114c8c198660264.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "Verb",
+      "meaning": "to stake all",
+      "sentences": [
+        {
+          "simplifiedText": "我拼了。",
+          "traditionalText": "我拼了。",
+          "pinyin": "Wǒ pīnle.",
+          "translation": "I went all in.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/2f4b203162086b04c5c2c54134ded569.mp3",
+          "voiceName": "zh-CN-XiaomengNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "无论结果如何，他都已经拼了。",
+          "traditionalText": "無論結果如何，他都已經拼了。",
+          "pinyin": "Wúlùn jiéguǒ rúhé, tā dōu yǐjīng pīnle.",
+          "translation": "Regardless of the outcome, he has already gone all in.",
+          "audioPath": "zh-CN-XiaomoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a740155b15463f62661c3d8cc9851e14.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "Preposition",
+      "meaning": "at the risk of one's life",
+      "sentences": [
+        {
+          "simplifiedText": "他冒着生命危险去救人。",
+          "traditionalText": "他冒著生命危險去救人。",
+          "pinyin": "Tā màozhe shēngmìng wēixiǎn qù jiùrén.",
+          "translation": "He went to save people at the risk of his life.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d81a379e6cf82169be816d99eeb02649.mp3",
+          "voiceName": "zh-CN-XiaoxuanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "在大雪中，他冒着生命危险爬上了高山。",
+          "traditionalText": "在大雪中，他冒著生命危險爬上了高山。",
+          "pinyin": "Zài dàxuě zhōng, tā màozhe shēngmìng wēixiǎn pá shàngle gāoshān.",
+          "translation": "In the heavy snow, he climbed the high mountain at the risk of his life.",
+          "audioPath": "zh-CN-XiaoxiaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/13a2a1ed75619ce0794647cfb4c8cc2a.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

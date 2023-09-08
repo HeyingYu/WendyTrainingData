@@ -1,1 +1,35 @@
-{"simplified":"独特","traditional":"獨特","pinyin":"dú tè","definitions":[{"partsOfSpeech":"adjective","meaning":"unique; distinctive","sentences":[{"simplifiedText":"他有独特的观点。","traditionalText":"他有獨特的觀點。","pinyin":"Tā yǒu dútè de guāndiǎn.","translation":"He has a unique viewpoint.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/4fb8f07191dc2a59f2c1eae6f376600a.mp3","voiceName":"zh-CN-YunjianNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"虽然我们是双胞胎，但我们每个人都有独特的性格。","traditionalText":"儘管我們是雙胞胎，但我們每個人都有獨特的性格。","pinyin":"Suīrán wǒmen shì shuāngbāotāi, dàn wǒmen měi gèrén dōu yǒu dútè de xìnggé.","translation":"Although we are twins, each of us has a unique personality.","audioPath":"zh-CN-YunyangNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/2737e4a6d3f7b3036e76f0f7119eae54.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "独特",
+  "traditional": "獨特",
+  "pinyin": "dú tè",
+  "definitions": [
+    {
+      "partsOfSpeech": "adjective",
+      "meaning": "unique; distinctive",
+      "sentences": [
+        {
+          "simplifiedText": "他有独特的观点。",
+          "traditionalText": "他有獨特的觀點。",
+          "pinyin": "Tā yǒu dútè de guāndiǎn.",
+          "translation": "He has a unique viewpoint.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/4fb8f07191dc2a59f2c1eae6f376600a.mp3",
+          "voiceName": "zh-CN-YunjianNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "虽然我们是双胞胎，但我们每个人都有独特的性格。",
+          "traditionalText": "儘管我們是雙胞胎，但我們每個人都有獨特的性格。",
+          "pinyin": "Suīrán wǒmen shì shuāngbāotāi, dàn wǒmen měi gèrén dōu yǒu dútè de xìnggé.",
+          "translation": "Although we are twins, each of us has a unique personality.",
+          "audioPath": "zh-CN-YunyangNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/2737e4a6d3f7b3036e76f0f7119eae54.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

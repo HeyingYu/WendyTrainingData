@@ -1,1 +1,35 @@
-{"simplified":"电源","traditional":"電源","pinyin":"diàn yuán","definitions":[{"partsOfSpeech":"Noun","meaning":"electric power source","sentences":[{"simplifiedText":"请关闭电源。","traditionalText":"請關閉電源。","pinyin":"qǐng guānbì diànyuán.","translation":"Please turn off the power.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/7669aa8b4f836c2bb9e8322a38620787.mp3","voiceName":"zh-CN-XiaoxuanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"为了保证电器的安全使用，每次使用完毕后都要切断电源。","traditionalText":"為了保證電器的安全使用，每次使用完畢後都要切斷電源。","pinyin":"wèile bǎozhèng diànqì de ānquán shǐyòng, měi cì shǐyòng wánbì hòu dōu yào qiēduàn diànyuán.","translation":"In order to ensure the safe use of electrical appliances, the power must be cut off after each use.","audioPath":"zh-CN-YunxiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/590317e10ceeba1a1d1196cffd057906.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "电源",
+  "traditional": "電源",
+  "pinyin": "diàn yuán",
+  "definitions": [
+    {
+      "partsOfSpeech": "Noun",
+      "meaning": "electric power source",
+      "sentences": [
+        {
+          "simplifiedText": "请关闭电源。",
+          "traditionalText": "請關閉電源。",
+          "pinyin": "qǐng guānbì diànyuán.",
+          "translation": "Please turn off the power.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/7669aa8b4f836c2bb9e8322a38620787.mp3",
+          "voiceName": "zh-CN-XiaoxuanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "为了保证电器的安全使用，每次使用完毕后都要切断电源。",
+          "traditionalText": "為了保證電器的安全使用，每次使用完畢後都要切斷電源。",
+          "pinyin": "wèile bǎozhèng diànqì de ānquán shǐyòng, měi cì shǐyòng wánbì hòu dōu yào qiēduàn diànyuán.",
+          "translation": "In order to ensure the safe use of electrical appliances, the power must be cut off after each use.",
+          "audioPath": "zh-CN-YunxiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/590317e10ceeba1a1d1196cffd057906.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

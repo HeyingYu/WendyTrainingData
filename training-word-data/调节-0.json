@@ -1,1 +1,63 @@
-{"simplified":"调节","traditional":"調節","pinyin":"tiáo jié","definitions":[{"partsOfSpeech":"verb","meaning":"to adjust","sentences":[{"simplifiedText":"我需要调节音量。","traditionalText":"我需要調節音量。","pinyin":"wǒ xū yào tiáo jié yīn liàng.","translation":"I need to adjust the volume.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0b3aebc734148fbb5ebeafa96fadd46e.mp3","voiceName":"zh-CN-YunjianNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"为了保证股市的稳定，政府需要及时调节政策。","traditionalText":"為了保證股市的穩定，政府需要及時調節政策。","pinyin":"wèi le bǎo zhèng gǔ shì de wěn dìng, zhèng fǔ xū yào jí shí tiáo jié zhèng cè.","translation":"To ensure the stability of the stock market, the government needs to adjust policies promptly.","audioPath":"zh-CN-YunhaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/938d1c1acb76bc5728d09748292b8636.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"Verb","meaning":"to harmonize","sentences":[{"simplifiedText":"我们需要调节一下气温。","traditionalText":"我們需要調節一下氣溫。","pinyin":"Wǒmen xūyāo tiáojié yīxià qìwēn.","translation":"We need to regulate the temperature a bit.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a1de4dcea568ab1031bc27b13beeb9db.mp3","voiceName":"zh-CN-XiaoxuanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"为了保持室内舒适度，他们不得不调节空调的温度。","traditionalText":"為了保持室內舒適度，他們不得不調節空調的溫度。","pinyin":"Wèile bǎochí shìnèi shūshìdù, tāmen bùdébù tiáojié kòngtiáo de wēndù.","translation":"In order to maintain indoor comfort, they had to adjust the temperature of the air conditioning.","audioPath":"zh-CN-XiaomengNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/3e04ffc552b6ce4419429bb8d2f75bc5.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "调节",
+  "traditional": "調節",
+  "pinyin": "tiáo jié",
+  "definitions": [
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to adjust",
+      "sentences": [
+        {
+          "simplifiedText": "我需要调节音量。",
+          "traditionalText": "我需要調節音量。",
+          "pinyin": "wǒ xū yào tiáo jié yīn liàng.",
+          "translation": "I need to adjust the volume.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0b3aebc734148fbb5ebeafa96fadd46e.mp3",
+          "voiceName": "zh-CN-YunjianNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "为了保证股市的稳定，政府需要及时调节政策。",
+          "traditionalText": "為了保證股市的穩定，政府需要及時調節政策。",
+          "pinyin": "wèi le bǎo zhèng gǔ shì de wěn dìng, zhèng fǔ xū yào jí shí tiáo jié zhèng cè.",
+          "translation": "To ensure the stability of the stock market, the government needs to adjust policies promptly.",
+          "audioPath": "zh-CN-YunhaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/938d1c1acb76bc5728d09748292b8636.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "Verb",
+      "meaning": "to harmonize",
+      "sentences": [
+        {
+          "simplifiedText": "我们需要调节一下气温。",
+          "traditionalText": "我們需要調節一下氣溫。",
+          "pinyin": "Wǒmen xūyāo tiáojié yīxià qìwēn.",
+          "translation": "We need to regulate the temperature a bit.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a1de4dcea568ab1031bc27b13beeb9db.mp3",
+          "voiceName": "zh-CN-XiaoxuanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "为了保持室内舒适度，他们不得不调节空调的温度。",
+          "traditionalText": "為了保持室內舒適度，他們不得不調節空調的溫度。",
+          "pinyin": "Wèile bǎochí shìnèi shūshìdù, tāmen bùdébù tiáojié kòngtiáo de wēndù.",
+          "translation": "In order to maintain indoor comfort, they had to adjust the temperature of the air conditioning.",
+          "audioPath": "zh-CN-XiaomengNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/3e04ffc552b6ce4419429bb8d2f75bc5.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

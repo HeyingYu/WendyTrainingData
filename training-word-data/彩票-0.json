@@ -1,1 +1,35 @@
-{"simplified":"彩票","traditional":"彩票","pinyin":"cǎi piào","definitions":[{"partsOfSpeech":"noun","meaning":"lottery ticket","sentences":[{"simplifiedText":"我要买彩票。","traditionalText":"我要買彩票。","pinyin":"Wǒ yào mǎi cǎipiào.","translation":"I want to buy a lottery ticket.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/829641bbcb8e4c5783fd797d0fd83ca2.mp3","voiceName":"zh-CN-XiaomengNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"如果我赢了彩票，我会去环游世界。","traditionalText":"如果我贏了彩票，我會去環遊世界。","pinyin":"Rúguǒ wǒ yíngle cǎipiào, wǒ huì qù huányóu shìjiè.","translation":"If I win the lottery, I will travel around the world.","audioPath":"zh-CN-YunjianNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/16ea35bc33dff2456c17e7ab0913c156.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "彩票",
+  "traditional": "彩票",
+  "pinyin": "cǎi piào",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "lottery ticket",
+      "sentences": [
+        {
+          "simplifiedText": "我要买彩票。",
+          "traditionalText": "我要買彩票。",
+          "pinyin": "Wǒ yào mǎi cǎipiào.",
+          "translation": "I want to buy a lottery ticket.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/829641bbcb8e4c5783fd797d0fd83ca2.mp3",
+          "voiceName": "zh-CN-XiaomengNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "如果我赢了彩票，我会去环游世界。",
+          "traditionalText": "如果我贏了彩票，我會去環遊世界。",
+          "pinyin": "Rúguǒ wǒ yíngle cǎipiào, wǒ huì qù huányóu shìjiè.",
+          "translation": "If I win the lottery, I will travel around the world.",
+          "audioPath": "zh-CN-YunjianNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/16ea35bc33dff2456c17e7ab0913c156.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

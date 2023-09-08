@@ -1,1 +1,35 @@
-{"simplified":"动员","traditional":"動員","pinyin":"dòng yuán","definitions":[{"partsOfSpeech":"Verb","meaning":"to mobilize","sentences":[{"simplifiedText":"我们需要动员所有的资源。","traditionalText":"我們需要動員所有的資源。","pinyin":"Wǒmen xūyào dòngyuán suǒyǒu de zīyuán.","translation":"We need to mobilize all resources.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d0e1a3cd974fcbe1a4492264c9e834c9.mp3","voiceName":"zh-CN-XiaomengNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"面对未来的挑战，我们需要动员所有可用的技术和人力资源。","traditionalText":"面對未來的挑戰，我們需要動員所有可用的技術和人力資源。","pinyin":"Miàn duì wèilái de tiǎozhàn, wǒmen xūyào dòngyuán suǒyǒu kěyòng de jìshù hé rénlì zīyuán.","translation":"Facing the challenges of the future, we need to mobilize all available technology and human resources.","audioPath":"zh-CN-XiaoxiaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0d243239880f2eb5537b3d254e342def.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "动员",
+  "traditional": "動員",
+  "pinyin": "dòng yuán",
+  "definitions": [
+    {
+      "partsOfSpeech": "Verb",
+      "meaning": "to mobilize",
+      "sentences": [
+        {
+          "simplifiedText": "我们需要动员所有的资源。",
+          "traditionalText": "我們需要動員所有的資源。",
+          "pinyin": "Wǒmen xūyào dòngyuán suǒyǒu de zīyuán.",
+          "translation": "We need to mobilize all resources.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d0e1a3cd974fcbe1a4492264c9e834c9.mp3",
+          "voiceName": "zh-CN-XiaomengNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "面对未来的挑战，我们需要动员所有可用的技术和人力资源。",
+          "traditionalText": "面對未來的挑戰，我們需要動員所有可用的技術和人力資源。",
+          "pinyin": "Miàn duì wèilái de tiǎozhàn, wǒmen xūyào dòngyuán suǒyǒu kěyòng de jìshù hé rénlì zīyuán.",
+          "translation": "Facing the challenges of the future, we need to mobilize all available technology and human resources.",
+          "audioPath": "zh-CN-XiaoxiaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0d243239880f2eb5537b3d254e342def.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

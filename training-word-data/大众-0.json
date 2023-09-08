@@ -1,1 +1,91 @@
-{"simplified":"大众","traditional":"大眾","pinyin":"dà zhòng","definitions":[{"partsOfSpeech":"Noun","meaning":"Volkswagen (automobile manufacturer)","sentences":[{"simplifiedText":"他开的是大众汽车.","traditionalText":"他開的是大眾汽車.","pinyin":"Tā kāi de shì dàzhòng qìchē.","translation":"He drives a Volkswagen car.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e7cd82d4c412d4c5b464f03047909a98.mp3","voiceName":"zh-CN-XiaoyanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"大众汽车公司是德国最大的汽车制造商，也是世界顶级汽车制造商之一.","traditionalText":"大眾汽車公司是德國最大的汽車製造商，也是世界頂級汽車製造商之一.","pinyin":"Dàzhòng qìchē gōngsī shì déguó zuìdà de qìchē zhìzào shāng, yě shì shìjiè dǐngjí qìchē zhìzào shāng zhī yī.","translation":"Volkswagen is the largest automobile manufacturer in Germany and one of the world's top automobile manufacturers.","audioPath":"zh-CN-XiaomengNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d5284230f1edfd7efc2f2a1834c48d93.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"noun","meaning":"the masses","sentences":[{"simplifiedText":"大众喜欢这部电影。","traditionalText":"大眾喜歡這部電影。","pinyin":"Dàzhòng xǐhuān zhè bù diànyǐng.","translation":"The masses like this movie.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/8a9b502b2fcdb9824f906f7d04f97046.mp3","voiceName":"zh-CN-YunxiNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"政府的政策应该符合大众的利益。","traditionalText":"政府的政策應該符合大眾的利益。","pinyin":"Zhèngfǔ de zhèngcè yīnggāi fúhé dàzhòng de lìyì.","translation":"The government's policy should conform to the interests of the masses.","audioPath":"zh-CN-XiaomengNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/3d55016bfa27e4b16b05036cb0219d85.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"Adjective","meaning":"popular (of music, science etc)","sentences":[{"simplifiedText":"这首歌很大众。","traditionalText":"這首歌很大眾。","pinyin":"Zhè shǒu gē hěn dàzhòng.","translation":"This song is very popular.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/cc5e133376b168daa217792ac7e40dee.mp3","voiceName":"zh-CN-YunhaoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"尽管她的音乐风格并不大众，但她的才华令人肯定。","traditionalText":"儘管她的音樂風格並不大眾，但她的才華令人肯定。","pinyin":"Jǐnguǎn tā de yīnyuè fēnggé bìng bù dàzhòng, dàn tā de cáihuá lìng rén kěndìng.","translation":"Although her music style is not popular, her talent is undeniable.","audioPath":"zh-CN-XiaomoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/3fda0a1a7629de4cc6b65523fe2b33c9.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "大众",
+  "traditional": "大眾",
+  "pinyin": "dà zhòng",
+  "definitions": [
+    {
+      "partsOfSpeech": "Noun",
+      "meaning": "Volkswagen (automobile manufacturer)",
+      "sentences": [
+        {
+          "simplifiedText": "他开的是大众汽车.",
+          "traditionalText": "他開的是大眾汽車.",
+          "pinyin": "Tā kāi de shì dàzhòng qìchē.",
+          "translation": "He drives a Volkswagen car.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e7cd82d4c412d4c5b464f03047909a98.mp3",
+          "voiceName": "zh-CN-XiaoyanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "大众汽车公司是德国最大的汽车制造商，也是世界顶级汽车制造商之一.",
+          "traditionalText": "大眾汽車公司是德國最大的汽車製造商，也是世界頂級汽車製造商之一.",
+          "pinyin": "Dàzhòng qìchē gōngsī shì déguó zuìdà de qìchē zhìzào shāng, yě shì shìjiè dǐngjí qìchē zhìzào shāng zhī yī.",
+          "translation": "Volkswagen is the largest automobile manufacturer in Germany and one of the world's top automobile manufacturers.",
+          "audioPath": "zh-CN-XiaomengNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d5284230f1edfd7efc2f2a1834c48d93.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "the masses",
+      "sentences": [
+        {
+          "simplifiedText": "大众喜欢这部电影。",
+          "traditionalText": "大眾喜歡這部電影。",
+          "pinyin": "Dàzhòng xǐhuān zhè bù diànyǐng.",
+          "translation": "The masses like this movie.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/8a9b502b2fcdb9824f906f7d04f97046.mp3",
+          "voiceName": "zh-CN-YunxiNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "政府的政策应该符合大众的利益。",
+          "traditionalText": "政府的政策應該符合大眾的利益。",
+          "pinyin": "Zhèngfǔ de zhèngcè yīnggāi fúhé dàzhòng de lìyì.",
+          "translation": "The government's policy should conform to the interests of the masses.",
+          "audioPath": "zh-CN-XiaomengNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/3d55016bfa27e4b16b05036cb0219d85.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "Adjective",
+      "meaning": "popular (of music, science etc)",
+      "sentences": [
+        {
+          "simplifiedText": "这首歌很大众。",
+          "traditionalText": "這首歌很大眾。",
+          "pinyin": "Zhè shǒu gē hěn dàzhòng.",
+          "translation": "This song is very popular.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/cc5e133376b168daa217792ac7e40dee.mp3",
+          "voiceName": "zh-CN-YunhaoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "尽管她的音乐风格并不大众，但她的才华令人肯定。",
+          "traditionalText": "儘管她的音樂風格並不大眾，但她的才華令人肯定。",
+          "pinyin": "Jǐnguǎn tā de yīnyuè fēnggé bìng bù dàzhòng, dàn tā de cáihuá lìng rén kěndìng.",
+          "translation": "Although her music style is not popular, her talent is undeniable.",
+          "audioPath": "zh-CN-XiaomoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/3fda0a1a7629de4cc6b65523fe2b33c9.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,91 @@
-{"simplified":"做梦","traditional":"做夢","pinyin":"zuò mèng","definitions":[{"partsOfSpeech":"Verb","meaning":"to dream","sentences":[{"simplifiedText":"我做了一个美好的梦。","traditionalText":"我做了一個美好的夢。","pinyin":"Wǒ zuòle yīgè měihǎo de mèng.","translation":"I had a nice dream.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/91597b5b2c3afd79be6ab4c1a18664c3.mp3","voiceName":"zh-CN-YunyangNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"虽然我们都知道那只是做梦，但我们仍然期待它能成真。","traditionalText":"雖然我們都知道那只是做夢，但我們仍然期待它能成真。","pinyin":"Suīrán wǒmen dōu zhīdào nà zhǐshì zuò mèng, dàn wǒmen réngrán qídài tā néng chéng zhēn.","translation":"Even though we all know it's just a dream, we still hope that it can come true.","audioPath":"zh-CN-YunjianNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/65608285f65f1d7a4e45ba9982de3ad1.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"verb phrase","meaning":"fig. illusion","sentences":[{"simplifiedText":"别做梦了，我们没有机会赢。","traditionalText":"別做夢了，我們沒有機會贏。","pinyin":"Bié zuò mèng le, wǒmen méiyǒu jīhuì yíng.","translation":"Stop dreaming, we have no chance of winning.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/5fd96591f757d1fcf59f85eb8037e57b.mp3","voiceName":"zh-CN-XiaochenNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"你觉得有可能让那个坏心肠的人变好？你在做梦吧！","traditionalText":"你覺得有可能讓那個壞心腸的人變好？你在做夢吧！","pinyin":"Nǐ juédé yǒu kěnéng ràng nà ge huàixīncháng de rén biànhǎo? Nǐ zài zuòmèng ba!","translation":"You think it's possible to make that wicked person become good? You are dreaming!","audioPath":"zh-CN-YunxiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/4a124e18daa46c3f4ff8976b5173f340.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"动词","meaning":"pipe dream","sentences":[{"simplifiedText":"他总是做梦想当一名歌手。","traditionalText":"他總是做夢想當一名歌手。","pinyin":"tā zǒng shì zuò mèng xiǎng dāng yī míng gē shǒu.","translation":"He always daydreams of becoming a singer.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/78e2069baa10d84013fdce2baeb331d6.mp3","voiceName":"zh-CN-XiaohanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"虽然我知道做梦成为亿万富翁的想法不切实际，但我还是乐在其中。","traditionalText":"雖然我知道做夢成為億萬富翁的想法不切實際，但我還是樂在其中。","pinyin":"suī rán wǒ zhī dào zuò mèng chéng wéi yì wàn fù wēng de xiǎng fǎ bù qiè shí jì, dàn wǒ hái shì lè zài qí zhōng.","translation":"Although I know that dreaming of becoming a billionaire is unrealistic, I still enjoy it.","audioPath":"zh-CN-XiaomengNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/53cabebded0089b0a9dc4379193873a7.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "做梦",
+  "traditional": "做夢",
+  "pinyin": "zuò mèng",
+  "definitions": [
+    {
+      "partsOfSpeech": "Verb",
+      "meaning": "to dream",
+      "sentences": [
+        {
+          "simplifiedText": "我做了一个美好的梦。",
+          "traditionalText": "我做了一個美好的夢。",
+          "pinyin": "Wǒ zuòle yīgè měihǎo de mèng.",
+          "translation": "I had a nice dream.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/91597b5b2c3afd79be6ab4c1a18664c3.mp3",
+          "voiceName": "zh-CN-YunyangNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "虽然我们都知道那只是做梦，但我们仍然期待它能成真。",
+          "traditionalText": "雖然我們都知道那只是做夢，但我們仍然期待它能成真。",
+          "pinyin": "Suīrán wǒmen dōu zhīdào nà zhǐshì zuò mèng, dàn wǒmen réngrán qídài tā néng chéng zhēn.",
+          "translation": "Even though we all know it's just a dream, we still hope that it can come true.",
+          "audioPath": "zh-CN-YunjianNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/65608285f65f1d7a4e45ba9982de3ad1.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "verb phrase",
+      "meaning": "fig. illusion",
+      "sentences": [
+        {
+          "simplifiedText": "别做梦了，我们没有机会赢。",
+          "traditionalText": "別做夢了，我們沒有機會贏。",
+          "pinyin": "Bié zuò mèng le, wǒmen méiyǒu jīhuì yíng.",
+          "translation": "Stop dreaming, we have no chance of winning.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/5fd96591f757d1fcf59f85eb8037e57b.mp3",
+          "voiceName": "zh-CN-XiaochenNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "你觉得有可能让那个坏心肠的人变好？你在做梦吧！",
+          "traditionalText": "你覺得有可能讓那個壞心腸的人變好？你在做夢吧！",
+          "pinyin": "Nǐ juédé yǒu kěnéng ràng nà ge huàixīncháng de rén biànhǎo? Nǐ zài zuòmèng ba!",
+          "translation": "You think it's possible to make that wicked person become good? You are dreaming!",
+          "audioPath": "zh-CN-YunxiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/4a124e18daa46c3f4ff8976b5173f340.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "动词",
+      "meaning": "pipe dream",
+      "sentences": [
+        {
+          "simplifiedText": "他总是做梦想当一名歌手。",
+          "traditionalText": "他總是做夢想當一名歌手。",
+          "pinyin": "tā zǒng shì zuò mèng xiǎng dāng yī míng gē shǒu.",
+          "translation": "He always daydreams of becoming a singer.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/78e2069baa10d84013fdce2baeb331d6.mp3",
+          "voiceName": "zh-CN-XiaohanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "虽然我知道做梦成为亿万富翁的想法不切实际，但我还是乐在其中。",
+          "traditionalText": "雖然我知道做夢成為億萬富翁的想法不切實際，但我還是樂在其中。",
+          "pinyin": "suī rán wǒ zhī dào zuò mèng chéng wéi yì wàn fù wēng de xiǎng fǎ bù qiè shí jì, dàn wǒ hái shì lè zài qí zhōng.",
+          "translation": "Although I know that dreaming of becoming a billionaire is unrealistic, I still enjoy it.",
+          "audioPath": "zh-CN-XiaomengNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/53cabebded0089b0a9dc4379193873a7.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

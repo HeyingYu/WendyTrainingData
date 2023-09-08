@@ -1,1 +1,35 @@
-{"simplified":"终止","traditional":"終止","pinyin":"zhōng zhǐ","definitions":[{"partsOfSpeech":"动词","meaning":"to stop","sentences":[{"simplifiedText":"你应该终止这个习惯.","traditionalText":"你應該終止這個習慣.","pinyin":"Nǐ yīnggāi zhōngzhǐ zhège xíguàn.","translation":"You should stop this habit.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9f285f812569e694dae93b50ef314b66.mp3","voiceName":"zh-CN-XiaomoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"由于发现了关于项目的一些问题, 我们不得不立即终止它.","traditionalText":"由於發現了關於項目的一些問題, 我們不得不立即終止它.","pinyin":"Yóuyú fāxiànle guānyú xiàngmù de yīxiē wèntí, wǒmen bùdé bù lìjí zhōngzhǐ tā.","translation":"Due to some problems discovered about the project, we had to stop it immediately.","audioPath":"zh-CN-YunyeNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a7c1d6154e85ac4d23ec7af5f6ff1468.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "终止",
+  "traditional": "終止",
+  "pinyin": "zhōng zhǐ",
+  "definitions": [
+    {
+      "partsOfSpeech": "动词",
+      "meaning": "to stop",
+      "sentences": [
+        {
+          "simplifiedText": "你应该终止这个习惯.",
+          "traditionalText": "你應該終止這個習慣.",
+          "pinyin": "Nǐ yīnggāi zhōngzhǐ zhège xíguàn.",
+          "translation": "You should stop this habit.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9f285f812569e694dae93b50ef314b66.mp3",
+          "voiceName": "zh-CN-XiaomoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "由于发现了关于项目的一些问题, 我们不得不立即终止它.",
+          "traditionalText": "由於發現了關於項目的一些問題, 我們不得不立即終止它.",
+          "pinyin": "Yóuyú fāxiànle guānyú xiàngmù de yīxiē wèntí, wǒmen bùdé bù lìjí zhōngzhǐ tā.",
+          "translation": "Due to some problems discovered about the project, we had to stop it immediately.",
+          "audioPath": "zh-CN-YunyeNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a7c1d6154e85ac4d23ec7af5f6ff1468.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"simplified":"原来","traditional":"原來","pinyin":"yuán lái","definitions":[{"partsOfSpeech":"Adjective","meaning":"original","sentences":[{"simplifiedText":"这是原来的设计。","traditionalText":"這是原來的設計。","pinyin":"Zhè shì yuánlái de shèjì.","translation":"This is the original design.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b48b4555085649afff00bd4588d53405.mp3","voiceName":"zh-CN-XiaomoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"在历史变迁中，这座城堡保存了它原有的美。","traditionalText":"在歷史變遷中，這座城堡保存了它原有的美。","pinyin":"Zài lìshǐ biànqiān zhōng, zhè zuò chéngbǎo bǎocúnle tā yuányǒu de měi.","translation":"In the course of history, this castle has preserved its original beauty.","audioPath":"zh-CN-YunxiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/5685856f81a9e884272fb3f3c1438b7c.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "原来",
+  "traditional": "原來",
+  "pinyin": "yuán lái",
+  "definitions": [
+    {
+      "partsOfSpeech": "Adjective",
+      "meaning": "original",
+      "sentences": [
+        {
+          "simplifiedText": "这是原来的设计。",
+          "traditionalText": "這是原來的設計。",
+          "pinyin": "Zhè shì yuánlái de shèjì.",
+          "translation": "This is the original design.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b48b4555085649afff00bd4588d53405.mp3",
+          "voiceName": "zh-CN-XiaomoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "在历史变迁中，这座城堡保存了它原有的美。",
+          "traditionalText": "在歷史變遷中，這座城堡保存了它原有的美。",
+          "pinyin": "Zài lìshǐ biànqiān zhōng, zhè zuò chéngbǎo bǎocúnle tā yuányǒu de měi.",
+          "translation": "In the course of history, this castle has preserved its original beauty.",
+          "audioPath": "zh-CN-YunxiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/5685856f81a9e884272fb3f3c1438b7c.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,63 @@
-{"simplified":"专辑","traditional":"專輯","pinyin":"zhuān jí","definitions":[{"partsOfSpeech":"noun","meaning":"album","sentences":[{"simplifiedText":"这是我的新专辑。","traditionalText":"這是我的新專輯。","pinyin":"Zhè shì wǒ de xīn zhuānjí.","translation":"This is my new album.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/228eb4fbed194d8a22a62837530b76c5.mp3","voiceName":"zh-CN-XiaomoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"我在去年暑假的时候录制了我的专辑。","traditionalText":"我在去年暑假的時候錄製了我的專輯。","pinyin":"Wǒ zài qùnián shǔjià de shíhòu lùzhìle wǒ de zhuānjí.","translation":"I recorded my album during the summer vacation last year.","audioPath":"zh-CN-YunyangNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/5738a8b842807887ee62fc1fbf4f2763.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"noun","meaning":"special collection of printed or broadcast material","sentences":[{"simplifiedText":"这张专辑里有我最喜欢的歌曲。","traditionalText":"這張專輯裡有我最喜歡的歌曲。","pinyin":"zhè zhāng zhuān jí lǐ yǒu wǒ zuì xǐ huān de gē qǔ.","translation":"This album contains my favorite songs.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/4e15f5219e0f836e5b49c43df01aa968.mp3","voiceName":"zh-CN-YunjianNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"他特意为春节准备的这张专辑，每一首歌都富有浓厚的节日气氛。","traditionalText":"他特意為春節準備的這張專輯，每一首歌都富有濃厚的節日氣氛。","pinyin":"tā tè yì wèi chūn jié zhǔn bèi de zhè zhāng zhuān jí, měi yī shǒu gē dōu fù yǒu nóng hòu de jié rì qì fēn.","translation":"He specially prepared this album for the Spring Festival, and each song is rich with the festive atmosphere.","audioPath":"zh-CN-XiaomoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/fc8c4425efdf49372ba3665634062c5a.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "专辑",
+  "traditional": "專輯",
+  "pinyin": "zhuān jí",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "album",
+      "sentences": [
+        {
+          "simplifiedText": "这是我的新专辑。",
+          "traditionalText": "這是我的新專輯。",
+          "pinyin": "Zhè shì wǒ de xīn zhuānjí.",
+          "translation": "This is my new album.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/228eb4fbed194d8a22a62837530b76c5.mp3",
+          "voiceName": "zh-CN-XiaomoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "我在去年暑假的时候录制了我的专辑。",
+          "traditionalText": "我在去年暑假的時候錄製了我的專輯。",
+          "pinyin": "Wǒ zài qùnián shǔjià de shíhòu lùzhìle wǒ de zhuānjí.",
+          "translation": "I recorded my album during the summer vacation last year.",
+          "audioPath": "zh-CN-YunyangNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/5738a8b842807887ee62fc1fbf4f2763.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "special collection of printed or broadcast material",
+      "sentences": [
+        {
+          "simplifiedText": "这张专辑里有我最喜欢的歌曲。",
+          "traditionalText": "這張專輯裡有我最喜歡的歌曲。",
+          "pinyin": "zhè zhāng zhuān jí lǐ yǒu wǒ zuì xǐ huān de gē qǔ.",
+          "translation": "This album contains my favorite songs.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/4e15f5219e0f836e5b49c43df01aa968.mp3",
+          "voiceName": "zh-CN-YunjianNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "他特意为春节准备的这张专辑，每一首歌都富有浓厚的节日气氛。",
+          "traditionalText": "他特意為春節準備的這張專輯，每一首歌都富有濃厚的節日氣氛。",
+          "pinyin": "tā tè yì wèi chūn jié zhǔn bèi de zhè zhāng zhuān jí, měi yī shǒu gē dōu fù yǒu nóng hòu de jié rì qì fēn.",
+          "translation": "He specially prepared this album for the Spring Festival, and each song is rich with the festive atmosphere.",
+          "audioPath": "zh-CN-XiaomoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/fc8c4425efdf49372ba3665634062c5a.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

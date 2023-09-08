@@ -1,63 +1,63 @@
 {
-    "simplified": "等级",
-    "traditional": "等級",
-    "pinyin": "děng jí",
-    "definitions": [
+  "simplified": "等级",
+  "traditional": "等級",
+  "pinyin": "děng jí",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "grade",
+      "sentences": [
         {
-            "partsOfSpeech": "noun",
-            "meaning": "grade",
-            "sentences": [
-                {
-                    "simplifiedText": "他的等级非常高。",
-                    "traditionalText": "他的等級非常高。",
-                    "pinyin": "Tā de děngjí fēicháng gāo.",
-                    "translation": "His grade is very high.",
-                    "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/94b297d5a0701167f7298e9cda5ee05c.mp3",
-                    "voiceName": "zh-CN-XiaoruiNeural",
-                    "tags": [
-                        "EASY_TO_USE"
-                    ]
-                },
-                {
-                    "simplifiedText": "他们正在努力提高他们的等级，以便在学校中取得更好的成绩。",
-                    "traditionalText": "他們正在努力提高他們的等級，以便在學校中取得更好的成績。",
-                    "pinyin": "Tāmen zhèngzài nǔlì tígāo tāmen de děngjí, yǐbiàn zài xuéxiào zhōng qǔdé gèng hǎo de chéngjì.",
-                    "translation": "They are working hard to improve their grades to achieve better results in school.",
-                    "audioPath": "zh-CN-YunyeNeural",
-                    "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/31de3e382475011efe987ab8d98c44fe.mp3",
-                    "tags": [
-                        "INVOLVED"
-                    ]
-                }
-            ]
+          "simplifiedText": "他的等级非常高。",
+          "traditionalText": "他的等級非常高。",
+          "pinyin": "Tā de děngjí fēicháng gāo.",
+          "translation": "His grade is very high.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/94b297d5a0701167f7298e9cda5ee05c.mp3",
+          "voiceName": "zh-CN-XiaoruiNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
         },
         {
-            "partsOfSpeech": "noun",
-            "meaning": "status",
-            "sentences": [
-                {
-                    "simplifiedText": "您的等级已经提高了。",
-                    "traditionalText": "您的等級已經提高了。",
-                    "pinyin": "Nín de děngjí yǐjīng tígāole.",
-                    "translation": "Your level has already been raised.",
-                    "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/ea0118872eae8fd81e99efc7c04ef3a9.mp3",
-                    "voiceName": "zh-CN-YunyangNeural",
-                    "tags": [
-                        "EASY_TO_USE"
-                    ]
-                },
-                {
-                    "simplifiedText": "考虑到您的表现和成就，我们决定将您的等级提升到高级经理。",
-                    "traditionalText": "考慮到您的表現和成就，我們決定將您的等級提升到高級經理。",
-                    "pinyin": "Kǎolǜ dào nín de biǎoxiàn hé chéngjiù, wǒmen juédìng jiāng nín de děngjí tígǎo dào gāojí jīnglǐ.",
-                    "translation": "Considering your performance and accomplishments, we have decided to elevate your status to Senior Manager.",
-                    "audioPath": "zh-CN-XiaoyanNeural",
-                    "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/40c3ab1e9a2b7a3875a0e4ed3d01da67.mp3",
-                    "tags": [
-                        "INVOLVED"
-                    ]
-                }
-            ]
+          "simplifiedText": "他们正在努力提高他们的等级，以便在学校中取得更好的成绩。",
+          "traditionalText": "他們正在努力提高他們的等級，以便在學校中取得更好的成績。",
+          "pinyin": "Tāmen zhèngzài nǔlì tígāo tāmen de děngjí, yǐbiàn zài xuéxiào zhōng qǔdé gèng hǎo de chéngjì.",
+          "translation": "They are working hard to improve their grades to achieve better results in school.",
+          "audioPath": "zh-CN-YunyeNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/31de3e382475011efe987ab8d98c44fe.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
         }
-    ]
+      ]
+    },
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "status",
+      "sentences": [
+        {
+          "simplifiedText": "您的等级已经提高了。",
+          "traditionalText": "您的等級已經提高了。",
+          "pinyin": "Nín de děngjí yǐjīng tígāole.",
+          "translation": "Your level has already been raised.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/ea0118872eae8fd81e99efc7c04ef3a9.mp3",
+          "voiceName": "zh-CN-YunyangNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "考虑到您的表现和成就，我们决定将您的等级提升到高级经理。",
+          "traditionalText": "考慮到您的表現和成就，我們決定將您的等級提升到高級經理。",
+          "pinyin": "Kǎolǜ dào nín de biǎoxiàn hé chéngjiù, wǒmen juédìng jiāng nín de děngjí tígǎo dào gāojí jīnglǐ.",
+          "translation": "Considering your performance and accomplishments, we have decided to elevate your status to Senior Manager.",
+          "audioPath": "zh-CN-XiaoyanNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/40c3ab1e9a2b7a3875a0e4ed3d01da67.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
 }

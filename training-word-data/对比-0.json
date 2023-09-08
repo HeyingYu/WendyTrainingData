@@ -1,1 +1,63 @@
-{"simplified":"对比","traditional":"對比","pinyin":"duì bǐ","definitions":[{"partsOfSpeech":"verb","meaning":"to contrast","sentences":[{"simplifiedText":"他们喜欢对比不同的东西。","traditionalText":"他們喜歡對比不同的東西。","pinyin":"Tāmen xǐhuān duìbǐ bùtóng de dōngxī.","translation":"They like to contrast different things.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a9cf25378feff79370730ab2da00b197.mp3","voiceName":"zh-CN-XiaoxuanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"为了强调他的观点，他喜欢用相反的事例进行对比。","traditionalText":"為了強調他的觀點，他喜歡用相反的事例進行對比。","pinyin":"Wèile qiángdiào tā de guāndiǎn, tā xǐhuān yòng xiāngfǎn de shìlì jìnxíng duìbǐ.","translation":"To emphasize his point, he likes to use contrasting examples.","audioPath":"zh-CN-XiaoxuanNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/3ef945ca1322d6ba215fc5b8d31587c1.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"noun","meaning":"ratio","sentences":[{"simplifiedText":"你得和我对比一下。","traditionalText":"你得和我對比一下。","pinyin":"Nǐ děi hé wǒ duìbǐ yīxià.","translation":"You have to compare with me.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/940e665f081c1e7d3eb1aeda27a52920.mp3","voiceName":"zh-CN-XiaoxiaoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"通过对比我们两个人的工作风格，我学到了很多。","traditionalText":"通過對比我們兩個人的工作風格，我學到了很多。","pinyin":"Tōngguò duìbǐ wǒmen liǎng gè rén de gōngzuò fēnggé, wǒ xué dàole hěnduō.","translation":"I learned a lot by comparing our two work styles.","audioPath":"zh-CN-YunjianNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/23abafd873594a4aaa57a2e0ddb75501.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "对比",
+  "traditional": "對比",
+  "pinyin": "duì bǐ",
+  "definitions": [
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to contrast",
+      "sentences": [
+        {
+          "simplifiedText": "他们喜欢对比不同的东西。",
+          "traditionalText": "他們喜歡對比不同的東西。",
+          "pinyin": "Tāmen xǐhuān duìbǐ bùtóng de dōngxī.",
+          "translation": "They like to contrast different things.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a9cf25378feff79370730ab2da00b197.mp3",
+          "voiceName": "zh-CN-XiaoxuanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "为了强调他的观点，他喜欢用相反的事例进行对比。",
+          "traditionalText": "為了強調他的觀點，他喜歡用相反的事例進行對比。",
+          "pinyin": "Wèile qiángdiào tā de guāndiǎn, tā xǐhuān yòng xiāngfǎn de shìlì jìnxíng duìbǐ.",
+          "translation": "To emphasize his point, he likes to use contrasting examples.",
+          "audioPath": "zh-CN-XiaoxuanNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/3ef945ca1322d6ba215fc5b8d31587c1.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "ratio",
+      "sentences": [
+        {
+          "simplifiedText": "你得和我对比一下。",
+          "traditionalText": "你得和我對比一下。",
+          "pinyin": "Nǐ děi hé wǒ duìbǐ yīxià.",
+          "translation": "You have to compare with me.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/940e665f081c1e7d3eb1aeda27a52920.mp3",
+          "voiceName": "zh-CN-XiaoxiaoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "通过对比我们两个人的工作风格，我学到了很多。",
+          "traditionalText": "通過對比我們兩個人的工作風格，我學到了很多。",
+          "pinyin": "Tōngguò duìbǐ wǒmen liǎng gè rén de gōngzuò fēnggé, wǒ xué dàole hěnduō.",
+          "translation": "I learned a lot by comparing our two work styles.",
+          "audioPath": "zh-CN-YunjianNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/23abafd873594a4aaa57a2e0ddb75501.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

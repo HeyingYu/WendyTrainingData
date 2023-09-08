@@ -1,1 +1,35 @@
-{"simplified":"消防","traditional":"消防","pinyin":"xiāo fáng","definitions":[{"partsOfSpeech":"名词","meaning":"firefighting","sentences":[{"simplifiedText":"消防员正在扑灭火灾。","traditionalText":"消防員正在撲滅火災。","pinyin":"xiāo fáng yuán zhèng zài pū miè huǒ zāi","translation":"The firefighter is putting out the fire.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b32004a38747dc7eda69c7f973a454c9.mp3","voiceName":"zh-CN-YunfengNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"由于消防员的及时到场，大火被有效的控制住，避免了更大的损失。","traditionalText":"由於消防員的及時到場，大火被有效的控制住，避免了更大的損失。","pinyin":"yóu yú xiāo fáng yuán de jí shí dào chǎng,dà huǒ bèi yǒu xiào de kòng zhì zhù, bì miǎn le gèng dà de sǔn shī.","translation":"Thanks to the timely arrival of the firefighters, the fire was effectively controlled, preventing greater losses.","audioPath":"zh-CN-XiaomengNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/35653bcf6c7105388ba8fefa1d27d6ab.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "消防",
+  "traditional": "消防",
+  "pinyin": "xiāo fáng",
+  "definitions": [
+    {
+      "partsOfSpeech": "名词",
+      "meaning": "firefighting",
+      "sentences": [
+        {
+          "simplifiedText": "消防员正在扑灭火灾。",
+          "traditionalText": "消防員正在撲滅火災。",
+          "pinyin": "xiāo fáng yuán zhèng zài pū miè huǒ zāi",
+          "translation": "The firefighter is putting out the fire.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b32004a38747dc7eda69c7f973a454c9.mp3",
+          "voiceName": "zh-CN-YunfengNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "由于消防员的及时到场，大火被有效的控制住，避免了更大的损失。",
+          "traditionalText": "由於消防員的及時到場，大火被有效的控制住，避免了更大的損失。",
+          "pinyin": "yóu yú xiāo fáng yuán de jí shí dào chǎng,dà huǒ bèi yǒu xiào de kòng zhì zhù, bì miǎn le gèng dà de sǔn shī.",
+          "translation": "Thanks to the timely arrival of the firefighters, the fire was effectively controlled, preventing greater losses.",
+          "audioPath": "zh-CN-XiaomengNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/35653bcf6c7105388ba8fefa1d27d6ab.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

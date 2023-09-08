@@ -1,1 +1,63 @@
-{"simplified":"活力","traditional":"活力","pinyin":"huó lì","definitions":[{"partsOfSpeech":"noun","meaning":"energy","sentences":[{"simplifiedText":"他充满了活力。","traditionalText":"他充滿了活力。","pinyin":"Tā chōngmǎnle huólì.","translation":"He is full of energy.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/82061e11659193ed95ba3ed109bd0d78.mp3","voiceName":"zh-CN-XiaohanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"尽管他遇到了许多困难，他的活力从未消退。","traditionalText":"儘管他遇到了許多困難，他的活力從未消退。","pinyin":"Jǐnguǎn tā yùdàole xǔduō kùnnán, tā de huólì cóng wèi xiāotuì.","translation":"Despite facing many difficulties, his energy has never faded.","audioPath":"zh-CN-XiaoruiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/154fdc54563d5c899e936bd73e51b1c9.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"noun","meaning":"vigor","sentences":[{"simplifiedText":"这个人充满了活力。","traditionalText":"這個人充滿了活力。","pinyin":"zhè gè rén chōng mǎn le huó lì。","translation":"This person is full of vigor.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/f1a37b3e6a46334532af96132a8cc246.mp3","voiceName":"zh-CN-XiaomoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"尽管她年纪大了，但她仍然有像年轻人那样的活力。","traditionalText":"盡管她年紀大了，但她仍然有像年輕人那樣的活力。","pinyin":"jǐn guǎn tā nián jì dà le, dàn tā réng rán yǒu xiàng nián qīng rén nà yàng de huó lì。","translation":"Despite her age, she still has the vigor of a young person.","audioPath":"zh-CN-YunyeNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/552371af50c0cb3f656001bdc4b3f8d0.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "活力",
+  "traditional": "活力",
+  "pinyin": "huó lì",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "energy",
+      "sentences": [
+        {
+          "simplifiedText": "他充满了活力。",
+          "traditionalText": "他充滿了活力。",
+          "pinyin": "Tā chōngmǎnle huólì.",
+          "translation": "He is full of energy.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/82061e11659193ed95ba3ed109bd0d78.mp3",
+          "voiceName": "zh-CN-XiaohanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "尽管他遇到了许多困难，他的活力从未消退。",
+          "traditionalText": "儘管他遇到了許多困難，他的活力從未消退。",
+          "pinyin": "Jǐnguǎn tā yùdàole xǔduō kùnnán, tā de huólì cóng wèi xiāotuì.",
+          "translation": "Despite facing many difficulties, his energy has never faded.",
+          "audioPath": "zh-CN-XiaoruiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/154fdc54563d5c899e936bd73e51b1c9.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "vigor",
+      "sentences": [
+        {
+          "simplifiedText": "这个人充满了活力。",
+          "traditionalText": "這個人充滿了活力。",
+          "pinyin": "zhè gè rén chōng mǎn le huó lì。",
+          "translation": "This person is full of vigor.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/f1a37b3e6a46334532af96132a8cc246.mp3",
+          "voiceName": "zh-CN-XiaomoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "尽管她年纪大了，但她仍然有像年轻人那样的活力。",
+          "traditionalText": "盡管她年紀大了，但她仍然有像年輕人那樣的活力。",
+          "pinyin": "jǐn guǎn tā nián jì dà le, dàn tā réng rán yǒu xiàng nián qīng rén nà yàng de huó lì。",
+          "translation": "Despite her age, she still has the vigor of a young person.",
+          "audioPath": "zh-CN-YunyeNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/552371af50c0cb3f656001bdc4b3f8d0.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

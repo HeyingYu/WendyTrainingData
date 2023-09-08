@@ -1,1 +1,63 @@
-{"simplified":"统计","traditional":"統計","pinyin":"tǒng jì","definitions":[{"partsOfSpeech":"Noun","meaning":"statistics","sentences":[{"simplifiedText":"我正在学习统计。","traditionalText":"我正在學習統計。","pinyin":"Wǒ zhèngzài xuéxí tǒngjì.","translation":"I am studying statistics.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/31099f7d88c9f2e4a95e89dffc667601.mp3","voiceName":"zh-CN-YunxiNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"为了更好地解决实际问题，我正在学习如何应用统计学。","traditionalText":"為了更好地解決實際問題，我正在學習如何應用統計學。","pinyin":"Wèile gèng hǎo de jiějué shíjì wèntí, wǒ zhèngzài xuéxí rúhé yìngyòng tǒngjì xué.","translation":"In order to better solve practical problems, I am learning how to apply statistics.","audioPath":"zh-CN-YunxiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/38fe1cc3d3858e0811359ab031a199e4.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"verb","meaning":"to add up","sentences":[{"simplifiedText":"我需要统计所有的数。","traditionalText":"我需要統計所有的數。","pinyin":"wǒ xū yào tǒng jì suǒ yǒu de shù.","translation":"I need to add up all the numbers.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/31b2271d4df72c300a6e923a0b75386a.mp3","voiceName":"zh-CN-YunxiNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"为了制定财务预算，我们必须先统计所有的支出和收入。","traditionalText":"為了制定財務預算，我們必須先統計所有的支出和收入。","pinyin":"wèi le zhì dìng cái wù yù suàn , wǒ men bì xū xiān tǒng jì suǒ yǒu de zhī chū hé shōu rù.","translation":"In order to formulate the budget, we must first add up all the expenses and income.","audioPath":"zh-CN-YunyeNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/ecf40de8ce2e1a674c18832372176fde.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "统计",
+  "traditional": "統計",
+  "pinyin": "tǒng jì",
+  "definitions": [
+    {
+      "partsOfSpeech": "Noun",
+      "meaning": "statistics",
+      "sentences": [
+        {
+          "simplifiedText": "我正在学习统计。",
+          "traditionalText": "我正在學習統計。",
+          "pinyin": "Wǒ zhèngzài xuéxí tǒngjì.",
+          "translation": "I am studying statistics.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/31099f7d88c9f2e4a95e89dffc667601.mp3",
+          "voiceName": "zh-CN-YunxiNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "为了更好地解决实际问题，我正在学习如何应用统计学。",
+          "traditionalText": "為了更好地解決實際問題，我正在學習如何應用統計學。",
+          "pinyin": "Wèile gèng hǎo de jiějué shíjì wèntí, wǒ zhèngzài xuéxí rúhé yìngyòng tǒngjì xué.",
+          "translation": "In order to better solve practical problems, I am learning how to apply statistics.",
+          "audioPath": "zh-CN-YunxiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/38fe1cc3d3858e0811359ab031a199e4.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to add up",
+      "sentences": [
+        {
+          "simplifiedText": "我需要统计所有的数。",
+          "traditionalText": "我需要統計所有的數。",
+          "pinyin": "wǒ xū yào tǒng jì suǒ yǒu de shù.",
+          "translation": "I need to add up all the numbers.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/31b2271d4df72c300a6e923a0b75386a.mp3",
+          "voiceName": "zh-CN-YunxiNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "为了制定财务预算，我们必须先统计所有的支出和收入。",
+          "traditionalText": "為了制定財務預算，我們必須先統計所有的支出和收入。",
+          "pinyin": "wèi le zhì dìng cái wù yù suàn , wǒ men bì xū xiān tǒng jì suǒ yǒu de zhī chū hé shōu rù.",
+          "translation": "In order to formulate the budget, we must first add up all the expenses and income.",
+          "audioPath": "zh-CN-YunyeNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/ecf40de8ce2e1a674c18832372176fde.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

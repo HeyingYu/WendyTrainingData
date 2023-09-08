@@ -1,1 +1,35 @@
-{"simplified":"本人","traditional":"本人","pinyin":"běn rén","definitions":[{"partsOfSpeech":"pronoun","meaning":"I; me; myself","sentences":[{"simplifiedText":"我是本人。","traditionalText":"我是本人。","pinyin":"Wǒ shì běnrén.","translation":"I am myself.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/547699624dd571b16875ff810686d7e0.mp3","voiceName":"zh-CN-XiaomengNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"虽然你们可能不相信，但我就是这么做的本人。","traditionalText":"雖然你們可能不相信，但我就是這麼做的本人。","pinyin":"Suīrán nǐmen kěnéng bù xiāngxìn, dàn wǒ jiùshì zhème zuò de běnrén.","translation":"Although you may not believe it, I am the person who did it.","audioPath":"zh-CN-XiaoxiaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/76ddf08ebc81a5257be658c8db21e74c.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "本人",
+  "traditional": "本人",
+  "pinyin": "běn rén",
+  "definitions": [
+    {
+      "partsOfSpeech": "pronoun",
+      "meaning": "I; me; myself",
+      "sentences": [
+        {
+          "simplifiedText": "我是本人。",
+          "traditionalText": "我是本人。",
+          "pinyin": "Wǒ shì běnrén.",
+          "translation": "I am myself.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/547699624dd571b16875ff810686d7e0.mp3",
+          "voiceName": "zh-CN-XiaomengNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "虽然你们可能不相信，但我就是这么做的本人。",
+          "traditionalText": "雖然你們可能不相信，但我就是這麼做的本人。",
+          "pinyin": "Suīrán nǐmen kěnéng bù xiāngxìn, dàn wǒ jiùshì zhème zuò de běnrén.",
+          "translation": "Although you may not believe it, I am the person who did it.",
+          "audioPath": "zh-CN-XiaoxiaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/76ddf08ebc81a5257be658c8db21e74c.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

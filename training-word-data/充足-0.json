@@ -1,1 +1,63 @@
-{"simplified":"充足","traditional":"充足","pinyin":"chōng zú","definitions":[{"partsOfSpeech":"adjective","meaning":"adequate","sentences":[{"simplifiedText":"他们的食物充足。","traditionalText":"他們的食物充足。","pinyin":"Tāmen de shíwù chōngzú.","translation":"Their food is adequate.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/69d876feda2c68ebf4681a98108594e9.mp3","voiceName":"zh-CN-XiaomengNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"考虑到稀缺资源的现实，我们必须采取措施确保水源充足。","traditionalText":"考慮到稀缺資源的現實，我們必須採取措施確保水源充足。","pinyin":"Kǎolǜ dào xīquē zīyuán de xiànshí, wǒmen bìxū cǎiqǔ cuòshī quèbǎo shuǐyuán chōngzú.","translation":"Considering the reality of scarce resources, we must take measures to ensure adequate water supplies.","audioPath":"zh-CN-YunxiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/281c06994fc6246f8b25b02a57f94d10.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"Adjective","meaning":"abundant","sentences":[{"simplifiedText":"这个地方的食物很充足。","traditionalText":"這個地方的食物很充足。","pinyin":"zhè gè dì fāng de shí wù hěn chōng zú。","translation":"The food in this place is abundant.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/f111496ed7c04e6b703a0604d8e353c0.mp3","voiceName":"zh-CN-YunyeNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"在我们的周围，我们经常看到充足的自然资源被忽视和浪费。","traditionalText":"在我們的周圍，我們經常看到充足的自然資源被忽視和浪費。","pinyin":"zài wǒ men de zhōu wéi ，wǒ men jīng cháng kàn dào chōng zú de zì rán zī yuán bèi hū shì hé làng fèi 。","translation":"Around us, we often see abundant natural resources being ignored and wasted.","audioPath":"zh-CN-XiaoyanNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/5cefc72b20796457ae585f40b91718e7.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "充足",
+  "traditional": "充足",
+  "pinyin": "chōng zú",
+  "definitions": [
+    {
+      "partsOfSpeech": "adjective",
+      "meaning": "adequate",
+      "sentences": [
+        {
+          "simplifiedText": "他们的食物充足。",
+          "traditionalText": "他們的食物充足。",
+          "pinyin": "Tāmen de shíwù chōngzú.",
+          "translation": "Their food is adequate.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/69d876feda2c68ebf4681a98108594e9.mp3",
+          "voiceName": "zh-CN-XiaomengNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "考虑到稀缺资源的现实，我们必须采取措施确保水源充足。",
+          "traditionalText": "考慮到稀缺資源的現實，我們必須採取措施確保水源充足。",
+          "pinyin": "Kǎolǜ dào xīquē zīyuán de xiànshí, wǒmen bìxū cǎiqǔ cuòshī quèbǎo shuǐyuán chōngzú.",
+          "translation": "Considering the reality of scarce resources, we must take measures to ensure adequate water supplies.",
+          "audioPath": "zh-CN-YunxiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/281c06994fc6246f8b25b02a57f94d10.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "Adjective",
+      "meaning": "abundant",
+      "sentences": [
+        {
+          "simplifiedText": "这个地方的食物很充足。",
+          "traditionalText": "這個地方的食物很充足。",
+          "pinyin": "zhè gè dì fāng de shí wù hěn chōng zú。",
+          "translation": "The food in this place is abundant.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/f111496ed7c04e6b703a0604d8e353c0.mp3",
+          "voiceName": "zh-CN-YunyeNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "在我们的周围，我们经常看到充足的自然资源被忽视和浪费。",
+          "traditionalText": "在我們的周圍，我們經常看到充足的自然資源被忽視和浪費。",
+          "pinyin": "zài wǒ men de zhōu wéi ，wǒ men jīng cháng kàn dào chōng zú de zì rán zī yuán bèi hū shì hé làng fèi 。",
+          "translation": "Around us, we often see abundant natural resources being ignored and wasted.",
+          "audioPath": "zh-CN-XiaoyanNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/5cefc72b20796457ae585f40b91718e7.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

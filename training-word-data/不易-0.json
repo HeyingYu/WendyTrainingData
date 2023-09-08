@@ -1,1 +1,63 @@
-{"simplified":"不易","traditional":"不易","pinyin":"bù yì","definitions":[{"partsOfSpeech":"adjective","meaning":"not easy to do sth","sentences":[{"simplifiedText":"这道数学题不易解。","traditionalText":"這道數學題不易解。","pinyin":"zhè dào shùxué tí bù yì jiě.","translation":"This math problem is not easy to solve.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b1db698123352d2627824d076e623299.mp3","voiceName":"zh-CN-YunyeNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"考试中的那些问题都不易解，我们都需要花很多时间去研究。","traditionalText":"考試中的那些問題都不易解，我們都需要花很多時間去研究。","pinyin":"kǎoshì zhōng dì nàxiē wèntí dōu bù yì jiě, wǒmen dōu xūyào huā hěnduō shíjiān qù yánjiū.","translation":"The questions in the exam are not easy to solve, we all need to spend a lot of time studying.","audioPath":"zh-CN-YunyeNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/4c7f9d6dfa3ed867f4c14f79d47f6d38.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"Adjective","meaning":"unchanging","sentences":[{"simplifiedText":"这种情况是不易更改的。","traditionalText":"這種情況是不易更改的。","pinyin":"Zhè zhǒng qíngkuàng shì bù yì gēnggǎi de.","translation":"This situation is unchangeable.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/70d9e36ddfa478421d7e90a27060e8f3.mp3","voiceName":"zh-CN-XiaoxuanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"在快速变化的世界中，他的态度是不易的。","traditionalText":"在快速變化的世界中，他的態度是不易的。","pinyin":"Zài kuàisù biànhuà de shìjiè zhōng, tā de tàidù shì bù yì de.","translation":"In a rapidly changing world, his attitude is unchanging.","audioPath":"zh-CN-XiaozhenNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/f3d4a0163e6815e821aad67a17f5315c.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "不易",
+  "traditional": "不易",
+  "pinyin": "bù yì",
+  "definitions": [
+    {
+      "partsOfSpeech": "adjective",
+      "meaning": "not easy to do sth",
+      "sentences": [
+        {
+          "simplifiedText": "这道数学题不易解。",
+          "traditionalText": "這道數學題不易解。",
+          "pinyin": "zhè dào shùxué tí bù yì jiě.",
+          "translation": "This math problem is not easy to solve.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b1db698123352d2627824d076e623299.mp3",
+          "voiceName": "zh-CN-YunyeNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "考试中的那些问题都不易解，我们都需要花很多时间去研究。",
+          "traditionalText": "考試中的那些問題都不易解，我們都需要花很多時間去研究。",
+          "pinyin": "kǎoshì zhōng dì nàxiē wèntí dōu bù yì jiě, wǒmen dōu xūyào huā hěnduō shíjiān qù yánjiū.",
+          "translation": "The questions in the exam are not easy to solve, we all need to spend a lot of time studying.",
+          "audioPath": "zh-CN-YunyeNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/4c7f9d6dfa3ed867f4c14f79d47f6d38.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "Adjective",
+      "meaning": "unchanging",
+      "sentences": [
+        {
+          "simplifiedText": "这种情况是不易更改的。",
+          "traditionalText": "這種情況是不易更改的。",
+          "pinyin": "Zhè zhǒng qíngkuàng shì bù yì gēnggǎi de.",
+          "translation": "This situation is unchangeable.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/70d9e36ddfa478421d7e90a27060e8f3.mp3",
+          "voiceName": "zh-CN-XiaoxuanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "在快速变化的世界中，他的态度是不易的。",
+          "traditionalText": "在快速變化的世界中，他的態度是不易的。",
+          "pinyin": "Zài kuàisù biànhuà de shìjiè zhōng, tā de tàidù shì bù yì de.",
+          "translation": "In a rapidly changing world, his attitude is unchanging.",
+          "audioPath": "zh-CN-XiaozhenNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/f3d4a0163e6815e821aad67a17f5315c.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

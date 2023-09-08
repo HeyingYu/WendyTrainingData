@@ -1,1 +1,63 @@
-{"simplified":"树林","traditional":"樹林","pinyin":"shù lín","definitions":[{"partsOfSpeech":"Noun","meaning":"woods","sentences":[{"simplifiedText":"这是一个美丽的树林。","traditionalText":"這是一個美麗的樹林。","pinyin":"Zhè shì yīgè měilì de shùlín.","translation":"This is a beautiful woods.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/42c79d4e5bfa124cbda1677a8c9599bb.mp3","voiceName":"zh-CN-XiaomoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"我们走在秋天那金黄色的树林中，听着沙沙的落叶声。","traditionalText":"我們走在秋天那金黃色的樹林中，聽著沙沙的落葉聲。","pinyin":"Wǒmen zǒu zài qiūtiān nà jīnhuáng sè de shùlín zhōng, tīngzhe shāshā de luòyè shēng.","translation":"We walk in the golden woods in the fall, listening to the rustling of falling leaves.","audioPath":"zh-CN-XiaoruiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a25a8f607d10fbdeca19cfa9808445cf.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"noun","meaning":"forest","sentences":[{"simplifiedText":"这是一个大树林。","traditionalText":"這是一個大樹林。","pinyin":"Zhè shì yīgè dà shùlín.","translation":"This is a big forest.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/ee0e3ffd45dfc306337748be78a544d4.mp3","voiceName":"zh-CN-XiaozhenNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"在我们家附近有一个美丽的树林，闻起来空气都是新鲜的。","traditionalText":"在我們家附近有一個美麗的樹林，聞起來空氣都是新鮮的。","pinyin":"Zài wǒmen jiā fùjìn yǒu yīgè měilì de shùlín, wén qǐlái kōngqì dōu shì xīnxiān de.","translation":"Near our house, there is a beautiful forest and even the air smells fresh.","audioPath":"zh-CN-YunjianNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/695bb91d58cf028574b8a4d4141f5f22.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "树林",
+  "traditional": "樹林",
+  "pinyin": "shù lín",
+  "definitions": [
+    {
+      "partsOfSpeech": "Noun",
+      "meaning": "woods",
+      "sentences": [
+        {
+          "simplifiedText": "这是一个美丽的树林。",
+          "traditionalText": "這是一個美麗的樹林。",
+          "pinyin": "Zhè shì yīgè měilì de shùlín.",
+          "translation": "This is a beautiful woods.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/42c79d4e5bfa124cbda1677a8c9599bb.mp3",
+          "voiceName": "zh-CN-XiaomoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "我们走在秋天那金黄色的树林中，听着沙沙的落叶声。",
+          "traditionalText": "我們走在秋天那金黃色的樹林中，聽著沙沙的落葉聲。",
+          "pinyin": "Wǒmen zǒu zài qiūtiān nà jīnhuáng sè de shùlín zhōng, tīngzhe shāshā de luòyè shēng.",
+          "translation": "We walk in the golden woods in the fall, listening to the rustling of falling leaves.",
+          "audioPath": "zh-CN-XiaoruiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a25a8f607d10fbdeca19cfa9808445cf.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "forest",
+      "sentences": [
+        {
+          "simplifiedText": "这是一个大树林。",
+          "traditionalText": "這是一個大樹林。",
+          "pinyin": "Zhè shì yīgè dà shùlín.",
+          "translation": "This is a big forest.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/ee0e3ffd45dfc306337748be78a544d4.mp3",
+          "voiceName": "zh-CN-XiaozhenNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "在我们家附近有一个美丽的树林，闻起来空气都是新鲜的。",
+          "traditionalText": "在我們家附近有一個美麗的樹林，聞起來空氣都是新鮮的。",
+          "pinyin": "Zài wǒmen jiā fùjìn yǒu yīgè měilì de shùlín, wén qǐlái kōngqì dōu shì xīnxiān de.",
+          "translation": "Near our house, there is a beautiful forest and even the air smells fresh.",
+          "audioPath": "zh-CN-YunjianNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/695bb91d58cf028574b8a4d4141f5f22.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"simplified":"污水","traditional":"污水","pinyin":"wū shuǐ","definitions":[{"partsOfSpeech":"noun","meaning":"sewage","sentences":[{"simplifiedText":"这里的污水直接流入河里。","traditionalText":"這裡的污水直接流入河裡。","pinyin":"zhè lǐ de wū shuǐ zhí jiē liú rù hé lǐ.","translation":"The sewage here flows directly into the river.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/5a8614a7c09b7a9e22a2f091245559fc.mp3","voiceName":"zh-CN-YunhaoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"政府正在研究新的方法来处理城市的污水，以减少对环境的影响。","traditionalText":"政府正在研究新的方法來處理城市的污水，以減少對環境的影響。","pinyin":"zhèng fǔ zhèng zài yán jiū xīn de fāng fǎ lái chǔ lǐ chéng shì de wū shuǐ, yǐ jiǎn shǎo duì huán jìng de yǐng xiǎng.","translation":"The government is studying new methods to deal with the city's sewage to reduce its impact on the environment.","audioPath":"zh-CN-YunhaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/1e89e40dfc1851ac50e077bed0d7d449.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "污水",
+  "traditional": "污水",
+  "pinyin": "wū shuǐ",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "sewage",
+      "sentences": [
+        {
+          "simplifiedText": "这里的污水直接流入河里。",
+          "traditionalText": "這裡的污水直接流入河裡。",
+          "pinyin": "zhè lǐ de wū shuǐ zhí jiē liú rù hé lǐ.",
+          "translation": "The sewage here flows directly into the river.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/5a8614a7c09b7a9e22a2f091245559fc.mp3",
+          "voiceName": "zh-CN-YunhaoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "政府正在研究新的方法来处理城市的污水，以减少对环境的影响。",
+          "traditionalText": "政府正在研究新的方法來處理城市的污水，以減少對環境的影響。",
+          "pinyin": "zhèng fǔ zhèng zài yán jiū xīn de fāng fǎ lái chǔ lǐ chéng shì de wū shuǐ, yǐ jiǎn shǎo duì huán jìng de yǐng xiǎng.",
+          "translation": "The government is studying new methods to deal with the city's sewage to reduce its impact on the environment.",
+          "audioPath": "zh-CN-YunhaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/1e89e40dfc1851ac50e077bed0d7d449.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

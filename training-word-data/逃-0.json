@@ -1,1 +1,63 @@
-{"simplified":"逃","traditional":"逃","pinyin":"táo","definitions":[{"partsOfSpeech":"verb","meaning":"to escape","sentences":[{"simplifiedText":"他试图逃跑。","traditionalText":"他試圖逃跑。","pinyin":"Tā shìtú táopǎo.","translation":"He tried to escape.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e0e34bd7dad67cb13b8ec7be8a13a9fd.mp3","voiceName":"zh-CN-XiaochenNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"在看到警察后，他立即转身试图逃跑。","traditionalText":"在看到警察後，他立即轉身試圖逃跑。","pinyin":"Zài kàn dào jǐngchá hòu, tā lìjí zhuǎnshēn shìtú táopǎo.","translation":"Upon seeing the police, he immediately turned around and tried to escape.","audioPath":"zh-CN-XiaozhenNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/8a0a120399319ade2c7228042344b601.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"verb","meaning":"to flee","sentences":[{"simplifiedText":"他逃跑了。","traditionalText":"他逃跑了。","pinyin":"Tā táo pǎo le.","translation":"He ran away.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/ef528a2aeac05677e99cccbdd097dd67.mp3","voiceName":"zh-CN-XiaoruiNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"看到警察来了，他立刻扔下手中的东西就逃跑了。","traditionalText":"看到警察來了，他立刻丟下手中的東西就逃跑了。","pinyin":"Kàn dào jǐngchá lái le, tā lìkè rēng xià shǒuzhōng de dōngxī jiù táo pǎo le.","translation":"As soon as he saw the police coming, he immediately dropped what he had in his hands and ran away.","audioPath":"zh-CN-XiaoruiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/1f22414b51ff105abb37236806dd8555.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "逃",
+  "traditional": "逃",
+  "pinyin": "táo",
+  "definitions": [
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to escape",
+      "sentences": [
+        {
+          "simplifiedText": "他试图逃跑。",
+          "traditionalText": "他試圖逃跑。",
+          "pinyin": "Tā shìtú táopǎo.",
+          "translation": "He tried to escape.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e0e34bd7dad67cb13b8ec7be8a13a9fd.mp3",
+          "voiceName": "zh-CN-XiaochenNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "在看到警察后，他立即转身试图逃跑。",
+          "traditionalText": "在看到警察後，他立即轉身試圖逃跑。",
+          "pinyin": "Zài kàn dào jǐngchá hòu, tā lìjí zhuǎnshēn shìtú táopǎo.",
+          "translation": "Upon seeing the police, he immediately turned around and tried to escape.",
+          "audioPath": "zh-CN-XiaozhenNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/8a0a120399319ade2c7228042344b601.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to flee",
+      "sentences": [
+        {
+          "simplifiedText": "他逃跑了。",
+          "traditionalText": "他逃跑了。",
+          "pinyin": "Tā táo pǎo le.",
+          "translation": "He ran away.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/ef528a2aeac05677e99cccbdd097dd67.mp3",
+          "voiceName": "zh-CN-XiaoruiNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "看到警察来了，他立刻扔下手中的东西就逃跑了。",
+          "traditionalText": "看到警察來了，他立刻丟下手中的東西就逃跑了。",
+          "pinyin": "Kàn dào jǐngchá lái le, tā lìkè rēng xià shǒuzhōng de dōngxī jiù táo pǎo le.",
+          "translation": "As soon as he saw the police coming, he immediately dropped what he had in his hands and ran away.",
+          "audioPath": "zh-CN-XiaoruiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/1f22414b51ff105abb37236806dd8555.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

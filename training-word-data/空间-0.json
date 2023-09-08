@@ -1,1 +1,91 @@
-{"simplified":"空间","traditional":"空間","pinyin":"kōng jiān","definitions":[{"partsOfSpeech":"Noun","meaning":"space","sentences":[{"simplifiedText":"这是我的空间。","traditionalText":"這是我的空間。","pinyin":"Zhè shì wǒ de kōngjiān.","translation":"This is my space.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/dfc35525cd7445655e2d26d91d57ec6c.mp3","voiceName":"zh-CN-YunjianNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"我需要一些安静的空间来思考。","traditionalText":"我需要一些安靜的空間來思考。","pinyin":"Wǒ xūyào yīxiē ānjìng de kōngjiān lái sīkǎo.","translation":"I need some quiet space to think.","audioPath":"zh-CN-YunhaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a888223d4571df5ca3cac2c807bc5077.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"Noun","meaning":"(fig.) scope","sentences":[{"simplifiedText":"这个房间的空间很大。","traditionalText":"這個房間的空間很大。","pinyin":"Zhège fángjiān de kōngjiān hěn dà。","translation":"The space of this room is very large.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/dcbfac50b9756ad0c304cd7017f8d83e.mp3","voiceName":"zh-CN-XiaomoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"在新的一年里，我们希望有更大的空间去发展和成长。","traditionalText":"在新的一年裡，我們希望有更大的空間去發展和成長。","pinyin":"Zài xīn de yī nián lǐ, wǒmen xīwàng yǒu gèng dà de kōngjiān qù fāzhǎn hé chéngzhǎng。","translation":"In the new year, we hope to have more space for development and growth.","audioPath":"zh-CN-XiaoxuanNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/bd07d20134a9a68317b3a97cfd3a6abc.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"noun","meaning":"(astronomy) outer space","sentences":[{"simplifiedText":"我希望有一天能去空间。","traditionalText":"我希望有一天能去空間。","pinyin":"wǒ xī wàng yǒu yī tiān néng qù kōng jiān.","translation":"I hope to go to space one day.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/ae7d436d19ee63f8fca4426e01d6f83a.mp3","voiceName":"zh-CN-YunjianNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"空间科学是研究地球以外的天体的学科。","traditionalText":"空間科學是研究地球以外的天體的學科。","pinyin":"kōng jiān kē xué shì yán jiū dì qiú yǐ wài de tiān tǐ de xué kē.","translation":"Space science is the scientific discipline that studies celestial bodies outside of Earth.","audioPath":"zh-CN-XiaomoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a28abaf3960a9ed1cb251b638f9e8fc8.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "空间",
+  "traditional": "空間",
+  "pinyin": "kōng jiān",
+  "definitions": [
+    {
+      "partsOfSpeech": "Noun",
+      "meaning": "space",
+      "sentences": [
+        {
+          "simplifiedText": "这是我的空间。",
+          "traditionalText": "這是我的空間。",
+          "pinyin": "Zhè shì wǒ de kōngjiān.",
+          "translation": "This is my space.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/dfc35525cd7445655e2d26d91d57ec6c.mp3",
+          "voiceName": "zh-CN-YunjianNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "我需要一些安静的空间来思考。",
+          "traditionalText": "我需要一些安靜的空間來思考。",
+          "pinyin": "Wǒ xūyào yīxiē ānjìng de kōngjiān lái sīkǎo.",
+          "translation": "I need some quiet space to think.",
+          "audioPath": "zh-CN-YunhaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a888223d4571df5ca3cac2c807bc5077.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "Noun",
+      "meaning": "(fig.) scope",
+      "sentences": [
+        {
+          "simplifiedText": "这个房间的空间很大。",
+          "traditionalText": "這個房間的空間很大。",
+          "pinyin": "Zhège fángjiān de kōngjiān hěn dà。",
+          "translation": "The space of this room is very large.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/dcbfac50b9756ad0c304cd7017f8d83e.mp3",
+          "voiceName": "zh-CN-XiaomoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "在新的一年里，我们希望有更大的空间去发展和成长。",
+          "traditionalText": "在新的一年裡，我們希望有更大的空間去發展和成長。",
+          "pinyin": "Zài xīn de yī nián lǐ, wǒmen xīwàng yǒu gèng dà de kōngjiān qù fāzhǎn hé chéngzhǎng。",
+          "translation": "In the new year, we hope to have more space for development and growth.",
+          "audioPath": "zh-CN-XiaoxuanNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/bd07d20134a9a68317b3a97cfd3a6abc.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "(astronomy) outer space",
+      "sentences": [
+        {
+          "simplifiedText": "我希望有一天能去空间。",
+          "traditionalText": "我希望有一天能去空間。",
+          "pinyin": "wǒ xī wàng yǒu yī tiān néng qù kōng jiān.",
+          "translation": "I hope to go to space one day.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/ae7d436d19ee63f8fca4426e01d6f83a.mp3",
+          "voiceName": "zh-CN-YunjianNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "空间科学是研究地球以外的天体的学科。",
+          "traditionalText": "空間科學是研究地球以外的天體的學科。",
+          "pinyin": "kōng jiān kē xué shì yán jiū dì qiú yǐ wài de tiān tǐ de xué kē.",
+          "translation": "Space science is the scientific discipline that studies celestial bodies outside of Earth.",
+          "audioPath": "zh-CN-XiaomoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a28abaf3960a9ed1cb251b638f9e8fc8.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

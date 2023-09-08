@@ -1,1 +1,35 @@
-{"simplified":"脚步","traditional":"腳步","pinyin":"jiǎo bù","definitions":[{"partsOfSpeech":"Noun","meaning":"footstep","sentences":[{"simplifiedText":"我听到他的脚步声。","traditionalText":"我聽到他的腳步聲。","pinyin":"Wǒ tīng dào tā de jiǎobùshēng.","translation":"I heard his footsteps.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d8699af4d355dce9f2287afd5af46f24.mp3","voiceName":"zh-CN-YunhaoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"夜深人静的时候, 他安静的脚步在回响中落下。","traditionalText":"夜深人靜的時候, 他安靜的腳步在回響中落下。","pinyin":"Yèshēn rénjìng de shíhòu, tā ānjìng de jiǎobù zài huíxiǎng zhōng luòxià.","translation":"In the quiet of the night, his silent footsteps fell in the echo.","audioPath":"zh-CN-YunhaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9f9d40b0d8742eb536547b60d0b281fe.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "脚步",
+  "traditional": "腳步",
+  "pinyin": "jiǎo bù",
+  "definitions": [
+    {
+      "partsOfSpeech": "Noun",
+      "meaning": "footstep",
+      "sentences": [
+        {
+          "simplifiedText": "我听到他的脚步声。",
+          "traditionalText": "我聽到他的腳步聲。",
+          "pinyin": "Wǒ tīng dào tā de jiǎobùshēng.",
+          "translation": "I heard his footsteps.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d8699af4d355dce9f2287afd5af46f24.mp3",
+          "voiceName": "zh-CN-YunhaoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "夜深人静的时候, 他安静的脚步在回响中落下。",
+          "traditionalText": "夜深人靜的時候, 他安靜的腳步在回響中落下。",
+          "pinyin": "Yèshēn rénjìng de shíhòu, tā ānjìng de jiǎobù zài huíxiǎng zhōng luòxià.",
+          "translation": "In the quiet of the night, his silent footsteps fell in the echo.",
+          "audioPath": "zh-CN-YunhaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9f9d40b0d8742eb536547b60d0b281fe.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

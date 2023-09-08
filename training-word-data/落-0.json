@@ -1,1 +1,63 @@
-{"simplified":"落","traditional":"落","pinyin":"là","definitions":[{"partsOfSpeech":"verb","meaning":"to leave out","sentences":[{"simplifiedText":"你落了这个钱包.","traditionalText":"你落了這個錢包.","pinyin":"Nǐ luòle zhège qiánbāo.","translation":"You left out this wallet.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/5e8807ef6fc12b29e0812b39c4218b84.mp3","voiceName":"zh-CN-XiaoruiNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"他们在决策中落下了这个重要的元素.","traditionalText":"他們在決策中落下了這個重要的元素.","pinyin":"Tāmen zài juécè zhōng luò xiàle zhègè zhòngyào de yuánsù.","translation":"They left out this important element in the decision-making.","audioPath":"zh-CN-YunfengNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/f52ee86697b93e771d11610f4891dd43.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"verb","meaning":"to leave behind or forget to bring","sentences":[{"simplifiedText":"我落了我的手机在图书馆。","traditionalText":"我落了我的手機在圖書館。","pinyin":"wǒ luòle wǒ de shǒujī zài túshūguǎn.","translation":"I left my phone in the library.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/39c8a6e0a0f2c1aa625159f17982cb38.mp3","voiceName":"zh-CN-XiaoxiaoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"在火车上，我意识到我落了我的包在咖啡店。","traditionalText":"在火車上，我意識到我落了我的包在咖啡店。","pinyin":"zài huǒchē shàng, wǒ yìshí dào wǒ luòle wǒ de bāo zài kāfēi diàn.","translation":"On the train, I realized that I left my bag at the coffee shop.","audioPath":"zh-CN-XiaohanNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/086de8ad55eb6e62054645d8c63ac204.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "落",
+  "traditional": "落",
+  "pinyin": "là",
+  "definitions": [
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to leave out",
+      "sentences": [
+        {
+          "simplifiedText": "你落了这个钱包.",
+          "traditionalText": "你落了這個錢包.",
+          "pinyin": "Nǐ luòle zhège qiánbāo.",
+          "translation": "You left out this wallet.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/5e8807ef6fc12b29e0812b39c4218b84.mp3",
+          "voiceName": "zh-CN-XiaoruiNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "他们在决策中落下了这个重要的元素.",
+          "traditionalText": "他們在決策中落下了這個重要的元素.",
+          "pinyin": "Tāmen zài juécè zhōng luò xiàle zhègè zhòngyào de yuánsù.",
+          "translation": "They left out this important element in the decision-making.",
+          "audioPath": "zh-CN-YunfengNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/f52ee86697b93e771d11610f4891dd43.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to leave behind or forget to bring",
+      "sentences": [
+        {
+          "simplifiedText": "我落了我的手机在图书馆。",
+          "traditionalText": "我落了我的手機在圖書館。",
+          "pinyin": "wǒ luòle wǒ de shǒujī zài túshūguǎn.",
+          "translation": "I left my phone in the library.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/39c8a6e0a0f2c1aa625159f17982cb38.mp3",
+          "voiceName": "zh-CN-XiaoxiaoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "在火车上，我意识到我落了我的包在咖啡店。",
+          "traditionalText": "在火車上，我意識到我落了我的包在咖啡店。",
+          "pinyin": "zài huǒchē shàng, wǒ yìshí dào wǒ luòle wǒ de bāo zài kāfēi diàn.",
+          "translation": "On the train, I realized that I left my bag at the coffee shop.",
+          "audioPath": "zh-CN-XiaohanNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/086de8ad55eb6e62054645d8c63ac204.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

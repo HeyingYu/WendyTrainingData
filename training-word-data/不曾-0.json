@@ -1,1 +1,35 @@
-{"simplified":"不曾","traditional":"不曾","pinyin":"bù céng","definitions":[{"partsOfSpeech":"adverb","meaning":"hasn't yet","sentences":[{"simplifiedText":"我不曾去过那里。","traditionalText":"我不曾去過那裡。","pinyin":"Wǒ bùcéng qùguò nàlǐ.","translation":"I haven't been there yet.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/8f61c55333b2dc1b1943e6ffcfc38bd5.mp3","voiceName":"zh-CN-YunfengNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"虽然我们认识很长时间，但我不曾去过他的家。","traditionalText":"雖然我們認識很長時間，但我不曾去過他的家。","pinyin":"Suīrán wǒmen rènshì hěn cháng shíjiān, dàn wǒ bùcéng qùguò tā de jiā.","translation":"Although we've known each other for a long time, I haven't been to his house yet.","audioPath":"zh-CN-XiaoruiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/4b9746bdf965535fd87721e5f620f944.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "不曾",
+  "traditional": "不曾",
+  "pinyin": "bù céng",
+  "definitions": [
+    {
+      "partsOfSpeech": "adverb",
+      "meaning": "hasn't yet",
+      "sentences": [
+        {
+          "simplifiedText": "我不曾去过那里。",
+          "traditionalText": "我不曾去過那裡。",
+          "pinyin": "Wǒ bùcéng qùguò nàlǐ.",
+          "translation": "I haven't been there yet.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/8f61c55333b2dc1b1943e6ffcfc38bd5.mp3",
+          "voiceName": "zh-CN-YunfengNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "虽然我们认识很长时间，但我不曾去过他的家。",
+          "traditionalText": "雖然我們認識很長時間，但我不曾去過他的家。",
+          "pinyin": "Suīrán wǒmen rènshì hěn cháng shíjiān, dàn wǒ bùcéng qùguò tā de jiā.",
+          "translation": "Although we've known each other for a long time, I haven't been to his house yet.",
+          "audioPath": "zh-CN-XiaoruiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/4b9746bdf965535fd87721e5f620f944.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

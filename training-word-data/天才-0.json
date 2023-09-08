@@ -1,1 +1,91 @@
-{"simplified":"天才","traditional":"天才","pinyin":"tiān cái","definitions":[{"partsOfSpeech":"noun","meaning":"talent","sentences":[{"simplifiedText":"他是一个天才。","traditionalText":"他是一個天才。","pinyin":"Tā shì yīgè tiāncái.","translation":"He is a talent.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9b6a685331c2117605c2cb2fb6b29ced.mp3","voiceName":"zh-CN-XiaomoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"他被公认为是当今科学界的天才。","traditionalText":"他被公認為是當今科學界的天才。","pinyin":"Tā bèi gōng rènwéi shì dāngjīn kēxué jiè de tiāncái.","translation":"He is recognized as a talent in today’s scientific world.","audioPath":"zh-CN-YunfengNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/eb8e0bd663670943f1ee66fabfa8368b.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"noun","meaning":"genius","sentences":[{"simplifiedText":"他是个天才。","traditionalText":"他是個天才。","pinyin":"Tā shì gè tiāncái.","translation":"He is a genius.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/54d13bf1cb5958e724e4a094c322e48f.mp3","voiceName":"zh-CN-XiaozhenNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"虽然他是个天才，但他总是勤奋工作。","traditionalText":"雖然他是個天才，但他總是勤勉工作。","pinyin":"Suīrán tā shì gè tiāncái, dàn tā zǒng shì qínmiǎn gōngzuò.","translation":"Although he is a genius, he always works diligently.","audioPath":"zh-CN-XiaomoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/f28690c989001b491d1515fad6298aeb.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"Noun","meaning":"gifted","sentences":[{"simplifiedText":"他是一个天才。","traditionalText":"他是一個天才。","pinyin":"tā shì yī gè tiān cái.","translation":"He is a genius.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/8ec9be4b906e1f3c4c00e659f8d45351.mp3","voiceName":"zh-CN-XiaohanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"尽管他年纪小，但他在音乐和科学上都表现出了天才的才能。","traditionalText":"儘管他年紀小，但他在音樂和科學上都表現出了天才的才能。","pinyin":"jǐn guǎn tā nián jì xiǎo, dàn tā zài yīn yuè hé kē xué shàng dōu biǎo xiàn chū le tiān cái de cái néng.","translation":"Despite his young age, he demonstrated genius in both music and science.","audioPath":"zh-CN-XiaoruiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/1e13935e6d8f77f1ba7556ba2b928e2d.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "天才",
+  "traditional": "天才",
+  "pinyin": "tiān cái",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "talent",
+      "sentences": [
+        {
+          "simplifiedText": "他是一个天才。",
+          "traditionalText": "他是一個天才。",
+          "pinyin": "Tā shì yīgè tiāncái.",
+          "translation": "He is a talent.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9b6a685331c2117605c2cb2fb6b29ced.mp3",
+          "voiceName": "zh-CN-XiaomoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "他被公认为是当今科学界的天才。",
+          "traditionalText": "他被公認為是當今科學界的天才。",
+          "pinyin": "Tā bèi gōng rènwéi shì dāngjīn kēxué jiè de tiāncái.",
+          "translation": "He is recognized as a talent in today’s scientific world.",
+          "audioPath": "zh-CN-YunfengNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/eb8e0bd663670943f1ee66fabfa8368b.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "genius",
+      "sentences": [
+        {
+          "simplifiedText": "他是个天才。",
+          "traditionalText": "他是個天才。",
+          "pinyin": "Tā shì gè tiāncái.",
+          "translation": "He is a genius.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/54d13bf1cb5958e724e4a094c322e48f.mp3",
+          "voiceName": "zh-CN-XiaozhenNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "虽然他是个天才，但他总是勤奋工作。",
+          "traditionalText": "雖然他是個天才，但他總是勤勉工作。",
+          "pinyin": "Suīrán tā shì gè tiāncái, dàn tā zǒng shì qínmiǎn gōngzuò.",
+          "translation": "Although he is a genius, he always works diligently.",
+          "audioPath": "zh-CN-XiaomoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/f28690c989001b491d1515fad6298aeb.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "Noun",
+      "meaning": "gifted",
+      "sentences": [
+        {
+          "simplifiedText": "他是一个天才。",
+          "traditionalText": "他是一個天才。",
+          "pinyin": "tā shì yī gè tiān cái.",
+          "translation": "He is a genius.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/8ec9be4b906e1f3c4c00e659f8d45351.mp3",
+          "voiceName": "zh-CN-XiaohanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "尽管他年纪小，但他在音乐和科学上都表现出了天才的才能。",
+          "traditionalText": "儘管他年紀小，但他在音樂和科學上都表現出了天才的才能。",
+          "pinyin": "jǐn guǎn tā nián jì xiǎo, dàn tā zài yīn yuè hé kē xué shàng dōu biǎo xiàn chū le tiān cái de cái néng.",
+          "translation": "Despite his young age, he demonstrated genius in both music and science.",
+          "audioPath": "zh-CN-XiaoruiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/1e13935e6d8f77f1ba7556ba2b928e2d.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"simplified":"酒鬼","traditional":"酒鬼","pinyin":"jǐu guǐ","definitions":[{"partsOfSpeech":"Noun","meaning":"drunkard","sentences":[{"simplifiedText":"他是个酒鬼。","traditionalText":"他是個酒鬼。","pinyin":"Tā shì gè jiǔguǐ.","translation":"He is a drunkard.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/46ee6c3bf13b1ae45f473f8567601082.mp3","voiceName":"zh-CN-YunjianNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"虽然他是个酒鬼，但他确实是个好爸爸。","traditionalText":"雖然他是個酒鬼，但他確實是個好爸爸。","pinyin":"Suīrán tā shì gè jiǔguǐ, dàn tā quèshí shì gè hǎo bàba.","translation":"Even though he is a drunkard, he is indeed a good father.","audioPath":"zh-CN-XiaomengNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/6b4336aa952f088306c11ed3d7161b8e.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "酒鬼",
+  "traditional": "酒鬼",
+  "pinyin": "jǐu guǐ",
+  "definitions": [
+    {
+      "partsOfSpeech": "Noun",
+      "meaning": "drunkard",
+      "sentences": [
+        {
+          "simplifiedText": "他是个酒鬼。",
+          "traditionalText": "他是個酒鬼。",
+          "pinyin": "Tā shì gè jiǔguǐ.",
+          "translation": "He is a drunkard.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/46ee6c3bf13b1ae45f473f8567601082.mp3",
+          "voiceName": "zh-CN-YunjianNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "虽然他是个酒鬼，但他确实是个好爸爸。",
+          "traditionalText": "雖然他是個酒鬼，但他確實是個好爸爸。",
+          "pinyin": "Suīrán tā shì gè jiǔguǐ, dàn tā quèshí shì gè hǎo bàba.",
+          "translation": "Even though he is a drunkard, he is indeed a good father.",
+          "audioPath": "zh-CN-XiaomengNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/6b4336aa952f088306c11ed3d7161b8e.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

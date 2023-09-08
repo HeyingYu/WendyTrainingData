@@ -1,1 +1,35 @@
-{"simplified":"晴朗","traditional":"晴朗","pinyin":"qíng lǎng","definitions":[{"partsOfSpeech":"adjective","meaning":"sunny and cloudless","sentences":[{"simplifiedText":"今天是晴朗的一天。","traditionalText":"今天是晴朗的一天。","pinyin":"Jīntiān shì qínglǎng de yītiān.","translation":"Today is a sunny and cloudless day.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/7bb8dae68dbf88550a2938a29253d682.mp3","voiceName":"zh-CN-XiaoxuanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"虽然昨天下了大雨，但是今天的天空却异常晴朗，蓝得就像一面湖。","traditionalText":"雖然昨天下了大雨，但是今天的天空卻異常晴朗，藍得就像一面湖。","pinyin":"Suīrán zuótiān xiàle dàyǔ, dànshì jīntiān de tiānkōng què yìcháng qínglǎng, lán de jiù xiàng yīmiàn hú.","translation":"Although it rained heavily yesterday, the sky today is unusually sunny and cloudless, blue like a lake.","audioPath":"zh-CN-YunyeNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/f2e51e2512c37ea18f7bbfb4ffadb6b1.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "晴朗",
+  "traditional": "晴朗",
+  "pinyin": "qíng lǎng",
+  "definitions": [
+    {
+      "partsOfSpeech": "adjective",
+      "meaning": "sunny and cloudless",
+      "sentences": [
+        {
+          "simplifiedText": "今天是晴朗的一天。",
+          "traditionalText": "今天是晴朗的一天。",
+          "pinyin": "Jīntiān shì qínglǎng de yītiān.",
+          "translation": "Today is a sunny and cloudless day.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/7bb8dae68dbf88550a2938a29253d682.mp3",
+          "voiceName": "zh-CN-XiaoxuanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "虽然昨天下了大雨，但是今天的天空却异常晴朗，蓝得就像一面湖。",
+          "traditionalText": "雖然昨天下了大雨，但是今天的天空卻異常晴朗，藍得就像一面湖。",
+          "pinyin": "Suīrán zuótiān xiàle dàyǔ, dànshì jīntiān de tiānkōng què yìcháng qínglǎng, lán de jiù xiàng yīmiàn hú.",
+          "translation": "Although it rained heavily yesterday, the sky today is unusually sunny and cloudless, blue like a lake.",
+          "audioPath": "zh-CN-YunyeNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/f2e51e2512c37ea18f7bbfb4ffadb6b1.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

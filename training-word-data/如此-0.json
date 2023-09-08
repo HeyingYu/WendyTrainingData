@@ -1,1 +1,35 @@
-{"simplified":"如此","traditional":"如此","pinyin":"rú cǐ","definitions":[{"partsOfSpeech":"adverb","meaning":"like this; so; such","sentences":[{"simplifiedText":"我也是这样想的。","traditionalText":"我也是這樣想的。","pinyin":"Wǒ yěshì zhèyàng xiǎng de.","translation":"I think so too.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/c61aed8ca5ed74f8b7a280a3b6631bec.mp3","voiceName":"zh-CN-YunyeNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"见到他的表现，她感到无比自豪,觉得他就是这样出色的人。","traditionalText":"見到他的表現，她感到無比自豪,覺得他就是這樣出色的人。","pinyin":"Jiàn dào tā de biǎoxiàn, tā gǎndào wúbǐ zìháo, juédé tā jiùshì zhèyàng chūsè de rén.","translation":"Seeing his performance, she felt extremely proud, thinking he is such a great person.","audioPath":"zh-CN-XiaoxiaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/ca39660c9a5ab9e5d44768b74fac5da5.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "如此",
+  "traditional": "如此",
+  "pinyin": "rú cǐ",
+  "definitions": [
+    {
+      "partsOfSpeech": "adverb",
+      "meaning": "like this; so; such",
+      "sentences": [
+        {
+          "simplifiedText": "我也是这样想的。",
+          "traditionalText": "我也是這樣想的。",
+          "pinyin": "Wǒ yěshì zhèyàng xiǎng de.",
+          "translation": "I think so too.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/c61aed8ca5ed74f8b7a280a3b6631bec.mp3",
+          "voiceName": "zh-CN-YunyeNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "见到他的表现，她感到无比自豪,觉得他就是这样出色的人。",
+          "traditionalText": "見到他的表現，她感到無比自豪,覺得他就是這樣出色的人。",
+          "pinyin": "Jiàn dào tā de biǎoxiàn, tā gǎndào wúbǐ zìháo, juédé tā jiùshì zhèyàng chūsè de rén.",
+          "translation": "Seeing his performance, she felt extremely proud, thinking he is such a great person.",
+          "audioPath": "zh-CN-XiaoxiaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/ca39660c9a5ab9e5d44768b74fac5da5.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

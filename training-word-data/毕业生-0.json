@@ -1,1 +1,35 @@
-{"simplified":"毕业生","traditional":"畢業生","pinyin":"bì yè shēng","definitions":[{"partsOfSpeech":"noun","meaning":"graduate","sentences":[{"simplifiedText":"他是今年的毕业生。","traditionalText":"他是今年的畢業生。","pinyin":"tā shì jīn nián de bì yè shēng.","translation":"He is this year's graduate.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/f4b3218420bed3f733c0fa01c3b52ce2.mp3","voiceName":"zh-CN-XiaozhenNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"今年的毕业生就业形势看起来非常严峻。","traditionalText":"今年的畢業生就業形勢看起來非常嚴峻。","pinyin":"jīn nián de bì yè shēng jiù yè xíng shì kàn qǐ lái fēi cháng yán jǔn.","translation":"The employment situation for this year's graduates looks very grim.","audioPath":"zh-CN-YunhaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/92ebebb205113a7e9fb3eeeffd511881.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "毕业生",
+  "traditional": "畢業生",
+  "pinyin": "bì yè shēng",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "graduate",
+      "sentences": [
+        {
+          "simplifiedText": "他是今年的毕业生。",
+          "traditionalText": "他是今年的畢業生。",
+          "pinyin": "tā shì jīn nián de bì yè shēng.",
+          "translation": "He is this year's graduate.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/f4b3218420bed3f733c0fa01c3b52ce2.mp3",
+          "voiceName": "zh-CN-XiaozhenNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "今年的毕业生就业形势看起来非常严峻。",
+          "traditionalText": "今年的畢業生就業形勢看起來非常嚴峻。",
+          "pinyin": "jīn nián de bì yè shēng jiù yè xíng shì kàn qǐ lái fēi cháng yán jǔn.",
+          "translation": "The employment situation for this year's graduates looks very grim.",
+          "audioPath": "zh-CN-YunhaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/92ebebb205113a7e9fb3eeeffd511881.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"simplified":"袜子","traditional":"襪子","pinyin":"wà zi","definitions":[{"partsOfSpeech":"名词","meaning":"socks","sentences":[{"simplifiedText":"我的袜子是白色的。","traditionalText":"我的襪子是白色的。","pinyin":"Wǒ de wàzi shì báisè de.","translation":"My socks are white.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/6700ba1303676d1432df965bbfc0a462.mp3","voiceName":"zh-CN-XiaohanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"我今天忘了穿袜子，所以脚冻得很冷。","traditionalText":"我今天忘了穿襪子，所以腳凍得很冷。","pinyin":"Wǒ jīntiān wàngle chuān wàzi, suǒyǐ jiǎo dòng de hěn lěng.","translation":"I forgot to wear socks today, so my feet are really cold.","audioPath":"zh-CN-YunhaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/db49ef7a6a1d1d53fd063ab93897057a.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "袜子",
+  "traditional": "襪子",
+  "pinyin": "wà zi",
+  "definitions": [
+    {
+      "partsOfSpeech": "名词",
+      "meaning": "socks",
+      "sentences": [
+        {
+          "simplifiedText": "我的袜子是白色的。",
+          "traditionalText": "我的襪子是白色的。",
+          "pinyin": "Wǒ de wàzi shì báisè de.",
+          "translation": "My socks are white.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/6700ba1303676d1432df965bbfc0a462.mp3",
+          "voiceName": "zh-CN-XiaohanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "我今天忘了穿袜子，所以脚冻得很冷。",
+          "traditionalText": "我今天忘了穿襪子，所以腳凍得很冷。",
+          "pinyin": "Wǒ jīntiān wàngle chuān wàzi, suǒyǐ jiǎo dòng de hěn lěng.",
+          "translation": "I forgot to wear socks today, so my feet are really cold.",
+          "audioPath": "zh-CN-YunhaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/db49ef7a6a1d1d53fd063ab93897057a.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"simplified":"煤气","traditional":"煤氣","pinyin":"méi qì","definitions":[{"partsOfSpeech":"noun","meaning":"coal gas","sentences":[{"simplifiedText":"这个工厂制造煤气。","traditionalText":"這個工廠製造煤氣。","pinyin":"zhè gè gōng chǎng zhì zào méi qì.","translation":"This factory produces coal gas.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d0b617c2f10819cb81940458e83f8064.mp3","voiceName":"zh-CN-YunhaoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"在19世纪，伦敦的很多家庭使用煤气照明和烹饪。","traditionalText":"在19世紀，倫敦的很多家庭使用煤氣照明和烹飪。","pinyin":"zài 19 shì jì, lún dūn de hěn duō jiā tíng shǐ yòng méi qì zhào míng hé pēng rèn.","translation":"In the 19th century, many households in London used coal gas for lighting and cooking.","audioPath":"zh-CN-YunyeNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/15f3061c9b6517d3391f78eba1dfdda0.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "煤气",
+  "traditional": "煤氣",
+  "pinyin": "méi qì",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "coal gas",
+      "sentences": [
+        {
+          "simplifiedText": "这个工厂制造煤气。",
+          "traditionalText": "這個工廠製造煤氣。",
+          "pinyin": "zhè gè gōng chǎng zhì zào méi qì.",
+          "translation": "This factory produces coal gas.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d0b617c2f10819cb81940458e83f8064.mp3",
+          "voiceName": "zh-CN-YunhaoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "在19世纪，伦敦的很多家庭使用煤气照明和烹饪。",
+          "traditionalText": "在19世紀，倫敦的很多家庭使用煤氣照明和烹飪。",
+          "pinyin": "zài 19 shì jì, lún dūn de hěn duō jiā tíng shǐ yòng méi qì zhào míng hé pēng rèn.",
+          "translation": "In the 19th century, many households in London used coal gas for lighting and cooking.",
+          "audioPath": "zh-CN-YunyeNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/15f3061c9b6517d3391f78eba1dfdda0.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

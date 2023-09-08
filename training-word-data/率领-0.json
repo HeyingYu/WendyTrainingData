@@ -1,1 +1,63 @@
-{"simplified":"率领","traditional":"率領","pinyin":"shuài lǐng","definitions":[{"partsOfSpeech":"Verb","meaning":"to lead","sentences":[{"simplifiedText":"他站出来率领团队。","traditionalText":"他站出來率領團隊。","pinyin":"Tā zhàn chūlái shuàilǐng tuánduì.","translation":"He stepped forward to lead the team.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/c4e532a92304fd86660a5040f7e34a8e.mp3","voiceName":"zh-CN-XiaoyanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"在这 formidable challange正面挑战之际，我们需要一个有经验的人来率领我们面向未来。","traditionalText":"在這 formidable challange正面挑戰之際，我們需要一個有經驗的人來率領我們面向未來。","pinyin":"Zài zhè formidable challange zhèngmiàn tiǎozhàn zhī jì, wǒmen xūyào yīgè yǒu jīngyàn de rén lái shuàilǐng wǒmen miànxiàng wèilái.","translation":"In the face of this formidable challenge, we need an experienced person to lead us into the future.","audioPath":"zh-CN-YunxiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/5988e067f9dcf271c5b3b259fb1800a5.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"verb","meaning":"to head","sentences":[{"simplifiedText":"他率领团队走向成功。","traditionalText":"他率領團隊走向成功。","pinyin":"tā shuàilǐng tuánduì zǒu xiàng chénggōng.","translation":"He led the team to success.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/461cac72e9b46aaab97ef3ae9da7a685.mp3","voiceName":"zh-CN-XiaozhenNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"作为项目经理，他成功地率领团队完成了这个复杂的任务。","traditionalText":"作為項目經理，他成功地率領團隊完成了這個複雜的任務。","pinyin":"zuòwéi xiàngmù jīnglǐ, tā chénggōng de shuàilǐng tuánduì wánchéng le zhège fùzá de rènwu.","translation":"As a project manager, he successfully led the team to accomplish this complex task.","audioPath":"zh-CN-XiaochenNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/029357b4222a7ceea682202d20148796.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "率领",
+  "traditional": "率領",
+  "pinyin": "shuài lǐng",
+  "definitions": [
+    {
+      "partsOfSpeech": "Verb",
+      "meaning": "to lead",
+      "sentences": [
+        {
+          "simplifiedText": "他站出来率领团队。",
+          "traditionalText": "他站出來率領團隊。",
+          "pinyin": "Tā zhàn chūlái shuàilǐng tuánduì.",
+          "translation": "He stepped forward to lead the team.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/c4e532a92304fd86660a5040f7e34a8e.mp3",
+          "voiceName": "zh-CN-XiaoyanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "在这 formidable challange正面挑战之际，我们需要一个有经验的人来率领我们面向未来。",
+          "traditionalText": "在這 formidable challange正面挑戰之際，我們需要一個有經驗的人來率領我們面向未來。",
+          "pinyin": "Zài zhè formidable challange zhèngmiàn tiǎozhàn zhī jì, wǒmen xūyào yīgè yǒu jīngyàn de rén lái shuàilǐng wǒmen miànxiàng wèilái.",
+          "translation": "In the face of this formidable challenge, we need an experienced person to lead us into the future.",
+          "audioPath": "zh-CN-YunxiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/5988e067f9dcf271c5b3b259fb1800a5.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to head",
+      "sentences": [
+        {
+          "simplifiedText": "他率领团队走向成功。",
+          "traditionalText": "他率領團隊走向成功。",
+          "pinyin": "tā shuàilǐng tuánduì zǒu xiàng chénggōng.",
+          "translation": "He led the team to success.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/461cac72e9b46aaab97ef3ae9da7a685.mp3",
+          "voiceName": "zh-CN-XiaozhenNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "作为项目经理，他成功地率领团队完成了这个复杂的任务。",
+          "traditionalText": "作為項目經理，他成功地率領團隊完成了這個複雜的任務。",
+          "pinyin": "zuòwéi xiàngmù jīnglǐ, tā chénggōng de shuàilǐng tuánduì wánchéng le zhège fùzá de rènwu.",
+          "translation": "As a project manager, he successfully led the team to accomplish this complex task.",
+          "audioPath": "zh-CN-XiaochenNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/029357b4222a7ceea682202d20148796.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

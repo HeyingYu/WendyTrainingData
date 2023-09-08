@@ -1,1 +1,63 @@
-{"simplified":"尝","traditional":"嘗","pinyin":"cháng","definitions":[{"partsOfSpeech":"verb","meaning":"to taste; to try (food)","sentences":[{"simplifiedText":"你应该尝尝这个菜。","traditionalText":"你應該嘗嘗這個菜。","pinyin":"Nǐ yīnggāi cháng cháng zhège cài.","translation":"You should try this dish.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/1614c5b9726282f57e86a7efc92e3384.mp3","voiceName":"zh-CN-YunfengNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"她咬了一口甜点，然后抓起叉子继续尝其他的菜。","traditionalText":"她咬了一口甜點，然後抓起叉子繼續嘗其他的菜。","pinyin":"Tā yǎo le yīkǒu tiándiǎn, ránhòu zhuā qǐ chāzi jìxù cháng qítā de cài.","translation":"She took a bite of the dessert, then picked up her fork to continue tasting the other dishes.","audioPath":"zh-CN-XiaomoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/855d604d6ffc8ec1b334e517bd2593cf.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"verb","meaning":"(literary) ever; once","sentences":[{"simplifiedText":"我曾尝试。","traditionalText":"我曾嘗試。","pinyin":"Wǒ céng chángshì.","translation":"I once tried.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/19e3f6b70674fd9f1489de410e3fc63f.mp3","voiceName":"zh-CN-YunfengNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"我曾尝试做一些复杂的事情，但没有成功。","traditionalText":"我曾嘗試做一些複雜的事情，但沒有成功。","pinyin":"Wǒ céng chángshì zuò yīxiē fùzá de shìqíng, dàn méiyǒu chénggōng.","translation":"I once tried to do some complex things, but did not succeed.","audioPath":"zh-CN-YunfengNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d02b5078d3828fe2cdf9876023aec567.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "尝",
+  "traditional": "嘗",
+  "pinyin": "cháng",
+  "definitions": [
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to taste; to try (food)",
+      "sentences": [
+        {
+          "simplifiedText": "你应该尝尝这个菜。",
+          "traditionalText": "你應該嘗嘗這個菜。",
+          "pinyin": "Nǐ yīnggāi cháng cháng zhège cài.",
+          "translation": "You should try this dish.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/1614c5b9726282f57e86a7efc92e3384.mp3",
+          "voiceName": "zh-CN-YunfengNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "她咬了一口甜点，然后抓起叉子继续尝其他的菜。",
+          "traditionalText": "她咬了一口甜點，然後抓起叉子繼續嘗其他的菜。",
+          "pinyin": "Tā yǎo le yīkǒu tiándiǎn, ránhòu zhuā qǐ chāzi jìxù cháng qítā de cài.",
+          "translation": "She took a bite of the dessert, then picked up her fork to continue tasting the other dishes.",
+          "audioPath": "zh-CN-XiaomoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/855d604d6ffc8ec1b334e517bd2593cf.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "(literary) ever; once",
+      "sentences": [
+        {
+          "simplifiedText": "我曾尝试。",
+          "traditionalText": "我曾嘗試。",
+          "pinyin": "Wǒ céng chángshì.",
+          "translation": "I once tried.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/19e3f6b70674fd9f1489de410e3fc63f.mp3",
+          "voiceName": "zh-CN-YunfengNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "我曾尝试做一些复杂的事情，但没有成功。",
+          "traditionalText": "我曾嘗試做一些複雜的事情，但沒有成功。",
+          "pinyin": "Wǒ céng chángshì zuò yīxiē fùzá de shìqíng, dàn méiyǒu chénggōng.",
+          "translation": "I once tried to do some complex things, but did not succeed.",
+          "audioPath": "zh-CN-YunfengNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d02b5078d3828fe2cdf9876023aec567.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

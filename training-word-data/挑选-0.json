@@ -1,1 +1,35 @@
-{"simplified":"挑选","traditional":"挑選","pinyin":"tiāo xuǎn","definitions":[{"partsOfSpeech":"Verb","meaning":"to choose","sentences":[{"simplifiedText":"我挑选了这本书。","traditionalText":"我挑選了這本書。","pinyin":"Wǒ tiāoxuǎnle zhè běn shū.","translation":"I chose this book.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/2788f4ec95ce8663d30b7646e48adb95.mp3","voiceName":"zh-CN-XiaomengNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"在这么多的选项中，我花了很长时间才能挑选出我最喜欢的课程。","traditionalText":"在這麼多的選項中，我花了很長時間才能挑選出我最喜歡的課程。","pinyin":"Zài zhème duō de xuǎnxiàng zhōng, wǒ huāle hěn cháng shíjiān cáinéng tiāoxuǎn chū wǒ zuì xǐhuān de kèchéng.","translation":"Among so many options, it took me a long time to choose my favorite course.","audioPath":"zh-CN-XiaoxiaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/dc60ee8d16c5bfd5dad5788a9b554cde.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "挑选",
+  "traditional": "挑選",
+  "pinyin": "tiāo xuǎn",
+  "definitions": [
+    {
+      "partsOfSpeech": "Verb",
+      "meaning": "to choose",
+      "sentences": [
+        {
+          "simplifiedText": "我挑选了这本书。",
+          "traditionalText": "我挑選了這本書。",
+          "pinyin": "Wǒ tiāoxuǎnle zhè běn shū.",
+          "translation": "I chose this book.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/2788f4ec95ce8663d30b7646e48adb95.mp3",
+          "voiceName": "zh-CN-XiaomengNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "在这么多的选项中，我花了很长时间才能挑选出我最喜欢的课程。",
+          "traditionalText": "在這麼多的選項中，我花了很長時間才能挑選出我最喜歡的課程。",
+          "pinyin": "Zài zhème duō de xuǎnxiàng zhōng, wǒ huāle hěn cháng shíjiān cáinéng tiāoxuǎn chū wǒ zuì xǐhuān de kèchéng.",
+          "translation": "Among so many options, it took me a long time to choose my favorite course.",
+          "audioPath": "zh-CN-XiaoxiaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/dc60ee8d16c5bfd5dad5788a9b554cde.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"simplified":"机器人","traditional":"機器人","pinyin":"jī qì rén","definitions":[{"partsOfSpeech":"noun","meaning":"robot","sentences":[{"simplifiedText":"这是一个机器人。","traditionalText":"這是一個機器人。","pinyin":"zhè shì yīgè jīqìrén.","translation":"This is a robot.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/06414d78e6f062c36562e88148c0f527.mp3","voiceName":"zh-CN-YunxiNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"机器人在工厂工作非常有用，他们可以进行重复性的工作，并在需要的时候进行精确的操作。","traditionalText":"機器人在工廠工作非常有用，他們可以進行重複性的工作，並在需要的時候進行精確的操作。","pinyin":"jīqìrén zài gōngchǎng gōngzuò fēicháng yǒuyòng, tāmen kěyǐ jìnxíng chóngfù xìng de gōngzuò, bìng zài xūyào de shíhou jìnxíng jīngquè de cāozuò.","translation":"Robots are very useful in factories, they can perform repetitive tasks and perform precise operations when needed.","audioPath":"zh-CN-XiaochenNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e3d3ba87ed93eeb6a114c344978a55e6.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "机器人",
+  "traditional": "機器人",
+  "pinyin": "jī qì rén",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "robot",
+      "sentences": [
+        {
+          "simplifiedText": "这是一个机器人。",
+          "traditionalText": "這是一個機器人。",
+          "pinyin": "zhè shì yīgè jīqìrén.",
+          "translation": "This is a robot.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/06414d78e6f062c36562e88148c0f527.mp3",
+          "voiceName": "zh-CN-YunxiNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "机器人在工厂工作非常有用，他们可以进行重复性的工作，并在需要的时候进行精确的操作。",
+          "traditionalText": "機器人在工廠工作非常有用，他們可以進行重複性的工作，並在需要的時候進行精確的操作。",
+          "pinyin": "jīqìrén zài gōngchǎng gōngzuò fēicháng yǒuyòng, tāmen kěyǐ jìnxíng chóngfù xìng de gōngzuò, bìng zài xūyào de shíhou jìnxíng jīngquè de cāozuò.",
+          "translation": "Robots are very useful in factories, they can perform repetitive tasks and perform precise operations when needed.",
+          "audioPath": "zh-CN-XiaochenNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e3d3ba87ed93eeb6a114c344978a55e6.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

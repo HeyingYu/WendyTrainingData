@@ -1,1 +1,63 @@
-{"simplified":"保养","traditional":"保養","pinyin":"bǎo yǎng","definitions":[{"partsOfSpeech":"verb","meaning":"to take good care of (or conserve) one's health","sentences":[{"simplifiedText":"我们应该好好保养身体。","traditionalText":"我們應該好好保養身體。","pinyin":"wǒmen yīnggāi hǎohǎo bǎoyǎng shēntǐ.","translation":"We should take good care of our bodies.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/05ebb2da83e3ba4b38f9d3cfd2ab2707.mp3","voiceName":"zh-CN-XiaomengNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"饮食健康，适当运动，都能有助于我们保养身体。","traditionalText":"飲食健康，適當運動，都能有助於我們保養身體。","pinyin":"yǐnshí jiànkāng, shìdàng yùndòng, dū néng yǒuzhù yú wǒmen bǎoyǎng shēntǐ.","translation":"A healthy diet and appropriate exercise can help us maintain our health.","audioPath":"zh-CN-XiaomoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/5a74e283378b093b25d620d94cf138bd.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"verb","meaning":"to maintain","sentences":[{"simplifiedText":"你需要定期保养你的车。","traditionalText":"你需要定期保養你的車。","pinyin":"nǐ xūyào dìngqī bǎoyǎng nǐ de chē.","translation":"You need to maintain your car regularly.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/ef1562d660b072cb41e541772d719918.mp3","voiceName":"zh-CN-XiaoyanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"保养身体就像保养汽车一样，都需要定期检查和修理。","traditionalText":"保養身體就像保養汽車一樣，都需要定期檢查和修理。","pinyin":"bǎoyǎng shēntǐ jiù xiàng bǎoyǎng qìchē yīyàng, dōu xūyào dìngqī jiǎnchá hé xiūlǐ.","translation":"Maintaining your body is like maintaining a car, both need regular checks and repairs.","audioPath":"zh-CN-XiaoyanNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/6d1b505427061fb822a5d702f9abf002.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "保养",
+  "traditional": "保養",
+  "pinyin": "bǎo yǎng",
+  "definitions": [
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to take good care of (or conserve) one's health",
+      "sentences": [
+        {
+          "simplifiedText": "我们应该好好保养身体。",
+          "traditionalText": "我們應該好好保養身體。",
+          "pinyin": "wǒmen yīnggāi hǎohǎo bǎoyǎng shēntǐ.",
+          "translation": "We should take good care of our bodies.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/05ebb2da83e3ba4b38f9d3cfd2ab2707.mp3",
+          "voiceName": "zh-CN-XiaomengNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "饮食健康，适当运动，都能有助于我们保养身体。",
+          "traditionalText": "飲食健康，適當運動，都能有助於我們保養身體。",
+          "pinyin": "yǐnshí jiànkāng, shìdàng yùndòng, dū néng yǒuzhù yú wǒmen bǎoyǎng shēntǐ.",
+          "translation": "A healthy diet and appropriate exercise can help us maintain our health.",
+          "audioPath": "zh-CN-XiaomoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/5a74e283378b093b25d620d94cf138bd.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to maintain",
+      "sentences": [
+        {
+          "simplifiedText": "你需要定期保养你的车。",
+          "traditionalText": "你需要定期保養你的車。",
+          "pinyin": "nǐ xūyào dìngqī bǎoyǎng nǐ de chē.",
+          "translation": "You need to maintain your car regularly.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/ef1562d660b072cb41e541772d719918.mp3",
+          "voiceName": "zh-CN-XiaoyanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "保养身体就像保养汽车一样，都需要定期检查和修理。",
+          "traditionalText": "保養身體就像保養汽車一樣，都需要定期檢查和修理。",
+          "pinyin": "bǎoyǎng shēntǐ jiù xiàng bǎoyǎng qìchē yīyàng, dōu xūyào dìngqī jiǎnchá hé xiūlǐ.",
+          "translation": "Maintaining your body is like maintaining a car, both need regular checks and repairs.",
+          "audioPath": "zh-CN-XiaoyanNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/6d1b505427061fb822a5d702f9abf002.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

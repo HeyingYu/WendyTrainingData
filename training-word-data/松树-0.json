@@ -1,1 +1,35 @@
-{"simplified":"松树","traditional":"松樹","pinyin":"sōng shù","definitions":[{"partsOfSpeech":"Noun","meaning":"pine","sentences":[{"simplifiedText":"这是一棵松树。","traditionalText":"這是一棵松樹。","pinyin":"Zhè shì yī kē sōngshù.","translation":"This is a pine tree.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/25152664c4d15a840e7a3dcd1fd0454e.mp3","voiceName":"zh-CN-XiaoxuanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"松树的树叶在风中摇曳，释放出淡淡的清香。","traditionalText":"松樹的樹葉在風中搖曳，釋放出淡淡的清香。","pinyin":"Sōngshù de shùyè zài fēng zhōng yáoyè, shìfàng chū dàndàn de qīngxiāng.","translation":"The leaves of the pine tree sway in the wind, releasing a faint fragrance.","audioPath":"zh-CN-XiaozhenNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/6143e5ffb005aff93814852a292401ee.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "松树",
+  "traditional": "松樹",
+  "pinyin": "sōng shù",
+  "definitions": [
+    {
+      "partsOfSpeech": "Noun",
+      "meaning": "pine",
+      "sentences": [
+        {
+          "simplifiedText": "这是一棵松树。",
+          "traditionalText": "這是一棵松樹。",
+          "pinyin": "Zhè shì yī kē sōngshù.",
+          "translation": "This is a pine tree.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/25152664c4d15a840e7a3dcd1fd0454e.mp3",
+          "voiceName": "zh-CN-XiaoxuanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "松树的树叶在风中摇曳，释放出淡淡的清香。",
+          "traditionalText": "松樹的樹葉在風中搖曳，釋放出淡淡的清香。",
+          "pinyin": "Sōngshù de shùyè zài fēng zhōng yáoyè, shìfàng chū dàndàn de qīngxiāng.",
+          "translation": "The leaves of the pine tree sway in the wind, releasing a faint fragrance.",
+          "audioPath": "zh-CN-XiaozhenNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/6143e5ffb005aff93814852a292401ee.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

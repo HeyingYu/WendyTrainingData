@@ -1,1 +1,63 @@
-{"simplified":"中央","traditional":"中央","pinyin":"zhōng yāng","definitions":[{"partsOfSpeech":"noun","meaning":"central","sentences":[{"simplifiedText":"这是中央广场。","traditionalText":"這是中央廣場。","pinyin":"zhè shì zhōng yāng guǎng chǎng.","translation":"This is Central Square.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/f053c5ef75e2ecd1287f49ccaa46e67b.mp3","voiceName":"zh-CN-YunfengNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"北京的中央电视台是中国最大的电视网络。","traditionalText":"北京的中央電視台是中國最大的電視網絡。","pinyin":"běi jīng de zhōng yāng diàn shì tái shì zhōng guó zuì dà de diàn shì wǎng luò.","translation":"The Central Television Station of Beijing is the largest television network in China.","audioPath":"zh-CN-XiaohanNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/f76e1d8595dfdc8bbc7eacc4e33ff39a.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"noun","meaning":"center","sentences":[{"simplifiedText":"这是中央公园。","traditionalText":"這是中央公園。","pinyin":"Zhè shì zhōngyāng gōngyuán.","translation":"This is Central Park.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9efdc43625b959a4c75c6a6479bd805e.mp3","voiceName":"zh-CN-XiaoxiaoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"在我国，中央政府对全国的各级政府有很大的影响。","traditionalText":"在我國，中央政府對全國的各級政府有很大的影響。","pinyin":"Zài wǒ guó, zhōngyāng zhèngfǔ duì quánguó de gèjí zhèngfǔ yǒu hěn dà de yǐngxiǎng.","translation":"In our country, the central government has a great influence on all levels of government nationwide.","audioPath":"zh-CN-XiaoyanNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0fbb3aeb02472f15522d7edd3a2938cb.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "中央",
+  "traditional": "中央",
+  "pinyin": "zhōng yāng",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "central",
+      "sentences": [
+        {
+          "simplifiedText": "这是中央广场。",
+          "traditionalText": "這是中央廣場。",
+          "pinyin": "zhè shì zhōng yāng guǎng chǎng.",
+          "translation": "This is Central Square.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/f053c5ef75e2ecd1287f49ccaa46e67b.mp3",
+          "voiceName": "zh-CN-YunfengNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "北京的中央电视台是中国最大的电视网络。",
+          "traditionalText": "北京的中央電視台是中國最大的電視網絡。",
+          "pinyin": "běi jīng de zhōng yāng diàn shì tái shì zhōng guó zuì dà de diàn shì wǎng luò.",
+          "translation": "The Central Television Station of Beijing is the largest television network in China.",
+          "audioPath": "zh-CN-XiaohanNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/f76e1d8595dfdc8bbc7eacc4e33ff39a.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "center",
+      "sentences": [
+        {
+          "simplifiedText": "这是中央公园。",
+          "traditionalText": "這是中央公園。",
+          "pinyin": "Zhè shì zhōngyāng gōngyuán.",
+          "translation": "This is Central Park.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9efdc43625b959a4c75c6a6479bd805e.mp3",
+          "voiceName": "zh-CN-XiaoxiaoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "在我国，中央政府对全国的各级政府有很大的影响。",
+          "traditionalText": "在我國，中央政府對全國的各級政府有很大的影響。",
+          "pinyin": "Zài wǒ guó, zhōngyāng zhèngfǔ duì quánguó de gèjí zhèngfǔ yǒu hěn dà de yǐngxiǎng.",
+          "translation": "In our country, the central government has a great influence on all levels of government nationwide.",
+          "audioPath": "zh-CN-XiaoyanNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0fbb3aeb02472f15522d7edd3a2938cb.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

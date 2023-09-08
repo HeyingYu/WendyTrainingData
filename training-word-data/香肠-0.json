@@ -1,1 +1,35 @@
-{"simplified":"香肠","traditional":"香腸","pinyin":"xiāng cháng","definitions":[{"partsOfSpeech":"名词","meaning":"sausage","sentences":[{"simplifiedText":"我喜欢吃香肠。","traditionalText":"我喜歡吃香腸。","pinyin":"wǒ xǐhuān chī xiāngcháng.","translation":"I like to eat sausage.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/61c51d15c60f51962f343e657b22381f.mp3","voiceName":"zh-CN-XiaoxiaoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"早餐我通常会吃面包和香肠。","traditionalText":"早餐我通常會吃麵包和香腸。","pinyin":"zǎocān wǒ tōngcháng huì chī miànbāo hé xiāngcháng.","translation":"I usually eat bread and sausage for breakfast.","audioPath":"zh-CN-XiaoruiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/462984753ef750b07b17765babefc50a.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "香肠",
+  "traditional": "香腸",
+  "pinyin": "xiāng cháng",
+  "definitions": [
+    {
+      "partsOfSpeech": "名词",
+      "meaning": "sausage",
+      "sentences": [
+        {
+          "simplifiedText": "我喜欢吃香肠。",
+          "traditionalText": "我喜歡吃香腸。",
+          "pinyin": "wǒ xǐhuān chī xiāngcháng.",
+          "translation": "I like to eat sausage.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/61c51d15c60f51962f343e657b22381f.mp3",
+          "voiceName": "zh-CN-XiaoxiaoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "早餐我通常会吃面包和香肠。",
+          "traditionalText": "早餐我通常會吃麵包和香腸。",
+          "pinyin": "zǎocān wǒ tōngcháng huì chī miànbāo hé xiāngcháng.",
+          "translation": "I usually eat bread and sausage for breakfast.",
+          "audioPath": "zh-CN-XiaoruiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/462984753ef750b07b17765babefc50a.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

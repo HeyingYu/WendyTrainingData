@@ -1,1 +1,147 @@
-{"simplified":"登","traditional":"登","pinyin":"dēng","definitions":[{"partsOfSpeech":"Verb","meaning":"to scale (a height)","sentences":[{"simplifiedText":"他登上了山顶。","traditionalText":"他登上了山頂。","pinyin":"Tā dēng shàngle shāndǐng.","translation":"He climbed to the top of the mountain.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e4dbd9a0b2d879152c745b57eb6a0a89.mp3","voiceName":"zh-CN-YunyangNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"经过长时间的攀爬，他终于成功登上了这座高峻的山峰。","traditionalText":"經過長時間的攀爬，他終於成功登上了這座高峻的山峰。","pinyin":"Jīngguò chánɡ shíjiān de pānpá, tā zhōnɡyú chénɡgōnɡ dēnɡ shànɡle zhè zuò ɡāo jùn de shānfēnɡ.","translation":"After a long climb, he finally succeeded in scaling this high and steep mountain peak.","audioPath":"zh-CN-YunhaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9eb43f60be17db6db59c6920455b92ca.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"Verb","meaning":"to mount","sentences":[{"simplifiedText":"请你登山。","traditionalText":"請你登山。","pinyin":"Qǐng nǐ dēngshān.","translation":"Please go mountain climbing.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/55fbbec5d75ed1b63c500589d338ee6e.mp3","voiceName":"zh-CN-XiaomoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"如果你不怕高的话，我建议你试试登这座山，景色非常美丽。","traditionalText":"如果你不怕高的話，我建議你試試登這座山，景色非常美麗。","pinyin":"Rúguǒ nǐ bùpà gāo dehuà, wǒ jiànyì nǐ shì shì dēng zhè zuò shān, jǐngsè fēicháng měilì.","translation":"If you are not afraid of heights, I suggest you try to climb this mountain, the scenery is very beautiful.","audioPath":"zh-CN-YunfengNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/03cad61f8f7bc86b791fdf2dba362923.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"verb","meaning":"to enter (e.g. in a register)","sentences":[{"simplifiedText":"他登上了山。","traditionalText":"他登上了山。","pinyin":"Tā dēng shàngle shān.","translation":"He climbed up the mountain.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/3fa63291abda7965c4bfacfb19050a05.mp3","voiceName":"zh-CN-XiaohanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"在登记表上，他成功地登上了自己的名字。","traditionalText":"在登記表上，他成功地登上了自己的名字。","pinyin":"Zài dēngjì biǎo shàng, tā chénggōng de dēng shàngle zìjǐ de míngzì.","translation":"In the register, he successfully entered his name.","audioPath":"zh-CN-YunhaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9b81bd2bfcdad5c4fc5fe58ddcdcd85d.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"verb","meaning":"to step or tread on","sentences":[{"simplifiedText":"他登上山顶.","traditionalText":"他登上山頂.","pinyin":"Tā dēng shàng shāndǐng.","translation":"He stepped on the top of the mountain.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/4dafbd6ee9d7d5874ce1b8b2f33472e7.mp3","voiceName":"zh-CN-YunyeNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"经过艰辛的努力，他们终于登上了赫尔曼山的峰顶.","traditionalText":"經過艱辛的努力，他們終於登上了赫爾曼山的峰頂.","pinyin":"Jīngguò jiānxīn de nǔlì, tāmen zhōngyú dēngshàngle Hè'ěrmàn shān de fēngdǐng.","translation":"After strenuous efforts, they finally stepped on the summit of Mount Herman.","audioPath":"zh-CN-XiaoxiaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/32d7fd43987760049954f5fbae393417.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"verb","meaning":"to be gathered and taken to the threshing ground (old)","sentences":[{"simplifiedText":"他们正在把麦子登到打谷场。","traditionalText":"他們正在把麥子登到打谷場。","pinyin":"Tāmen zhèngzài bǎ màizi dēng dào dǎ gǔ chǎng.","translation":"They are taking the wheat to the threshing ground.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9596c30d404ecf87b9e0e8587297324e.mp3","voiceName":"zh-CN-YunyangNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"农民们正在阳光下忙碌着，将新麦收入，然后登到打谷场做进一步的处理。","traditionalText":"農民們正在陽光下忙碌著，將新麥收入，然後登到打谷場做進一步的處理。","pinyin":"Nóngmín men zhèngzài yángguāng xià mánglù zhe, jiāng xīn mài shōurù, ránhòu dēng dào dǎ gǔ chǎng zuò jìnyībù de chǔlǐ.","translation":"Farmers are busying under the sun, reaping the new wheat, and then taking it to the threshing ground for further processing.","audioPath":"zh-CN-XiaoxuanNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/afb4e78f09e1eabdaae1c5dbc82c256c.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "登",
+  "traditional": "登",
+  "pinyin": "dēng",
+  "definitions": [
+    {
+      "partsOfSpeech": "Verb",
+      "meaning": "to scale (a height)",
+      "sentences": [
+        {
+          "simplifiedText": "他登上了山顶。",
+          "traditionalText": "他登上了山頂。",
+          "pinyin": "Tā dēng shàngle shāndǐng.",
+          "translation": "He climbed to the top of the mountain.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e4dbd9a0b2d879152c745b57eb6a0a89.mp3",
+          "voiceName": "zh-CN-YunyangNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "经过长时间的攀爬，他终于成功登上了这座高峻的山峰。",
+          "traditionalText": "經過長時間的攀爬，他終於成功登上了這座高峻的山峰。",
+          "pinyin": "Jīngguò chánɡ shíjiān de pānpá, tā zhōnɡyú chénɡgōnɡ dēnɡ shànɡle zhè zuò ɡāo jùn de shānfēnɡ.",
+          "translation": "After a long climb, he finally succeeded in scaling this high and steep mountain peak.",
+          "audioPath": "zh-CN-YunhaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9eb43f60be17db6db59c6920455b92ca.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "Verb",
+      "meaning": "to mount",
+      "sentences": [
+        {
+          "simplifiedText": "请你登山。",
+          "traditionalText": "請你登山。",
+          "pinyin": "Qǐng nǐ dēngshān.",
+          "translation": "Please go mountain climbing.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/55fbbec5d75ed1b63c500589d338ee6e.mp3",
+          "voiceName": "zh-CN-XiaomoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "如果你不怕高的话，我建议你试试登这座山，景色非常美丽。",
+          "traditionalText": "如果你不怕高的話，我建議你試試登這座山，景色非常美麗。",
+          "pinyin": "Rúguǒ nǐ bùpà gāo dehuà, wǒ jiànyì nǐ shì shì dēng zhè zuò shān, jǐngsè fēicháng měilì.",
+          "translation": "If you are not afraid of heights, I suggest you try to climb this mountain, the scenery is very beautiful.",
+          "audioPath": "zh-CN-YunfengNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/03cad61f8f7bc86b791fdf2dba362923.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to enter (e.g. in a register)",
+      "sentences": [
+        {
+          "simplifiedText": "他登上了山。",
+          "traditionalText": "他登上了山。",
+          "pinyin": "Tā dēng shàngle shān.",
+          "translation": "He climbed up the mountain.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/3fa63291abda7965c4bfacfb19050a05.mp3",
+          "voiceName": "zh-CN-XiaohanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "在登记表上，他成功地登上了自己的名字。",
+          "traditionalText": "在登記表上，他成功地登上了自己的名字。",
+          "pinyin": "Zài dēngjì biǎo shàng, tā chénggōng de dēng shàngle zìjǐ de míngzì.",
+          "translation": "In the register, he successfully entered his name.",
+          "audioPath": "zh-CN-YunhaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9b81bd2bfcdad5c4fc5fe58ddcdcd85d.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to step or tread on",
+      "sentences": [
+        {
+          "simplifiedText": "他登上山顶.",
+          "traditionalText": "他登上山頂.",
+          "pinyin": "Tā dēng shàng shāndǐng.",
+          "translation": "He stepped on the top of the mountain.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/4dafbd6ee9d7d5874ce1b8b2f33472e7.mp3",
+          "voiceName": "zh-CN-YunyeNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "经过艰辛的努力，他们终于登上了赫尔曼山的峰顶.",
+          "traditionalText": "經過艱辛的努力，他們終於登上了赫爾曼山的峰頂.",
+          "pinyin": "Jīngguò jiānxīn de nǔlì, tāmen zhōngyú dēngshàngle Hè'ěrmàn shān de fēngdǐng.",
+          "translation": "After strenuous efforts, they finally stepped on the summit of Mount Herman.",
+          "audioPath": "zh-CN-XiaoxiaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/32d7fd43987760049954f5fbae393417.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to be gathered and taken to the threshing ground (old)",
+      "sentences": [
+        {
+          "simplifiedText": "他们正在把麦子登到打谷场。",
+          "traditionalText": "他們正在把麥子登到打谷場。",
+          "pinyin": "Tāmen zhèngzài bǎ màizi dēng dào dǎ gǔ chǎng.",
+          "translation": "They are taking the wheat to the threshing ground.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9596c30d404ecf87b9e0e8587297324e.mp3",
+          "voiceName": "zh-CN-YunyangNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "农民们正在阳光下忙碌着，将新麦收入，然后登到打谷场做进一步的处理。",
+          "traditionalText": "農民們正在陽光下忙碌著，將新麥收入，然後登到打谷場做進一步的處理。",
+          "pinyin": "Nóngmín men zhèngzài yángguāng xià mánglù zhe, jiāng xīn mài shōurù, ránhòu dēng dào dǎ gǔ chǎng zuò jìnyībù de chǔlǐ.",
+          "translation": "Farmers are busying under the sun, reaping the new wheat, and then taking it to the threshing ground for further processing.",
+          "audioPath": "zh-CN-XiaoxuanNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/afb4e78f09e1eabdaae1c5dbc82c256c.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

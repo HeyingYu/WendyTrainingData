@@ -1,1 +1,91 @@
-{"simplified":"招呼","traditional":"招呼","pinyin":"zhāo hu","definitions":[{"partsOfSpeech":"verb","meaning":"to call out to","sentences":[{"simplifiedText":"他招呼我过来。","traditionalText":"他招呼我過來。","pinyin":"Tā zhāohū wǒ guòlái.","translation":"He called me over.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d828a23912051933ad3da7e6364d375b.mp3","voiceName":"zh-CN-XiaoruiNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"在公园里，我听到一个熟悉的声音在招呼我。","traditionalText":"在公園裡，我聽到一個熟悉的聲音在招呼我。","pinyin":"Zài gōngyuán lǐ, wǒ tīngdào yīgè shúxī de shēngyīn zài zhāohū wǒ.","translation":"In the park, I heard a familiar voice calling out to me.","audioPath":"zh-CN-XiaomengNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/480eb166f194b166229e8a779ccaa55a.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"verb","meaning":"to say hello to","sentences":[{"simplifiedText":"我向他招呼。","traditionalText":"我向他招呼。","pinyin":"Wǒ xiàng tā zhāohū.","translation":"I said hello to him.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/095da346800554e6151e789e50338708.mp3","voiceName":"zh-CN-YunfengNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"当她亲切地向大家招呼，全场立刻变得热闹起来。","traditionalText":"當她親切地向大家招呼，全場立刻變得熱鬧起來。","pinyin":"Dāng tā qīnqiè de xiàng dàjiā zhāohū, quánchǎng lìkè biàn de rènào qǐlái.","translation":"When she warmly greeted everyone, the whole place instantly became lively.","audioPath":"zh-CN-XiaohanNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/7b81a612308f25da4cd927d58d188ab1.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"Verb","meaning":"to take care of","sentences":[{"simplifiedText":"你要好好招呼自己。","traditionalText":"你要好好招呼自己。","pinyin":"nǐ yào hǎo hǎo zhāo hū zì jǐ.","translation":"You should take good care of yourself.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/cd32570fbddd6721de0eed39865eb60b.mp3","voiceName":"zh-CN-XiaomoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"父母不在家，作为哥哥的你应该招呼好妹妹。","traditionalText":"父母不在家，作為哥哥的你應該招呼好妹妹。","pinyin":"fù mǔ bú zài jiā, zuò wéi gē gē de nǐ yīng gāi zhāo hū hǎo mèi mèi.","translation":"When your parents are not at home, you, as a brother, should take good care of your sister.","audioPath":"zh-CN-YunyangNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e333047985115fefe6bdc0d658e58496.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "招呼",
+  "traditional": "招呼",
+  "pinyin": "zhāo hu",
+  "definitions": [
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to call out to",
+      "sentences": [
+        {
+          "simplifiedText": "他招呼我过来。",
+          "traditionalText": "他招呼我過來。",
+          "pinyin": "Tā zhāohū wǒ guòlái.",
+          "translation": "He called me over.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d828a23912051933ad3da7e6364d375b.mp3",
+          "voiceName": "zh-CN-XiaoruiNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "在公园里，我听到一个熟悉的声音在招呼我。",
+          "traditionalText": "在公園裡，我聽到一個熟悉的聲音在招呼我。",
+          "pinyin": "Zài gōngyuán lǐ, wǒ tīngdào yīgè shúxī de shēngyīn zài zhāohū wǒ.",
+          "translation": "In the park, I heard a familiar voice calling out to me.",
+          "audioPath": "zh-CN-XiaomengNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/480eb166f194b166229e8a779ccaa55a.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to say hello to",
+      "sentences": [
+        {
+          "simplifiedText": "我向他招呼。",
+          "traditionalText": "我向他招呼。",
+          "pinyin": "Wǒ xiàng tā zhāohū.",
+          "translation": "I said hello to him.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/095da346800554e6151e789e50338708.mp3",
+          "voiceName": "zh-CN-YunfengNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "当她亲切地向大家招呼，全场立刻变得热闹起来。",
+          "traditionalText": "當她親切地向大家招呼，全場立刻變得熱鬧起來。",
+          "pinyin": "Dāng tā qīnqiè de xiàng dàjiā zhāohū, quánchǎng lìkè biàn de rènào qǐlái.",
+          "translation": "When she warmly greeted everyone, the whole place instantly became lively.",
+          "audioPath": "zh-CN-XiaohanNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/7b81a612308f25da4cd927d58d188ab1.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "Verb",
+      "meaning": "to take care of",
+      "sentences": [
+        {
+          "simplifiedText": "你要好好招呼自己。",
+          "traditionalText": "你要好好招呼自己。",
+          "pinyin": "nǐ yào hǎo hǎo zhāo hū zì jǐ.",
+          "translation": "You should take good care of yourself.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/cd32570fbddd6721de0eed39865eb60b.mp3",
+          "voiceName": "zh-CN-XiaomoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "父母不在家，作为哥哥的你应该招呼好妹妹。",
+          "traditionalText": "父母不在家，作為哥哥的你應該招呼好妹妹。",
+          "pinyin": "fù mǔ bú zài jiā, zuò wéi gē gē de nǐ yīng gāi zhāo hū hǎo mèi mèi.",
+          "translation": "When your parents are not at home, you, as a brother, should take good care of your sister.",
+          "audioPath": "zh-CN-YunyangNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e333047985115fefe6bdc0d658e58496.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

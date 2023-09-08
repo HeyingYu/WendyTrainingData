@@ -1,1 +1,35 @@
-{"simplified":"铃","traditional":"鈴","pinyin":"líng","definitions":[{"partsOfSpeech":"noun","meaning":"(small) bell","sentences":[{"simplifiedText":"这是我的铃。","traditionalText":"這是我的鈴。","pinyin":"zhè shì wǒ de líng.","translation":"This is my bell.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/db2852d66f2a7f0f9e9653155a7cd034.mp3","voiceName":"zh-CN-XiaozhenNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"我用我的铃唤醒了我昏昏欲睡的朋友。","traditionalText":"我用我的鈴喚醒了我昏昏欲睡的朋友。","pinyin":"wǒ yòng wǒ de líng huàn xǐng le wǒ hūn hūn yù shuì de péng yǒu.","translation":"I used my bell to wake up my drowsy friend.","audioPath":"zh-CN-XiaoxiaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b1104e6ea009decf858968b478e45f5a.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "铃",
+  "traditional": "鈴",
+  "pinyin": "líng",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "(small) bell",
+      "sentences": [
+        {
+          "simplifiedText": "这是我的铃。",
+          "traditionalText": "這是我的鈴。",
+          "pinyin": "zhè shì wǒ de líng.",
+          "translation": "This is my bell.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/db2852d66f2a7f0f9e9653155a7cd034.mp3",
+          "voiceName": "zh-CN-XiaozhenNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "我用我的铃唤醒了我昏昏欲睡的朋友。",
+          "traditionalText": "我用我的鈴喚醒了我昏昏欲睡的朋友。",
+          "pinyin": "wǒ yòng wǒ de líng huàn xǐng le wǒ hūn hūn yù shuì de péng yǒu.",
+          "translation": "I used my bell to wake up my drowsy friend.",
+          "audioPath": "zh-CN-XiaoxiaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b1104e6ea009decf858968b478e45f5a.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

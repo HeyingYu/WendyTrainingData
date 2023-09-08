@@ -1,1 +1,35 @@
-{"simplified":"期末","traditional":"期末","pinyin":"qī mò","definitions":[{"partsOfSpeech":"noun","meaning":"end of term","sentences":[{"simplifiedText":"弟弟的期末考试马上就要到了。","traditionalText":"弟弟的期末考試馬上就要到了。","pinyin":"Dìdì de qímò kǎoshì mǎshàng jiùyào dàole.","translation":"My younger brother's end of term exams are coming soon.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e7dce882f6eb32305d20cfc4fe49bbbe.mp3","voiceName":"zh-CN-YunyeNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"随着期末的来临，图书馆里的学生显然比平时多了很多。","traditionalText":"隨著期末的來臨，圖書館裡的學生顯然比平時多了很多。","pinyin":"Suízhe qímò de láilín, túshūguǎn lǐ de xuéshēng xiǎnrán bǐ píngshí duōle hěnduō.","translation":"With the approach of the end of term, there are obviously a lot more students in the library than usual.","audioPath":"zh-CN-XiaoxiaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/03567015e50e9f2ae5e9d5bf257f4150.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "期末",
+  "traditional": "期末",
+  "pinyin": "qī mò",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "end of term",
+      "sentences": [
+        {
+          "simplifiedText": "弟弟的期末考试马上就要到了。",
+          "traditionalText": "弟弟的期末考試馬上就要到了。",
+          "pinyin": "Dìdì de qímò kǎoshì mǎshàng jiùyào dàole.",
+          "translation": "My younger brother's end of term exams are coming soon.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e7dce882f6eb32305d20cfc4fe49bbbe.mp3",
+          "voiceName": "zh-CN-YunyeNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "随着期末的来临，图书馆里的学生显然比平时多了很多。",
+          "traditionalText": "隨著期末的來臨，圖書館裡的學生顯然比平時多了很多。",
+          "pinyin": "Suízhe qímò de láilín, túshūguǎn lǐ de xuéshēng xiǎnrán bǐ píngshí duōle hěnduō.",
+          "translation": "With the approach of the end of term, there are obviously a lot more students in the library than usual.",
+          "audioPath": "zh-CN-XiaoxiaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/03567015e50e9f2ae5e9d5bf257f4150.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

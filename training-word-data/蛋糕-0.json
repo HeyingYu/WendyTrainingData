@@ -1,1 +1,35 @@
-{"simplified":"蛋糕","traditional":"蛋糕","pinyin":"dàn gāo","definitions":[{"partsOfSpeech":"noun","meaning":"cake","sentences":[{"simplifiedText":"我喜欢吃蛋糕。","traditionalText":"我喜歡吃蛋糕。","pinyin":"Wǒ xǐhuān chī dàngāo.","translation":"I like to eat cake.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/504ca8f6a66bf016ad145e94a1957760.mp3","voiceName":"zh-CN-XiaoxiaoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"我在婚礼上用了一块巧克力蛋糕来庆祝。","traditionalText":"我在婚禮上用了一塊巧克力蛋糕來慶祝。","pinyin":"Wǒ zài hūnlǐ shàng yòngle yī kuài qiǎokèlì dàngāo lái qìngzhù.","translation":"I used a piece of chocolate cake to celebrate at the wedding.","audioPath":"zh-CN-XiaoruiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/969d068489c2edaea0a62e714f8dadc7.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "蛋糕",
+  "traditional": "蛋糕",
+  "pinyin": "dàn gāo",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "cake",
+      "sentences": [
+        {
+          "simplifiedText": "我喜欢吃蛋糕。",
+          "traditionalText": "我喜歡吃蛋糕。",
+          "pinyin": "Wǒ xǐhuān chī dàngāo.",
+          "translation": "I like to eat cake.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/504ca8f6a66bf016ad145e94a1957760.mp3",
+          "voiceName": "zh-CN-XiaoxiaoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "我在婚礼上用了一块巧克力蛋糕来庆祝。",
+          "traditionalText": "我在婚禮上用了一塊巧克力蛋糕來慶祝。",
+          "pinyin": "Wǒ zài hūnlǐ shàng yòngle yī kuài qiǎokèlì dàngāo lái qìngzhù.",
+          "translation": "I used a piece of chocolate cake to celebrate at the wedding.",
+          "audioPath": "zh-CN-XiaoruiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/969d068489c2edaea0a62e714f8dadc7.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

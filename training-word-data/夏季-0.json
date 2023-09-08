@@ -1,1 +1,35 @@
-{"simplified":"夏季","traditional":"夏季","pinyin":"xià jì","definitions":[{"partsOfSpeech":"noun","meaning":"summer","sentences":[{"simplifiedText":"我喜欢夏季的天气。","traditionalText":"我喜歡夏季的天氣。","pinyin":"Wǒ xǐhuān xiàjì de tiānqì.","translation":"I like summer weather.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/2093de49bc520f7724d39895d566c986.mp3","voiceName":"zh-CN-XiaozhenNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"每年夏季，我们一家人都会去海边度假。","traditionalText":"每年夏季，我們一家人都會去海邊度假。","pinyin":"Měi nián xiàjì, wǒmen yījiā rén dū huì qù hǎibiān dùjià.","translation":"Every summer, our family goes to the seaside for a vacation.","audioPath":"zh-CN-XiaozhenNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/8101c918f538dd5bc33df8f5ebaaf851.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "夏季",
+  "traditional": "夏季",
+  "pinyin": "xià jì",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "summer",
+      "sentences": [
+        {
+          "simplifiedText": "我喜欢夏季的天气。",
+          "traditionalText": "我喜歡夏季的天氣。",
+          "pinyin": "Wǒ xǐhuān xiàjì de tiānqì.",
+          "translation": "I like summer weather.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/2093de49bc520f7724d39895d566c986.mp3",
+          "voiceName": "zh-CN-XiaozhenNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "每年夏季，我们一家人都会去海边度假。",
+          "traditionalText": "每年夏季，我們一家人都會去海邊度假。",
+          "pinyin": "Měi nián xiàjì, wǒmen yījiā rén dū huì qù hǎibiān dùjià.",
+          "translation": "Every summer, our family goes to the seaside for a vacation.",
+          "audioPath": "zh-CN-XiaozhenNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/8101c918f538dd5bc33df8f5ebaaf851.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

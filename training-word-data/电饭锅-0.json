@@ -1,1 +1,35 @@
-{"simplified":"电饭锅","traditional":"電飯鍋","pinyin":"diàn fàn guō","definitions":[{"partsOfSpeech":"noun","meaning":"electric rice cooker","sentences":[{"simplifiedText":"我需要用电饭锅做饭。","traditionalText":"我需要用電飯鍋做飯。","pinyin":"Wǒ xūyào yòng diànfànguō zuò fàn.","translation":"I need to use the electric rice cooker to cook.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/4e8ce0ae3865afa7a6f794f6a443469c.mp3","voiceName":"zh-CN-XiaoyanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"我妈妈告诉我，电饭锅比传统的炒菜方法更省时省力。","traditionalText":"我媽媽告訴我，電飯鍋比傳統的炒菜方法更省時省力。","pinyin":"Wǒ māmā gàosù wǒ, diànfànguō bǐ chuántǒng de chǎocài fāngfǎ gèng shěng shí shěng lì.","translation":"My mom told me that using an electric rice cooker is more time-saving and convenient than the traditional cooking method.","audioPath":"zh-CN-YunyeNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d690351563cf0aa3a0e7ee7aa236f904.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "电饭锅",
+  "traditional": "電飯鍋",
+  "pinyin": "diàn fàn guō",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "electric rice cooker",
+      "sentences": [
+        {
+          "simplifiedText": "我需要用电饭锅做饭。",
+          "traditionalText": "我需要用電飯鍋做飯。",
+          "pinyin": "Wǒ xūyào yòng diànfànguō zuò fàn.",
+          "translation": "I need to use the electric rice cooker to cook.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/4e8ce0ae3865afa7a6f794f6a443469c.mp3",
+          "voiceName": "zh-CN-XiaoyanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "我妈妈告诉我，电饭锅比传统的炒菜方法更省时省力。",
+          "traditionalText": "我媽媽告訴我，電飯鍋比傳統的炒菜方法更省時省力。",
+          "pinyin": "Wǒ māmā gàosù wǒ, diànfànguō bǐ chuántǒng de chǎocài fāngfǎ gèng shěng shí shěng lì.",
+          "translation": "My mom told me that using an electric rice cooker is more time-saving and convenient than the traditional cooking method.",
+          "audioPath": "zh-CN-YunyeNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d690351563cf0aa3a0e7ee7aa236f904.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

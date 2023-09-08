@@ -1,1 +1,35 @@
-{"simplified":"涨价","traditional":"漲價","pinyin":"zhǎng jià","definitions":[{"partsOfSpeech":"verb","meaning":"to appreciate (in value)","sentences":[{"simplifiedText":"房价涨价了。","traditionalText":"房價涨價了。","pinyin":"fáng jià zhǎng jià le.","translation":"The house price has appreciated.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/547584a6342fb70c660462aadfd90901.mp3","voiceName":"zh-CN-XiaoxiaoNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"由于供求不平衡，这块地的价格大幅涨价。","traditionalText":"由於供求不平衡，這塊地的價格大幅涨價。","pinyin":"Yóuyú gōngqiú bù píng héng, zhè kuài dì de jiàgé dàfú zhǎng jià.","translation":"Due to the imbalance of supply and demand, the price of this piece of land has sharply appreciated.","audioPath":"zh-CN-YunxiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/811cf1bc4eb23139dc2c2e9fe7b00a79.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "涨价",
+  "traditional": "漲價",
+  "pinyin": "zhǎng jià",
+  "definitions": [
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to appreciate (in value)",
+      "sentences": [
+        {
+          "simplifiedText": "房价涨价了。",
+          "traditionalText": "房價涨價了。",
+          "pinyin": "fáng jià zhǎng jià le.",
+          "translation": "The house price has appreciated.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/547584a6342fb70c660462aadfd90901.mp3",
+          "voiceName": "zh-CN-XiaoxiaoNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "由于供求不平衡，这块地的价格大幅涨价。",
+          "traditionalText": "由於供求不平衡，這塊地的價格大幅涨價。",
+          "pinyin": "Yóuyú gōngqiú bù píng héng, zhè kuài dì de jiàgé dàfú zhǎng jià.",
+          "translation": "Due to the imbalance of supply and demand, the price of this piece of land has sharply appreciated.",
+          "audioPath": "zh-CN-YunxiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/811cf1bc4eb23139dc2c2e9fe7b00a79.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

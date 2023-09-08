@@ -1,1 +1,259 @@
-{"simplified":"打","traditional":"打","pinyin":"dǎ","definitions":[{"partsOfSpeech":"Verb","meaning":"to beat","sentences":[{"simplifiedText":"他被打了。","traditionalText":"他被打了。","pinyin":"Tā bèi dǎ le.","translation":"He was beaten.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/1fd414fb81b53295d5f64b5676fe5a13.mp3","voiceName":"zh-CN-XiaoxuanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"他因为偷东西而被打了。","traditionalText":"他因為偷東西而被打了。","pinyin":"Tā yīnwèi tōu dōngxī ér bèi dǎ le.","translation":"He was beaten because he stole something.","audioPath":"zh-CN-XiaoxiaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/83f1de79396a4c2491241e7c97df00b9.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"verb","meaning":"to hit","sentences":[{"simplifiedText":"他打了我一拳。","traditionalText":"他打了我一拳。","pinyin":"Tā dǎle wǒ yī quán.","translation":"He hit me with a fist.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/194c78b83cee464a3cf70dbdfd40f1f7.mp3","voiceName":"zh-CN-XiaoxuanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"实际上，他打了我一拳，让我直接倒在了地上。","traditionalText":"實際上，他打了我一拳，讓我直接倒在了地上。","pinyin":"Shíjì shàng, tā dǎle wǒ yī quán, ràng wǒ zhíjiē dǎo zàile dì shàng.","translation":"In fact, he hit me with a punch, which made me fall directly to the ground.","audioPath":"zh-CN-XiaoruiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0045073a81f2c290b1d331ec263c25b2.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"verb","meaning":"to type","sentences":[{"simplifiedText":"我正在打字。","traditionalText":"我正在打字。","pinyin":"Wǒ zhèngzài dǎzì.","translation":"I am typing","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/86ba3ed258bff0df25e81aa173ab6b86.mp3","voiceName":"zh-CN-XiaoruiNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"每天上班的时候，我都需要在电脑上打字。","traditionalText":"每天上班的時候，我都需要在電腦上打字。","pinyin":"Měitiān shàngbān de shíhou, wǒ dōu xūyào zài diànnǎo shàng dǎzì.","translation":"Every day at work, I need to type on a computer.","audioPath":"zh-CN-XiaoxiaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/06f8e6d10767bf6e6bf595ca0e279b1d.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"verb","meaning":"to build","sentences":[{"simplifiedText":"他在打篮球。","traditionalText":"他在打籃球。","pinyin":"Tā zài dǎ lánqiú.","translation":"He is playing basketball.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0351e22f50fc976eb488af66b38676b9.mp3","voiceName":"zh-CN-YunjianNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"为了备战即将来临的篮球比赛，他甚至在下大雨的天也会去打篮球。","traditionalText":"為了備戰即將來臨的籃球比賽，他甚至在下大雨的天也會去打籃球。","pinyin":"Wèile bèizhàn jíjiāng láilín de lánqiú bǐsài, tā shènzhì zài xià dàyǔ de tiān yě huì qù dǎ lánqiú.","translation":"In preparation for the upcoming basketball game, he will even go to play basketball when it is raining heavily.","audioPath":"zh-CN-XiaoxiaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e84b188d842de27c36d4a29b48a0bb18.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"verb","meaning":"to fetch","sentences":[{"simplifiedText":"你能去打水吗？","traditionalText":"你能去打水嗎？","pinyin":"nǐ néng qù dǎ shuǐ ma?","translation":"Can you go fetch water?","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/c3e59c4a128c5295db8500da7dd09c4f.mp3","voiceName":"zh-CN-XiaoyanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"他的工作是从井里打水供给全村。","traditionalText":"他的工作是從井裡打水供給全村。","pinyin":"tā de gōngzuò shì cóng jǐng lǐ dǎ shuǐ gōng gěi quán cūn.","translation":"His job is to fetch water from the well for the whole village.","audioPath":"zh-CN-YunyangNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a9ff6527a4a97678eedf127bd464a8f1.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"verb","meaning":"to tie up","sentences":[{"simplifiedText":"他在打鞋带。","traditionalText":"他在打鞋帶。","pinyin":"Tā zài dǎ xié dài.","translation":"He is tying his shoelaces.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a82a9d70bad8cedf2d98b0b51264b5db.mp3","voiceName":"zh-CN-XiaoruiNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"警察正在打起该嫌疑人的手呢。","traditionalText":"警察正在打起該嫌疑人的手呢。","pinyin":"Jǐngchá zhèngzài dǎ qǐ gāi xiányí rén de shǒu ne.","translation":"The police are in the process of handcuffing the suspect.","audioPath":"zh-CN-XiaoyanNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/ccaffe79f2c89dbd1b16d5272ee658e9.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"verb","meaning":"to shoot","sentences":[{"simplifiedText":"他打篮球打得很好。","traditionalText":"他打籃球打得很好。","pinyin":"Tā dǎ lánqiú dǎ dé hěn hǎo.","translation":"He plays basketball very well.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/74acf6973ba8cc0e967f75cc49dddf15.mp3","voiceName":"zh-CN-YunjianNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"虽然他平时很少练习，但他一打篮球就能显示出他的天赋。","traditionalText":"雖然他平時很少練習，但他一打籃球就能顯示出他的天賦。","pinyin":"Suīrán tā píngshí hěn shǎo liànxí, dàn tā yīdǎ lánqiú jiù néng xiǎnshì chū tā de tiānfù.","translation":"Although he seldom practices, he can show his talent as soon as he plays basketball.","audioPath":"zh-CN-XiaozhenNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/df5375fa3e92fd2bf530ff665f46c24e.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"Verb","meaning":"to play (a game)","sentences":[{"simplifiedText":"我们去打篮球。","traditionalText":"我們去打籃球。","pinyin":"Wǒmen qù dǎ lánqiú.","translation":"Let's go play basketball.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d47db894c8c56c5aef5b5cc0ee7bb2bb.mp3","voiceName":"zh-CN-YunxiNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"尽管下了大雨，我们还是决定去打篮球。","traditionalText":"儘管下了大雨，我們還是決定去打籃球。","pinyin":"Jǐnguǎn xià le dà yǔ, wǒmen háishì juédìng qù dǎ lánqiú.","translation":"Despite the heavy rain, we still decided to play basketball.","audioPath":"zh-CN-YunxiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/575e499c6bb66f326fb3f43af5b8a96f.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"verb","meaning":"from","sentences":[{"simplifiedText":"这是从美国打来的电话。","traditionalText":"這是從美國打來的電話。","pinyin":"ǒ zhèshì cóng měiguó dǎlái de diànhuà。","translation":"This is a call from the United States.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0027ed31bafd7fac822bee8f49059195.mp3","voiceName":"zh-CN-XiaohanNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"我会从我的手机打电话给你，然后把他们放在语音邮件里。","traditionalText":"我會從我的手機打電話給你，然後把他們放在語音郵件裡。","pinyin":"ó wǒ huì cóng wǒ de shǒujī dǎ diànhuà gěi nǐ, ránhòu bǎ tāmen fàng zài yǔyīn yóujiàn lǐ。","translation":"I'll call you from my mobile and leave them on your voicemail.","audioPath":"zh-CN-YunyangNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b529139609b14f36c50e99de587c4bde.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "打",
+  "traditional": "打",
+  "pinyin": "dǎ",
+  "definitions": [
+    {
+      "partsOfSpeech": "Verb",
+      "meaning": "to beat",
+      "sentences": [
+        {
+          "simplifiedText": "他被打了。",
+          "traditionalText": "他被打了。",
+          "pinyin": "Tā bèi dǎ le.",
+          "translation": "He was beaten.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/1fd414fb81b53295d5f64b5676fe5a13.mp3",
+          "voiceName": "zh-CN-XiaoxuanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "他因为偷东西而被打了。",
+          "traditionalText": "他因為偷東西而被打了。",
+          "pinyin": "Tā yīnwèi tōu dōngxī ér bèi dǎ le.",
+          "translation": "He was beaten because he stole something.",
+          "audioPath": "zh-CN-XiaoxiaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/83f1de79396a4c2491241e7c97df00b9.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to hit",
+      "sentences": [
+        {
+          "simplifiedText": "他打了我一拳。",
+          "traditionalText": "他打了我一拳。",
+          "pinyin": "Tā dǎle wǒ yī quán.",
+          "translation": "He hit me with a fist.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/194c78b83cee464a3cf70dbdfd40f1f7.mp3",
+          "voiceName": "zh-CN-XiaoxuanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "实际上，他打了我一拳，让我直接倒在了地上。",
+          "traditionalText": "實際上，他打了我一拳，讓我直接倒在了地上。",
+          "pinyin": "Shíjì shàng, tā dǎle wǒ yī quán, ràng wǒ zhíjiē dǎo zàile dì shàng.",
+          "translation": "In fact, he hit me with a punch, which made me fall directly to the ground.",
+          "audioPath": "zh-CN-XiaoruiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0045073a81f2c290b1d331ec263c25b2.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to type",
+      "sentences": [
+        {
+          "simplifiedText": "我正在打字。",
+          "traditionalText": "我正在打字。",
+          "pinyin": "Wǒ zhèngzài dǎzì.",
+          "translation": "I am typing",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/86ba3ed258bff0df25e81aa173ab6b86.mp3",
+          "voiceName": "zh-CN-XiaoruiNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "每天上班的时候，我都需要在电脑上打字。",
+          "traditionalText": "每天上班的時候，我都需要在電腦上打字。",
+          "pinyin": "Měitiān shàngbān de shíhou, wǒ dōu xūyào zài diànnǎo shàng dǎzì.",
+          "translation": "Every day at work, I need to type on a computer.",
+          "audioPath": "zh-CN-XiaoxiaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/06f8e6d10767bf6e6bf595ca0e279b1d.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to build",
+      "sentences": [
+        {
+          "simplifiedText": "他在打篮球。",
+          "traditionalText": "他在打籃球。",
+          "pinyin": "Tā zài dǎ lánqiú.",
+          "translation": "He is playing basketball.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0351e22f50fc976eb488af66b38676b9.mp3",
+          "voiceName": "zh-CN-YunjianNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "为了备战即将来临的篮球比赛，他甚至在下大雨的天也会去打篮球。",
+          "traditionalText": "為了備戰即將來臨的籃球比賽，他甚至在下大雨的天也會去打籃球。",
+          "pinyin": "Wèile bèizhàn jíjiāng láilín de lánqiú bǐsài, tā shènzhì zài xià dàyǔ de tiān yě huì qù dǎ lánqiú.",
+          "translation": "In preparation for the upcoming basketball game, he will even go to play basketball when it is raining heavily.",
+          "audioPath": "zh-CN-XiaoxiaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e84b188d842de27c36d4a29b48a0bb18.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to fetch",
+      "sentences": [
+        {
+          "simplifiedText": "你能去打水吗？",
+          "traditionalText": "你能去打水嗎？",
+          "pinyin": "nǐ néng qù dǎ shuǐ ma?",
+          "translation": "Can you go fetch water?",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/c3e59c4a128c5295db8500da7dd09c4f.mp3",
+          "voiceName": "zh-CN-XiaoyanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "他的工作是从井里打水供给全村。",
+          "traditionalText": "他的工作是從井裡打水供給全村。",
+          "pinyin": "tā de gōngzuò shì cóng jǐng lǐ dǎ shuǐ gōng gěi quán cūn.",
+          "translation": "His job is to fetch water from the well for the whole village.",
+          "audioPath": "zh-CN-YunyangNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a9ff6527a4a97678eedf127bd464a8f1.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to tie up",
+      "sentences": [
+        {
+          "simplifiedText": "他在打鞋带。",
+          "traditionalText": "他在打鞋帶。",
+          "pinyin": "Tā zài dǎ xié dài.",
+          "translation": "He is tying his shoelaces.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/a82a9d70bad8cedf2d98b0b51264b5db.mp3",
+          "voiceName": "zh-CN-XiaoruiNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "警察正在打起该嫌疑人的手呢。",
+          "traditionalText": "警察正在打起該嫌疑人的手呢。",
+          "pinyin": "Jǐngchá zhèngzài dǎ qǐ gāi xiányí rén de shǒu ne.",
+          "translation": "The police are in the process of handcuffing the suspect.",
+          "audioPath": "zh-CN-XiaoyanNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/ccaffe79f2c89dbd1b16d5272ee658e9.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "to shoot",
+      "sentences": [
+        {
+          "simplifiedText": "他打篮球打得很好。",
+          "traditionalText": "他打籃球打得很好。",
+          "pinyin": "Tā dǎ lánqiú dǎ dé hěn hǎo.",
+          "translation": "He plays basketball very well.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/74acf6973ba8cc0e967f75cc49dddf15.mp3",
+          "voiceName": "zh-CN-YunjianNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "虽然他平时很少练习，但他一打篮球就能显示出他的天赋。",
+          "traditionalText": "雖然他平時很少練習，但他一打籃球就能顯示出他的天賦。",
+          "pinyin": "Suīrán tā píngshí hěn shǎo liànxí, dàn tā yīdǎ lánqiú jiù néng xiǎnshì chū tā de tiānfù.",
+          "translation": "Although he seldom practices, he can show his talent as soon as he plays basketball.",
+          "audioPath": "zh-CN-XiaozhenNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/df5375fa3e92fd2bf530ff665f46c24e.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "Verb",
+      "meaning": "to play (a game)",
+      "sentences": [
+        {
+          "simplifiedText": "我们去打篮球。",
+          "traditionalText": "我們去打籃球。",
+          "pinyin": "Wǒmen qù dǎ lánqiú.",
+          "translation": "Let's go play basketball.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d47db894c8c56c5aef5b5cc0ee7bb2bb.mp3",
+          "voiceName": "zh-CN-YunxiNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "尽管下了大雨，我们还是决定去打篮球。",
+          "traditionalText": "儘管下了大雨，我們還是決定去打籃球。",
+          "pinyin": "Jǐnguǎn xià le dà yǔ, wǒmen háishì juédìng qù dǎ lánqiú.",
+          "translation": "Despite the heavy rain, we still decided to play basketball.",
+          "audioPath": "zh-CN-YunxiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/575e499c6bb66f326fb3f43af5b8a96f.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "verb",
+      "meaning": "from",
+      "sentences": [
+        {
+          "simplifiedText": "这是从美国打来的电话。",
+          "traditionalText": "這是從美國打來的電話。",
+          "pinyin": "ǒ zhèshì cóng měiguó dǎlái de diànhuà。",
+          "translation": "This is a call from the United States.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0027ed31bafd7fac822bee8f49059195.mp3",
+          "voiceName": "zh-CN-XiaohanNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "我会从我的手机打电话给你，然后把他们放在语音邮件里。",
+          "traditionalText": "我會從我的手機打電話給你，然後把他們放在語音郵件裡。",
+          "pinyin": "ó wǒ huì cóng wǒ de shǒujī dǎ diànhuà gěi nǐ, ránhòu bǎ tāmen fàng zài yǔyīn yóujiàn lǐ。",
+          "translation": "I'll call you from my mobile and leave them on your voicemail.",
+          "audioPath": "zh-CN-YunyangNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b529139609b14f36c50e99de587c4bde.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

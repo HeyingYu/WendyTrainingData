@@ -1,1 +1,63 @@
-{"simplified":"跟前","traditional":"跟前","pinyin":"gēn qián","definitions":[{"partsOfSpeech":"noun","meaning":"the front (of)","sentences":[{"simplifiedText":"他站在车的跟前。","traditionalText":"他站在車的跟前。","pinyin":"tā zhàn zài chē de gēn qián.","translation":"He is standing in front of the car.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/156d7a1c14d54c00bde4c5bea4690f55.mp3","voiceName":"zh-CN-YunjianNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"在比赛的跟前，他感到紧张和兴奋。","traditionalText":"在比賽的跟前，他感到緊張和興奮。","pinyin":"zài bǐsài de gēn qián, tā gǎndào jǐnzhāng hé xīngfèn.","translation":"In front of the match, he feels nervous and excited.","audioPath":"zh-CN-YunxiNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/3812679adaad9edf2fe4ce4ce3ca81cb.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"Preposition","meaning":"(in) sb's presence","sentences":[{"simplifiedText":"你不要在他跟前说这个。","traditionalText":"你不要在他跟前說這個。","pinyin":"Nǐ bùyào zài tā gēn qián shuō zhège.","translation":"Don't say this in front of him.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/f98891523d7906ab4e95d248fb46e5dd.mp3","voiceName":"zh-CN-YunfengNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"我不愿意跟前的人说出我的烦恼。","traditionalText":"我不願意跟前的人說出我的煩惱。","pinyin":"Wǒ bù yuànyì gēn qián de rén shuō chū wǒ de fánnǎo.","translation":"I don't want to voice my troubles to the people in front of me.","audioPath":"zh-CN-XiaomengNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/217a526f0543f7a3903f1fcb6aa241b9.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "跟前",
+  "traditional": "跟前",
+  "pinyin": "gēn qián",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "the front (of)",
+      "sentences": [
+        {
+          "simplifiedText": "他站在车的跟前。",
+          "traditionalText": "他站在車的跟前。",
+          "pinyin": "tā zhàn zài chē de gēn qián.",
+          "translation": "He is standing in front of the car.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/156d7a1c14d54c00bde4c5bea4690f55.mp3",
+          "voiceName": "zh-CN-YunjianNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "在比赛的跟前，他感到紧张和兴奋。",
+          "traditionalText": "在比賽的跟前，他感到緊張和興奮。",
+          "pinyin": "zài bǐsài de gēn qián, tā gǎndào jǐnzhāng hé xīngfèn.",
+          "translation": "In front of the match, he feels nervous and excited.",
+          "audioPath": "zh-CN-YunxiNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/3812679adaad9edf2fe4ce4ce3ca81cb.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "Preposition",
+      "meaning": "(in) sb's presence",
+      "sentences": [
+        {
+          "simplifiedText": "你不要在他跟前说这个。",
+          "traditionalText": "你不要在他跟前說這個。",
+          "pinyin": "Nǐ bùyào zài tā gēn qián shuō zhège.",
+          "translation": "Don't say this in front of him.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/f98891523d7906ab4e95d248fb46e5dd.mp3",
+          "voiceName": "zh-CN-YunfengNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "我不愿意跟前的人说出我的烦恼。",
+          "traditionalText": "我不願意跟前的人說出我的煩惱。",
+          "pinyin": "Wǒ bù yuànyì gēn qián de rén shuō chū wǒ de fánnǎo.",
+          "translation": "I don't want to voice my troubles to the people in front of me.",
+          "audioPath": "zh-CN-XiaomengNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/217a526f0543f7a3903f1fcb6aa241b9.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,63 @@
-{"simplified":"寸","traditional":"寸","pinyin":"cùn","definitions":[{"partsOfSpeech":"noun","meaning":"a unit of length","sentences":[{"simplifiedText":"这个尺子有十个寸。","traditionalText":"這個尺子有十個寸。","pinyin":"Zhège chǐzi yǒu shí ge cùn.","translation":"This ruler has ten cun.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/8d906a0e1b870e69eb0f46ab87323d66.mp3","voiceName":"zh-CN-XiaozhenNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"在古代中国，寸是一个非常重要的长度单位，用于各种不同的地方和场合。","traditionalText":"在古代中國，寸是一個非常重要的長度單位，用於各種不同的地方和場合。","pinyin":"Zài gǔdài zhōngguó, cùn shì yīgè fēicháng zhòngyào de chángdù dānwèi, yòng yú gèzhǒng bùtóng de dìfāng hé chǎnghé.","translation":"In ancient China, cun was a very important unit of length, used in various different places and occasions.","audioPath":"zh-CN-YunhaoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e2a8250a17d3b6ac4be9503ba8940923.mp3","tags":["INVOLVED"]}]},{"partsOfSpeech":"noun","meaning":"thumb","sentences":[{"simplifiedText":"请把你的寸给我。","traditionalText":"請把你的寸給我。","pinyin":"Qǐng bǎ nǐ de cùn gěi wǒ.","translation":"Please give me your thumb.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b2c4d995fe5612db5e766693669196dc.mp3","voiceName":"zh-CN-YunfengNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"我需要你的寸来按下这个按钮。","traditionalText":"我需要你的寸來按下這個按鈕。","pinyin":"Wǒ xūyào nǐ de cùn lái ànxià zhège ànniǔ.","translation":"I need your thumb to press this button.","audioPath":"zh-CN-XiaoxuanNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/ef53963b91cd5786d2cd3142e008f0e0.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "寸",
+  "traditional": "寸",
+  "pinyin": "cùn",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "a unit of length",
+      "sentences": [
+        {
+          "simplifiedText": "这个尺子有十个寸。",
+          "traditionalText": "這個尺子有十個寸。",
+          "pinyin": "Zhège chǐzi yǒu shí ge cùn.",
+          "translation": "This ruler has ten cun.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/8d906a0e1b870e69eb0f46ab87323d66.mp3",
+          "voiceName": "zh-CN-XiaozhenNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "在古代中国，寸是一个非常重要的长度单位，用于各种不同的地方和场合。",
+          "traditionalText": "在古代中國，寸是一個非常重要的長度單位，用於各種不同的地方和場合。",
+          "pinyin": "Zài gǔdài zhōngguó, cùn shì yīgè fēicháng zhòngyào de chángdù dānwèi, yòng yú gèzhǒng bùtóng de dìfāng hé chǎnghé.",
+          "translation": "In ancient China, cun was a very important unit of length, used in various different places and occasions.",
+          "audioPath": "zh-CN-YunhaoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e2a8250a17d3b6ac4be9503ba8940923.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    },
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "thumb",
+      "sentences": [
+        {
+          "simplifiedText": "请把你的寸给我。",
+          "traditionalText": "請把你的寸給我。",
+          "pinyin": "Qǐng bǎ nǐ de cùn gěi wǒ.",
+          "translation": "Please give me your thumb.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b2c4d995fe5612db5e766693669196dc.mp3",
+          "voiceName": "zh-CN-YunfengNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "我需要你的寸来按下这个按钮。",
+          "traditionalText": "我需要你的寸來按下這個按鈕。",
+          "pinyin": "Wǒ xūyào nǐ de cùn lái ànxià zhège ànniǔ.",
+          "translation": "I need your thumb to press this button.",
+          "audioPath": "zh-CN-XiaoxuanNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/ef53963b91cd5786d2cd3142e008f0e0.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}

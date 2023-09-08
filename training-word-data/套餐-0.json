@@ -1,1 +1,35 @@
-{"simplified":"套餐","traditional":"套餐","pinyin":"tào cān","definitions":[{"partsOfSpeech":"noun","meaning":"set meal","sentences":[{"simplifiedText":"这是我们的特价套餐。","traditionalText":"這是我們的特價套餐。","pinyin":"Zhè shì wǒmen de tèjià tàocān.","translation":"This is our special set meal.","audioPath":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/236560406f8a6e6de43250eb9c58e67c.mp3","voiceName":"zh-CN-YunyangNeural","tags":["EASY_TO_USE"]},{"simplifiedText":"我在餐厅点了一个海鲜套餐，里面包括了鱼、虾和蟹。","traditionalText":"我在餐廳點了一個海鮮套餐，裡面包括了魚、蝦和蟹。","pinyin":"Wǒ zài cāntīng diǎnle yīgè hǎixiān tàocān, lǐmiàn bāokuòle yú, xiā hé xiè.","translation":"I ordered a seafood set meal at the restaurant, which included fish, shrimp, and crab.","audioPath":"zh-CN-XiaomoNeural","voiceName":"/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/358d9097392021b878833a96c95893cc.mp3","tags":["INVOLVED"]}]}]}
+{
+  "simplified": "套餐",
+  "traditional": "套餐",
+  "pinyin": "tào cān",
+  "definitions": [
+    {
+      "partsOfSpeech": "noun",
+      "meaning": "set meal",
+      "sentences": [
+        {
+          "simplifiedText": "这是我们的特价套餐。",
+          "traditionalText": "這是我們的特價套餐。",
+          "pinyin": "Zhè shì wǒmen de tèjià tàocān.",
+          "translation": "This is our special set meal.",
+          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/236560406f8a6e6de43250eb9c58e67c.mp3",
+          "voiceName": "zh-CN-YunyangNeural",
+          "tags": [
+            "EASY_TO_USE"
+          ]
+        },
+        {
+          "simplifiedText": "我在餐厅点了一个海鲜套餐，里面包括了鱼、虾和蟹。",
+          "traditionalText": "我在餐廳點了一個海鮮套餐，裡面包括了魚、蝦和蟹。",
+          "pinyin": "Wǒ zài cāntīng diǎnle yīgè hǎixiān tàocān, lǐmiàn bāokuòle yú, xiā hé xiè.",
+          "translation": "I ordered a seafood set meal at the restaurant, which included fish, shrimp, and crab.",
+          "audioPath": "zh-CN-XiaomoNeural",
+          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/358d9097392021b878833a96c95893cc.mp3",
+          "tags": [
+            "INVOLVED"
+          ]
+        }
+      ]
+    }
+  ]
+}
