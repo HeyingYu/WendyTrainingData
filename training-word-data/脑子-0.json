@@ -19,10 +19,10 @@
           ]
         },
         {
-          "simplifiedText": "他用他的脑子解决了一个难题。",
-          "traditionalText": "他用他的腦子解決了一個難題。",
-          "pinyin": "Tā yòng tā de nǎozi jiějuéle yīgè nántí.",
-          "translation": "He used his brain to solve a difficult problem.",
+          "simplifiedText": "她的脑子充满了创意和想法。",
+          "traditionalText": "她的腦子充滿了創意和想法。",
+          "pinyin": "Tāde nǎozi chōngmǎnle chuàngyì hé xiǎngfǎ.",
+          "translation": "Her mind is filled with creativity and ideas.",
           "audioPath": "zh-CN-YunyangNeural",
           "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/8de9757ab2f269fa0009b29ad282f9b7.mp3",
           "tags": [

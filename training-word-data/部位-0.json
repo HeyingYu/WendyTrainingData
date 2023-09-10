@@ -8,10 +8,10 @@
       "meaning": "part (esp. of the body, but also of a vegetable (e.g. the root), or a garment (e.g. the sleeve) etc)",
       "sentences": [
         {
-          "simplifiedText": "我的头部很疼。",
-          "traditionalText": "我的頭部很疼。",
-          "pinyin": "Wǒ de tóubù hěn téng.",
-          "translation": "My head hurts.",
+          "simplifiedText": "这是鸡的哪个部位？",
+          "traditionalText": "這是雞的哪個部位？",
+          "pinyin": "Zhèshì jī de nǎgè bùwèi?",
+          "translation": "Which part of the chicken is this?",
           "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/1fe55f747ede4a9c04cae7e2361a31f6.mp3",
           "voiceName": "zh-CN-XiaozhenNeural",
           "tags": [
@@ -19,10 +19,10 @@
           ]
         },
         {
-          "simplifiedText": "我在跑步时扭伤了脚部。",
-          "traditionalText": "我在跑步時扭傷了足部。",
-          "pinyin": "Wǒ zài pǎobù shí niǔshāng le jiǎobù.",
-          "translation": "I sprained my foot while running.",
+          "simplifiedText": "请仔细检查机器的各个部位以确保安全。",
+          "traditionalText": "請仔細檢查機器的各個部位以確保安全。",
+          "pinyin": "qǐng zǐxì jǐanchá jīqì de gègè bùwèi yǐ qùebǎo ānquán.",
+          "translation": "Please carefully check all parts of the machine to ensure safety.",
           "audioPath": "zh-CN-XiaomengNeural",
           "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e7c9a6fec900619d65a553d97ccbe0b3.mp3",
           "tags": [

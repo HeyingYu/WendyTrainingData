@@ -19,10 +19,10 @@
           ]
         },
         {
-          "simplifiedText": "为了保留这些珍贵的经历,他决定把它们记载在日记本里。",
-          "traditionalText": "為了保留這些珍貴的經歷,他決定把它們記載在日記本裡。",
-          "pinyin": "Wèile bǎoliú zhèxiē zhēnguì de jīnglì, tā juédìng bǎ tāmen jìzǎi zài rìjì běn lǐ.",
-          "translation": "In order to preserve these precious experiences, he decided to write them down in his diary.",
+          "simplifiedText": "这本书记载了中世纪的重要历史事件。",
+          "traditionalText": "這本書記載了中世紀的重要歷史事件。",
+          "pinyin": "zhèběnshū jìzǎile zhōngshìjì de zhòngyào lìshǐ shìjiàn.",
+          "translation": "This book records important historical events of the Middle Ages.",
           "audioPath": "zh-CN-XiaochenNeural",
           "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/898ca9b7b15bd462d303337afe7ec367.mp3",
           "tags": [

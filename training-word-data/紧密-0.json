@@ -8,10 +8,10 @@
       "meaning": "inseparably close",
       "sentences": [
         {
-          "simplifiedText": "他紧密看着那个人。",
-          "traditionalText": "他緊密看著那個人。",
-          "pinyin": "tā jǐn mì kàn zhe nàgè rén.",
-          "translation": "He is watching that person closely.",
+          "simplifiedText": "他们的合作紧密。",
+          "traditionalText": "他們的合作緊密。",
+          "pinyin": "tāmen de hézùo jǐn mì.",
+          "translation": "Their cooperation is close.",
           "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0bf6fefdead3538ad37bf1773ce1fff0.mp3",
           "voiceName": "zh-CN-YunxiNeural",
           "tags": [

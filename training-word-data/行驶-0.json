@@ -8,10 +8,10 @@
       "meaning": "to travel along a route (of vehicles etc)",
       "sentences": [
         {
-          "simplifiedText": "你是如何行驶这辆车的?",
-          "traditionalText": "你是如何行駛這輛車的?",
-          "pinyin": "Nǐ shì rúhé xíngshǐ zhè liàng chē de?",
-          "translation": "How do you drive this car?",
+          "simplifiedText": "“汽车正在行驶。",
+          "traditionalText": "汽車正在行駛。",
+          "pinyin": "Qìchē zhèngzài xínfshǐ.",
+          "translation": "The car is driving.",
           "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/49882ad00ae89325d31bb26662ae9963.mp3",
           "voiceName": "zh-CN-XiaoxuanNeural",
           "tags": [

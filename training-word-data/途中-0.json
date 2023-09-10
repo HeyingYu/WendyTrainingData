@@ -19,10 +19,10 @@
           ]
         },
         {
-          "simplifiedText": "尽管遇到了一些困难，他们仍然在途中继续前进。",
-          "traditionalText": "儘管遇到了一些困難，他們仍然在途中繼續前進。",
-          "pinyin": "Jǐnguǎn yùdàole yīxiē kùnnán, tāmen réngrán zài túzhōng jìxù qiánjìn.",
-          "translation": "Despite encountering some difficulties, they continue to move forward en route.",
+          "simplifiedText": "途中，他们遇到了一些意想不到的困难。",
+          "traditionalText": "途中, 他們遇到了一些意想不到的困難。",
+          "pinyin": "Túzhōng, tāmen yùdàole yìxiē yìxiǎngbúdào de kùnnán.",
+          "translation": "On the way, they encountered some unexpected difficulties.",
           "audioPath": "zh-CN-XiaoruiNeural",
           "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/61b81f0487a5a62e1070e1722507b13a.mp3",
           "tags": [

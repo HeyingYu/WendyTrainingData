@@ -8,9 +8,9 @@
       "meaning": "(small) bell",
       "sentences": [
         {
-          "simplifiedText": "这是我的铃。",
-          "traditionalText": "這是我的鈴。",
-          "pinyin": "zhè shì wǒ de líng.",
+          "simplifiedText": "这是我的铃铛。",
+          "traditionalText": "這是我的鈴鐺。",
+          "pinyin": "zhè shì wǒ de língdang.",
           "translation": "This is my bell.",
           "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/db2852d66f2a7f0f9e9653155a7cd034.mp3",
           "voiceName": "zh-CN-XiaozhenNeural",
@@ -20,9 +20,9 @@
         },
         {
           "simplifiedText": "我用我的铃唤醒了我昏昏欲睡的朋友。",
-          "traditionalText": "我用我的鈴喚醒了我昏昏欲睡的朋友。",
-          "pinyin": "wǒ yòng wǒ de líng huàn xǐng le wǒ hūn hūn yù shuì de péng yǒu.",
-          "translation": "I used my bell to wake up my drowsy friend.",
+          "traditionalText": "我用我的鈴鐺喚醒了我昏昏欲睡的朋友。",
+          "pinyin": "wǒ yòng wǒ de shǒujī língshēng huàn xǐng le wǒ hūn hūn yù shuì de péng yǒu.",
+          "translation": "I used my ringtone to wake up my drowsy friend.",
           "audioPath": "zh-CN-XiaoxiaoNeural",
           "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b1104e6ea009decf858968b478e45f5a.mp3",
           "tags": [

@@ -92,10 +92,10 @@
       "meaning": "(indicates change of state)",
       "sentences": [
         {
-          "simplifiedText": "天气变暖了，花儿也开了。",
-          "traditionalText": "天氣變暖了，花兒也開了。",
-          "pinyin": "tiān qì biàn nuǎn le, huā ér yě kāi le.",
-          "translation": "The weather has gotten warmer, and the flowers have bloomed as well.",
+          "simplifiedText": "她开始害羞，而后来变得更加自信。",
+          "traditionalText": "她開始害羞，而後來變得更加自信。",
+          "pinyin": "tā kāishǐ hàixīu, ér hòulái biànde gèngjīa zìxìn.",
+          "translation": "She was shy at first, but later became more confident.",
           "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/f4fa60332228659e883ee55605aefa7e.mp3",
           "voiceName": "zh-CN-XiaochenNeural",
           "tags": [
@@ -103,10 +103,10 @@
           ]
         },
         {
-          "simplifiedText": "他特别努力工作，而且为人诚实，因此大家都很尊重他。",
-          "traditionalText": "他特別努力工作，而且為人誠實，因此大家都很尊重他。",
-          "pinyin": "tā tè bié nǔ lì gōng zuò, ér qiě wèi rén chéng shí, yīn cǐ dà jiā dōu hěn zūn zhòng tā.",
-          "translation": "He works particularly hard and is honest, therefore everyone respects him.",
+          "simplifiedText": "他原本不感兴趣，而后来却热衷于学习这门课程。",
+          "traditionalText": "他原本不感興趣，而後來卻熱衷與學習這門課程。",
+          "pinyin": "tā yuánběn bù gǎnxìngqù, ér hòulái què rèzhōngyú xúexí zhèmén kèchéng.",
+          "translation": "He was initially uninterested, but later became enthusiastic about studying this course.",
           "audioPath": "zh-CN-YunyeNeural",
           "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b9e3e5563550886387047fb94e847748.mp3",
           "tags": [

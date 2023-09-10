@@ -19,9 +19,9 @@
           ]
         },
         {
-          "simplifiedText": "医生说他的胆子有问题，可能需要手术。",
-          "traditionalText": "醫生說他的膽子有問題，可能需要手術。",
-          "pinyin": "yīshēng shuō tā de dǎnzi yǒu wèntí, kěnéng xūyào shǒushù.",
+          "simplifiedText": "医生说他的胆有问题，可能需要手术。",
+          "traditionalText": "醫生說他的膽有問題，可能需要手術。",
+          "pinyin": "yīshēng shuō tā de dǎn yǒu wèntí, kěnéng xūyào shǒushù.",
           "translation": "The doctor said there is a problem with his gall bladder, he may need surgery.",
           "audioPath": "zh-CN-XiaoruiNeural",
           "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d156dcb55558eabf7eb54c386c55c2f6.mp3",

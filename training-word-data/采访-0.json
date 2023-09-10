@@ -36,10 +36,10 @@
       "meaning": "to hunt for and collect",
       "sentences": [
         {
-          "simplifiedText": "他正在采访新的灵感。",
-          "traditionalText": "他正在採訪新的靈感。",
-          "pinyin": "Tā zhèngzài cǎifǎng xīn de línggǎn.",
-          "translation": "He is hunting for new inspiration.",
+          "simplifiedText": "他在森林里采了一些草莓。",
+          "traditionalText": "他在森林里採了一些草莓。",
+          "pinyin": "Tā zài sēnlín lǐ cǎi le yìxīe cǎoméi.",
+          "translation": "He collected some strawberries in the forest.",
           "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/8922ac0f18058dca13bd08f9706aa03c.mp3",
           "voiceName": "zh-CN-XiaohanNeural",
           "tags": [
@@ -47,10 +47,10 @@
           ]
         },
         {
-          "simplifiedText": "记者花了几个月的时间采访世界各地的人，希望了解他们对此事的看法。",
-          "traditionalText": "記者花了幾個月的時間採訪世界各地的人，希望了解他們對此事的看法。",
-          "pinyin": "Jìzhě huāle jǐ gè yuè de shíjiān cǎifǎng shìjiè gèdì de rén, xīwàng liǎojiě tāmen duì cǐ shì de kànfǎ.",
-          "translation": "The journalist spent months interviewing people from around the world in hopes of understanding their views on this matter.",
+          "simplifiedText": "他们在周末去山里采集了一篮子野生蘑菇。",
+          "traditionalText": "他們在週末去山裏採集了一籃子野生蘑菇。",
+          "pinyin": "tāmen zài zhōumò qù shān lǐ cǎijí le yìlánzi yěshēng mógu.",
+          "translation": "They went to the mountains to collect a basket of wild mushrooms over the weekend.",
           "audioPath": "zh-CN-YunjianNeural",
           "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/0b01cf58d2d9f18124541bf10d7e9cc1.mp3",
           "tags": [

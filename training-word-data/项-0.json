@@ -36,10 +36,10 @@
       "meaning": "back of neck",
       "sentences": [
         {
-          "simplifiedText": "他的项链挂在项上。",
-          "traditionalText": "他的項鏈掛在項上。",
-          "pinyin": "Tā de xiàngliàn guà zài xiàng shàng.",
-          "translation": "His necklace hung on the back of his neck.",
+          "simplifiedText": "他的项链挂在脖子上。",
+          "traditionalText": "他的項鏈掛在脖子上。",
+          "pinyin": "Tā de xiàngliàn guà zài bózi shàng.",
+          "translation": "His necklace hung on his neck.",
           "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/74d3050a1a03dd92201b3ef53ab65537.mp3",
           "voiceName": "zh-CN-YunyeNeural",
           "tags": [
@@ -47,9 +47,9 @@
           ]
         },
         {
-          "simplifiedText": "他因为紧张，很感觉项部的肌肉开始紧绷。",
-          "traditionalText": "他因為緊張，很感覺項部的肌肉開始緊繃。",
-          "pinyin": "Tā yīnwèi jǐnzhāng, hěngǎnjué xiàng bù de jīròu kāishǐ jǐn bēng.",
+          "simplifiedText": "他因为紧张，感觉项部的肌肉开始很紧绷。",
+          "traditionalText": "他因為緊張，感覺項部的肌肉開始很緊繃。",
+          "pinyin": "Tā yīnwèi jǐnzhāng, gǎnjué xiàng bù de jīròu kāishǐ hěn jǐn bēng.",
           "translation": "Due to his nervousness, he feels the muscles in the back of his neck starting to tighten.",
           "audioPath": "zh-CN-XiaomoNeural",
           "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/ad6f70bd9a138a641ae63facac34731c.mp3",
@@ -75,9 +75,9 @@
           ]
         },
         {
-          "simplifiedText": "这个项是我最重要的东西。",
-          "traditionalText": "這個項是我最重要的東西。",
-          "pinyin": "Zhè ge xiàng shì wǒ zuì zhòngyào de dōngxī.",
+          "simplifiedText": "这个是我最重要的东西。",
+          "traditionalText": "這個是我最重要的東西。",
+          "pinyin": "Zhè ge shì wǒ zuì zhòngyào de dōngxī.",
           "translation": "This item is my most important thing.",
           "audioPath": "zh-CN-YunhaoNeural",
           "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d55b4272eeca0cd0a89f88a79f021c88.mp3",

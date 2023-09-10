@@ -47,9 +47,9 @@
           ]
         },
         {
-          "simplifiedText": "他没有回答她的问题，只是简单地回复说会考虑。",
-          "traditionalText": "他沒有回答她的問題，只是簡單地回覆說會考慮。",
-          "pinyin": "ta1 mei2you3 hui2da1 ta1 de5 wen4ti2, zhi3shi4 jian3dan1 de5 hui2 fu4 shuo1 hui4 kao3lu:4.",
+          "simplifiedText": "他没有回答她的问题，只是简单地答复说会考虑。",
+          "traditionalText": "他沒有回答她的問題，只是簡單地答覆說會考慮。",
+          "pinyin": "ta1 mei2you3 hui2da1 ta1 de5 wen4ti2, zhi3shi4 jian3dan1 de5 da2 fu4 shuo1 hui4 kao3lu:4.",
           "translation": "He didn't answer her question, he simply replied that he would consider it.",
           "audioPath": "zh-CN-XiaohanNeural",
           "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/655ce3500cd43acf3ed638d5aa349168.mp3",

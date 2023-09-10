@@ -8,10 +8,10 @@
       "meaning": "to stop",
       "sentences": [
         {
-          "simplifiedText": "你应该终止这个习惯.",
-          "traditionalText": "你應該終止這個習慣.",
-          "pinyin": "Nǐ yīnggāi zhōngzhǐ zhège xíguàn.",
-          "translation": "You should stop this habit.",
+          "simplifiedText": "比赛被终止了.",
+          "traditionalText": "比賽被終止了.",
+          "pinyin": "Bǐsài bèi zhōngzhǐle.",
+          "translation": "The match was stopped.",
           "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/9f285f812569e694dae93b50ef314b66.mp3",
           "voiceName": "zh-CN-XiaomoNeural",
           "tags": [

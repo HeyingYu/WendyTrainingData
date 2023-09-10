@@ -8,10 +8,10 @@
       "meaning": "(bound form) to demand; to coerce",
       "sentences": [
         {
-          "simplifiedText": "他要了一杯牛奶。",
-          "traditionalText": "他要了一杯牛奶。",
-          "pinyin": "Tā yàole yībēi niúnǎi.",
-          "translation": "He demanded a glass of milk.",
+          "simplifiedText": "我要求立刻得到答复。",
+          "traditionalText": "我要求立刻得到答覆。",
+          "pinyin": "Wǒ yāoqiú lìkè dédào dáfù.",
+          "translation": "I demand an immediate response.",
           "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/6b22a613f3ecad8e5afa3a54ea1522f4.mp3",
           "voiceName": "zh-CN-YunyangNeural",
           "tags": [
