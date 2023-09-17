@@ -64,10 +64,10 @@
       "meaning": "to deploy",
       "sentences": [
         {
-          "simplifiedText": "请布置房间。",
-          "traditionalText": "請布置房間。",
-          "pinyin": "Qǐng bùzhì fángjiān.",
-          "translation": "Please arrange the room.",
+          "simplifiedText": "军方决定布置更多的兵力。",
+          "traditionalText": "軍方決定布置更多的兵力。",
+          "pinyin": "Jūnfāng juédìng bùzhì gèng duō de bīnglì.",
+          "translation": "The military decided to deploy more troops.",
           "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/19cda9c6e248c5276fa2df931e6b6099.mp3",
           "voiceName": "zh-CN-YunxiNeural",
           "tags": [
@@ -75,10 +75,10 @@
           ]
         },
         {
-          "simplifiedText": "在舞会开始之前，他们已经布置了舞池。",
-          "traditionalText": "在舞會開始之前，他們已經布置了舞池。",
-          "pinyin": "Zài wǔhuì kāishǐ zhīqián, tāmen yǐjīng bùzhìle wǔchí.",
-          "translation": "They had arranged the dance floor before the dance party started.",
+          "simplifiedText": "为了确保大型活动的安全，警方决定在周围区域布置更多的警力。",
+          "traditionalText": "為了確保大型活動的安全，警方決定在周圍區域布置更多的警力。",
+          "pinyin": "Wèi le què bǎo dà xíng huó dòng de ān quán, jǐng fāng jué dìng zài zhōu wéi qū yù bù zhì gèng duō de jǐng lì.",
+          "translation": "To ensure the safety of the large event, the police decided to deploy more forces in the surrounding area.",
           "audioPath": "zh-CN-XiaohanNeural",
           "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/d52e79b89621d692b43ff84d3bae94ba.mp3",
           "tags": [

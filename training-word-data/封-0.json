@@ -33,34 +33,6 @@
     },
     {
       "partsOfSpeech": "verb",
-      "meaning": "to confer",
-      "sentences": [
-        {
-          "simplifiedText": "他被封为国王。",
-          "traditionalText": "他被封為國王。",
-          "pinyin": "Tā bèi fēng wéi guówáng.",
-          "translation": "He was crowned king.",
-          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/dcf043989d050edc07b9a9ddbe9ccd86.mp3",
-          "voiceName": "zh-CN-XiaochenNeural",
-          "tags": [
-            "EASY_TO_USE"
-          ]
-        },
-        {
-          "simplifiedText": "在盛大的典礼上，他被冠以国王的头衔，从而使他的地位得到了提升。",
-          "traditionalText": "在盛大的典禮上，他被冠以國王的頭銜，從而使他的地位獲得了提升。",
-          "pinyin": "Zài shèngdà de diǎnlǐ shàng, tā bèi guàn yǐ guówáng de tóuxián, cóng'ér shǐ tā de dìwèi huòdéle tíshēng.",
-          "translation": "At a grand ceremony, he was crowned king, thereby elevating his status.",
-          "audioPath": "zh-CN-XiaohanNeural",
-          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/fc8138b10699eacc7155ec47cabd307d.mp3",
-          "tags": [
-            "INVOLVED"
-          ]
-        }
-      ]
-    },
-    {
-      "partsOfSpeech": "verb",
       "meaning": "to bestow a title",
       "sentences": [
         {

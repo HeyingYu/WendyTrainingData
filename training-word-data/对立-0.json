@@ -8,9 +8,9 @@
       "meaning": "to oppose",
       "sentences": [
         {
-          "simplifiedText": "他对立这个提案。",
-          "traditionalText": "他對立這個提案。",
-          "pinyin": "Tā duìlì zhège tí'àn.",
+          "simplifiedText": "政府正在对立各方。",
+          "traditionalText": "政府正在對立各方。",
+          "pinyin": "Zhèngfǔ zhèngzài duìlì gè fāng.",
           "translation": "He opposes this proposal.",
           "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/919a3ae54fe0682a0e6b3ef447fdb850.mp3",
           "voiceName": "zh-CN-XiaomengNeural",
@@ -19,10 +19,10 @@
           ]
         },
         {
-          "simplifiedText": "尽管我们在某些问题上存在对立，我们都按照共同的目标进行工作。",
-          "traditionalText": "儘管我們在某些問題上存在對立，我們都按照共同的目標進行工作。",
-          "pinyin": "Jǐnguǎn wǒmen zài mǒu xiē wèntí shàng cúnzài duìlì, wǒmen dōu ànzhào gòngtóng de mùbiāo jìnxíng gōngzuò.",
-          "translation": "Even though we have differences on certain issues, we all work according to a common goal.",
+          "simplifiedText": "这两个政治团体在公开场合互相对立，试图争取更多的支持者。",
+          "traditionalText": "這兩個政治團體在公開場合互相對立，試圖爭取更多的支持者。",
+          "pinyin": "Zhè liǎng gè zhèngzhì tuántǐ zài gōngkāi chǎnghé hùxiāng duìlì, shìtū zhēngqǔ gèngdūo de zhīchízhě.",
+          "translation": "These two political groups oppose each other in public, trying to win over more supporters.",
           "audioPath": "zh-CN-XiaochenNeural",
           "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/f4ff8896be3ff2d99d3810cac0386a13.mp3",
           "tags": [
@@ -81,34 +81,6 @@
           "translation": "In this complex world, good and evil, joy and sorrow, success and failure coexist as relative opposites.",
           "audioPath": "zh-CN-XiaomoNeural",
           "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/e78c1c4b88fe94104f8432ea0c830f31.mp3",
-          "tags": [
-            "INVOLVED"
-          ]
-        }
-      ]
-    },
-    {
-      "partsOfSpeech": "adjective",
-      "meaning": "diametrical",
-      "sentences": [
-        {
-          "simplifiedText": "他们的观点完全对立。",
-          "traditionalText": "他們的觀點完全對立。",
-          "pinyin": "Tāmen de guāndiǎn wánquán duìlì.",
-          "translation": "Their views are completely diametrical.",
-          "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b5b375adb3890488775e7fb511d956a9.mp3",
-          "voiceName": "zh-CN-XiaozhenNeural",
-          "tags": [
-            "EASY_TO_USE"
-          ]
-        },
-        {
-          "simplifiedText": "尽管他们是亲兄弟，但在很多问题上都持对立的观点。",
-          "traditionalText": "儘管他們是親兄弟，但在很多問題上都持對立的觀點。",
-          "pinyin": "Jǐnguǎn tāmen shì qīn xiōngdì, dàn zài hěnduō wèntí shàng dōu chí duìlì de guāndiǎn.",
-          "translation": "Although they are brothers, they hold diametrical views on many issues.",
-          "audioPath": "zh-CN-YunfengNeural",
-          "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/766c17df5e42ffe3a54b2cadbba0f1e6.mp3",
           "tags": [
             "INVOLVED"
           ]

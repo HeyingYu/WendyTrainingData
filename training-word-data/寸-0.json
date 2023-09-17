@@ -32,14 +32,14 @@
       ]
     },
     {
-      "partsOfSpeech": "noun",
-      "meaning": "thumb",
+      "partsOfSpeech": "adjective",
+      "meaning": "something extremely short or small",
       "sentences": [
         {
-          "simplifiedText": "请把你的寸给我。",
-          "traditionalText": "請把你的寸給我。",
-          "pinyin": "Qǐng bǎ nǐ de cùn gěi wǒ.",
-          "translation": "Please give me your thumb.",
+          "simplifiedText": "他只差一寸就赢了。",
+          "traditionalText": "他只差一寸就贏了。",
+          "pinyin": "Tā zhǐ chà yícùn jìu yíngle.",
+          "translation": "He almost won.",
           "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/b2c4d995fe5612db5e766693669196dc.mp3",
           "voiceName": "zh-CN-YunfengNeural",
           "tags": [
@@ -47,10 +47,10 @@
           ]
         },
         {
-          "simplifiedText": "我需要你的寸来按下这个按钮。",
-          "traditionalText": "我需要你的寸來按下這個按鈕。",
-          "pinyin": "Wǒ xūyào nǐ de cùn lái ànxià zhège ànniǔ.",
-          "translation": "I need your thumb to press this button.",
+          "simplifiedText": "他仅仅差了一寸就抓住了那个小偷。",
+          "traditionalText": "他僅僅差了一寸就抓住了那個小偷。",
+          "pinyin": "Tā jǐnjǐn chàle yícùn jìu zhuāzhù le nàgè xǐaotōu.",
+          "translation": "He missed catching the thief by just a little bit.",
           "audioPath": "zh-CN-XiaoxuanNeural",
           "voiceName": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/ef53963b91cd5786d2cd3142e008f0e0.mp3",
           "tags": [

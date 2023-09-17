@@ -8,10 +8,10 @@
       "meaning": "layer",
       "sentences": [
         {
-          "simplifiedText": "这个项目有很多层次。",
-          "traditionalText": "這個項目有很多層次。",
-          "pinyin": "Zhège xiàngmù yǒu hěnduō céngcì.",
-          "translation": "This project has many layers.",
+          "simplifiedText": "该建筑有多个层次。",
+          "traditionalText": "該建築有多個層次。",
+          "pinyin": "Gāi jiànzhù yǒu duō gè céngcì.",
+          "translation": "The building has multiple layers.",
           "audioPath": "/Users/johnwu/code/anki_experiment/chinese-app-prototype/.data/db/audio/f6ad81ccf6f69a1d3af19e2f2cbf7366.mp3",
           "voiceName": "zh-CN-XiaohanNeural",
           "tags": [
